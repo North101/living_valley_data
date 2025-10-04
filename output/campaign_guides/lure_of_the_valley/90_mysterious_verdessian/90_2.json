@@ -1,0 +1,59 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian/90_2",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "90.2",
+  "title": "90.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You stay far enough away not to alert the being and decide to follow\nit as it leaves the reclaimer and disappears into the underbrush. As\nyou follow, you notice strange plants along the trail. The tiny, twisting\nvines don\u2019t appear to be native to the Valley, but look similar to plants\nyou heard of in the Verdessa. Perhaps that\u2019s where this being is from?\nBut in any case, perhaps you can follow the trail left by these vines."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "WATCHER IN THE BRUSH"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "TRAIL OF VINES"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission.\nReturn the Mysterious Verdessian to the General set."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/mysterious_verdessian/90_2"
+}

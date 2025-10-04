@@ -1,0 +1,42 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_4",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "50.4",
+  "title": "50.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Bubble is just as peaceful as you remember, the thick carpet of\nmoss deadening your footfalls and feeling as soft as a finely woven\nhammock when you sit down."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You chat with Silaro about his ongoing translation work for a bit,\nthen settle in to relax and refocus your mind. Your meditation lasts\nfor about an hour, until the small romp of lutrinals that live on the far\nside of the Bubble think it would be more fun to splash some of the\nexit pool on you. The resulting water fight between you and a dozen\notter-cat hybrids isn\u2019t exactly relaxing, but it does leave you with a\nsmile on your face."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble/50_4"
+}

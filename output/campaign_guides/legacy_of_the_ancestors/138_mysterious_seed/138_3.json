@@ -1,0 +1,147 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_3",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "138.3",
+  "title": "138.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Whenever you close your eyes, you see the thundering, shimmering waterfall dancing in your mind. You\u2019ve been carrying this large seed to the Cerulean Curtain \u2026 and you can\u2019t remember why?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "A) Continue helping the seed."
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from the Seed."
+        },
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "You must bring the Seed to the Cerulean Curtain to help it."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "B) Stop \u2026 actually, why don\u2019t you continue helping the seed?"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from the Seed."
+        },
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "You must bring the Seed to the Cerulean Curtain to help it."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mysterious_seed/138_3"
+}

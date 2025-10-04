@@ -1,0 +1,76 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_1",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "127.1",
+  "title": "127.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Just ahead, you spot two figures sitting on a pair of smooth rocks: Harlan Vos and his daughter Quisi, both poring over the map of the arteries they\u2019ve created with their two linked scrolls. \u201cOh, hey hey hey!\u201d Quisi shouts as she sees you approach. \u201cHow\u2019s Slugmund doing? What are you up to now? Where are you headed?\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Harlan simply chuckles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If Quisi Vos is not in play, search the Artery set for her and put her into play. Do not read her entry."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear either Quisi or Harlan with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to see how their map is coming along."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_1"
+}

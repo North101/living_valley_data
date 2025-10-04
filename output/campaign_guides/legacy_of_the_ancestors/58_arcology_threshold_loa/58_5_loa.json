@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_5_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "58.5",
+  "title": "58.5 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You stand before the yawning darkness, and after a moment\u2019s hesitation, you leave the surface and head into the labyrinthine depths of the arcology ruin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "You may immediately proceed to the travel phase and travel to the Chimney (even if there are ready cards with the Obstacle keyword in play). If you do, build the path deck using the Ancient Ruins terrain set. If you choose to travel in this way, discard the current challenge card and do not resolve the remainder of this test."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_threshold/58_5"
+}

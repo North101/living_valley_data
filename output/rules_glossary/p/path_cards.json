@@ -1,0 +1,322 @@
+{
+  "id": "rules_glossary/p/path_cards",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "path_cards",
+  "title": "Path Cards",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Cards that make up the path deck. Each"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "round"
+            }
+          ],
+          "id": "rules_glossary/r/round",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/round"
+        },
+        {
+          "type": "text",
+          "text": ", during"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Phase 1: Path Cards"
+            }
+          ],
+          "id": "rules_glossary/p/phase_1_path_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/phase_1_path_cards"
+        },
+        {
+          "type": "text",
+          "text": ", each Ranger draws a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "path card"
+            }
+          ],
+          "id": "rules_glossary/p/path_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/path_cards"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "There are three types of"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "path card"
+            }
+          ],
+          "id": "rules_glossary/p/path_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/path_cards"
+        },
+        {
+          "type": "text",
+          "text": "s:"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Beings"
+                }
+              ],
+              "id": "rules_glossary/b/beings",
+              "anchor": "",
+              "url": "/docs/rules_glossary/B/being"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Features"
+                }
+              ],
+              "id": "rules_glossary/f/features",
+              "anchor": "",
+              "url": "/docs/rules_glossary/F/features"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Moments"
+                }
+              ],
+              "id": "rules_glossary/p/path_moments",
+              "anchor": "",
+              "url": "/docs/rules_glossary/P/path_moments"
+            },
+            {
+              "type": "text",
+              "text": "(when playing with the"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Moments on the Path"
+                }
+              ],
+              "id": "rules_glossary/m/moments_on_the_path_expansion",
+              "anchor": "",
+              "url": "/docs/rules_glossary/M/moments_on_the_path"
+            },
+            {
+              "type": "text",
+              "text": "expansion)"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Attachments"
+                }
+              ],
+              "id": "rules_glossary/p/path_attachments",
+              "anchor": "",
+              "url": "/docs/rules_glossary/P/path_attachments"
+            },
+            {
+              "type": "text",
+              "text": "(when playing with the"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Legacy of the Ancestors"
+                }
+              ],
+              "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
+              "anchor": "",
+              "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
+            },
+            {
+              "type": "text",
+              "text": "expansion)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Beings and features on"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ranger cards"
+            }
+          ],
+          "id": "rules_glossary/r/ranger_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/ranger_cards"
+        },
+        {
+          "type": "text",
+          "text": "count as path cards for the purposes of other rules effects unless the effect specifies that the card is \"from the path deck,\" in which case only cards with the orange path card back are affected."
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "If a drawn path card is marked with a number underneath a book icon to the right of its name, find the corresponding entry in the"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "campaign guide"
+                }
+              ],
+              "id": "rules_glossary/c/campaign_guide",
+              "anchor": "",
+              "url": "/docs/rules_glossary/C/campaign_guide"
+            },
+            {
+              "type": "text",
+              "text": ", and read it aloud. Then resolve any effects that resolve when the card \u201centers play.\u201d Fully resolve the effects of each card before drawing and resolving the next."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "If you need to draw a path card but the deck is empty, shuffle the path discard to create a new path deck from which to draw."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Each path card is marked with an arrow to the left of its name that indicates the"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "area"
+                }
+              ],
+              "id": "rules_glossary/a/area",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/area"
+            },
+            {
+              "type": "text",
+              "text": "in which it should be placed. A card with an upward-pointing arrow is placed"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "along the way"
+                }
+              ],
+              "id": "rules_glossary/a/along_the_way",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/along_the_way"
+            },
+            {
+              "type": "text",
+              "text": ". A card with a downward-pointing arrow is placed"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "within reach"
+                }
+              ],
+              "id": "rules_glossary/w/within_reach",
+              "anchor": "",
+              "url": "/docs/rules_glossary/W/within_reach"
+            },
+            {
+              "type": "text",
+              "text": "of the Ranger who drew it."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/P/path_cards"
+}

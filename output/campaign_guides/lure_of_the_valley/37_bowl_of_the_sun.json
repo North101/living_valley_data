@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/37_bowl_of_the_sun",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "37",
+  "title": "37. Bowl of the Sun",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "In a massive pothole carved over the centuries into the red-hued rock,\nsomeone has built a flourishing garden. Pipes, presumably carrying\nwater, lead to and from the pothole and to smaller potholes on the\nperiphery, each also growing carefully cultivated varieties of foliage.\nIt's as if this sunkissed plateau housed a living lexicon of every plant\nin the Valley and beyond."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/bowl_of_the_sun"
+}

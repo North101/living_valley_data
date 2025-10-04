@@ -1,0 +1,106 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_8",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "76.8",
+  "title": "76.8",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Kasende looks up and down with a blank expression. \u201dAlright, you\ncan come help if you want. We're heading to Michael's Bog. Try to\nkeep up.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "A) Agree to help."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": ", and attach the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission to Kasende."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "B) Not today."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard Kasende. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/kasende_expert_hunter/76_8"
+}

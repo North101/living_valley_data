@@ -1,0 +1,60 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_4_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "45.4",
+  "title": "45.4 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cI\u2019ve been hearing messages from Estian spirits who persist within the arcology,\u201d she says. \u201cI do not think it a coincidence that they became more vocal just before Silaro Mako petitioned for his new expedition."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cThese spirits are those of Estians who have not crossed over. They cling to their former lives, reluctant or unable to move on. They are stubborn and fearful, which makes them more difficult to reason with, but I can sense them and their emotions. They are distressed and unsettled\u2014as though they have been jostled awake in the midst of a dream."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"If you encounter any of the spirits on your expedition, my hope is that you may be able to interact with them and help them find peace.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You remind Nal that you hardly have her experience in these matters. The spirit speaker waves her hand. \u201cDo not discount the power of compassion. Even while communing with the departed, it is sometimes all that is required. If you need me, however, I am here for you. Thanks to Ben\u2019s mirror, I can be anywhere and everywhere at any time. You need only think of me, and I will help however I can.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard Nal. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_4"
+}

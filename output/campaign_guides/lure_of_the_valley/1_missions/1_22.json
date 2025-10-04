@@ -1,0 +1,227 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_22",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.22",
+  "title": "1.22",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "With a grinding roar, the deluge of dirty brown water bursts through\nthe ruins. They collapse under the seething torrent, massive stones\ntumbling end over end and ancient walls bursting into rubble. You\nsee the tiny shape of Aell, his conduit held defiantly toward the sky,\njust before the torrent takes him off his feet and sweeps him away.\nThen the water hits you, and you\u2019re swept under the surface and\nblack out."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "WASHED AWAY"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "and"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "INVASION"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "missions."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You come to gasping and spluttering. You sit up, realizing you\u2019re on\nthe shore of the Silverfin. You see the river is swollen near bursting,\nand as you watch, you make out the corpses of reclaimers being\ncarried along with the current. You can hear a throbbing roar in the\nbackground, and you look around to get your bearings."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cThe spirit of the Silverfin is with you,\u201d a voice says. You turn to find\nElder Cormak Wellers studying you intently. You ask what he means."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cThe river carried you here. To Tumbledown!\u201d He gestures, and you\nsee several villagers by the river, maintaining makeshift flood walls\nalong the bank. \u201cWe managed to fish you out just before you went\nover the falls.\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You tell Elder Wellers of your mission to rid the Valley of the reclaimers\nand how you enlisted Aell's help to do it."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"A dangerous, brave, and foolish plan,\" he says, \"but you'll be happy\nto know that it worked. The river is thick with reclaimers. They're all\nwashing over the falls.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Write"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "RECLAIMERS WASHED AWAY"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "For a moment, you're filled with relief, but then you remember Aell.\nYou ask Elder Wellers if he managed to save him too."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"I'm sorry,\" he says. \"We haven't seen anyone else. It's a miracle you\nsurvived. We should be grateful.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Write"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "AELL LOST"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker. Permanently remove Aell from the Marsh of Rebirth set."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "He puts his hand on your shoulder. \u201cOnce you\u2019re feeling up to it,\nyou\u2019d better get back to Lone Tree Station. I expect Elder Thrush will\nwant a report.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Proceed to the travel phase, and select Tumbledown as your new\nlocation (even if there are ready cards with the obstacle keyword in play). Use the Mountain Pass terrain set. Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "JOURNEY (LONE\nTREE STATION)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "REMOVE THE RECLAIMERS"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Return all reclaimers in play to the General set. Return all Flood cards to the General set."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_22"
+}

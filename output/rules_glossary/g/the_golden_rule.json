@@ -1,0 +1,19 @@
+{
+  "id": "rules_glossary/g/the_golden_rule",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "the_golden_rule",
+  "title": "The Golden Rule",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Like many card games that have come before it, Earthborne Rangers follows the \u201cGolden Rule.\u201d That is, this rules document contains all of the basic rules and procedures for the game. These rules, however, were designed to be bent, and even broken, by the text on the cards. If ever a rule on a card contradicts a rule found in this document, the rule on the card takes precedence."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/G/golden_rule"
+}

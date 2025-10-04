@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/3_white_sky/3_2",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "3.2",
+  "title": "3.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you approach White Sky, you can smell the tantalizing aroma of\nseasoned fish cooking over an open flame. When the moon is in\nwaning gibbous, the people of White Sky invite their neighbors to\njoin them in a celebration of the lake and the bounty it provides.\nThe platforms are alive with people. You can\u2019t take two steps without\nsomeone offering you delicious food. Music and laughter fill the air."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Search the Valley set for up to three humans, and shuffle them into the\npath deck. This is in addition to the cards added from the White Sky set."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/white_sky/3_2"
+}

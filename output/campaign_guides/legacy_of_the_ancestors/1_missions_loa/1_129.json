@@ -1,0 +1,55 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_129",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "1.129",
+  "title": "1.129",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Your eyes shoot open and you sit up, startled. A smothering darkness envelops you. The air is dusty and still, and you begin to fear that you might be trapped."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Then you hear the rumbling thunder of tumbling stone, and you're met with a sudden current of fresh air. There must be a way out of the Cage up ahead. The chamber rumbles again, and as you nearly lose your balance, you feel an urgent need to escape. If you can reach an area above the arcology's lowest substructure, you think you might be safe. You shudder to think of what might happen if you don't."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Do not put the Heart into play at the Cage as usual. Instead, gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "ESCAPE!"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission and follow the remaining setup on the back of the location."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_129"
+}

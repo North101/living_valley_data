@@ -1,0 +1,219 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "61",
+  "title": "61. Tollin Lang, Sculptor (LOA)",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "ENTERS PLAY: GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "61.1"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_1_loa",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_1"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF HELPING HAND IS ATTACHED, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "61.2"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_2_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_2"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU HAVEN'T"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "TUNED THE LITHOPHONE"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "61.5"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_5_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_5"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "TOLLIN'S GROUP SAVED"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "61.6"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_6_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_6"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "61.7"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_7_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_7"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "black",
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "61.8"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_8_loa",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_8"
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_1_loa",
+    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_2_loa",
+    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_3_loa",
+    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_4_loa",
+    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_5_loa",
+    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_6_loa",
+    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_7_loa",
+    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_8_loa"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_2",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "147.2",
+  "title": "147.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Your nostrils are filled with a dank and moldering odor; something rotten, like decaying meat. Then, the darkness beside you seems to spring to life and you\u2019re hit by a blast of hot, rancid breath. A massive bulk surges toward you, its distended maw hanging open and ratty tentacles whipping at your head. You hear a wet, gurgling growl from somewhere deep within its chest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear the Mutating Galgothrop with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "while each Ranger\u2019s"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "ranger_token"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "is on it to gain a greater understanding of it."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mutating_galgothrop/147_2"
+}

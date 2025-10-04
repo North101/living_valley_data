@@ -1,0 +1,93 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_5",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "48.5",
+  "title": "48.5",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cI was just thinking about that spot on the Golden Shore you showed\nme. Best fishing I\u2019ve had in years! If you\u2019re headed that way, mind if I\ntag along? I\u2019m afraid I can\u2019t give you anything for it, but I would certainly\nwelcome the opportunity. No safer place than by the side of a Ranger!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "A) Agree to bring Ar Tel to Golden Shore."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from Ar Tel, and attach the HELPING HAND mission to Ar Tel."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "B) Not today."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard Ar Tel. Each Ranger soothes 1 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/ar_tel_angler/48_5"
+}

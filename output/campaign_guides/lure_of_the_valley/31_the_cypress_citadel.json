@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/31_the_cypress_citadel",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "31",
+  "title": "31. The Cypress Citadel",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Stepping between the imposing trunks and thick roots of a pair of\ntowering cypress trees, you find yourself in a cathedral of greenery.\nDragonflies, butterflies, and gnats drone lazily through the warm, still\nair. Cypresses rise up on all sides, their branches intermeshing to form\nwalls of leaves. The \u201cfloor\u201d is a thin pool of still water that stretches\nfrom one end of the space to the other. Only a few centimeters deep,\nit reflects the filtered light back into the branches, giving the Cypress\nCitadel a green, diffuse glow."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_cypress_citadel"
+}

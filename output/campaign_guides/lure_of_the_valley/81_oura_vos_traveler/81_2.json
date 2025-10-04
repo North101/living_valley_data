@@ -1,0 +1,76 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_2",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "81.2",
+  "title": "81.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cExcuse me?\u201d You hear the call from a little ways off and turn to see\na woman striding toward you."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cMy name's Oura. I\u2019m looking for my daughter. Have you seen her?\nAbout this tall? Green tunic? Asks a lot of questions?\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You mention that you haven't seen her, and she throws up her hands.\n\u201cShe was supposed to meet me at the Ranger Station hours ago. Can\nyou help me find her?\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Oura with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to help Oura find Quisi."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/oura_vos_traveler/81_2"
+}

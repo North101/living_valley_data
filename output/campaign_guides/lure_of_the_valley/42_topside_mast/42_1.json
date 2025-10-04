@@ -1,0 +1,85 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/42_topside_mast/42_1",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "42.1",
+  "title": "42.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "High atop Lone Tree Station you'll find a series of circular platforms\nof polished wood and forged carbon. During your training, on clear,\nwindless days, these platforms served as a refuge. You would often\nspend your free time in the afternoons bathing there in the sun, sitting\nin quiet contemplation and looking out over the mirrored surface of\nWhite Sky Lake. You'd also look wistfully at the airship known as the\nSwift, it's hull gleaming in the sun, as Ben Amon would climb aboard\nand launch it into the air."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The legs of the vehicle would compress and then extend with a\nsudden movement, propelling it upwards with tremendous force.\nThen, once it reached its apex, its wings would unfurl, and the glider\nwould soundlessly soar toward the horizon, steadily descending as it\nflew toward its destination."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Calypsa told you and the other initiates that it was prone to roll and\ncrash in inclement weather, and if you flew it any great distance, its\nenergy cells would drain, and the Swift would grow inert, unable to\nlaunch for days before the cells recharged."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "All this was clearly meant to dissuade you from taking the Swift out\non your own, but when you look at the airship, you can\u2019t help but feel\na surge of excitement. To soar high above the Valley would surely be\nexhilarating, if not a little terrifying. Now that you're a full-fledged\nRanger, perhaps you can convince the crew to take you for a ride."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Topside Mast with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "ranger_token"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to take the Swift for a ride."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/topside_mast/42_1"
+}

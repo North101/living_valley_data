@@ -1,0 +1,42 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/87_ben_amon_swift_pilot/87_2",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "87.2",
+  "title": "87.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "After some discussion, Ben gestures toward the Swift. \u201cClimb\naboard!\" he says. \"The Elder asked me to run these supplies across\nthe Valley as quickly as possible, but the winds are favorable today.\nI should be able to make your journey a little easier and be back to\nLone Tree by sundown. Now, where to?\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "You may immediately proceed to the travel phase of the round. If you do, you can travel to any location within 2 paths (even if there are ready cards with the obstacle keyword in play). Use the terrain type of the last path you crossed\nover. If you choose to travel in this way, discard the current challenge\ncard, and do not resolve the remainder of this test."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you choose not to travel, discard Ben, and resolve the remainder of\nthe test as normal."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/ben_amon_swift_pilot/87_2"
+}

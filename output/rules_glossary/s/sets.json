@@ -1,0 +1,44 @@
+{
+  "id": "rules_glossary/s/sets",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "sets",
+  "title": "Sets",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "All cards are organized into sets. Which set a given card belongs to is noted along either the bottom edge, or the bottom left, of each card."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Additionally,"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "path card"
+            }
+          ],
+          "id": "rules_glossary/p/path_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/path_cards"
+        },
+        {
+          "type": "text",
+          "text": "sets have an icon in the upper-left corner of the card as a easy reference for which set they belong to."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/S/sets"
+}

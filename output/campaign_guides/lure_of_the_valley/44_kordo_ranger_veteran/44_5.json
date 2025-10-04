@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_5",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "44.5",
+  "title": "44.5",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cSo you are interested in another hunt!\u201d Kordo seems quite pleased.\n\u201cWell, I\u2019ll put my ear to the ground and see if I can find us a proper\nquarry some day. Might take a while, though, so not today.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_5"
+}

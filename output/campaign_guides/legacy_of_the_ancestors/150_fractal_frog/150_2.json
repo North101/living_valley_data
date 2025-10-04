@@ -1,0 +1,90 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_2",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "150.2",
+  "title": "150.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "A frog lazily creeps out from its hiding spot and stares at you with bulging eyes. When it suddenly makes a gurgling \u201cribbit\u201d sound, you can\u2019t help but laugh. Its already huge eyes widen further in shock. Apparently, you startled it. But instead of hopping away, it shakes as though gripped by an unseen hand and splits in two! Before your eyes, a whole new frog grows out of the first one and quickly hops away. The other frog sits there, blinking lazily, then gurgles again."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "What an incredible being! You wonder, if you catch them and then place them close together, would they reunite."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Search the general set for 1"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "per_ranger"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "Fractal Frogs and shuffle them into the path deck."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Fractal Frogs with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to catch them."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/fractal_frog/150_2"
+}

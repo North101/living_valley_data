@@ -1,0 +1,156 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/94_world_events/94_10",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "94.10",
+  "title": "94.10",
+  "content": [
+    {
+      "type": "h5",
+      "items": [
+        {
+          "type": "text",
+          "text": "READ ONE:"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "read-one",
+          "url": "#read-one"
+        }
+      ],
+      "anchor": "read-one"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "If you\u2019ve completed"
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "DEEPER MOTIVES:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You wake from a dream in which you were walking in a dense\nrainforest. There was a deafening chatter of insects, calling\nbirds, and other sounds you couldn't recognize. You remember\nstopping before a tree which began to grow before your\nvery eyes, stretching toward the sky like you were observing\ncenturies of growth in the span of a few minutes. As the tree\ngrew wider and wider, you felt the sudden need to escape, but\nwhen you tried, you found that you could not move. You looked\ndown to see that your feet had taken root. You were no longer\nhuman, but a Verdessian. Just before the tree consumed you,\nyou awoke."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You spend a moment contemplating your experience. You consider\nthe possibility it wasn't a dream at all, but instead a message from\nthe Verdessian. If it is, you're not sure how to interpret it. Regardless,\nyou suddenly feel very awake and very alert."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger gains one energy in an aspect of their choice for the\nfirst round."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "If you\u2019re currently on"
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "DEEPER MOTIVES:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You wake to discover that the haversack you were using to carry\nthe Verdessian is empty. It must have escaped during the night.\nYou spend a quarter of an hour poking at the dirt and searching\nthe surrounding area, but you find no sign of the Verdessian.\nYou'll have to find another way to figure out what's going on."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "DEEPER MOTIVES"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", and record"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "ANGERED THE VERDESSIAN"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/mission_timers/94_10"
+}

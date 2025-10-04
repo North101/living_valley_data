@@ -1,0 +1,35 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/28_terravore",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "28",
+  "title": "28. Terravore",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "From far away, it looks like a massive molehill winding through valleys\nand over ridge lines, a ridge of rocky ground cutting through the\ntrees. Only as you get closer can you make out the incongruous\ndetails: the regular height and width of the ridge: the occasional\nvents oozing steam into the still air, and the gaping cavern where the\nridge finally terminates in a glen."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you get closer, you can see how the land\u2014bushes, trees, rocks,\nand dirt\u2014looks like it\u2019s been scooped into that maw-like cavern.\nThen the entire \"ridge\" shudders and slides forward, and a few more\ninches of land are shoveled into the maw. The entire ridge is one of\nthe legendary terravores, a kilometers-long biomeld that slowly but\ninevitably consumes and processes everything in its path."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/lure_of_the_valley/28_terravore/28_1"
+  ],
+  "url": "/docs/campaign_guides/lure_of_the_valley/terravore"
+}

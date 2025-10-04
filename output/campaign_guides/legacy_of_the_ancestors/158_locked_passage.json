@@ -1,0 +1,64 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "158",
+  "title": "158. Locked Passage",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "After a thorough examination of the doorway, you string a connection from Lunn's door opening device to the socket. At first nothing happens, but then you hear a loud \u201cthunk\u201d as the mechanisms behind the massive door spring to life. Then, with a grinding squeal that sets your teeth on edge, the portal slowly opens, revealing a darkened passageway beyond, leading you deeper into the arcology ruin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "You can travel from this location along routes locked by the"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "locked_passage"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "icon. Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from Locked Passage and attach it facedown to the current location as a reminder. When you travel, return Locked Passage to the general set."
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_1",
+    "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_2"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/locked_passage"
+}

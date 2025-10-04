@@ -1,0 +1,80 @@
+{
+  "id": "rules_glossary/l/lead_ranger",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "lead_ranger",
+  "title": "Lead Ranger",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each day, during"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "setup"
+            }
+          ],
+          "id": "rules_glossary/s/setup",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/setup"
+        },
+        {
+          "type": "text",
+          "text": ", the group chooses one Ranger to be the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "lead Ranger"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". The lead Ranger always draws the first"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "path card"
+            }
+          ],
+          "id": "rules_glossary/p/path_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/path_cards"
+        },
+        {
+          "type": "text",
+          "text": "at the start of each"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "round"
+            }
+          ],
+          "id": "rules_glossary/r/round",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/round"
+        },
+        {
+          "type": "text",
+          "text": "and makes decisions for the group if a consensus cannot be reached."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/L/lead_ranger"
+}

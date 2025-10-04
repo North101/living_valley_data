@@ -1,0 +1,67 @@
+{
+  "id": "rules_glossary/s/setup_keyword",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "setup_keyword",
+  "title": "Setup (Keyword)",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "At the start of the day after step 1 of"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "setup"
+            }
+          ],
+          "id": "rules_glossary/s/setup",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/setup"
+        },
+        {
+          "type": "text",
+          "text": ", you can"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "search"
+            }
+          ],
+          "id": "rules_glossary/s/search",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/search"
+        },
+        {
+          "type": "text",
+          "text": "your deck for one card with the setup"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "keyword"
+            }
+          ],
+          "id": "rules_glossary/k/keywords",
+          "anchor": "",
+          "url": "/docs/rules_glossary/K/keywords"
+        },
+        {
+          "type": "text",
+          "text": "and put it into play."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/S/setup_keyword"
+}

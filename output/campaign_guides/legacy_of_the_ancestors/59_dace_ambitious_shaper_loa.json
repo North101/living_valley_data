@@ -1,0 +1,281 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "59",
+  "title": "59. Dace, Ambitious Shaper (LOA)",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "ENTERS PLAY: GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "59.1"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_1_loa",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_1"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF HELPING HAND IS ATTACHED, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "59.2"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_2_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_2"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU HAVEN\u2019T"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "MADE THE CLIMB"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": "OR"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "STAYED PUT"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "59.3"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_3_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_3"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "DACE'S GROUP SAVED"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "59.4"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_4_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_4"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "AELL LOST"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": "AND"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "RECLAIMERS WASHED AWAY"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "59.5"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_5_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_5"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "59.6"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_6_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "black",
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "59.7"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_7_loa",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_7"
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_1_loa",
+    "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_2_loa",
+    "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_3_loa",
+    "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_4_loa",
+    "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_5_loa",
+    "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_6_loa",
+    "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_7_loa"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper"
+}

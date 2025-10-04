@@ -1,0 +1,280 @@
+{
+  "id": "rules_glossary/a/active",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "active",
+  "title": "Active",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When you perform a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "test"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": ", each"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "ready"
+            }
+          ],
+          "id": "rules_glossary/r/ready",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/ready"
+        },
+        {
+          "type": "text",
+          "text": "card that is in the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "surroundings"
+            }
+          ],
+          "id": "rules_glossary/s/surroundings",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/surroundings"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "along the way"
+            }
+          ],
+          "id": "rules_glossary/a/along_the_way",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/along_the_way"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "within reach"
+            }
+          ],
+          "id": "rules_glossary/w/within_reach",
+          "anchor": "",
+          "url": "/docs/rules_glossary/W/within_reach"
+        },
+        {
+          "type": "text",
+          "text": ", or in your"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "player area"
+            }
+          ],
+          "id": "rules_glossary/p/player_area",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/player_area"
+        },
+        {
+          "type": "text",
+          "text": "is"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "active"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "During Step 5 of performing a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "test"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": ", resolve challenge effects only on each card that is active."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Cards"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "within reach"
+            }
+          ],
+          "id": "rules_glossary/w/within_reach",
+          "anchor": "",
+          "url": "/docs/rules_glossary/W/within_reach"
+        },
+        {
+          "type": "text",
+          "text": "of other Rangers are not active. If you are"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "interacting"
+            }
+          ],
+          "id": "rules_glossary/i/interact",
+          "anchor": "",
+          "url": "/docs/rules_glossary/I/interact"
+        },
+        {
+          "type": "text",
+          "text": "with a card that is within reach of another Ranger, however, all"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "ready"
+            }
+          ],
+          "id": "rules_glossary/r/ready",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/ready"
+        },
+        {
+          "type": "text",
+          "text": "cards within reach of that Ranger are considered active for the duration of the test."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If an active card is"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "exhausted"
+            }
+          ],
+          "id": "rules_glossary/e/exhaust",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/exhaust"
+        },
+        {
+          "type": "text",
+          "text": "by a challenge effect during Step 5 of performing a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "test"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": ", it is no longer considered to be active for the remainder of the test."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If an exhausted card is readied by a challenge effect during Step 5 of performing a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "test"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": ", and you have not already completed resolving challenge effects for the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "area"
+            }
+          ],
+          "id": "rules_glossary/a/area",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/area"
+        },
+        {
+          "type": "text",
+          "text": "in which the card sits, it becomes active for the remainder of the test."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/A/active"
+}

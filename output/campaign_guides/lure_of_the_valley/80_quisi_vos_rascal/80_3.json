@@ -1,0 +1,76 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_3",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "80.3",
+  "title": "80.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "From up ahead, you hear a child quietly singing to herself. You move\naround a large cedar bole to find a young girl, maybe eight years old,\ntracing patterns in the ground with a rock. She\u2019s covered in dirt, head\nto toe. In place of her left hand is a miraculous piece of technology:\na prosthesis, gleaming in the sunlight, its fingers suspended in air,\nheld only by her body\u2019s memory of the hand."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As soon as she notices you, she hops to her feet. \u201cHi! I\u2019m Quisi! What\nare you doing? Where are you going? What is that? Can I use it?\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Each time you answer a question, she has another one at the ready.\nIt seems like you have a new traveling companion, at least until you\ncan satisfy her curiosity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Quisi with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to satisfy her curiosity."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_3"
+}

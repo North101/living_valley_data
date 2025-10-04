@@ -1,0 +1,154 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_6_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "85.6",
+  "title": "85.6 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Calypsa looks thoughtful. \u201cWell, some good news at least. It seems the reclaimers are getting rarer and rarer. Not what I would have expected when I started hunting them, to be honest. Given how quickly they spawned two months ago, I was worried this would be a fool\u2019s errand. But now I can go several days without receiving reports of any or uncovering any new tracks.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "She shrugs. \u201cPerhaps this is their life cycle, like a locust swarm: over as quickly as it comes. But in any case, I have been on the trail of one for most of today. I think I\u2019m getting closer, but I could use some help with the tracking; the trail is starting to get fainter. Care to lend a hand?\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "A) Help Calypsa look for the reclaimer."
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from Calypsa and attach"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Search the General set for a Reclaimer Seeker and shuffle it into the bottom 5 cards of the path deck."
+        },
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Calypsa with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "while a Reclaimer Seeker is in the path discard to analyze it."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "B) Some other time."
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Discard Calypsa. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/calypsa_ranger_mentor/85_6"
+}

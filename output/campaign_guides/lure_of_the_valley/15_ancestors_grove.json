@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/15_ancestors_grove",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "15",
+  "title": "15. Ancestor's Grove",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "A reverent calm suffuses your being as you step into the Ancestor\u2019s\nGrove. Each of the trees, from the smallest sapling to the towering\ngiants at the grove\u2019s center, has been planted over the final resting\nplace of a loved one. You move with care through the grove. You\nsee several people, some keeping to themselves, some speaking\nsoftly, some bearing gifts, all here to commune with those who have\npassed. You pause and give thought to your ancestors."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/ancestors_grove"
+}

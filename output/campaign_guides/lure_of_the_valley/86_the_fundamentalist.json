@@ -1,0 +1,185 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "86",
+  "title": "86. The Fundamentalist",
+  "content": [
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY:"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU\u2019RE AT THE BOWL OF THE SUN, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "86.1"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_1"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "86.2"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_2"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU ARE ON INVASION (EITHER STAGE), GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "86.3"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_3"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "86.4"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_4",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "red"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "86.5"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_5",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_5"
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_1",
+    "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_2",
+    "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_3",
+    "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_4",
+    "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_5"
+  ],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist"
+}

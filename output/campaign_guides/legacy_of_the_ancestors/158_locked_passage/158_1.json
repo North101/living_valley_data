@@ -1,0 +1,117 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_1",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "158.1",
+  "title": "158.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you explore your surroundings you discover a massive, sealed door. Try as you might, you\u2019re unable to open it. It\u2019s far too large to force open, and whatever mechanisms once moved it seem to have grown inert."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Search the general set for the Locked Passage and put it into play."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you have not"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "REPAIRED AN INVENTION"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "continue reading:"
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you inspect the door further, you discover that a critical component appears to be missing\u2014a power source. You spend a few moments rummaging through your gear, but find nothing compatible with the Estian technology. If a replacement power source exists, you're certain you'll find it down here in the arcology. But where?"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The moment you have the thought, you spot something at the foot of the door, covered in dust: a note scrawled in a hasty script."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"I couldn't wait any longer. I'm going beyond the flooded passage, beneath the main artery, to the chamber where the Estians once slept. Don't worry, Hollan, I can handle myself. \u2014Timo\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You recall that Hollan was the name of the leader of the lost expedition. Perhaps if you follow, you'll learn of the team's fate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Find where the Estians once slept."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/locked_passage/158_1"
+}

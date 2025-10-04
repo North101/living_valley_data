@@ -1,0 +1,84 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/118_the_rootway",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "118",
+  "title": "118. The Rootway",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The tunnels ahead have been taken over by verdant growth and countless woody, tangled roots, many having ripped through the wall panels as if they were paper."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Growing among the roots, you spot a familiar white flower that you've spotted growing here and there around the Valley. You gently hold a bloom in your hand, careful not to inadvertently pluck it, and discover that the flower has no odor."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You look around and see that there are flowers blooming throughout the passage, cheerfully dotting a dense forest of dark overgrowth."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you traveled here from The Cage, go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "158.2"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_2",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/locked_passage/158_2"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Otherwise, go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "158.1"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/locked_passage/158_1"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_rootway"
+}

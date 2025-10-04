@@ -1,0 +1,604 @@
+{
+  "id": "rules_glossary/c/challenge_effects",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "challenge_effects",
+  "title": "Challenge Effects",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Challenge effects are the text effects shown alongside three different icons (Mountain, Sun, or Crest) in colored bands (blue, orange, or red) on cards. These effects trigger during Step 5 of performing a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "test"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": ": Resolve Challenge Effects. These icons and colors correspond to those found on"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "challenge cards"
+            }
+          ],
+          "id": "rules_glossary/c/challenge_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/challenge_cards"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "On each"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "challenge card"
+            }
+          ],
+          "id": "rules_glossary/c/challenge_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/challenge_cards"
+        },
+        {
+          "type": "text",
+          "text": "revealed during a test, you\u2019ll find one of three challenge icons on a band of color across the bottom: the Crest (red), the Mountain (blue), or the Sun (orange). These icons match those found next to challenge effects on cards"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "in play"
+            }
+          ],
+          "id": "rules_glossary/i/in_play",
+          "anchor": "",
+          "url": "/docs/rules_glossary/I/in_play"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "After you resolve the effects of success or failure during Step 4 of performing a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "test"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": ", proceed to Step 5. During this step, you must"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "resolve"
+            }
+          ],
+          "id": "rules_glossary/r/resolve",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/resolve"
+        },
+        {
+          "type": "text",
+          "text": "the instructions of each challenge effect matching the challenge icon drawn for the test that is shown on an"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "active"
+            }
+          ],
+          "id": "rules_glossary/a/active",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/active"
+        },
+        {
+          "type": "text",
+          "text": "card in play."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Challenge effects on cards that were"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "cleared"
+            }
+          ],
+          "id": "rules_glossary/c/clear",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/clear"
+        },
+        {
+          "type": "text",
+          "text": "or"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "exhausted"
+            }
+          ],
+          "id": "rules_glossary/e/exhaust",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/exhaust"
+        },
+        {
+          "type": "text",
+          "text": "by the results of a test or another challenge effect do not trigger."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "harm"
+            }
+          ],
+          "id": "rules_glossary/h/harm",
+          "anchor": "",
+          "url": "/docs/rules_glossary/H/harm"
+        },
+        {
+          "type": "text",
+          "text": "or"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "progress"
+            }
+          ],
+          "id": "rules_glossary/p/progress",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/progress"
+        },
+        {
+          "type": "text",
+          "text": "are added by challenge effects on your"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "turn"
+            }
+          ],
+          "id": "rules_glossary/t/turns",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/turns"
+        },
+        {
+          "type": "text",
+          "text": ", you are not considered to have added those."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Some card effects may cause additional challenge effects to resolve. For example, you may be instructed to resolve challenge effects matching two or more challenge icons during the same test. When this happens, choose one icon and fully resolve the challenge effect process for it before moving on to the next. Resolve the full process for each icon in this way, one at a time."
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Challenge Effect Order"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "challenge-effect-order",
+          "url": "#challenge-effect-order"
+        }
+      ],
+      "anchor": "challenge-effect-order"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When resolving challenge effects, resolve cards in the following order. When there are multiple challenge effects in one area, you can choose the order in which you resolve them."
+        }
+      ]
+    },
+    {
+      "type": "ol",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Weather"
+                }
+              ],
+              "id": "rules_glossary/w/weather",
+              "anchor": "",
+              "url": "/docs/rules_glossary/W/weather"
+            },
+            {
+              "type": "text",
+              "text": "cards"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Location"
+                }
+              ],
+              "id": "rules_glossary/l/locations",
+              "anchor": "",
+              "url": "/docs/rules_glossary/L/locations"
+            },
+            {
+              "type": "text",
+              "text": "card"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Mission"
+                }
+              ],
+              "id": "rules_glossary/m/missions",
+              "anchor": "",
+              "url": "/docs/rules_glossary/M/missions"
+            },
+            {
+              "type": "text",
+              "text": "cards"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Cards"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "along the way"
+                }
+              ],
+              "id": "rules_glossary/a/along_the_way",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/along_the_way"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Cards"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "within reach"
+                }
+              ],
+              "id": "rules_glossary/w/within_reach",
+              "anchor": "",
+              "url": "/docs/rules_glossary/W/within_reach"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Cards in your player area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each challenge effect only"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "resolves"
+            }
+          ],
+          "id": "rules_glossary/r/resolve",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/resolve"
+        },
+        {
+          "type": "text",
+          "text": "once per test. If for whatever reason, a card is in a position to resolve its challenge effect a second time during the same test, it does not do so."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If a card"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "moves"
+            }
+          ],
+          "id": "rules_glossary/m/move",
+          "anchor": "",
+          "url": "/docs/rules_glossary/M/move"
+        },
+        {
+          "type": "text",
+          "text": "from the current area to an area for which the challenge effects have already been resolved this test (for example, while resolving cards"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "within reach"
+            }
+          ],
+          "id": "rules_glossary/w/within_reach",
+          "anchor": "",
+          "url": "/docs/rules_glossary/W/within_reach"
+        },
+        {
+          "type": "text",
+          "text": ", a card is"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "moved"
+            }
+          ],
+          "id": "rules_glossary/m/move",
+          "anchor": "",
+          "url": "/docs/rules_glossary/M/move"
+        },
+        {
+          "type": "text",
+          "text": "to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "along the way"
+            }
+          ],
+          "id": "rules_glossary/a/along_the_way",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/along_the_way"
+        },
+        {
+          "type": "text",
+          "text": "), it does not resolve, as that area is already complete."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When you interact with a card within reach of another Ranger, you can choose which"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "within reach"
+            }
+          ],
+          "id": "rules_glossary/w/within_reach",
+          "anchor": "",
+          "url": "/docs/rules_glossary/W/within_reach"
+        },
+        {
+          "type": "text",
+          "text": "area (yours or theirs) in which to resolve challenge effect first. Fully resolve all applicable challenge effects in that area before resolving challenge effects in the other within reach area."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Conditional Challenge Effects"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "conditional-challenge-effects",
+          "url": "#conditional-challenge-effects"
+        }
+      ],
+      "anchor": "conditional-challenge-effects"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Many challenge effects have additional conditions that determine whether or not they resolve. If a challenge effect contains a double-arrow icon ("
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "conditional"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "), you only resolve the text following the"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "conditional"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "if you successfully execute all instructions preceding the icon, or if the condition preceding the icon is true. If you don't resolve the text after the"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "conditional"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": ", the challenge effect does not count as \""
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "resolving"
+            }
+          ],
+          "id": "rules_glossary/r/resolve",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/resolve"
+        },
+        {
+          "type": "text",
+          "text": "\" for the purposes of other game effects."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/C/challenge_effects"
+}

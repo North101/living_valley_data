@@ -1,0 +1,62 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_7",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "153.7",
+  "title": "153.7",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Abruptly, the slippery surface of the ooze loses its texture and color. For a moment, it seems to be shifting back into its original blobby form. Then the ripples run across its skin, and the entity begins to take on a new form!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Replace the being that Trail of Ooze is attached to with a random being from the Shapeshifter deck. Attach Trail of Ooze to the new being and move all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "and"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "black",
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "to the new being. Shuffle the previous being into the Shapeshifter deck. Then, if the new being has ambush, resolve it."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/trail_of_ooze/153_7"
+}

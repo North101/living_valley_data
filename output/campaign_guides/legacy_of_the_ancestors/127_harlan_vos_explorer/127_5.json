@@ -1,0 +1,47 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_5",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "127.5",
+  "title": "127.5",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "With a surprised-sounding grunt, Harlan collapses. As you rush to help him, he grabs your arm with surprising strength. \u201cDon\u2019t worry about me.\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You inspect his injuries. Fortunately, it doesn\u2019t look like they\u2019re critical, but they will require treatment. Despite Harlan\u2019s protestations, you need to care for him before you do anything else."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "End the day."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_5"
+}

@@ -1,0 +1,184 @@
+{
+  "id": "rules_glossary/r/response",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "response",
+  "title": "Response",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Some rules begin with \u201cResponse:\u201d Each of these effects on a card"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "in play"
+            }
+          ],
+          "id": "rules_glossary/i/in_play",
+          "anchor": "",
+          "url": "/docs/rules_glossary/I/in_play"
+        },
+        {
+          "type": "text",
+          "text": "resolve at the time specified by their rules text and must resolve if possible."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If the rules text on a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "moment"
+            }
+          ],
+          "id": "rules_glossary/m/moments",
+          "anchor": "",
+          "url": "/docs/rules_glossary/M/moments"
+        },
+        {
+          "type": "text",
+          "text": "begins with \"Response:,\" you can play that card at the specified time. This might be during your"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "turn"
+            }
+          ],
+          "id": "rules_glossary/t/turns",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/turns"
+        },
+        {
+          "type": "text",
+          "text": ", during other Rangers\u2019"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "turns"
+            }
+          ],
+          "id": "rules_glossary/t/turns",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/turns"
+        },
+        {
+          "type": "text",
+          "text": ", or even during other phases of the game."
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "If a response effect on a"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "path card"
+                }
+              ],
+              "id": "rules_glossary/p/path_cards",
+              "anchor": "",
+              "url": "/docs/rules_glossary/P/path_cards"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "in play"
+                }
+              ],
+              "id": "rules_glossary/i/in_play",
+              "anchor": "",
+              "url": "/docs/rules_glossary/I/in_play"
+            },
+            {
+              "type": "text",
+              "text": "contains a decision, such as something containing \"may,\" the Ranger who is taking the current"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "turn"
+                }
+              ],
+              "id": "rules_glossary/t/turns",
+              "anchor": "",
+              "url": "/docs/rules_glossary/T/turns"
+            },
+            {
+              "type": "text",
+              "text": "chooses whether or not to resolve the effect."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "You do not have to play"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "moment"
+                }
+              ],
+              "id": "rules_glossary/m/moments",
+              "anchor": "",
+              "url": "/docs/rules_glossary/M/moments"
+            },
+            {
+              "type": "text",
+              "text": "cards that start with \"Response:\" It is always your choice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If a response effect on a card explicitly resolves from an out of play state (such as when you draw it), it can resolve even though it is not yet in play."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/R/response"
+}

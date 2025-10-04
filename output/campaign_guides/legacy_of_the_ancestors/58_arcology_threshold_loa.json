@@ -1,0 +1,184 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "58",
+  "title": "58. Arcology Threshold (LOA)",
+  "content": [
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY:"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "SPIRE FALLEN"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "58.1"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_1_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_threshold/58_1"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU'RE ON THE DESCENT, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "58.2"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_2_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_threshold/58_2"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "58.3"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_3_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_threshold/58_3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "ranger_token"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU'RE ON THE DESCENT, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "58.4"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_4_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_threshold/58_4"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "58.5"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_5_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_threshold/58_5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_1_loa",
+    "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_2_loa",
+    "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_3_loa",
+    "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_4_loa",
+    "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_5_loa"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_threshold"
+}

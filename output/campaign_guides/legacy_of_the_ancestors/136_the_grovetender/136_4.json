@@ -1,0 +1,264 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_4",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "136.4",
+  "title": "136.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The grovetender clicks and whirs, then with an electronic burbling, an avalanche of data spills onto the interface. For a moment the information is far too chaotic to interpret, but then it resolves into a complex but orderly tree of data that you can navigate."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You find yourself scrolling through a long list of entries that seem to be organized by whichever of the"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "425,336"
+                }
+              ],
+              "color": "blue"
+            },
+            {
+              "type": "text",
+              "text": "residents logged the information. Which resident do you want to search for?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Information marked in blue may be useful to you outside of this entry. You may want to record it somewhere."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Input Scientist Henderton:"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "198.03"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_03",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_03"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Input Engineer Galt:"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "198.08"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_08",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_08"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Input Professor Borral:"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "198.06"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_06",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_06"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Input Archivist Ral:"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "198.02"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_02",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_02"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Input Hydrologist Able:"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "198.07"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_07",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_07"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_grovetender/136_4"
+}

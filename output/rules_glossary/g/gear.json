@@ -1,0 +1,430 @@
+{
+  "id": "rules_glossary/g/gear",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "gear",
+  "title": "Gear",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gear are"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ranger cards"
+            }
+          ],
+          "id": "rules_glossary/r/ranger_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/ranger_cards"
+        },
+        {
+          "type": "text",
+          "text": "that have ongoing effects or abilities that you can trigger during your"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "turn"
+            }
+          ],
+          "id": "rules_glossary/t/turns",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/turns"
+        },
+        {
+          "type": "text",
+          "text": "(or at other times specified on the card). When they are played, gear cards are equipped by being placed into your"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "player area"
+            }
+          ],
+          "id": "rules_glossary/p/player_area",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/player_area"
+        },
+        {
+          "type": "text",
+          "text": "and stay there until you choose to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "discard"
+            }
+          ],
+          "id": "rules_glossary/d/discard",
+          "anchor": "",
+          "url": "/docs/rules_glossary/D/discard"
+        },
+        {
+          "type": "text",
+          "text": "them."
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "items": []
+    },
+    {
+      "type": "ol",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "Energy"
+                    }
+                  ],
+                  "id": "rules_glossary/e/energy",
+                  "anchor": "",
+                  "url": "/docs/rules_glossary/E/energy"
+                },
+                {
+                  "type": "text",
+                  "text": "Cost:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "The number of energy tokens that need to be spent to play the card."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Title:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "The name of the card."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Card Type and"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "Traits"
+                    }
+                  ],
+                  "id": "rules_glossary/t/traits",
+                  "anchor": "",
+                  "url": "/docs/rules_glossary/T/traits"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Flavorful attributes that may be referenced by card abilities."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "Equip Value"
+                    }
+                  ],
+                  "id": "rules_glossary/e/equip_value",
+                  "anchor": "",
+                  "url": "/docs/rules_glossary/E/equip_value"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "The amount of space the card takes up when equipped. If you have more than five total filled-in equip value boxes in your"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "player area"
+                }
+              ],
+              "id": "rules_glossary/p/player_area",
+              "anchor": "",
+              "url": "/docs/rules_glossary/P/player_area"
+            },
+            {
+              "type": "text",
+              "text": ", you must"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "discard"
+                }
+              ],
+              "id": "rules_glossary/d/discard",
+              "anchor": "",
+              "url": "/docs/rules_glossary/D/discard"
+            },
+            {
+              "type": "text",
+              "text": "gear until you have five or fewer."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Tokens:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Shows the name of a special token type used for this card and the number of those tokens placed on it when it enters play. Use"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "general tokens"
+                }
+              ],
+              "id": "rules_glossary/g/general_tokens",
+              "anchor": "",
+              "url": "/docs/rules_glossary/G/general_tokens"
+            },
+            {
+              "type": "text",
+              "text": "to track these."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "Approach Icons"
+                    }
+                  ],
+                  "id": "rules_glossary/a/approach_icons",
+                  "anchor": "",
+                  "url": "/docs/rules_glossary/A/approach_icons"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Icons that can be committed to tests by"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "discarding"
+                }
+              ],
+              "id": "rules_glossary/d/discard",
+              "anchor": "",
+              "url": "/docs/rules_glossary/D/discard"
+            },
+            {
+              "type": "text",
+              "text": "the card. The card adds one"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "effort"
+                }
+              ],
+              "id": "rules_glossary/e/effort",
+              "anchor": "",
+              "url": "/docs/rules_glossary/E/effort"
+            },
+            {
+              "type": "text",
+              "text": "for each approach icon matching the one shown on the test."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Abilities and Tests:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "The main abilities of that card. This can include"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "tests"
+                }
+              ],
+              "id": "rules_glossary/t/tests",
+              "anchor": "",
+              "url": "/docs/rules_glossary/T/tests"
+            },
+            {
+              "type": "text",
+              "text": "the Rangers can perform, special rules for the card, or effects that resolve when the card"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "clears"
+                }
+              ],
+              "id": "rules_glossary/c/clear",
+              "anchor": "",
+              "url": "/docs/rules_glossary/C/clear"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "Aspect"
+                    }
+                  ],
+                  "id": "rules_glossary/a/aspects",
+                  "anchor": "",
+                  "url": "/docs/rules_glossary/A/aspects"
+                },
+                {
+                  "type": "text",
+                  "text": "Requirement:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "You must have this value or higher in the shown aspect to include this card in your deck."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Set Information:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "The name of the card\u2019s"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "set"
+                }
+              ],
+              "id": "rules_glossary/s/sets",
+              "anchor": "",
+              "url": "/docs/rules_glossary/S/sets"
+            },
+            {
+              "type": "text",
+              "text": "and the card\u2019s number in that set."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/G/gear"
+}

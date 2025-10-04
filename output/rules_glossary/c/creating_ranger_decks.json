@@ -1,0 +1,677 @@
+{
+  "id": "rules_glossary/c/creating_ranger_decks",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "creating_ranger_decks",
+  "title": "Creating Ranger Decks",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "To start a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "campaign"
+            }
+          ],
+          "id": "rules_glossary/c/campaign",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/campaign"
+        },
+        {
+          "type": "text",
+          "text": "of Earthborne Rangers, you build your own custom Ranger character. You\u2019ll bring all the cards you need together in a way that tells the story of who your Ranger is, how they spent their formative years, and what specialized training they\u2019ve received before they completed the trials, rites, and ceremonies that welcomed them into the service of the Rangers."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you are starting with the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Prologue"
+            }
+          ],
+          "id": "rules_glossary/p/prologue",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/prologue"
+        },
+        {
+          "type": "text",
+          "text": ", you will create a character as part of that process, but if you are jumping right into the game, you can follow these steps to create your Ranger."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Once you become familiar with the deck customization process, you can build your deck in any order you like, but for your first time, we recommend performing the following steps in order:"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose Your Aspects"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "choose-your-aspects",
+          "url": "#choose-your-aspects"
+        }
+      ],
+      "anchor": "choose-your-aspects"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "There are a total of twelve different"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "aspect"
+            }
+          ],
+          "id": "rules_glossary/a/aspects",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/aspects"
+        },
+        {
+          "type": "text",
+          "text": "cards to choose from, each of which features a different spread of values across the four"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "aspects"
+            }
+          ],
+          "id": "rules_glossary/a/aspects",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/aspects"
+        },
+        {
+          "type": "text",
+          "text": ", ranging from 3 to 1. On each aspect card, there is a high aspect (3), and a low aspect (1). Choose one of these cards for your Ranger."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ranger card"
+            }
+          ],
+          "id": "rules_glossary/r/ranger_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/ranger_cards"
+        },
+        {
+          "type": "text",
+          "text": "has an aspect requirement on the left-hand side of the card. If your corresponding aspect is not equal to or higher than that requirement, you cannot include that card in your deck."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Determine Your Personality"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "determine-your-personality",
+          "url": "#determine-your-personality"
+        }
+      ],
+      "anchor": "determine-your-personality"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Personality"
+            }
+          ],
+          "id": "rules_glossary/p/personalities",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/personalities"
+        },
+        {
+          "type": "text",
+          "text": "cards represent the type of person your Ranger is and how they engage with the world around them."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Select four unique cards from the personality"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "set"
+            }
+          ],
+          "id": "rules_glossary/s/sets",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/sets"
+        },
+        {
+          "type": "text",
+          "text": ": choose one personality card from each of the four different"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "aspects"
+            }
+          ],
+          "id": "rules_glossary/a/aspects",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/aspects"
+        },
+        {
+          "type": "text",
+          "text": "(Awareness, Fitness, Focus, and Spirit), and add two copies of each chosen card to your Ranger deck."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose Your Background"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "choose-your-background",
+          "url": "#choose-your-background"
+        }
+      ],
+      "anchor": "choose-your-background"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Your Ranger\u2019s background represents their experience from early life and young adulthood. It contains the skills and equipment you bring with you into the Rangers. Choose one of the four background"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "sets"
+            }
+          ],
+          "id": "rules_glossary/s/sets",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/sets"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Artisan"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Forager"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Shepherd"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Traveler"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "The background"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "sets"
+            }
+          ],
+          "id": "rules_glossary/s/sets",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/sets"
+        },
+        {
+          "type": "text",
+          "text": "contain nine unique cards each. Select five of those cards from your chosen background, and add two copies of each of the selected cards to your Ranger deck."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose Your Specialty"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "choose-your-specialty",
+          "url": "#choose-your-specialty"
+        }
+      ],
+      "anchor": "choose-your-specialty"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Your Ranger\u2019s specialty represents the training and experience of your Ranger\u2019s adulthood and the specialized training they bring to the Rangers. Choose one of the four specialty sets:"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Artificer"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Conciliator"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Explorer"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Shaper"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "The specialty"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "sets"
+            }
+          ],
+          "id": "rules_glossary/s/sets",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/sets"
+        },
+        {
+          "type": "text",
+          "text": "contain fourteen unique cards each. Select five cards from your chosen specialty, and add two copies of each of the selected cards to your Ranger deck."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Additionally, each specialty includes two"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "role"
+            }
+          ],
+          "id": "rules_glossary/r/role",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/role"
+        },
+        {
+          "type": "text",
+          "text": "cards. These roles do not go in your deck, but start the game"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "in play"
+            }
+          ],
+          "id": "rules_glossary/i/in_play",
+          "anchor": "",
+          "url": "/docs/rules_glossary/I/in_play"
+        },
+        {
+          "type": "text",
+          "text": "and offer you a special, repeatable ability you can use and rely on. Select one of those roles for your Ranger."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose Your Outside Interest"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "choose-your-outside-interest",
+          "url": "#choose-your-outside-interest"
+        }
+      ],
+      "anchor": "choose-your-outside-interest"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "The last step to creating your Ranger is to select your outside interest\u2014a card that represents your hobbies and passions outside of your day-to-day life. This is a single card chosen from any specialty or background set. The chosen card cannot be a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "role"
+            }
+          ],
+          "id": "rules_glossary/r/role",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/role"
+        },
+        {
+          "type": "text",
+          "text": "or have the expert trait. Add two copies of this card to your Ranger deck."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "The first time you create a Ranger, this choice can be a daunting one, as nearly the entire card pool is at your disposal. If you prefer to choose from a shorter, curated list, please see the list of suggestions below:"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ferinodex -"
+            },
+            {
+              "type": "em",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Artificer Specialty"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Boundary Sensor -"
+            },
+            {
+              "type": "em",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Explorer Specialty"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Intention Translator -"
+            },
+            {
+              "type": "em",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Conciliator Specialty"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ironwool Boots -"
+            },
+            {
+              "type": "em",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Traveler Background"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Favorite Gear -"
+            },
+            {
+              "type": "em",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Artisan Background"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Paratrepsis Whistle -"
+            },
+            {
+              "type": "em",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Shepherd Background"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Familiar Ground -"
+            },
+            {
+              "type": "em",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Forager Background"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Infusion Canteen -"
+            },
+            {
+              "type": "em",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Artificer Specialty"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Once you\u2019re done with this step, you\u2019ll have a total of thirty cards in your deck (fifteen unique cards, two copies of each), plus your role and aspect card. Your Ranger is now ready to begin their adventure!"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/C/creating_ranger_decks"
+}

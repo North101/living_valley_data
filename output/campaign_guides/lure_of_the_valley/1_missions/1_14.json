@@ -1,0 +1,318 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_14",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.14",
+  "title": "1.14",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you have"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "WATCHER IN THE BRUSH, TRAIL OF VINES"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", or"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "DEEPER\nMOTIVES"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", complete it."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Zek finishes his tea and stands. \u201cWell, I suppose I\u2019d best get up to\nLone Tree and let Elder Thrush know about all this.\u201d He heads for the\ndoor and shouts to his stilt-horse. \u201cC\u2019mon, Nel! Quit snacking; we\u2019ve\ngot a ride ahead of us!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You spend a few hours at the biological station resting after your\nhike, while Sirisana continues her studies. As the light is starting to\nfade, Sirisana\u2019s apprentice, Tiella Jakarra, returns from a day of field\nstudies with a rucksack full of lichen and an armful of branches for\nthe fire pit. Sirisana gets her up to speed on events, and the two\nimmediately fall into a lively debate about what, if anything, to do\nabout the reclaimers."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cThey are clearly an invasive species,\u201d Sirisana says. \u201cThere is no prior\nrecord of these biomelds in the Valley. Our ancestors encountered\nthese reclaimers in the time before we settled here, but that was long\nago. They're yet another biomeld run amok, fulfilling some esoteric\npurpose that's at odds with the natural world.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cWe don\u2019t know that for certain,\u201d Tiella retorts. \u201cEven if they are\nfulfilling some outmoded purpose, they\u2019ve had centuries to become\npart of the ecosystem! Look at the relgarbeasts! They were once\nviewed as an invasive pest, but over time we've learned how critical\nthey are to the ecology of the Verdessa! Or take growling weevils\u2014\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "At this point, you hesitantly interrupt to point out that what these\nbeings are may matter less than why they have suddenly arrived and\nwhether or not anything can be done about it. Both Sirisana and\nTiella stare at you, like the idea never occurred to them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF THE RANGERS HAVE"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "BEFRIENDED THE VERDESSIAN"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.14A"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/1_missions/1_14",
+          "anchor": "114a",
+          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_14#114a"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "br",
+      "items": []
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "OTHERWISE, READ:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cThey must have a nest,\u201d Tiella says. \u201cSomewhere they congregate.\nTo learn more, you\u2019re going to have to find it. Maybe you could tag\nthe reclaimers and then follow the tagged ones back to their nest?\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You agree, and Tiella and Sirisana spend the next hour rigging up\na simple tagging system; small, sticky balls of sap treated with a\nparticularly pungent substance. Then they hand you a small cage full\nof wood shavings; in the center of which is a drowsy looking mole\nwith a long pink muzzle."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cBecher\u2019s mole,\u201d Tiella explains. She reaches into the cage and\npulls out the mole, who yawns sleepily. Then she wafts some of the\npungent aroma under its nose, and the mole suddenly perks up and\nstarts yipping shrilly. \u201cOne whiff of this mole sow musk, and Gus will\nfollow it to the ends of the earth. He can smell it from up to two\nkilometers away!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You leave with the mole and the sap tags, but only after making a\npromise that you\u2019ll do your best to return Gus safe and sound once\nthis is all over."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "JOURNEY (BIOLOGICAL OUTPOST)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission, and gain\nthe"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "FIND THE NEST"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.14A"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "114a",
+          "url": "#114a"
+        }
+      ],
+      "anchor": "114a"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cThey must have a nest,\u201d Tiella says. \u201cSomewhere they congregate.\nTo learn more, you\u2019re going to have to find it.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You tell them about the vision Nal experienced before the Verdessian\ndisappeared, that she saw the nest but couldn't see exactly where it\nwas. You relay Nal's description: climbing vines, a collection of ruins,\nand a river."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"That sounds like the Alluvial Ruins to me,\" says Sirisana.\n\"Of course!\" Tiella says excitedly. \"If the reclaimers are drawn to ruins\nfor some reason, what better place for a nest than the largest ruins\nsite in the Valley?\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cWell what are you waiting for?\" Sirisana asks incredulously. \"Go to\nthe nest, and learn all you can about the reclaimers. Ancestors guide\nyou. Be swift!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "JOURNEY (BIOLOGICAL OUTPOST)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission, and gain\nthe"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "INTO THE NEST"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_14"
+}

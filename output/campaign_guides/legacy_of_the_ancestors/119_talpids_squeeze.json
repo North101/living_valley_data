@@ -1,0 +1,75 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/119_talpids_squeeze",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "119",
+  "title": "119. Talpid's Squeeze",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "For the past few hours, you\u2019ve been following passages deeper than anything you\u2019ve yet found. You\u2019ve been tracing power conduits, data linkages, and clusters of clear pipes full of thick gurgling liquids in varying hues of green, blue, and deep arterial crimson."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "But your explorations come to a halt when the shaft you\u2019re climbing ends in a clump of splintered rocks and twisted composite wall paneling. The damage seems recent; you suspect that an earthquake must have caused this. You\u2019ll need to find a way to clear the rubble in order to proceed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you traveled here from The Cage, go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "157.2"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/157_overgrown_passage/157_2",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/overgrown_passage/157_2"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Otherwise, go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "157.1"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/157_overgrown_passage/157_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/overgrown_passage/157_1"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/talpids_squeeze"
+}

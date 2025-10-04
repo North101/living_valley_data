@@ -1,0 +1,222 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/94_world_events/94_7",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "94.7",
+  "title": "94.7",
+  "content": [
+    {
+      "type": "h5",
+      "items": [
+        {
+          "type": "text",
+          "text": "READ ONE:"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "read-one",
+          "url": "#read-one"
+        }
+      ],
+      "anchor": "read-one"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "If you\u2019ve completed"
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RESCUE (LUNN):"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You hear a whistle from outside your tent, and stumble out\nbleary-eyed to see Zek Tsal in your campsite atop his stilthorse.\n\u201cGot something for you,\u201d he shouts, and tosses you a\nleaf-wrapped package. \u201cIt\u2019s from Lunn; he said thanks for saving\nhis life!\u201d You open it to find packs of needle tea."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger gains one energy in an aspect of their choice for the\nfirst round."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "If you're currently on"
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RESCUE (LUNN):"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Lunn groans, but there's nothing you can do can get him moving, and you\u2019re concerned that he might suffer permanent injury without the help of a healer. You do the only thing you can do; making him as comfortable as possible, you light a signal fire and then spread out, looking for the tallest point to try and signal a rescuer."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "That evening, a traveling merchant on a pincrawler spots your signal. You set Lunn on the back of the crawler, and the merchant waves farewell as they head toward the nearest Ranger station."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RESCUE (LUNN)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", and record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPED RESCUE LUNN"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "Otherwise:"
+            }
+          ],
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You receive word from a stilt-horse courier that Lunn has been found. Apparently Kal Iver went looking and found him nearly unconscious at the bottom of a shale scree. He's recovering now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you have"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "SEARCH (LUNN)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", complete it. If you don't, gain that mission and immediately complete it. Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "KAL RESCUED LUNN"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/mission_timers/94_7"
+}

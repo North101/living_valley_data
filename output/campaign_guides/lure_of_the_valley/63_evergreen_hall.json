@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/63_evergreen_hall",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "63",
+  "title": "63. Evergreen Hall",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you make your way across a long narrow bridge suspended among\nthe upper branches of the forest, the din of a crowd draws your eyes to\na stout wooden hall ahead. Fir needles cover its exterior, crisscrossing\nto create a tapestry reaching up and around the dolewood\u2019s upper\nbranches."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Its ornate door swings open to reveal a meeting hall, with different\ngathering platforms winding down the sides of the trunk. On every\nfloor you see villagers drinking, reading, and talking of all the\ncomings and goings of the Valley. The scent of sweet ale washes over\nyou. Near the entrance, a map of the Valley hangs on a wall next to a\nboard covered with handwritten messages and notices."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/evergreen_hall"
+}

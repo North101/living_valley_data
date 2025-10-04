@@ -1,0 +1,167 @@
+{
+  "id": "rules_glossary/c/campaign_guide_icon",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "campaign_guide_icon",
+  "title": "Campaign Guide Icon",
+  "content": [
+    {
+      "type": "img",
+      "items": []
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When a card enters play, if a campaign guide icon ("
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "guide_entry"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": ") appears in its title bar, read the entry in the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "campaign guide"
+            }
+          ],
+          "id": "rules_glossary/c/campaign_guide",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/campaign_guide"
+        },
+        {
+          "type": "text",
+          "text": "matching the number shown."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When an campaign guide icon appears in text followed by a number, read the entry in the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "campaign guide"
+            }
+          ],
+          "id": "rules_glossary/c/campaign_guide",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/campaign_guide"
+        },
+        {
+          "type": "text",
+          "text": "matching the number shown only when you are instructed to do so. For example, if you see text that reads \""
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "Clear"
+            }
+          ]
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "or"
+            }
+          ]
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "guide_entry"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "80,\" you would read entry 80 in the campaign guide when that card"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "clears"
+            }
+          ],
+          "id": "rules_glossary/c/clear",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/clear"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Some"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "missions"
+            }
+          ],
+          "id": "rules_glossary/m/missions",
+          "anchor": "",
+          "url": "/docs/rules_glossary/M/missions"
+        },
+        {
+          "type": "text",
+          "text": "or other game effects \"override\" certain campaign guide entries and instruct you to read a different entry instead. These override any entries that appear in the title bar of cards and resolve when they enter play, and may override clear effects as well, but not specific entries triggered within other rules text."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/C/campaign_guide_icon"
+}

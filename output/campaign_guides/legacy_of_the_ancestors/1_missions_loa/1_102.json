@@ -1,0 +1,427 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_102",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "1.102",
+  "title": "1.102",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "If it is has been 2 or more days since you began SEARCH BELOW (SILARO), go to"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "1.102a"
+                }
+              ],
+              "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_102",
+              "anchor": "1102a",
+              "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_102#1102a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "Otherwise, read:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You walk right up to Silaro before he notices you. He is busy studying a wall covered in blocky Estian script, and by the looks of his half-filled notebook, he\u2019s been doing so for quite a while. \u201cOh, hello there!\u201d he smiles. \u201cIs it time for dinner already?\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "When you explain that he\u2019s missed dinner, and perhaps some other meals besides, he shrugs. \u201cThat explains why my belly has been rumbling, I suppose. There\u2019s just so much to discover down here! I could spend my entire life in these halls!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You politely but persistently suggest that Silaro would be better off at the base camp organizing the operation, and that he can send others to scout in his stead. He keeps brushing off your suggestions until he stands up \u2026 and almost falls over on his face."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cOh,\u201d he says when you help steady him. \u201cI guess I have missed a few too many meals. Very well. You win, you win. Let\u2019s return to base camp. Lead the way!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "SEARCH BELOW (SILARO)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission and gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RETURN TO BASE CAMP\n(SILARO)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Put Silaro Mako, Spelunker into play within reach of a Ranger. Attach the Return to Base Camp card to him. Do not read his entry."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.102A"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1102a",
+          "url": "#1102a"
+        }
+      ],
+      "anchor": "1102a"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Your search leads you to a narrow passage branching off to the right. You poke your head in and see a vertical shaft about four meters deep. At the bottom is Silaro. His wan features break into a huge grin when he sees you. You quickly rig up ropes and haul the wayward archaeologist out of the hole. He is battered, pale, and has a pronounced limp, but he\u2019s alive."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cThank the ancestors!\u201d he says as he hungrily devours the trail mix you provide him. \u201cI was going along just fine, following my topographone, as I do. I turned a corner, and boof! A pit! I\u2019ve been stuck there ever since. It\u2019s rather embarrassing, frankly."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cPerhaps I\u2019d better get up to camp and see how they\u2019re getting on,\u201d he says. \u201cI would appreciate your further assistance, of course. I wouldn\u2019t want to accidentally fall into any more pits!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "SEARCH BELOW (SILARO)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission and gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RETURN TO BASE CAMP\n(SILARO)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Put Silaro into play within reach of a Ranger. Do not read his entry. Attach the Return to Base Camp card to him. Then the Lead Ranger must search the path deck for the next predator and put it into play."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.102B"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1102b",
+          "url": "#1102b"
+        }
+      ],
+      "anchor": "1102b"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cWe\u2019ve made it at last,\u201d says Silaro. \u201cThank you for finding me \u2026 and bringing me back to camp safe and sound. I promise that I won\u2019t go wandering off again!\u201d He claps you on the back and smiles."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cAnd now that we\u2019re all here,\u201d he says. \u201cThere\u2019s some work that needs doing! Come with me, and I\u2019ll explain.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Shuffle Silaro into the path deck, complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RETURN TO BASE CAMP\n(SILARO)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission, and write"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "FOUND SILARO"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.101a"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_101",
+          "anchor": "1101a",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_101#1101a"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.102C"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1102c",
+          "url": "#1102c"
+        }
+      ],
+      "anchor": "1102c"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cOh! Oooh!\u201d Silaro wails. \u201cMy ankle! I don\u2019t think I can walk!\u201d You look Silaro up and down, take a deep breath, firm up your core, and hoist Silaro over your shoulder. \u201cMy goodness! You\u2019re stronger than you look!\u201d he says."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Attach Silaro facedown to a Ranger\u2019s role. While Silaro is attached to a role, that Ranger can only have 2 equip value worth of gear equipped."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Arrive at the Chimney to detach Silaro from your role and complete the mission."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.102D"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1102d",
+          "url": "#1102d"
+        }
+      ],
+      "anchor": "1102d"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You wake to the smell of a delicious aroma and find Silaro cooking something in a small pan over a low fire burning with a purple flame. \u201cMushrooms!\u201d he says, delightedly. \u201cThey make for a great fire, and they\u2019re quite edible. Care for some before we head out?\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Put Silaro into play within reach of a Ranger. Do not read his entry. Attach the Return to Base Camp card to him."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Arrive at the Chimney with Silaro to complete the mission."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_102"
+}

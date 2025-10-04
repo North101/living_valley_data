@@ -1,0 +1,42 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_4",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "49.4",
+  "title": "49.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Vira shoves her longboat away from the shore and begins heading into\nthe current. As she does, she starts to whistle. You\u2019re a bit surprised;\nyou didn\u2019t realize she could whistle, let alone such a cheerful tune."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "You may immediately proceed to the travel phase of the round. If you do, you can travel to any location connected to a river (even if there are ready cards with the obstacle keyword in play). Use the river terrain type. If you choose to travel\nin this way, discard the current challenge card, and do not resolve the\nremainder of this test."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you choose not to travel, discard Vira, and resolve the remainder of\nthe test as normal."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/vira_lake_guide/49_4"
+}

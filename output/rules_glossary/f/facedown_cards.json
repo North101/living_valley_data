@@ -1,0 +1,165 @@
+{
+  "id": "rules_glossary/f/facedown_cards",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "facedown_cards",
+  "title": "Facedown Cards",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Cards can be put into the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "play area"
+            }
+          ],
+          "id": "rules_glossary/p/the_play_area",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/play_area"
+        },
+        {
+          "type": "text",
+          "text": "facedown. None of the text on facedown cards is in effect while it remains facedown. How these cards are brought into the play area changes how they are handled:"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Attached Facedown Cards"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "attached-facedown-cards",
+          "url": "#attached-facedown-cards"
+        }
+      ],
+      "anchor": "attached-facedown-cards"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Cards that were brought into the play area facedown"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "attached"
+            }
+          ],
+          "id": "rules_glossary/a/attach",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/attach"
+        },
+        {
+          "type": "text",
+          "text": "to other cards do not count as \""
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "in play"
+            }
+          ],
+          "id": "rules_glossary/i/in_play",
+          "anchor": "",
+          "url": "/docs/rules_glossary/I/in_play"
+        },
+        {
+          "type": "text",
+          "text": ".\" If a card in play is flipped facedown and attached to another card,"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "discard"
+            }
+          ],
+          "id": "rules_glossary/d/discard",
+          "anchor": "",
+          "url": "/docs/rules_glossary/D/discard"
+        },
+        {
+          "type": "text",
+          "text": "any tokens from it."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "In Play Facedown Cards"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "in-play-facedown-cards",
+          "url": "#in-play-facedown-cards"
+        }
+      ],
+      "anchor": "in-play-facedown-cards"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Some components put cards into play facedown or flip cards facedown that were already"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "in play"
+            }
+          ],
+          "id": "rules_glossary/i/in_play",
+          "anchor": "",
+          "url": "/docs/rules_glossary/I/in_play"
+        },
+        {
+          "type": "text",
+          "text": "(such as the Philosopher's Garden). Rules for how to treat these facedown cards are specified on the component that put them into play or flipped them facedown. If that component ever leaves play, flip all cards it put into play facedown back faceup."
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "When a card is flipped facedown, it maintains all of its tokens and attachments."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/F/facedown_cards"
+}

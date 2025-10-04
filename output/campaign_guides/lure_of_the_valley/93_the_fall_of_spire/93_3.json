@@ -1,0 +1,104 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_3",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "93.3",
+  "title": "93.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You hear Tollin Lang before you see him. The young artist comes\naround a corner leading a few dozen townsfolk. \u201cKeep up, keep up!\u201d\nhe shouts. \u201cWe\u2019re close, now! Just stay together!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "He sees you and the relief on his face is immediate. \u201cThank the\nancestors! Help me get these people out of here!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Tollin with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to get her group out of the city."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you have"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "APPRECIATED TOLLIN\u2019S ART"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", add 2"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "to him."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_fall_of_spire/93_3"
+}

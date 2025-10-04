@@ -1,0 +1,65 @@
+{
+  "id": "rules_glossary/m/mulligan",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "mulligan",
+  "title": "Mulligan",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you don\u2019t like your starting hand during"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "setup"
+            }
+          ],
+          "id": "rules_glossary/s/setup",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/setup"
+        },
+        {
+          "type": "text",
+          "text": ", you can"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "set aside"
+            }
+          ],
+          "id": "rules_glossary/s/set_aside",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/set_aside"
+        },
+        {
+          "type": "text",
+          "text": "any number of cards from your hand and draw an equivalent number of new cards. Then shuffle the set-aside cards back into your Ranger deck."
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Cards that trigger \"when you draw this card\" can trigger when you first draw your hand. If this causes your hand to become smaller, you still only redraw the number of cards you set aside."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/M/mulligan"
+}

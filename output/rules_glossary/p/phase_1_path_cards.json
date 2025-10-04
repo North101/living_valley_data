@@ -1,0 +1,179 @@
+{
+  "id": "rules_glossary/p/phase_1_path_cards",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "phase_1_path_cards",
+  "title": "Phase 1: Path Cards",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "round"
+            }
+          ],
+          "id": "rules_glossary/r/round",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/round"
+        },
+        {
+          "type": "text",
+          "text": ", the Rangers spend more time exploring the area around their current"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "location"
+            }
+          ],
+          "id": "rules_glossary/l/locations",
+          "anchor": "",
+          "url": "/docs/rules_glossary/L/locations"
+        },
+        {
+          "type": "text",
+          "text": ", discovering new beings and features as they do."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "In the first phase of the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "round"
+            }
+          ],
+          "id": "rules_glossary/r/round",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/round"
+        },
+        {
+          "type": "text",
+          "text": ", starting with the lead Ranger, each Ranger draws one"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "path card"
+            }
+          ],
+          "id": "rules_glossary/p/path_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/path_cards"
+        },
+        {
+          "type": "text",
+          "text": ". If the card is marked with a number underneath a book icon to the right of its name, find the corresponding entry in the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "campaign guide"
+            }
+          ],
+          "id": "rules_glossary/c/campaign_guide",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/campaign_guide"
+        },
+        {
+          "type": "text",
+          "text": ", and read it aloud. Then resolve any effects that resolve when the card \u201centers play.\u201d Fully resolve the effects of each card before drawing and resolving the next."
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "If you need to draw a path card but the deck is empty, shuffle the path discard to create a new path deck from which to draw."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Each path card is marked with an arrow to the left of its name that indicates the"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "area"
+                }
+              ],
+              "id": "rules_glossary/a/area",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/area"
+            },
+            {
+              "type": "text",
+              "text": "in which it should be placed. A card with an upward-pointing arrow is placed"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "along the way"
+                }
+              ],
+              "id": "rules_glossary/a/along_the_way",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/along_the_way"
+            },
+            {
+              "type": "text",
+              "text": ". A card with a downward-pointing arrow is placed"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "within reach"
+                }
+              ],
+              "id": "rules_glossary/w/within_reach",
+              "anchor": "",
+              "url": "/docs/rules_glossary/W/within_reach"
+            },
+            {
+              "type": "text",
+              "text": "of the Ranger who drew it."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/P/phase_1_path_cards"
+}

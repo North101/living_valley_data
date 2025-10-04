@@ -1,0 +1,180 @@
+{
+  "id": "rules_glossary/a/aspects",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "aspects",
+  "title": "Aspects",
+  "content": [
+    {
+      "type": "img",
+      "items": []
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "There are four aspects: Awareness, Fitness, Focus, and Spirit."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Your Ranger's aspects are printed on their aspect card."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "During"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Phase 4"
+            }
+          ],
+          "id": "rules_glossary/p/phase_4_refresh",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/phase_4_refresh"
+        },
+        {
+          "type": "text",
+          "text": "of the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "round"
+            }
+          ],
+          "id": "rules_glossary/r/round",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/round"
+        },
+        {
+          "type": "text",
+          "text": ", Refresh, add"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "energy"
+            }
+          ],
+          "id": "rules_glossary/e/energy",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/energy"
+        },
+        {
+          "type": "text",
+          "text": "tokens to your energy pool until you have a number of each energy type equal to the corresponding aspect value. At this time, if you have"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "energy"
+            }
+          ],
+          "id": "rules_glossary/e/energy",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/energy"
+        },
+        {
+          "type": "text",
+          "text": "tokens in excess of any of your aspect values, you must"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "discard"
+            }
+          ],
+          "id": "rules_glossary/d/discard",
+          "anchor": "",
+          "url": "/docs/rules_glossary/D/discard"
+        },
+        {
+          "type": "text",
+          "text": "the excess tokens."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "During"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Phase 2"
+            }
+          ],
+          "id": "rules_glossary/p/phase_2_ranger_turns",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/phase_2_ranger_turns"
+        },
+        {
+          "type": "text",
+          "text": "of the round, Ranger Turns, you can have any number of energy tokens in your energy pool. You are not limited by your aspect values in this way."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Your aspects determine which cards you are able to include in your deck. Each"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ranger card"
+            }
+          ],
+          "id": "rules_glossary/r/ranger_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/ranger_cards"
+        },
+        {
+          "type": "text",
+          "text": "has an aspect requirement on the lefthand side of the card. You can only include a card in your deck if your corresponding aspect value is greater than or equal to the requirement."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Thematically, aspects represent your Ranger's inherent characteristics."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/A/aspects"
+}

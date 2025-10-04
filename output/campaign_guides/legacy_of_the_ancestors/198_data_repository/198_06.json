@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_06",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "198.06",
+  "title": "198.06",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "This entry contains Borral\u2019s meeting minutes for an organization called the \u201cRocky Mountain Alliance\u201d that this arcology seemed to be a part of at some point. The minutes would have been a trove of valuable information. Unfortunately, bad connections meant the participants spent most of the time asking if their fellows could hear them through the static."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_06"
+}

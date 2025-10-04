@@ -1,0 +1,113 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_02",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "198.02",
+  "title": "198.02",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "It looks like Archivist Ral was involved in a lot of different endeavors. You can read more about the excavation of the underground tunnels and the things that were found while creating the breadth of the arcology, or read about his involvement in the creation of the Cage in the lowest parts of the arcology."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose:"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Read about the excavation:"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "198.04"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_04",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_04"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Read about the Cage:"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "198.01"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_01",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_01"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_02"
+}

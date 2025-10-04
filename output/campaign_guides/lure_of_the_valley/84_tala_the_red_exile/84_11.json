@@ -1,0 +1,60 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_11",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "84.11",
+  "title": "84.11",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You lead Tala to the edge of Tumbledown, overlooking the falls. Suddenly she whoops with excitement, a shout that almost startles you out of your boots. \u201cLook at this place!\u201d she shouts. \u201cIt\u2019s just like the cliffs and mountains at home, even if it is a bit warm! Let\u2019s go, I want to meet the people who live here.\u201d You head down to the village, but you\u2019re already sure that you\u2019ve found Tala\u2019s new home."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the Tala\u2019s Perseverance reward card. Discard Tala, and return"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "to the collection. Permanently move Tala to the Tumbledown set. Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "FOUND TALA A HOME"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker. Return to entry 10, and read the next \"If\" statement in sequence"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/tala_the_red_exile/84_11"
+}

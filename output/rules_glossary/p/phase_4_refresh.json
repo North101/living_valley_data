@@ -1,0 +1,266 @@
+{
+  "id": "rules_glossary/p/phase_4_refresh",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "phase_4_refresh",
+  "title": "Phase 4: Refresh",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "At the end of the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "round"
+            }
+          ],
+          "id": "rules_glossary/r/round",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/round"
+        },
+        {
+          "type": "text",
+          "text": ", the Rangers refresh themselves and prepare for the next round. Each Ranger performs the following steps in order:"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Suffer Fatigue from Injuries:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Suffer one"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "fatigue"
+                }
+              ],
+              "id": "rules_glossary/f/fatigue",
+              "anchor": "",
+              "url": "/docs/rules_glossary/F/fatigue"
+            },
+            {
+              "type": "text",
+              "text": "for each"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "injury"
+                }
+              ],
+              "id": "rules_glossary/i/injury",
+              "anchor": "",
+              "url": "/docs/rules_glossary/I/injury"
+            },
+            {
+              "type": "text",
+              "text": "you have."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Draw one Ranger card:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Draw one card from your Ranger deck. There is no limit to the number of cards you can have in your hand. If you cannot draw a card, you are too tired to continue and your group must"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "end the day"
+                }
+              ],
+              "id": "rules_glossary/e/end_the_day",
+              "anchor": "",
+              "url": "/docs/rules_glossary/E/end_the_day"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Refill energy pools:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Add"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "energy"
+                }
+              ],
+              "id": "rules_glossary/e/energy",
+              "anchor": "",
+              "url": "/docs/rules_glossary/E/energy"
+            },
+            {
+              "type": "text",
+              "text": "tokens to your energy pool until you have a number of each energy type equal to the corresponding"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "aspect"
+                }
+              ],
+              "id": "rules_glossary/a/aspects",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/aspects"
+            },
+            {
+              "type": "text",
+              "text": "value. If you have energy in excess of one of your aspect values, you must"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "discard"
+                }
+              ],
+              "id": "rules_glossary/d/discard",
+              "anchor": "",
+              "url": "/docs/rules_glossary/D/discard"
+            },
+            {
+              "type": "text",
+              "text": "tokens until you are down to that value."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Resolve Refresh effects:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Resolve any effects labeled with \"Refresh:\""
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Ready all cards in play:"
+                }
+              ]
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Ready"
+                }
+              ],
+              "id": "rules_glossary/r/ready",
+              "anchor": "",
+              "url": "/docs/rules_glossary/R/ready"
+            },
+            {
+              "type": "text",
+              "text": "all"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "exhausted"
+                }
+              ],
+              "id": "rules_glossary/e/exhaust",
+              "anchor": "",
+              "url": "/docs/rules_glossary/E/exhaust"
+            },
+            {
+              "type": "text",
+              "text": "cards in all"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "areas"
+                }
+              ],
+              "id": "rules_glossary/a/area",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/area"
+            },
+            {
+              "type": "text",
+              "text": ". Then a new round begins!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/P/phase_4_refresh"
+}

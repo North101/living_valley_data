@@ -1,0 +1,173 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/94_world_events/94_2",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "94.2",
+  "title": "94.2",
+  "content": [
+    {
+      "type": "h5",
+      "items": [
+        {
+          "type": "text",
+          "text": "READ ONE:"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "read-one",
+          "url": "#read-one"
+        }
+      ],
+      "anchor": "read-one"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "If you\u2019ve completed"
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RISING WATERS:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "All your muscles, even the ones you didn\u2019t know you had, seem\nto be aching as you nibble on a handful of dried sunberries. But\nthe word is already coming in; the flood waters are starting to\nrecede. Thanks to your efforts, the damage was minimal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger gains one energy in an aspect of their choice for the\nfirst round."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "If you haven\u2019t:"
+            }
+          ],
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "It has rained heavily for the last two days, but this morning it\nhas finally begun to subside. You see a runner approaching,\nwet and ragged. After he catches his breath, he tells you of the\nflood damage done to the areas surrounding White Sky Lake\nand asks if you might be of assistance by helping to clear debris\nand repair the damage."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cAnd there\u2019s something else,\u201d he says."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "For each location not marked off next to"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RISING WATERS"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", record the location name followed by"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "FLOODED"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker. Complete"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RISING WATERS"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Then read"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.07a"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/1_missions/1_07",
+          "anchor": "107a",
+          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_07#107a"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/mission_timers/94_2"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/95_flood_damage",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "95",
+  "title": "95. Flood Damage",
+  "content": [
+    {
+      "type": "h5",
+      "items": [
+        {
+          "type": "text",
+          "text": "READ THE ENTRY CORRESPONDING TO YOUR CURRENT LOCATION:"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "read-the-entry-corresponding-to-your-current-location",
+          "url": "#read-the-entry-corresponding-to-your-current-location"
+        }
+      ],
+      "anchor": "read-the-entry-corresponding-to-your-current-location"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "White Sky:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "After the hard work of reattaching torn sails on White\nSky's platforms and cleaning the paths along the shoreline, the lake is\nbeginning to look like its old self again."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Kobo\u2019s Market:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "After hours of bailing water and reassembling stalls,\nthe market row is clearing up. It will take a while for everything to dry\nout, but trade has returned to Kobo's market."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Golden Shore:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "You spend hours moving trees and reinforcing the\nbanks of tributary streams. As you finish up, you look back over\nyour handiwork and can see the telltale gleam of the shore's sands\nshowing through once again."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u00bb Continue reading:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard Flood Damage. Cross off the"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "FLOODED"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "entry on your campaign tracker corresponding to your current location. Each Ranger soothes 4 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/flood_damage"
+}

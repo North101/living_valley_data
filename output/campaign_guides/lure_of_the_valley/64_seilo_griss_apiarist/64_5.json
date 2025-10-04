@@ -1,0 +1,115 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_5",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "64.5",
+  "title": "64.5",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The rustling of leaves and Seilo rounds the corner, out of breath. He\nimmediately holds out a hand. \u201cNow I told you, Caythan, I don\u2019t have\nany left so \u2026 \u201d He realizes it\u2019s you, and his eyes light up. \u201cAh! Thank\nthe Guide wherever they wander. It\u2019s you! Well, what did I say? An\nabsolute sensation! Can\u2019t even catch a moment for myself without\nsomeone chasin\u2019 me down for more Philosopher\u2019s Honey.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "He leans against a nearby tree. \u201cI keep telling em\u2019 takes time to\nharvest. But they won\u2019t take no for an answer. Got me thinkin\u2019 I might\njust transplant a few of them trees down here in Branch. But that\u2019ll\ntake some time. I don\u2019t say this word often but \u2026 Please, could you\nhelp me gather more from the Philosopher's Garden? I\u2019ve done three\ntrips already in the last week!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "A) Agree to help."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": ", and attach the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission to Seilo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "B) Not today."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard Seilo. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_5"
+}

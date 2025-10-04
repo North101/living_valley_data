@@ -1,0 +1,45 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/140_the_heart",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "140",
+  "title": "140. The Heart",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You hear a terrible screeching sound that echoes throughout the massive cavern. Gouts of sparks erupt up the wall, and you realize with horror that they parallel a line of support struts to the cage surrounding the heart. With a groan and then a deafening rumble, the housing around the heart collapses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Read"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.125a"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_125",
+          "anchor": "1125a",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_125#1125a"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_heart"
+}

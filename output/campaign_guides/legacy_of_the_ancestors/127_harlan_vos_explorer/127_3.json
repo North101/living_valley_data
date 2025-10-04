@@ -1,0 +1,118 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_3",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "127.3",
+  "title": "127.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Harlan takes a sip from his canteen. \"Can you imagine what this place must have been like 1,500 years ago?\" he asks, somewhat rhetorically. \"Bustling with life, I'm sure! Shall we continue?\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "A) Let's keep looking."
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from Harlan Vos. Each Ranger soothes 1 fatigue."
+        },
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Help him track down his daughter, Quisi Vos."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "B) I'm sure Quisi will turn up."
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Discard Harlan Vos. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_3"
+}

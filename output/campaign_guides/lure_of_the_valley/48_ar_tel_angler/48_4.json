@@ -1,0 +1,106 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_4",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "48.4",
+  "title": "48.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cIs this the fastest route to the Golden Shore? I want to try to get some\nfishing in before dark! You haven\u2019t changed your mind, have you?\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "A) Agree to keep accompanying Ar Tel to Golden Shore."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from Ar Tel."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "B) Send Ar Tel home."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard Ar Tel and return"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "to your collection. Each Ranger soothes 1 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/ar_tel_angler/48_4"
+}

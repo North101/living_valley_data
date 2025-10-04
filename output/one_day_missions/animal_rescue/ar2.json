@@ -1,0 +1,158 @@
+{
+  "id": "one_day_missions/animal_rescue/ar2",
+  "lookup_group": "one_day_missions/animal_rescue",
+  "lookup_id": "ar2",
+  "title": "AR2",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "If the wounded animal was a sitka doe:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Sirisana administers a tranquilizer to the fawn, putting her to sleep. Then together, you get to work repairing the cracked hoof: first, drilling horizontal holes through the hoof and lacing carbon wire through the cracks, then stabilizing it with a thick paste-like substance. Finally, she brings the sleeping fawn to an empty cage and places her gently on the cushioned bed inside.  \u201cI\u2019ll keep an eye on her as she recovers. She should make a full recovery. We\u2019ll have to keep her here until she\u2019s grown a little more, but we should be able to release her back into the wild after that.\u201d She gives you a warm smile and shakes your hand. \u201cYou\u2019ve done her a great service today. I don\u2019t doubt she\u2019ll never forget what you\u2019ve done for her.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "If the wounded animal was a lutrinal:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Sirisana administers a tranquilizer to the lutrinal, putting him to sleep, then gets to work setting the bone while you hold him steady. Then you help her create a makeshift splint for the lutrinal\u2019s leg, and she brings the sleeping lutrinal to an empty cage, placing him gently on the cushioned bed inside. \u201cI\u2019ll keep an eye on the little guy as he recovers. I won\u2019t be able to release him until his leg is fully healed, but he should make a full recovery. Then we\u2019ll bring him to his natural habitat and let him back into the wild. Don\u2019t worry, lutrinals are very social animals\u2014he\u2019ll join a new romp soon enough and be back to his usual curious self.\u201d She gives you a warm smile and shakes your hand. \u201cYou\u2019ve done him a great service today. I don\u2019t doubt he\u2019ll never forget what you\u2019ve done for him.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "If the wounded animal was a marmot:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Sirisana administers a tranquilizer to the marmot, putting him to sleep. Then together, you get to work stitching the wound closed and bandaging the marmot up. Finally, she brings the sleeping marmot to an empty cage and places him gently on the cushioned bed inside.\u201cI\u2019ll keep an eye on him as he recovers. I won\u2019t be able to release him until his wound is fully healed, but he should make a full recovery. Then we\u2019ll bring him down to the greenbridge and release him back into his natural habitat. Don\u2019t worry, marmots are stronger than they look. He\u2019ll be okay.\u201d She gives you a warm smile and shakes your hand. \u201cYou\u2019ve done him a great service today. I don\u2019t doubt he\u2019ll never forget what you\u2019ve done for him.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u00bb Continue Reading:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "text",
+              "text": "You've helped the animal make a full recovery! It'll be back in the wild soon enough."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "Animal Rescue"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "End the day."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/one_day_missions/animal_rescue/ar2"
+}

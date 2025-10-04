@@ -1,0 +1,106 @@
+{
+  "id": "rules_glossary/s/set_aside",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "set_aside",
+  "title": "Set Aside",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Some rules \"set aside\" cards. Put these cards to the side of the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "play area"
+            }
+          ],
+          "id": "rules_glossary/p/the_play_area",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/play_area"
+        },
+        {
+          "type": "text",
+          "text": ". They are not"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "in play"
+            }
+          ],
+          "id": "rules_glossary/i/in_play",
+          "anchor": "",
+          "url": "/docs/rules_glossary/I/in_play"
+        },
+        {
+          "type": "text",
+          "text": "and not in the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "collection"
+            }
+          ],
+          "id": "rules_glossary/c/the_collection",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/collection"
+        },
+        {
+          "type": "text",
+          "text": "as long as they remain set aside."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Most set aside cards will be returned to the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "collection"
+            }
+          ],
+          "id": "rules_glossary/c/the_collection",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/collection"
+        },
+        {
+          "type": "text",
+          "text": "by the rule that set them aside. At the end of the day, return any set aside cards to the collection."
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Search effects looking for a set aside card cannot find them."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/S/set_aside"
+}

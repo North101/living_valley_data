@@ -1,0 +1,115 @@
+{
+  "id": "rules_glossary/d/disabled_thresholds",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "disabled_thresholds",
+  "title": "Disabled Thresholds",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If a path card\u2019s"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "progress threshold"
+            }
+          ],
+          "id": "rules_glossary/p/progress_threshold",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/progress_threshold"
+        },
+        {
+          "type": "text",
+          "text": "or"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "harm threshold"
+            }
+          ],
+          "id": "rules_glossary/h/harm_threshold",
+          "anchor": "",
+          "url": "/docs/rules_glossary/H/harm_threshold"
+        },
+        {
+          "type": "text",
+          "text": "shows a slash, the corresponding type of token cannot be added or moved to that card. If an effect requires you to add or move"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "progress"
+            }
+          ],
+          "id": "rules_glossary/p/progress",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/progress"
+        },
+        {
+          "type": "text",
+          "text": "or"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "harm"
+            }
+          ],
+          "id": "rules_glossary/h/harm",
+          "anchor": "",
+          "url": "/docs/rules_glossary/H/harm"
+        },
+        {
+          "type": "text",
+          "text": "to a card with a disabled threshold to resolve the remainder of the effect (such as if you must add"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "progress"
+            }
+          ],
+          "id": "rules_glossary/p/progress",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/progress"
+        },
+        {
+          "type": "text",
+          "text": "or"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "harm"
+            }
+          ],
+          "id": "rules_glossary/h/harm",
+          "anchor": "",
+          "url": "/docs/rules_glossary/H/harm"
+        },
+        {
+          "type": "text",
+          "text": "\u201cto\u201d resolve an effect), the effect does not resolve."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/D/disabled_thresholds"
+}

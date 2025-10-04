@@ -1,0 +1,72 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_1_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "78.1",
+  "title": "78.1 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You stand on the edge of a large pit, where it looks like an entire grove of trees has collapsed into the ground not long ago. Among the tangled mass of splintered trunks, you can make out what appears to be a broken carbonforged archway and cracked pipes leading into darkness. The sinkhole may have exposed a route into the old arcology beneath the Valley."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear the Arcology Sinkhole with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "while a"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "ranger_token"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "is on it to travel to a location on the Stratum 1 map."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_sinkhole/78_1"
+}

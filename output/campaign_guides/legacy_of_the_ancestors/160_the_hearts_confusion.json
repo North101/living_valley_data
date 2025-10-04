@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/160_the_hearts_confusion",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "160",
+  "title": "160. The Heart's Confusion",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You look up at the heart, and as you do, you feel an invisible force, like a pulse of energy, wash over you. In that moment, you sense feelings of astonishment and dismay. Nothing makes sense!, a voice in your mind screams. How could this have happened? Why did they do it? How could they not have seen? You reel backward and grasp your head as you steadily return to your senses."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_hearts_confusion"
+}

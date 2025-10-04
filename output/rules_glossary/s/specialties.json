@@ -1,0 +1,142 @@
+{
+  "id": "rules_glossary/s/specialties",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "specialties",
+  "title": "Specialties",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Your Ranger\u2019s specialty represents the training and experience of your Ranger\u2019s adulthood and the specialized training they bring to the Rangers. The specialty"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "sets"
+            }
+          ],
+          "id": "rules_glossary/s/sets",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/sets"
+        },
+        {
+          "type": "text",
+          "text": "include:"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Artificer"
+                }
+              ],
+              "id": "rules_glossary/a/artificer_specialty",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/artificer"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Conciliator"
+                }
+              ],
+              "id": "rules_glossary/c/conciliator_specialty",
+              "anchor": "",
+              "url": "/docs/rules_glossary/C/conciliator"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Explorer"
+                }
+              ],
+              "id": "rules_glossary/e/explorer_specialty",
+              "anchor": "",
+              "url": "/docs/rules_glossary/E/explorer"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Shaper"
+                }
+              ],
+              "id": "rules_glossary/s/shaper_specialty",
+              "anchor": "",
+              "url": "/docs/rules_glossary/S/shaper"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Spirit Speaker"
+                }
+              ],
+              "id": "rules_glossary/s/spirit_speaker_specialty",
+              "anchor": "",
+              "url": "/docs/rules_glossary/S/spirit_speaker"
+            },
+            {
+              "type": "text",
+              "text": "(Available in the"
+            },
+            {
+              "type": "em",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Stewards of the Valley"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "expansion)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/S/specialties"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rules_glossary/m",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "m",
+  "title": "M",
+  "content": null,
+  "items": [
+    "rules_glossary/m/maladies",
+    "rules_glossary/m/manifestation_keyword",
+    "rules_glossary/m/missions",
+    "rules_glossary/m/moments",
+    "rules_glossary/m/moments_on_the_path_expansion",
+    "rules_glossary/m/move",
+    "rules_glossary/m/mulligan",
+    "rules_glossary/m/mycelial_keyword"
+  ],
+  "url": "/docs/category/m"
+}

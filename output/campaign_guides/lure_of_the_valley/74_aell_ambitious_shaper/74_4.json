@@ -1,0 +1,56 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_4",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "74.4",
+  "title": "74.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Spiraling streams of thick white vapor rise up around Aell as he raises\nhis conduit into the air. The staff roars like a distant thunderstorm, and\nsparks leap up from its tip and into the clouds above. You can see\nroiling thunderheads stretched to the horizon, ready to dump their\npayloads of rain."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Aell spins his conduit with a flourish, and the sky darkens even further."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "You may attach a Flood card to a path card of your choice. Then\ndiscard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from Aell."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_4"
+}

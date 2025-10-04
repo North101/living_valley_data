@@ -1,0 +1,124 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_6",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "61.6",
+  "title": "61.6",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you ask a few questions about Tollin\u2019s work, he gradually pays less\nand less attention to his current work until he\u2019s set down his tools and\nis engaged in a lively discussion with you."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cI\u2019ve actually been asked by the elders at Spire to install a work on\nStoneweaver Bridge. Something to commemorate its construction,\nyou know? Anyway, I\u2019ve created the design, but now I have to haul\nnearly one hundred kilos of kinetic glass and materials there.\u201d He\nlooks faintly abashed. \u201cI \u2026 may have gotten carried away.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Suddenly he brightens. \u201cHey, you travel all over the Valley, right?\nCould you help me take the sculpture to Stoneweaver Bridge? I bet\nit would be really easy if we had a boat; maybe one of the ones Lyn\nMira makes out in Branch? But we could just carry the materials there\ntoo.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "A) Agree to help."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": ", and attach the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission to Tollin."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "B) Not today."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard Tollin. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_6"
+}

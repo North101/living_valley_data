@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/43_hanging_gardens",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "43",
+  "title": "43. Hanging Gardens",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Five meters above the ground, you step out of the doorway leading\ninto the trunk of Lone Tree and onto the wildly swinging catwalk of\nboards and rope. You keep a firm grip as you make your way toward\nthe massive boxes, each as large as a flatboat and overflowing with\nplants that hang from the tree\u2019s thick branches. As the wind shifts,\nyou catch the heady aroma of blooming flowers and ripe vegetables."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/hanging_gardens"
+}

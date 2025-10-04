@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_4",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "150.4",
+  "title": "150.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The frog trembles, then with a \u201cpop\u201d of displaced air, a second frog launches itself from the space the first still occupies. They hop away in opposite directions as fast as their lanky legs can launch them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard this Fractal Frog. Search the general set for a copy of Fractal Frog and shuffle it into the path deck."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/fractal_frog/150_4"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/154_crimson_guardian",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "154",
+  "title": "154. Crimson Guardian",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "A red glow illuminates the hall ahead, and you hear a low, mechanical growl. The sound of heavy footsteps precedes a hulking form that all but fills the passageway."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "It stops, and projects several thin, red bands of light that seem to scan its surroundings. You stand stock-still as the lights move across your body. First horizontally, then vertically. Then, suddenly, the machine turns, and a powerful, blood red light shines upon you."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/crimson_guardian"
+}

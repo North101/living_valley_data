@@ -1,0 +1,56 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_6",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "74.6",
+  "title": "74.6",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You hear a yell followed by a crack of thunder. You turn to see Aell, his\nconduit raised high, laughing as he's surrounded by reclaimers and\nhydraworms, lightning coursing through the air. Then you see him fall\nto his knees, and he vanishes from sight as the biomelds overtake him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "AELL LOST"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracking sheet. Permanently remove Aell from the Marsh of Rebirth set."
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "Do not end the day."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_6"
+}

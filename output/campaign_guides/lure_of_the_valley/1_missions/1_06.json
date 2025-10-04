@@ -1,0 +1,104 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_06",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.06",
+  "title": "1.06",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "IF YOU ARE ON THE WASHED AWAY MISSION, GO TO"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "1.22"
+                }
+              ],
+              "id": "campaign_guides/lure_of_the_valley/1_missions/1_22",
+              "anchor": "",
+              "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_22"
+            },
+            {
+              "type": "text",
+              "text": ". OTHERWISE, READ:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Although you spent the last few hours trying to shore up barricades\nand redirect the raging flow of water, the flood finally overwhelms\nyour efforts. You have no choice but to retreat to higher ground."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Check off the bubble matching your current location next to"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RISING\nWATERS"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker. Then record the name of the current\nlocation followed by"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "FLOODED"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "End the day."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_06"
+}

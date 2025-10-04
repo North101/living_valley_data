@@ -1,0 +1,77 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/6_branch",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "6",
+  "title": "6. Branch",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF SILARO MAKO IS IN PLAY, GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "53.6"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_6",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/silaro_mako_archaelologist/53_6"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF TALA THE RED IS IN PLAY, GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "84.9"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_9",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/tala_the_red_exile/84_9"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "OTHERWISE, READ:"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The town of Branch spreads out among the trunks and branches of the\ngiant cedar trees and tough, wrinkled dolewoods. The whole village\nis a maze of platforms and narrow walkways, all created from tree\nbranches encouraged to grow together into dense mats punctuated\nby spherical homes."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/branch"
+}

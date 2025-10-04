@@ -1,0 +1,47 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_8_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "61.8",
+  "title": "61.8 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Tollin looks confused for a moment. Then suddenly, he collapses. You rush to help him, and he shakes his head groggily. \u201cThe strangest thing just happened\u2026\u201d he murmurs."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "His injuries look bad enough that you\u2019d better set up camp. Treating them may take a while."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "End the Day."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_8"
+}

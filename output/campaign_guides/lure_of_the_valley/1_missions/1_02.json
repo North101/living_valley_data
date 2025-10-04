@@ -1,0 +1,252 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_02",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.02",
+  "title": "1.02",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF THE RANGERS HAVE NO BISCUITS ON THEIR ROLE CARDS, GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.02A"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/1_missions/1_02",
+          "anchor": "102a",
+          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_02#102a"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "br",
+      "items": []
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "OTHERWISE, READ:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "With an empty basket, you continue down the path until you come\nacross Calypsa and Kal, resting beside a bubbling stream. Calypsa\ngestures toward the basket."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cHow did it go?\u201d she asks."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Before you can answer, Kal gives a mirthless laugh. \u201cI think those\ncrumbs speak for themselves.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You glance down and self-consciously brush the biscuit crumbs off\nyour shirt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "BISCUIT DELIVERY"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission and return"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "BISCUIT BASKET"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "to the collection. Each Ranger soothes 2 fatigue. Then go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.03"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/1_missions/1_03",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_03"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.02A"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "102a",
+          "url": "#102a"
+        }
+      ],
+      "anchor": "102a"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "With an empty basket, you continue down the path until you come\nacross Calypsa and Kal, resting beside a bubbling stream. Calypsa\ngestures toward the basket."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cHow did it go?\u201d she asks."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You tell her of the people you met in your travels today and how each\nwas appreciative of Hy Pimpot\u2019s bakery."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Calypsa stands and makes a show of studying you closely. \u201cAnd \u2026 no\ncrumbs! I\u2019m impressed. Kal, I believe this settles our bet. He figured\nyou would have snuck a few for yourself.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Kal looks at you suspiciously. \u201cYou need to learn to live a little,\u201d he\nsays."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "BISCUIT DELIVERY"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission, and return the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "BISCUIT\nBASKET"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "to the collection. Each Ranger soothes 2 fatigue. Then go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.03"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/1_missions/1_03",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_03"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_02"
+}

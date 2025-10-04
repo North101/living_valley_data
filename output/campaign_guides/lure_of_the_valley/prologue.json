@@ -1,0 +1,1442 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/prologue",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": null,
+  "title": "Prologue",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Welcome to the prologue to the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "em",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Lure of the Valley"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "campaign for"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "em",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Earthborne Rangers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Playing this prologue is optional, but if you\u2019re new to the game, we recommend that you do."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "This prologue is not a substitute for the rulebook. While it touches on\nthe rules, someone in your group will need to have either read the\nrulebook or be familiar with the rules before you dive in. If that person\nis you, the prologue is a great way to ease yourself and your group\ninto the game. Keep the rulebook close at hand in case anyone has\nquestions or is looking for clarification on any of the finer points."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Playing the prologue will do a couple of things for you. For one, it\nwill introduce you to the basic concepts of gameplay. Having some\nunderstanding of how to play the game will help you build a Ranger\ndeck suited to your play style and the experience you\u2019d like to have\nwhile playing. It\u2019s important to create a Ranger deck that works for you\nand contains cards that you enjoy playing! Additionally, as you play the\nprologue, you\u2019ll build your Ranger deck while learning the basics of the\ngame, getting a sense for what you want to include in your deck based\non a small amount of experience with the game. Once the prologue is\ncomplete, you\u2019ll have the option to revise any deck-building decisions\nthat you made during play, so don\u2019t worry about making perfect\nchoices."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "The prologue assumes that you are playing with the contents of a\nsingle core set. If you\u2019ve combined multiple core sets, or included\na Ranger Card Doubler or any expansions, you can still play the\nprologue, but you\u2019ll need to tailor the deck-building sections to suit\nyour specific situation. With that, let\u2019s begin!"
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Imagine a low fire burning in the pre-dawn light. Imagine you\u2019re\nwrapped in a warm cloak, breathing cool mountain air. You smell the\nsmoke from the fire and the rich scent of pine."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Last night you swore your oaths to the ancestors, to the elders, and\nto the spirit of the Valley. The sun begins to rise on your first day as a\nRanger, a caretaker of the land, and a friend to its people."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You watch as Elder Thrush retrieves her condenser kettle from a low\nbranch, checks the water level, then places it onto the fire. As the\nwater rises to boil, Calypsa, the Ranger who has mentored you for\nthe past nine months, sets about crushing dried marrowleaf for tea in\nplain carbon forged cups."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Once it\u2019s ready, she hands you a cup. Steam pours off of it. It smells\nof the forest."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Calypsa raises her cup. \u201cTo your true self.\u201d She drinks, and you follow\nsuit. The tea invigorates you, warmth spreading throughout your\nbody. It feels amazing."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Your eyes are drawn to the flame. As you watch, your eyes unfocus.\nYou hear the voices of your ancestors. You can feel them with you.\nYou can feel their support and their love. You hear them speak, and\nthey remind you of your best qualities, the person you truly are."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Who are you?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "You\u2019ll begin by choosing aspect cards. Going clockwise around the\ntable, each player will choose one aspect card until everyone has one.\nYou\u2019ll then repeat that process for your personality cards. These cards\ncompose the foundation of your Ranger deck."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "1."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1",
+          "url": "#1"
+        }
+      ],
+      "anchor": "1"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "img",
+          "items": []
+        },
+        {
+          "type": "text",
+          "text": "Start by gathering the aspect card set. There are twelve aspect cards in the core set. Each has four numbers on it, ranging from 3 to 1. These numbers represent your Ranger\u2019s core abilities, based on their lifestyle and inherent attributes. Your aspect values determine the resources you\u2019ll have to play cards from your hand and to interact with the game world."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Think about what types of things you\u2019d like your Ranger to be able to do well. Your aspects, especially your high and low aspects, have a significant impact on how your Ranger interacts with the game world."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you\u2019d like to be able to hike swiftly through the Valley, or if you\u2019d like to be able to defend yourself against dangerous predators with a hand weapon, you should choose"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "Fitness"
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "as your high aspect."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you\u2019d like to be able to easily converse and get along with the people of the Valley, or if you want to form deep connections with the natural world, you should choose"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "Spirit"
+            }
+          ],
+          "color": "gold"
+        },
+        {
+          "type": "text",
+          "text": "as your high aspect."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you\u2019d like to be able to adeptly avoid the Valley\u2019s many dangers and easily explore the environment, you should choose"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "Awareness"
+            }
+          ],
+          "color": "green"
+        },
+        {
+          "type": "text",
+          "text": "as your high aspect."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Lastly, if you\u2019d like to be able to expertly solve a multitude of problems and handle situations which require either great concentration or great insight (or both), you should choose"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "Focus"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "as your high aspect."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "2."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "2",
+          "url": "#2"
+        }
+      ],
+      "anchor": "2"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Choose a player to be the Lead Ranger. The Lead Ranger walks at\nthe front of your hiking formation as you explore the Valley\u2019s many\nfootpaths, so they will encounter a higher rate of both dangers and\nboons than the rest of the group. They also make decisions for the\ngroup if it can\u2019t reach a consensus."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "3."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "3",
+          "url": "#3"
+        }
+      ],
+      "anchor": "3"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Beginning with the Lead Ranger, choose an aspect card, and\nplace it in front of you. Then the player to your left does the same.\nContinue to choose aspect cards in this manner until all players\nhave chosen one. Place the remaining aspect cards back in the box.\nYour aspect card sits in front of you as you play. It is not shuffled\ninto your deck."
+        },
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "text",
+              "text": "Note: If you are playing solo, we recommend\nchoosing a"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Fitness"
+                }
+              ],
+              "color": "red"
+            },
+            {
+              "type": "text",
+              "text": "of 2 or higher."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "4."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "4",
+          "url": "#4"
+        }
+      ],
+      "anchor": "4"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Find the Personality card set and separate them by aspect\n("
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "Awareness"
+            }
+          ],
+          "color": "green"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "Fitness"
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "Focus"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", and"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "Spirit"
+            }
+          ],
+          "color": "gold"
+        },
+        {
+          "type": "text",
+          "text": "). There should\nbe a total of eight cards for each aspect (two copies each of four\nunique cards)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "You\u2019ll notice that each of these cards has one or more icons in the\nupper-left portion of the card. These are called \u201capproach icons.\u201d They\nrepresent how well your Ranger handles certain types of situations."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "The four approaches are conflict, connection, exploration, and\nreason. The mix of approach icons in your deck will represent your\nRanger\u2019s proclivities. You can choose your personality cards based\nsolely on the card title, their rules text, or you can choose them\nbased on which approach icons you\u2019d like to have in your deck."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "5."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "5",
+          "url": "#5"
+        }
+      ],
+      "anchor": "5"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Start with the Awareness cards, and place them in the center of the\nplay area so that all players can see them. Beginning with the last\nplayer to pick an aspect card (the player to the right of the Lead\nRanger), choose one card, take both copies, and place them in\nfront of you. Then the next player to the right does the same."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "img",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "As you\u2019re choosing cards, be sure to check your aspect values.\nSome personality cards require you to have a 2 or higher in its aspect. Once\nall players have chosen their Awareness personality cards, place any\nunchosen cards back into the box."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "6."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "6",
+          "url": "#6"
+        }
+      ],
+      "anchor": "6"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Then, starting with the last player to choose their Awareness\ncards, do the same for the personality cards of each other aspect\nin turn, starting with Fitness, then Focus, then Spirit. Once all\nplayers have chosen their personality cards, each player should\nhave a total of eight personality cards (two copies of four unique\ncards) sitting in front of them."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "7."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "7",
+          "url": "#7"
+        }
+      ],
+      "anchor": "7"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each player shuffles their personality cards and places them\nfacedown in front of them beside their aspect card. For now, this is\nyour Ranger deck. Then each player draws 6 cards. This is your starting hand."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Before you build the rest of your deck, we\u2019ll go through a round of\nplay using only your Ranger\u2019s personality cards."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "8."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "8",
+          "url": "#8"
+        }
+      ],
+      "anchor": "8"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Place a number of energy tokens equal to your Ranger\u2019s aspect values onto your aspect card."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Now, we\u2019ll set up the play area beginning with the location where\nyou\u2019ll start your journey: Ancestor\u2019s Grove."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "9."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "9",
+          "url": "#9"
+        }
+      ],
+      "anchor": "9"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Find the Ancestor\u2019s Grove, Boulder Field, and Lone Tree Station\ncards in the location card set. These are the only locations available\nto you during the prologue. Place Ancestor\u2019s Grove in your play\narea so that it is easily accessible to all players. Place Boulder Field\nand Lone Tree Station off to the side for now."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "10."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "10",
+          "url": "#10"
+        }
+      ],
+      "anchor": "10"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Find the Woods path card set. Shuffle these cards and place them\nfacedown beside the Ancestor\u2019s Grove location card. This is the\npath deck. The path deck holds the flora, fauna, and geographical\nfeatures you\u2019ll encounter in and around Ancestor\u2019s Grove."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Typically, each time you travel to a new location, you\u2019ll build a new\npath deck using cards from multiple sets, but for the prologue, we\u2019ll\nuse the Woods set on its own."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "11."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "11",
+          "url": "#11"
+        }
+      ],
+      "anchor": "11"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Find the A Perfect Day card in\nthe weather card set (the back of\nthe A Perfect Day card is Midday\nSun). Place A Perfect Day next\nto the Ancestor\u2019s Grove location\ncard and add three general tokens to it.\nBuild and shuffle the challenge deck."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "12."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "12",
+          "url": "#12"
+        }
+      ],
+      "anchor": "12"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each player takes a Common\nTests card and places it in front of\nthem next to their aspect card."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "13."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "13",
+          "url": "#13"
+        }
+      ],
+      "anchor": "13"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Follow the Arrival Setup instructions on the back of the Ancestor\u2019s\nGrove card."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Your eyes refocus, and Calypsa smiles warmly. \u201cIt is time,\u201d she says.\n\u201cAs of this morning, I am no longer your mentor. Like you, I am a\nRanger.\u201d She speaks briefly with Elder Thrush, douses the fire, then\nturns to you. \u201cWe will travel from here to the Boulder Field. I\u2019ll stay\nback and follow your lead.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "14."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "14",
+          "url": "#14"
+        }
+      ],
+      "anchor": "14"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Your goal this round is to travel from Ancestor\u2019s Grove to Boulder\nField. If you\u2019re unable to do so, that\u2019s all right. The prologue will\ncontinue!"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "On the Common Tests card, you\u2019ll find the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "Traverse"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "test. During\nthis round, you can use this test to place"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "on the Ancestor\u2019s Grove location card. Once there\u2019s enough"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "on Ancestor\u2019s Grove (4 per Ranger), you\u2019ll be able to travel to Boulder Field."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Now, play one round as described on page 12 of the rulebook until either all Rangers are finished taking turns and each has rested, or one Ranger tries to draw a card or suffer fatigue while having no cards remaining in their Ranger deck."
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "READ THE ENTRY CORRESPONDING TO WHICH CONDITION WAS MET:"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "read-the-entry-corresponding-to-which-condition-was-met",
+          "url": "#read-the-entry-corresponding-to-which-condition-was-met"
+        }
+      ],
+      "anchor": "read-the-entry-corresponding-to-which-condition-was-met"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "A) A Ranger ran out of cards in their Ranger deck:"
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "During normal play, drawing a card or suffering fatigue when you have no cards remaining in your Ranger deck ends the day. But, since you\u2019re playing with far fewer cards in your deck than normal for this prologue, instead shuffle your discard pile and fatigue stack into your Ranger deck and continue playing with the next Ranger turn."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "B) All Rangers rested:"
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "You\u2019ve nearly finished your first round! If you are able to travel to Boulder Field, do so now. If you haven\u2019t yet added enough"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "to the location to travel, you\u2019ll have the opportunity to do so next round. Regardless of your location, we\u2019re going to first take a moment to continue to build your Ranger deck before we move on to the refresh phase and the next round of play."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you walk beneath the shade of a long-limbed oak, you think back\nto your youth, living and playing in the villages and wild spaces of\nthe Valley. A light breeze cools your skin, and it conjures a memory of your apprenticeship. You had finished your first day\u2019s work, sweat\ncooling on your skin, overlooking the Silverfin\u2014its water sparkling\nwith the colors of sunset. You stood at a moment of promise. Now, as\na newly sworn Ranger, you stand at another, buoyed by the lessons\nlearned in your youth."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Now that you have a sense for how you interact with the game,\nit\u2019s time to choose your background. Your background represents\nthe formative years of your Ranger\u2019s life: where they grew up, their\noccupation, and how they spent their time before they took on\ngreater responsibilities in the Valley."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "15."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "15",
+          "url": "#15"
+        }
+      ],
+      "anchor": "15"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Find each of the four background card sets (Artisan, Forager,\nShepherd, and Traveler). Each background set contains eighteen\ncards (two copies each of nine unique cards). Place these sets in the\ncenter of the play area so that all players can see them. Beginning\nwith the lead Ranger, choose one background set and place it in\nfront of you. Then the next player to the left does the same. Once\nall players have chosen their background set, place any unchosen\nsets into the box."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "img",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "16."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "16",
+          "url": "#16"
+        }
+      ],
+      "anchor": "16"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Now that everyone has a set of background cards in front of them,\ntake some time to look through the cards in your set and determine\nwhich cards you\u2019d like to include in your deck. You\u2019ll choose a\ntotal of five unique cards (taking two copies of each) from your\nbackground set."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "As you\u2019re choosing cards, be sure to check your aspect values.\nSome cards in the background sets require you to have at least a 2\nin its aspect. Once all players have chosen which cards they would\nlike to include in their deck, place any unchosen cards to the side.\nWe\u2019ll revisit them later."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "17."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "17",
+          "url": "#17"
+        }
+      ],
+      "anchor": "17"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Add your newly-chosen background cards to your Ranger deck and shuffle them together. Place your deck facedown again."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You pause to drink some water from your canteen. Voluminous clouds\ndrift lazily overhead. You see Calypsa emerge from the trees and walk\ndown the trail toward you. \u201cLet\u2019s walk together for awhile,\u201d she says.\n\u201cI need to share some last bits of wisdom with you. It may be some\ntime until our paths cross again out here in the wild.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Before you build the rest of your deck, we\u2019ll continue playing, this time\nusing only your Ranger\u2019s personality cards and background cards."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "18."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "18",
+          "url": "#18"
+        }
+      ],
+      "anchor": "18"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Before proceeding, search the Valley set for Calypsa, Ranger Mentor, and put her into play within reach of a Ranger of your choice. Don\u2019t read her campaign entry during this prologue, however. Your goal for the round is to\nclear Calypsa by placing sufficient"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "tokens on her."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "On the Common Tests card, you\u2019ll find the Connect test. Try using this test to place"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "tokens on Calypsa."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Proceed with the refresh phase and then the next round of play.\nWhen you clear Calypsa, or when each Ranger has finished taking\nturns and has rested (regardless of whether or not you cleared Calypsa), read the following:"
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201c ... and that was the last time I went swimming near a lutrinal holt.\u201d\nYou and Calypsa share a laugh. She takes the hem of your cloak\nbetween her thumb and forefinger and nods solemnly. \u201cYou are now\na Ranger of the Valley,\u201d she says. \u201cYou are charged with protecting its\npeople and lending aid to any in need, but while you do, take care to\nlook out for each other. Your fellow Rangers will need you, and you\nwill need them.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "She steps back and smiles. \u201cIt\u2019s time to return to Lone Tree Station. I\nmust go by a different route, but I will see you there.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "19."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "19",
+          "url": "#19"
+        }
+      ],
+      "anchor": "19"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Return Calypsa, Ranger Mentor to the Valley set."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Now that you\u2019ve had an opportunity to try out some cards from\nyour background set, it\u2019s time to choose your specialty. Your\nRanger\u2019s specialty represents their recent past and the occupation\nto which they\u2019ve dedicated themselves prior to joining the Rangers."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "20."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "20",
+          "url": "#20"
+        }
+      ],
+      "anchor": "20"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Find each of the four specialty sets (Artificer, Conciliator, Explorer,\nand Shaper). Each specialty set contains twenty-six cards (two\ncopies each of twelve unique cards plus two role cards). Place these\nsets in the center of the play area so that all players can see them.\nBeginning with the last player to choose a background set, choose\none specialty set and place it in front of you. Then the next player\nto the right does the same. Once all players have chosen their\nspecialty set, place any unchosen sets into the box."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "img",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "21."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "21",
+          "url": "#21"
+        }
+      ],
+      "anchor": "21"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Now that everyone has a set of specialty cards in front of them,\ntake some time to look through the cards in your set and determine\nwhich cards you\u2019d like to include in your deck. You\u2019ll choose a total\nof five unique cards (two copies of each) from your specialty set\nplus one role card, which does not get shuffled into your deck. Your\nrole card sits in front of you, next to your aspect card."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "As you\u2019re choosing cards, be sure to check your aspect values.\nSeveral cards in the specialty set require you to have at least a 2\nor a 3 in its aspect. Once all players have chosen which cards they\nwould like to include in their deck, place any unchosen cards to the\nside along with the unchosen cards from your background set. We\u2019ll\nrevisit these shortly."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "22."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "22",
+          "url": "#22"
+        }
+      ],
+      "anchor": "22"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Add your newly-chosen specialty cards to your Ranger deck and shuffle them together. Place your deck facedown again."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you\u2019ve chosen Shaper as your specialty, you may search your deck for a conduit and equip it (normally this is done at the start of the day due to the Setup keyword, but for this prologue, you can do it now)."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "23."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "23",
+          "url": "#23"
+        }
+      ],
+      "anchor": "23"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Proceed to the refresh phase and the next round of play."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Regardless of your current location (Ancestor\u2019s Grove or Boulder Field), your goal this round is to travel to Lone Tree Station. If you are able to travel at the end of a round, travel to Lone Tree Station to complete the prologue."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "WHEN YOU TRAVEL TO LONE TREE STATION, READ THE\nFOLLOWING:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You emerge from a line of trees and find yourself walking through a\nvast, rolling field. In the distance, you see the towering form of Lone\nTree Station rising against the clear blue sky, and on the breeze you\nsmell the hint of something sweet. Is someone baking?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "The prologue is nearly complete. Take some time to tidy up the play\narea. Gather your deck, discard pile, fatigue stack, and hand into\nyour Ranger deck and set it aside. Gather the path cards and return\nthem to their sets. It\u2019s time to conclude deck-building by choosing\nyour Ranger\u2019s outside interest. Usually you choose your outside\ninterest from the entire starting card pool, but for the prologue, we\u2019ll\nnarrow it down a bit so it\u2019s not such an intimidating choice."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you\u2019re playing solo, you can skip the next step and choose your\noutside interest from the starting card pool, or you can choose\none of the suggested outside interests listed on page 33 of the\nrulebook."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "24."
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "24",
+          "url": "#24"
+        }
+      ],
+      "anchor": "24"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Look through the cards from your chosen background and specialty\nsets that you did not include (or couldn\u2019t include) in your deck.\nChoose two of those cards (both copies of each) that you think\nmight be helpful to the group, and place them in the center of the\ntable."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If someone in your group is playing as a Shaper, keep in mind that\nmost cards from that specialty are not useful to other players due to\ntheir keywords, so choose carefully."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Beginning with the lead Ranger, choose one card (both copies)\nfrom those in the center of the table, and place them in front of\nyou. Then the next player to the left does the same. Once all\nplayers have chosen their outside interest, add those cards to your\ndeck, and return the remaining cards from your background and\nspecialty sets to the box."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Now that you\u2019ve played a bit, if you\u2019d like to make different choices\nfor your Ranger deck, you may do so now."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "You\u2019re now ready to begin the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "em",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Lure of the Valley"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "campaign! To\nbegin, read entry 1, \"Missions.\""
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/prologue"
+}

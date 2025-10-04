@@ -1,0 +1,47 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_7",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "44.7",
+  "title": "44.7",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Kordo stumbles and nearly falls to the ground. Blood is running down\nhis leg, and his foot is twisted at an alarming angle."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cMy own fault,\u201d he grunts. \u201cI'm sorry, but I don\u2019t think I\u2019ll be moving\nanywhere soon. Can you patch me up?\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "End the day."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_7"
+}

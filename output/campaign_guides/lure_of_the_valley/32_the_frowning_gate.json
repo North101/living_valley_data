@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/32_the_frowning_gate",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "32",
+  "title": "32. The Frowning Gate",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Although the land around the swamp is thick with trees overgrown\nwith moss and vines, you recognize the infamous Frowning Gate as\nyou approach. Ancient trees curl over the path to form a gnarled arch,\nheavy with drooping curtains of moss and choked with vines. Beyond\nthe arch, the trail descends to the depths of the swamp."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_frowning_gate"
+}

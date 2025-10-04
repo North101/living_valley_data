@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_4",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "138.4",
+  "title": "138.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As soon as your fingers brush across the surface of the seed, you\u2019re struck with a single, all-consuming thought. You must protect this seed \u2026 Wait, you\u2019ve been here before. You shake your head and snap back to your senses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard the Mysterious Seed. Each Ranger may either soothe 2 fatigue or gain 1 FOC."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mysterious_seed/138_4"
+}

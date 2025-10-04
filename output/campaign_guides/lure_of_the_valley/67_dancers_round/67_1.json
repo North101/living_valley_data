@@ -1,0 +1,47 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/67_dancers_round/67_1",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "67.1",
+  "title": "67.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Eventually, the exhausted musicians end their playing, begging for\nrefreshments for sore hands and hoarse voices. The dancers begin to\nleave the cleared space in the center of the festival, returning to the\nstalls and booths set up for the occasion. Soon those will be taken down\nas well, and the good folk of Meadow will return to their regular lives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Write"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "CELEBRATED THE HARVEST FESTIVAL"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/dancers_round/67_1"
+}

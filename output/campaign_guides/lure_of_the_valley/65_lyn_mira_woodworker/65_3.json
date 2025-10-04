@@ -1,0 +1,69 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_3",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "65.3",
+  "title": "65.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "With a gentle nudge you lock the last panel of dolewood into place,\ntake a breath, and step back. Lyn gives you a satisfied nod. You look\nup and realize you\u2019ve lost track of time, the carving process was so\nengrossing it felt as if time slipped away like a silent stream flowing\non toward dusk. She eyes your work admiringly."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cI must say, I\u2019m impressed. Took me more than a few goes before\nI managed to make something like this.\u201d You thank her for the\ncompliment and her help, and she clasps you on the shoulder. \u201cOf\ncourse! Should be rapids ready. Try collapsing it for storage, and if\nyou\u2019d like, there\u2019s a creek about a mile east of here where you can\ngive her a test run.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the Dolewood Canoe reward card. Discard Lyn, and return"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "to the collection. Write"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "CARVED A DOLEWOOD CANOE"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_3"
+}

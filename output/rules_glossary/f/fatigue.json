@@ -1,0 +1,278 @@
+{
+  "id": "rules_glossary/f/fatigue",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "fatigue",
+  "title": "Fatigue",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Your Ranger can only accomplish so much in one day before they become too tired to go on. Your deck represents your Ranger\u2019s stamina, and if it runs out, you will have to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "end the day"
+            }
+          ],
+          "id": "rules_glossary/e/end_the_day",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/end_the_day"
+        },
+        {
+          "type": "text",
+          "text": ". Navigating the Valley can be taxing, and no matter how in tune a Ranger becomes with nature, there are still challenges that can put strain on them. This is represented by fatigue."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When your Ranger suffers fatigue, remove cards equal to the amount of fatigue suffered from the top of your Ranger deck and\u2014without looking at them\u2014place those cards facedown near your Ranger discard, creating the fatigue stack."
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "items": []
+    },
+    {
+      "type": "h6",
+      "items": [
+        {
+          "type": "text",
+          "text": "Ranger deck, discard, and fatigue stack"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "ranger-deck-discard-and-fatigue-stack",
+          "url": "#ranger-deck-discard-and-fatigue-stack"
+        }
+      ],
+      "anchor": "ranger-deck-discard-and-fatigue-stack"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you are ever instructed to suffer fatigue, but you do not have enough cards remaining in your Ranger deck to suffer that fatigue, you must end the day."
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "When you suffer more than one fatigue in one effect, take each card one by one off of the top of your deck and place it into your fatigue stack."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "\u201cFatigues You\u201d"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "fatigues-you",
+          "url": "#fatigues-you"
+        }
+      ],
+      "anchor": "fatigues-you"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each card in the path deck has a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "presence"
+            }
+          ],
+          "id": "rules_glossary/p/presence",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/presence"
+        },
+        {
+          "type": "text",
+          "text": "value in the upper right-hand corner. Some game effects will cause cards to fatigue you. When this happens, if the card is"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "ready"
+            }
+          ],
+          "id": "rules_glossary/r/ready",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/ready"
+        },
+        {
+          "type": "text",
+          "text": ", you suffer fatigue equal to the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "presence"
+            }
+          ],
+          "id": "rules_glossary/p/presence",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/presence"
+        },
+        {
+          "type": "text",
+          "text": "of that card. If it is"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "exhausted"
+            }
+          ],
+          "id": "rules_glossary/e/exhaust",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/exhaust"
+        },
+        {
+          "type": "text",
+          "text": ", the card does not fatigue you."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Soothing Fatigue"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "soothing-fatigue",
+          "url": "#soothing-fatigue"
+        }
+      ],
+      "anchor": "soothing-fatigue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Some game effects will allow you to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "soothe"
+            }
+          ],
+          "id": "rules_glossary/s/soothe",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/soothe"
+        },
+        {
+          "type": "text",
+          "text": "fatigue. When this happens, draw that many cards from the top of your fatigue stack and place them in your hand."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Fatigue from Interacting"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "fatigue-from-interacting",
+          "url": "#fatigue-from-interacting"
+        }
+      ],
+      "anchor": "fatigue-from-interacting"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When you"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "interact"
+            }
+          ],
+          "id": "rules_glossary/i/interact",
+          "anchor": "",
+          "url": "/docs/rules_glossary/I/interact"
+        },
+        {
+          "type": "text",
+          "text": "with the environment, things between you and the thing with which you\u2019re"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "interacting"
+            }
+          ],
+          "id": "rules_glossary/i/interact",
+          "anchor": "",
+          "url": "/docs/rules_glossary/I/interact"
+        },
+        {
+          "type": "text",
+          "text": "may cause you to suffer fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/F/fatigue"
+}

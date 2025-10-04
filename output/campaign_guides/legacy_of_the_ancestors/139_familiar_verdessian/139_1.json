@@ -1,0 +1,152 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_1",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "139.1",
+  "title": "139.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you push your way through the overgrowth that fills the abandoned laboratories and walkways of the Verdant Sphere, one of the vines writhes under your touch. You leap back as the vines twist together and rise up to form a bipedal figure. It's a Verdessian!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF YOU"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "BEFRIENDED THE VERDESSIAN"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "139.2"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_2",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_02"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF YOU"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "ANGERED THE VERDESSIAN"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "139.3"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_3",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_03"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "VERDESSIAN KILLED?"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "139.4"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_4",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_04"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "OTHERWISE, GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "139.5"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_5",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_05"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_01"
+}

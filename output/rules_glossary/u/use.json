@@ -1,0 +1,75 @@
+{
+  "id": "rules_glossary/u/use",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "use",
+  "title": "Use",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When the card instructs you to \u201cuse\u201d a token, you must"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "discard"
+            }
+          ],
+          "id": "rules_glossary/d/discard",
+          "anchor": "",
+          "url": "/docs/rules_glossary/D/discard"
+        },
+        {
+          "type": "text",
+          "text": "one of those tokens to use the following ability. If you no longer have tokens to discard, you cannot resolve effects that require you to use a token."
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "When you resolve an effect that uses multiple tokens (such as a \"Use X\" effect), effects that trigger on \"using a token\" resolve once for each token used."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "text",
+              "text": "Note: Abilities that use tokens can only be used at specific"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "timings"
+                }
+              ],
+              "id": "rules_glossary/t/timing",
+              "anchor": "",
+              "url": "/docs/rules_glossary/T/timing"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/U/use"
+}

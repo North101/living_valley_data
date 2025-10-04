@@ -1,0 +1,47 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_5",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "93.5",
+  "title": "93.5",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "It takes almost an hour, but you finally get Dace\u2019s group to the safety\nof the far bank of the Silverfin River. Dace herself carries the last of\nthe people\u2014a young boy\u2014in a bounding flight across the water.\nAccompanied by a rush of wind, she gracefully lands beside you.\n\u201cThank you,\u201d she says. \u201cI can take it from here.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Write"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "DACE\u2019S GROUP SAVED"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker, and return Dace, Ambitious Shaper to the collection."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_fall_of_spire/93_5"
+}

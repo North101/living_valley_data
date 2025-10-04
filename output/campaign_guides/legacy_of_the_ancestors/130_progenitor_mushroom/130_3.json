@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_3",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "130.3",
+  "title": "130.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "With heavy, sure strokes, you chop into the stalk and cap of the mushroom. As you do, pulses of blue-violet light ripple out across the mycelia, reverberating into the surrounding fungi. Some of the smaller ones wilt and collapse almost immediately, and even larger ones begin to droop."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Attach the Progenitor Mushroom facedown to the location as a reminder. The next time you travel, randomly remove 3 flora from the terrain set during arrival setup at the new location."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/progenitor_mushroom/130_3"
+}

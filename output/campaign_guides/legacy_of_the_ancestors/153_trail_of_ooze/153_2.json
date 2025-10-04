@@ -1,0 +1,58 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_2",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "153.2",
+  "title": "153.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You\u2019ve seen plenty of ruined equipment throughout the arcology, but something about this broken meter-high cylinder catches your attention. After a moment you realize that the interior and exterior of the shattered glass are covered in a thick, translucent goo that still glistens in the light of your lambance rigs. Then you see a trail of the same substance heading away from you. This cylinder must have broken recently. More importantly, whatever was in it has escaped."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear the Trail of Ooze with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to track it."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/trail_of_ooze/153_2"
+}

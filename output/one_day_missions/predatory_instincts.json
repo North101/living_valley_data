@@ -1,0 +1,150 @@
+{
+  "id": "one_day_missions/predatory_instincts",
+  "lookup_group": "one_day_missions/predatory_instincts",
+  "lookup_id": null,
+  "title": "Predatory Instincts",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "First, perform the first 4 steps of setup on page 10 of the rulebook, then return here for the remainder of setup."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Pebbles crunch underfoot as you walk away from Spire alongside Elder Orlin. You just finished meeting with all of the Elders of the Valley. A gathering like this is rare, but so is the problem they came to discuss. One of the species of biomeld in the Valley, the caustic mulcher, has become more prominent and is beginning to spread southward."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Elders are worried, and so are you, for caustic mulchers are known to indiscriminately digest any living being that crosses their path. Deep in the wild forests of the Valley they are regarded by some as a critical part of the ecosystem, but this close to the inhabitants of the Valley, they could be more harmful than helpful. Recently, one particular mulcher has been seen roaming the shores of the Silverfin near Spire, and your neighbors worry that it\u2019s only a matter of time before it ensnares an unwary villager with its barbed tongue."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Council of Elders agreed that something needs to be done, but they left it up to you to decide how to deal with the problem. But before you make that decision, you\u2019ll have to find the mulcher."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "LURE (CAUSTIC MULCHER)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. For this mission, you can set aside predators and prey (not just prey as described on the mission card). (Put the Lure mission card into play in the surroundings with the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "CAUSTIC MULCHER"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "attached facedown.)"
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Elder Orlin escorts you to the bridge leading from Spire to the shore, turns, and gives you a serious nod."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cThis isn\u2019t going to be an easy task, but after Commander Thrush spoke so highly of you and that other young Ranger, Kal Iver, I\u2019m sure at least one of you will be able to complete this mission.\u201d She points to the line of trees on the far shore. \u201cThe mulcher has been spotted along the Silverfin from here to White Sky, but gets around surprisingly quickly. I imagine you will have success luring it no matter where you look, so take whatever path feels right to you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Look at the Valley map. Choose one of the four locations connected to Spire by non-river paths. Put the chosen location card and the Downpour weather card into play in the surroundings."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Use the terrain set matching that of the path between your chosen location and Spire to build the path deck. Then shuffle 3 random cards from the Valley set into the path deck."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete setup by performing the setup steps on the back of the location card and placing tokens on all cards that need them."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Now, lure out the caustic mulcher and find a way to deal with it before someone gets hurt!"
+        }
+      ]
+    }
+  ],
+  "items": [
+    "one_day_missions/predatory_instincts/1_42",
+    "one_day_missions/predatory_instincts/1_43_confront_",
+    "one_day_missions/predatory_instincts/1_44_confront_",
+    "one_day_missions/predatory_instincts/end_of_the_day"
+  ],
+  "url": "/docs/one_day_missions/predatory_instincts"
+}

@@ -1,0 +1,824 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_110",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "1.110",
+  "title": "1.110",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "ARRIVE LOCATION, GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.110A"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_110",
+          "anchor": "1110a",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_110#1110a"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY:"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "QUISI, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "1.110B"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_110",
+                  "anchor": "1110b",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_110#1110b"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "HARLAN, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "1.110C"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_110",
+                  "anchor": "1110c",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_110#1110c"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "KAL, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "1.110D"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_110",
+                  "anchor": "1110d",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_110#1110d"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.110F"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_110",
+          "anchor": "1110f",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_110#1110f"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "black",
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.110G"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_110",
+          "anchor": "1110g",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_110#1110g"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.110A"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1110a",
+          "url": "#1110a"
+        }
+      ],
+      "anchor": "1110a"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "When you arrive, you find that the outer passage has completely collapsed. Tumbled rocks fill the corridor. You shout desperately the names of Kal, Quisi, and Harlan."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "At first your cries are met with only a persistent thrumming from below. Then, you hear a muffled voice call out in response. You can\u2019t make out the words, but it sounds like Kal!"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You'll need to clear away this rubble as quickly as possible, taking care not to make the situation worse by causing the rubble to shift. You're about to get started when you see a faint red glow rising up from the dark, accompanied by the sound of heavy, metallic footsteps: a pair of Crimson Guardians."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you haven't already, complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "COLLAPSE!\n(KAL, HARLAN, QUISI)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission, and gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "BURIED SURVEY TEAM (KAL IVER, HARLAN VOS, QUISI VOS)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Search the General set for 1"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "per_ranger"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "Shifting Rubble and 2 Crimson Guardians and shuffle them together to form the Rescue deck. Then shuffle in each subject of this mission (Kal, Harlan, and/or Quisi) who has not yet been rescued (i.e. checked off next to the mission name on your campaign tracker)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Dig out rubble to save your friends before time runs out!"
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you are at the Drenching Chamber or Scuttler Network, go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "156.1"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/156_flooded_passage/156_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/flooded_passage/156_1"
+        },
+        {
+          "type": "text",
+          "text": ". If you are at Orlin's Vault, go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "158.1"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/locked_passage/158_1"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.110B"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1110b",
+          "url": "#1110b"
+        }
+      ],
+      "anchor": "1110b"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "If Harlan is in play or attached to the mission, go to"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "1.110E"
+                }
+              ],
+              "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_110",
+              "anchor": "1110e",
+              "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_110#1110e"
+            },
+            {
+              "type": "text",
+              "text": ". Otherwise, read:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Grunting and straining with the effort, you shift a large shard from along the passageway wall. Behind it is a dark, cramped alcove containing the battered, dusty, sniffling, but very-much alive Quisi Vos."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "She wraps her arms tightly around your neck as you pull her free. Then she looks up, her eyes wide. \u201cWhere\u2019s my dad?\u201d she asks, her voice rising in worry. \u201cDad? Dad!? Where are you??\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Quisi with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to convince her to move to safety, reassuring her that you will find her dad."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.110C"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1110c",
+          "url": "#1110c"
+        }
+      ],
+      "anchor": "1110c"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "If Quisi is in play or attached to the mission, go to"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "1.110E"
+                }
+              ],
+              "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_110",
+              "anchor": "1110e",
+              "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_110#1110e"
+            },
+            {
+              "type": "text",
+              "text": ". Otherwise, read:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you set aside the next rock, you see darkness beyond. Immediately you shine a light into the space, revealing a cramped pocket with Harlan Vos crouched inside. Blood from a nasty scalp wound has caked the rock dust to his face, but his eyes are bright and alert, and he immediately helps you clear more rocks away."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As soon as he is out, he looks around. \u201cWhere\u2019s Quisi? Have you found her?\u201d Before you can answer, he strides back to the collapse and begins frantically lifting rocks and casting them aside. \u201cQuisi! Quisi, can you hear me? Don\u2019t be afraid! I\u2019ll find you! I\u2019ll find you!!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Harlan with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to convince him to move to safety, reassuring him that you will find his daughter."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.110D"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1110d",
+          "url": "#1110d"
+        }
+      ],
+      "anchor": "1110d"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you shovel piles of gravel out of the way, you suddenly unearth a grasping hand! You grab, pull, and with a roar of effort, Kal Iver erupts from the rubble. Though a little bloodied and covered in dust and grime, he appears to be all right."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Kal with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to convince him to get to safety."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "STOOD UP TO KAL"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", continue reading:"
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Kal smiles, his teeth bright against the grime. \u201cYou didn\u2019t think a little cave in would finish me off, did you?\u201d He clasps your hand. \u201cNot me. I\u2019m in my prime!\u201d With that, Kal sits down heavily, and his voice drops in timber. There\u2019s no trace of humor in his tone as his eyes lock with yours. \u201cIt\u2019s a good thing you made it back to us in time, my friend. Thank you.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger soothes 2 fatigue."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.110E"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1110e",
+          "url": "#1110e"
+        }
+      ],
+      "anchor": "1110e"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cDad!\u201d Quisi yells. She runs to Harlan, who scoops her up in his arms and hugs her tightly. \u201cOh my beautiful baby girl,\u201d he says, his voice choking with tears. In response, Quisi sobs into his chest with relief. \u201cYou\u2019re all right,\" he says softly. \"You're all right.\u201d Harlan looks at you over his daughter\u2019s head, his eyes glittering with tears."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger soothes 2 fatigue. Add 2"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "per_ranger"
+            },
+            {
+              "type": "text",
+              "text": " \ue016"
+            },
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "to both Harlan and Quisi."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.110F"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1110f",
+          "url": "#1110f"
+        }
+      ],
+      "anchor": "1110f"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Not far from the collapse, you find an Estian chamber seemingly unaffected by the quakes. Dust falls from the ceiling, but the room is free from any dangerously shifting rubble. Your friend should be safe here for now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Attach this human to"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "BURIED SURVEY TEAM"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "facedown and check off their corresponding bubble."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.110G"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1110g",
+          "url": "#1110g"
+        }
+      ],
+      "anchor": "1110g"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The ground shakes once more. Your friend shouts in alarm as a fresh shower of rocks falls between you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Shuffle this human back into the Rescue deck."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_110"
+}

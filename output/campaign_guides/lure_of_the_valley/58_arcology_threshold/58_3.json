@@ -1,0 +1,60 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/58_arcology_threshold/58_3",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "58.3",
+  "title": "58.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You\u2019ve become accustomed to the gloomy chambers of the arcology\nand make your way quickly to Silaro\u2019s latest site. He looks up from\nanother etching in the wall and grins when he sees you. \u201cMy friends!\u201d\nhe calls. \u201cGood to see you as always. Quickly, come here and look\nat this!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You crouch down next to him and see that he has been scraping\naway lichen from what appears to be sets of lines stamped all across\nthe metal. \u201cI think this is a map!\u201d Silaro exclaims. \u201cIf I\u2019m right, this\narcology goes much deeper than any of us assumed. It\u2019s spread out\nmuch further too! All through the Valley, and maybe even out into\nthe Verdessa!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You tell Silaro about your own investigations, and he excitedly\ncompares your notes to his map. \u201cIndeed, indeed!\u201d he shouts.\n\u201cThanks to your observations, I think I can orient myself to this map. It\nappears you\u2019re right \u2026 the arcology does reach out to the Verdessa.\nSee this route here? It reaches all the way out into that huge forest.\nThere must be something there \u2026 too bad the route is far deeper\nthan we\u2019ve ever traveled in these ruins.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "He thinks for a long moment. \u201cBut what makes me even more curious\nis the evidence that they were gone long before the floods. I always\nassumed the floods wiped them out, but if they were already gone,\nthen\u2026well, clearly the dam failed because of their long absence, so\nthey must have left decades or even centuries before.\n\u201cI can tell you one thing, though. They didn\u2019t travel overland; there\u2019s\nno evidence of them leaving through the northern passes. Honestly,\nthere\u2019s no evidence that they migrated from this place at all. So \u2026\nwhat happened to them?\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/arcology_threshold/58_3"
+}

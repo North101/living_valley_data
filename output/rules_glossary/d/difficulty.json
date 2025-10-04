@@ -1,0 +1,74 @@
+{
+  "id": "rules_glossary/d/difficulty",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "difficulty",
+  "title": "Difficulty",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "test"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": "has a difficulty\u2014the number in brackets following the bold thematic descriptor. If there is no number listed, the difficulty is one. If your resulting"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "effort"
+            }
+          ],
+          "id": "rules_glossary/e/effort",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/effort"
+        },
+        {
+          "type": "text",
+          "text": "equals or exceeds the test difficulty, you succeed. If your resulting effort is lower than the test difficulty, you fail."
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Some tests show a difficulty of X. In these cases, the difficulty is dependent on circumstances unique to that test and will be explained elsewhere on that card."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "The lowest possible test difficulty is 0 (though the minimum difficulty of the common tests is 1)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/D/difficulty"
+}

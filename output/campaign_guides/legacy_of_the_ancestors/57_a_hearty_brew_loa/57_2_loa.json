@@ -1,0 +1,72 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa/57_2_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "57.2",
+  "title": "57.2 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You hear the murmuring of a dozen different conversations as you walk through the tavern. It\u2019s common knowledge that news spreads faster in A Hearty Brew than anywhere else in the Valley. You imagine that if you needed to find someone\u2014or something\u2014asking around here would be a good way to start."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you have completed the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "FIND THE NEST"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission but you haven\u2019t"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "REUNITED TWO FRIENDS"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.105"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_105",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_105"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_hearty_brew/57_2"
+}

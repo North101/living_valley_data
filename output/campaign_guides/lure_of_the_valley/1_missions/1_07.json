@@ -1,0 +1,213 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_07",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.07",
+  "title": "1.07",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "With some quick thinking and a lot of backbreaking work, you\nmanage to redirect the worst of the floodwaters and save what you\ncan. Thanks to your efforts, this location is through the worst of it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Check off the bubble matching your current location next to"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RISING\nWATERS"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker, and remove all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from its mission card. Return all Flood cards from the path deck, discard, and play to your collection. Each Ranger\nsoothes 2 fatigue. Then, if all three locations are complete, read the following:"
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You\u2019ve done it! The floodwaters have been diverted, and you\u2019ve\nsaved the area around White Sky Lake from the worst of it."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You decide to take a much needed nap, only to wake up to an\nimpromptu party. A number of the locals have gathered with food and\ndrink, and you end up spending most of the afternoon celebrating.\nYour revelry is interrupted when a man runs up to you and breathlessly\nsays, \u201cYou need to come and see this!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RISING WATERS"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Then read"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.07a"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/1_missions/1_07",
+          "anchor": "107a",
+          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_07#107a"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.07A"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "107a",
+          "url": "#107a"
+        }
+      ],
+      "anchor": "107a"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You follow the man to a small crowd of people gathered by a wide,\ndark tangle of fallen trees, murmuring to one another in low tones.\nCalypsa and Kal Iver are there as well, speaking quietly to one another.\nAmong the debris, there is a startling sight: dozens of strange corpses,\ndeposited here by the flood. The corpses are battered, broken, and\ncaked in filth, but they are all clearly one species\u2014a biomeld, and\nunlike anything any of you have ever seen. You see pale flesh, eyeless\nfaces, and long limbs ending in claws."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Calypsa approaches you with a haunted look on her face. \u201cKal and I\nare going to help clean up this mess. What are they? And where did\nthey come from?\u201d She places her hand on your shoulder. \u201cBring word\nof this to Elder Orlin in Spire. If anyone in the Valley knows what these\nthings are, it\u2019s her.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Travel to Spire within the next four days to speak with Elder Orlin."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "JOURNEY (SPIRE)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "94.3"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "four days from now on the campaign tracker."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_07"
+}

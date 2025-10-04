@@ -1,0 +1,120 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_4",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "86.4",
+  "title": "86.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You ask Tykor why the others in the Valley call him the Fundamentalist,\nand he cocks his head for a moment. \u201cDo they?\u201d he asks. \u201cI suppose I\nhaven\u2019t been into any of your villages in a while.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "He thinks for another moment, then abruptly speaks. \u201cI guess it\u2019s\nbecause of how I live,\u201d he says. \u201cI don\u2019t see us having any right to\nbuild houses and lay down roads across this Valley. That\u2019s just us\nimposing our will on the rest of the world, which we have no more\nright to do than any other animal.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You ask if human\u2019s sapience changes the situation at all, and he waves\nhis hands as if driving off a fly. \u201cYou sound like all the rest. No, no, our\nsapience just means we should recognize our capacity to change the\nworld, and then make the conscious choice to reject that.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As he talks, he starts to pack his things. In a minute, he is ready to\nleave. Unless you ask him to stay, he is clearly going to head out."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "A) Have him stay and continue helping you."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from the Fundamentalist, and move him."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "B) Say goodbye."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard the Fundamentalist. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_4"
+}

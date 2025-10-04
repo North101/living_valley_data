@@ -1,0 +1,79 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_3",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "148.3",
+  "title": "148.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You move carefully onto the walkway, testing each step as you go. In the darkness to either side, you see vague forms move and shift. You\u2019re certain that something below you is eager for you to fall. As you make your way across, you take time to observe how the dim light reveals subtle differences between portions of the walkway that are solid and sturdy and those that are on the verge of collapse. The more time you spend on the walkway, the more obvious those differences become, and before you know it, you\u2019ve reached the other side safe and sound."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "MAPPED THE WRECKAGE"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker. If you had already"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "MAPPED THE WRECKAGE"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", add 2"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "per_ranger"
+            },
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "to the location."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/precarious_wreckage/148_3"
+}

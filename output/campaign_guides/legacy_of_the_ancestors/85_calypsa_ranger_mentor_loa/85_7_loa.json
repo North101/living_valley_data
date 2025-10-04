@@ -1,0 +1,38 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_7_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "85.7",
+  "title": "85.7 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Calypsa gasps and drops down on one knee. As you move over to her, she looks up. \u201cI\u2019ll admit it,\u201d she says. \u201cI\u2019m hurt.\u201d She winces as you take out some medical supplies and get to work treating her injuries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "End the Day."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/calypsa_ranger_mentor/85_7"
+}

@@ -1,0 +1,271 @@
+{
+  "id": "rules_glossary/s/stewards_of_the_valley_expansion",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "stewards_of_the_valley_expansion",
+  "title": "Stewards of the Valley (Expansion)",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Stewards of the Valley expands Earthborne Rangers by adding new cards for each of the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "backgrounds"
+            }
+          ],
+          "id": "rules_glossary/b/backgrounds",
+          "anchor": "",
+          "url": "/docs/rules_glossary/B/backgrounds"
+        },
+        {
+          "type": "text",
+          "text": "and"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "specialties"
+            }
+          ],
+          "id": "rules_glossary/s/specialties",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/specialties"
+        },
+        {
+          "type": "text",
+          "text": "from the core set, as well as adding new"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "personality"
+            }
+          ],
+          "id": "rules_glossary/p/personalities",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/personalities"
+        },
+        {
+          "type": "text",
+          "text": "cards and new"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "aspect"
+            }
+          ],
+          "id": "rules_glossary/a/aspects",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/aspects"
+        },
+        {
+          "type": "text",
+          "text": "cards. It also adds an entierly new"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "background"
+            }
+          ],
+          "id": "rules_glossary/b/backgrounds",
+          "anchor": "",
+          "url": "/docs/rules_glossary/B/backgrounds"
+        },
+        {
+          "type": "text",
+          "text": "set"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "(Talespinner)"
+            }
+          ],
+          "id": "rules_glossary/t/talespinner_background",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/talespinner"
+        },
+        {
+          "type": "text",
+          "text": "and a new"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "specialty"
+            }
+          ],
+          "id": "rules_glossary/s/specialties",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/specialties"
+        },
+        {
+          "type": "text",
+          "text": "set"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "(Spirit Speaker)"
+            }
+          ],
+          "id": "rules_glossary/s/spirit_speaker_specialty",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/spirit_speaker"
+        },
+        {
+          "type": "text",
+          "text": ", both of which can be chosen at character creation."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "New Concepts and Keywords"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "new-concepts-and-keywords",
+          "url": "#new-concepts-and-keywords"
+        }
+      ],
+      "anchor": "new-concepts-and-keywords"
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Aspiration (Keyword)"
+                }
+              ],
+              "id": "rules_glossary/a/aspiration_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/aspiration"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Deployed"
+                }
+              ],
+              "id": "rules_glossary/d/deployed_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/D/deployed"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Manifestation on Attributes"
+                }
+              ],
+              "id": "rules_glossary/m/manifestation_keyword",
+              "anchor": "manifestation-on-attributes",
+              "url": "/docs/rules_glossary/M/manifestation#manifestation-on-attributes"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Disabled Thresholds"
+                }
+              ],
+              "id": "rules_glossary/d/disabled_thresholds",
+              "anchor": "",
+              "url": "/docs/rules_glossary/D/disabled_thresholds"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Spirit (Keyword)"
+                }
+              ],
+              "id": "rules_glossary/s/spirit_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/S/spirit"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Spiritspeaking"
+                }
+              ],
+              "id": "rules_glossary/s/spiritspeaking",
+              "anchor": "",
+              "url": "/docs/rules_glossary/S/spiritspeaking"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/S/stewards_of_the_valley"
+}

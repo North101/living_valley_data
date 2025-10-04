@@ -1,0 +1,248 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/199_world_events_loa/199_5",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "199.5",
+  "title": "199.5",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "READ ONE:"
+                }
+              ],
+              "highlight_color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you\u2019ve completed Buried Survey Team:"
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You wake up, sitting up in your bedroll. As you do, something slides off your chest and lands on the ground next to you. You feel around for it, and find a bundle of Quisi\u2019s favorite snacks! Looks like she and her father passed by your camp while you were asleep and left you a small treat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger gains 1 additional energy of any type for the first round."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you\u2019re currently on Buried Survey Team:"
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You wake to find Silaro leaning over your sol coil, apparently making breakfast. He nabs a morsel from the pan and eats it."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cYou can rest a little longer,\u201d he says, chewing. \u201cIt's done. They're safe! Thank goodness for Kal Iver! If he hadn't been there at just the right moment ... why ... I can hardly imagine!\u201d Silaro hands you a bowl of your own food. \"You did your part too, of course.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "KAL SAVED THE TEAM"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker. Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "BURIED SURVEY TEAM (KAL IVER, HARLAN VOS, QUISI VOS)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Each Ranger suffers 3 fatigue. Then read"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.111A"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_111",
+          "anchor": "1111a",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_111#1111a"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If neither of the above is true:"
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you make breakfast, you see a light bobbing in the distance. Soon it resolves into the lean form of Kal Iver. He stops near your sol coil with a grim look on his face."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cStill in one piece, I see,\" Kal says. He sits down heavily. \"I thought you were trapped by a cave-in! How else could you explain not coming to my rescue? Or the rapscallion's? Or her father's?\" He playfully harrumphs. \"Lucky for you, I rescued myself. Though it took some time to dig out Quisi and Harlan. Once they were safe, I tried to convince them to go back to the surface, but they wouldn't hear it. Though I suppose it's not much safer up there right now, what with the electric fog everywhere.\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Kal sighs. \u201cBut that's not why I'm here. Silaro's found something in the old Estian records. There appears to be some sort of apparatus in the very depths of the arcology, in a chamber the Estians called 'the Cage.' We need to get down there and find out what it is. It\u2019s possible that it\u2019s some sort of ... engine for the arcology. Silaro believes that it's responsible for these quakes.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "KAL SAVED THE TEAM"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker. Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "COLLAPSE! (KAL IVER, HARLAN VOS, QUISI VOS)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Gain"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "THE LONG DARK"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "and"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RATTLING THE CAGE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "missions. Each Ranger suffers 3 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/world_events/199_5"
+}

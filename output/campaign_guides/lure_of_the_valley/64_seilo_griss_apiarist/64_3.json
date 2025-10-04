@@ -1,0 +1,69 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_3",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "64.3",
+  "title": "64.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As the sun trails across the sky, the petals of the strange tree before\nyou molt to midnight purple. Smoke from the bee smoker stings your\nnose, and in the haze, you see Seilo gently place the hive back on\nits branch and wave you over. As you approach, he\u2019s already dipping\na trembling finger into the honey, eyes wide with anticipation. One\ntaste and his body relaxes, his eyes dazzle with a thousand distant\nstars, and a big smile creeps up his lips."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "In a calm, deep voice he says, \u201cNow if that isn\u2019t heaven on Earth, I\ndon\u2019t know what is. Give it a taste!\u201d He passes you the jar. \u201cUnlike\nanything ever touched these lips. Am I right? I think I\u2019ll call it \u2026 The\nPhilosopher\u2019s Honey. Now, I have to harvest more while the little\nbuzzers are still sleepin\u2019. Head on off now, but don\u2019t tell anyone \u2026\nThis will be the biggest thing since the ancestors left the arcologies.\nYou wait and see!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the Philosopher\u2019s Honey reward card. Discard Seilo, and return"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "to the collection. Write"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "DISCOVERED THE PHILOSOPHER\u2019S HONEY"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_3"
+}

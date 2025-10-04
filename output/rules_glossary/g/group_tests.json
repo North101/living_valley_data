@@ -1,0 +1,401 @@
+{
+  "id": "rules_glossary/g/group_tests",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "group_tests",
+  "title": "Group Tests",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Some cards call for a group test. These"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "tests"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": "represent more daunting tasks that require the Rangers to work together. These"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "tests"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": "typically have difficulty values that scale based on how many Rangers are in the game."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Group tests work like regular"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "tests"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": ", except any Ranger can contribute effort to this test via"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "energy"
+            }
+          ],
+          "id": "rules_glossary/e/energy",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/energy"
+        },
+        {
+          "type": "text",
+          "text": "and"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "approach icons"
+            }
+          ],
+          "id": "rules_glossary/a/approach_icons",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/approach_icons"
+        },
+        {
+          "type": "text",
+          "text": ". At least one"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "energy"
+            }
+          ],
+          "id": "rules_glossary/e/energy",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/energy"
+        },
+        {
+          "type": "text",
+          "text": "must be"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "committed"
+            }
+          ],
+          "id": "rules_glossary/c/commit",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/commit"
+        },
+        {
+          "type": "text",
+          "text": "to the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "test"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": ", but it can be from any Ranger. If no other Ranger decides to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "commit"
+            }
+          ],
+          "id": "rules_glossary/c/commit",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/commit"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "energy"
+            }
+          ],
+          "id": "rules_glossary/e/energy",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/energy"
+        },
+        {
+          "type": "text",
+          "text": ", the active Ranger must"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "commit"
+            }
+          ],
+          "id": "rules_glossary/c/commit",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/commit"
+        },
+        {
+          "type": "text",
+          "text": "one. Only one"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "challenge card"
+            }
+          ],
+          "id": "rules_glossary/c/challenge_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/challenge_cards"
+        },
+        {
+          "type": "text",
+          "text": "is drawn for the test."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When resolving"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "challenge effects"
+            }
+          ],
+          "id": "rules_glossary/c/challenge_effects",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/challenge_effects"
+        },
+        {
+          "type": "text",
+          "text": ", the Ranger that drew the path moment resolves each effect in the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "surroundings"
+            }
+          ],
+          "id": "rules_glossary/s/surroundings",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/surroundings"
+        },
+        {
+          "type": "text",
+          "text": "and"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "along the way"
+            }
+          ],
+          "id": "rules_glossary/a/along_the_way",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/along_the_way"
+        },
+        {
+          "type": "text",
+          "text": ". Then, each Ranger who"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "committed"
+            }
+          ],
+          "id": "rules_glossary/c/commit",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/commit"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "effort"
+            }
+          ],
+          "id": "rules_glossary/e/effort",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/effort"
+        },
+        {
+          "type": "text",
+          "text": "to the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "test"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": "resolves"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "challenge effects"
+            }
+          ],
+          "id": "rules_glossary/c/challenge_effects",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/challenge_effects"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "within reach"
+            }
+          ],
+          "id": "rules_glossary/w/within_reach",
+          "anchor": "",
+          "url": "/docs/rules_glossary/W/within_reach"
+        },
+        {
+          "type": "text",
+          "text": ". During this process, all cards"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "within reach"
+            }
+          ],
+          "id": "rules_glossary/w/within_reach",
+          "anchor": "",
+          "url": "/docs/rules_glossary/W/within_reach"
+        },
+        {
+          "type": "text",
+          "text": "of a Ranger who"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "committed"
+            }
+          ],
+          "id": "rules_glossary/c/commit",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/commit"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "effort"
+            }
+          ],
+          "id": "rules_glossary/e/effort",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/effort"
+        },
+        {
+          "type": "text",
+          "text": "are considered"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "active"
+            }
+          ],
+          "id": "rules_glossary/a/active",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/active"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/G/group_tests"
+}

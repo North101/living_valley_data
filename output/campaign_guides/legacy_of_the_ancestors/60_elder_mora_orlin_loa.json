@@ -1,0 +1,159 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "60",
+  "title": "60. Elder Mora Orlin (LOA)",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "ENTERS PLAY: GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "60.1"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_1_loa",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin/60_1"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "ELDER ORLIN'S GROUP SAVED"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "60.2"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_2_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin/60_2"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "60.3"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_3_loa",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin/60_3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "black",
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "60.4"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_4_loa",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin/60_4"
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_1_loa",
+    "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_2_loa",
+    "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_3_loa",
+    "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_4_loa"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/108_drenching_chamber",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "108",
+  "title": "108. Drenching Chamber",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF THE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "RECLAIMERS WASHED AWAY"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "108.1"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/108_drenching_chamber/108_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/drenching_chamber/108_1"
+                }
+              ],
+              "highlight_color": "blue"
+            }
+          ]
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, READ:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The first thing you hear as you enter the chamber is the constant plip and plop of water droplets falling into the still water that pools around your ankles and gurgles into cracks in the floor and passages along the chamber walls. Every so often, the relative quiet is interrupted by a surge of water pouring in from the large circular hatches in the ceiling. Based on your internal compass, you\u2019re willing to bet that this chamber lies not but a few meters beneath the bottom of the Silverfin River."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you traveled here from Severed Artery, go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "156.2"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/156_flooded_passage/156_2",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/flooded_passage/156_2"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Otherwise, go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "156.1"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/156_flooded_passage/156_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/flooded_passage/156_1"
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/108_drenching_chamber/108_1"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/drenching_chamber"
+}

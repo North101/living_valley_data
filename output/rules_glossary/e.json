@@ -1,0 +1,18 @@
+{
+  "id": "rules_glossary/e",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "e",
+  "title": "E",
+  "content": null,
+  "items": [
+    "rules_glossary/e/effort",
+    "rules_glossary/e/end_the_day",
+    "rules_glossary/e/energy",
+    "rules_glossary/e/equip_value",
+    "rules_glossary/e/equipped",
+    "rules_glossary/e/exhaust",
+    "rules_glossary/e/expansions",
+    "rules_glossary/e/explorer_specialty"
+  ],
+  "url": "/docs/category/e"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/159_lunn_curious_scavenger/159_4",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "159.4",
+  "title": "159.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You ask Lunn what he's doing."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cTrying to get this contraption working again,\u201d he says, holding up a handheld device cobbled together from scrap."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"It's a custom built Estian door opener. The power cell adapters I was able to scavenge shorted out as soon as I used it.\" He points to several scorch marks on the device. \"I don't have the replacements here to fix it, so I suppose I\u2019ll have to be content with exploring this place.\" He gestures toward the open door with his thumb. \"Those locked passages with their giant doors will just have to wait!\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You recall the locked passage you discovered, and wonder aloud if the device could open it.\nLunn nods. \"Almost certainly,\" he says. \"Tell you what: I'll give you my one-of-a-kind, artisanal door opener if you promise to fix it. Deal?\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You agree and shake on it. Lunn hands over the device and gathers up his pack. \"Good luck,\" he says. \"It's more complicated than it looks!\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You've found a key to the locked passage. Now you just need to fix it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "ARTIFICIAL ADAPTATION"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Discard Lunn. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/lunn_curious_scavenger/159_4"
+}

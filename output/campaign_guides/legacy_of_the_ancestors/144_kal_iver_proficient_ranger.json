@@ -1,0 +1,237 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "144",
+  "title": "144. Kal Iver, Proficient Ranger",
+  "content": [
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY:"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU'VE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "BESTED KAL"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "144.1"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_1"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU'VE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "STOOD UP TO KAL"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "144.2"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_2"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "144.3"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF HELPING HAND IS ATTACHED, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "144.4"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_4",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_4"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "144.5"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_5",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "black",
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "144.6"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_6",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_6"
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_1",
+    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_2",
+    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_3",
+    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_4",
+    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_5",
+    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_6",
+    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_7"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/72_the_roiling",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "72",
+  "title": "72. The Roiling",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "ENTERS PLAY: GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "72.1"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/72_the_roiling/72_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/the_roiling/72_1"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "red"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "72.2"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/72_the_roiling/72_2",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/the_roiling/72_2"
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/lure_of_the_valley/72_the_roiling/72_1",
+    "campaign_guides/lure_of_the_valley/72_the_roiling/72_2"
+  ],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_roiling"
+}

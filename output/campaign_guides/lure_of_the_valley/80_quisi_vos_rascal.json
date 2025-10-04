@@ -1,0 +1,171 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "80",
+  "title": "80. Quisi Vos, Rascal",
+  "content": [
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY:"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF A RANGER HAS BISCUIT BASKET EQUIPPED, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "80.1"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_1"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF OURA VOS IS IN PLAY, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "80.2"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_2"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "80.3"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "80.5"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_5",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_5"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "red"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "80.6"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_6",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_6"
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_1",
+    "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_2",
+    "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_3",
+    "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_4",
+    "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_5",
+    "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_6"
+  ],
+  "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal"
+}

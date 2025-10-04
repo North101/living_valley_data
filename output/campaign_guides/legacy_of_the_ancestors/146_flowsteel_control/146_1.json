@@ -1,0 +1,67 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/146_flowsteel_control/146_1",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "146.1",
+  "title": "146.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "A strange, circular pedestal rises up from the ground, and although the attached metal plates are as solid as the surrounding walls and bulkheads, something about it seems strangely amorphous. You study the wavy ripple patterns in the material and realize that this is definitely flowsteel."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You study it further and spot several subtle bulges and depressions scattered across the surface in regular intervals. This \u2026 this looks like a control panel. Perhaps you can figure out how to work it, and it may give you some control over nearby arcology systems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear the Flowsteel Controls with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to figure out the controls."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/flowsteel_controls/146_1"
+}

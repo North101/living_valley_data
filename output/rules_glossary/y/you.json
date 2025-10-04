@@ -1,0 +1,138 @@
+{
+  "id": "rules_glossary/y/you",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "you",
+  "title": "You",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Card rules text will often refer to \u201cyou.\u201d In these cases, the rule applies to the person who drew or played that card, or to the person performing that"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "test"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": ". If you are ever unsure as to which Ranger a rule applies, the group decides who it affects."
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "If a card is"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "cleared"
+                }
+              ],
+              "id": "rules_glossary/c/clear",
+              "anchor": "",
+              "url": "/docs/rules_glossary/C/clear"
+            },
+            {
+              "type": "text",
+              "text": "on your"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "turn"
+                }
+              ],
+              "id": "rules_glossary/t/turns",
+              "anchor": "",
+              "url": "/docs/rules_glossary/T/turns"
+            },
+            {
+              "type": "text",
+              "text": ", \"you\" are considered to have cleared this card for other rules."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "If"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "harm"
+                }
+              ],
+              "id": "rules_glossary/h/harm",
+              "anchor": "",
+              "url": "/docs/rules_glossary/H/harm"
+            },
+            {
+              "type": "text",
+              "text": "or"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "progress"
+                }
+              ],
+              "id": "rules_glossary/p/progress",
+              "anchor": "",
+              "url": "/docs/rules_glossary/P/progress"
+            },
+            {
+              "type": "text",
+              "text": "are placed by challenge effects on your"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "turn"
+                }
+              ],
+              "id": "rules_glossary/t/turns",
+              "anchor": "",
+              "url": "/docs/rules_glossary/T/turns"
+            },
+            {
+              "type": "text",
+              "text": ", you are not considered to have placed those."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/Y/you"
+}

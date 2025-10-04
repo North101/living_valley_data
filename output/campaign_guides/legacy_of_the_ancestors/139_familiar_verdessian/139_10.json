@@ -1,0 +1,67 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_10",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "139.10",
+  "title": "139.10",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you and the Verdessian stare at each other, the patterns on its face shift and change, and suddenly your vision \u2026 flickers. For a moment, you see the vines that fill the Verdant Sphere growing, reaching, wrapping around the arcology. You feel a sudden panic mixed with awe that feels like it\u2019s coming from the Verdessian, not yourself."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You gasp and the vision vanishes, leaving you to stumble and go down onto one knee. You desperately shake your head to clear the ringing, and realize this must be how it communicated with Spirit Speaker Nal when the three of you were at Tumbledown together. Without her help, however, it feels like the Verdessian\u2019s \u201cspeech\u201d might be near impossible for you to interpret."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear the Familiar Verdessian with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to attempt to communicate with it."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_10"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_1",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "86.1",
+  "title": "86.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you descend into a warm patch of sun, you see Tykor Hum, the\nso-called Fundamentalist of the Valley. You\u2019ve heard Tykor lives alone\nand often wanders the Valley, but here in the verdant stone bowl, he\nseems to have set up a quiet meditation spot in the greenery. Tykor\nhimself is sitting cross-legged on a large boulder with what appears\nto be an offering of fruits, flowers, and fragrant tea set out before\nhim. His eyes are closed, and you can hear him mumbling to himself."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "When you get close, he seems to hear you because he opens his\neyes. You ask him what he\u2019s doing, and he stares back at you for a\nlong moment. \u201cSpeaking with my parents,\u201d he says finally. \u201cWhat\nbrings you to the Bowl of the Sun?\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear the Fundamentalist with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to ask him about his way of life."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_1"
+}

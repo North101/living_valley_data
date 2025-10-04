@@ -1,0 +1,67 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_2",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "86.2",
+  "title": "86.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You see a man quietly picking plums from a small, fragrant-smelling\ntree. You\u2019ve heard of the so-called Fundamentalist, and you watch\nwith interest as he carefully lifts and inspects each plum in turn.\nOccasionally, one comes off the tree, and he tucks it into a rucksack."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "When you see him notice you, you call out and ask what he\u2019s doing.\nHe frowns at you. \u201cWhat does it look like? I\u2019m taking plums. Only the\nones that are just about ready to fall off the tree, obviously. What are\nyou doing?\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear the Fundamentalist with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to ask him about his way of life."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_2"
+}

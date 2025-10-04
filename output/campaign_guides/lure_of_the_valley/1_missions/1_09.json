@@ -1,0 +1,192 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_09",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.09",
+  "title": "1.09",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You whistle three notes, and the globe at the top of the scanner\nbriefly pulses with an iridescent glow. You feel a low thrum emanate\nfrom the device that resonates at the base of your skull."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "SENSOR NETWORK"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "and check off the bubble matching the current location next to"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "SENSOR NETWORK"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "on the\ncampaign tracker. Then, if all three are complete, read the following:"
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Now that the final relay has been placed, you feel the thrumming\nfrom before, but more intensely. You step away and move down the\ntrail, then you remember the glass disk Ben Amon gave to you. You\npull it out, and, after thinking for a moment, whistle the same three\nnotes. A ripple of energy plays across the glass, then you see the\ndelicate echoes of the Valley traced in faint blue light."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the Biosign Sensor reward card."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you study the ghostly image of the Valley, you spot the first blip\nindicating biomeld activity. Then another \u2026 and another. You\u2019re not\ncertain how many of these blips are reclaimers, but to your eye, it\nlooks like there are far more intense clusters of activity than usual.\nHopefully, the Rangers at the biological outpost can make better\nsense of this information."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "SENSOR NETWORK"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Each Ranger soothes 2 fatigue. Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "INVASION - STAGE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "I mission. Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "94.4"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "seven days from now on the campaign tracker. Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "JOURNEY (BIOLOGICAL OUTPOST)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Travel to the Biological Outpost to learn more about the reclaimers."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_09"
+}

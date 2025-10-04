@@ -1,0 +1,38 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_7_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "59.7",
+  "title": "59.7 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Dace howls in pain. As you rush to help her, you see the injury looks serious. You pull out your medical supplies and start looking around for a place to set up a shelter. You\u2019re not going to be able to move until you treat her, and that\u2019s going to take a while."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "End the day."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_7"
+}

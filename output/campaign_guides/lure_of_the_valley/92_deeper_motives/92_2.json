@@ -1,0 +1,47 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/92_deeper_motives/92_2",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "92.2",
+  "title": "92.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Eyes closed, Nal is focused fully on the Verdessian. You can feel the\nconnection between them. It\u2019s as if the very air is energized and alive.\nYou close your eyes and see a vision of endless green\u2014the canopy\nof the Verdessa stretching far to the south\u2014and you feel a sudden\nkinship with the Verdessian, two lifeforms together in the substrata of\nall existence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "You may shuffle one card from the challenge discard back into the\nchallenge deck. Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from Spirit Speaker Nal. (She is not discarded.)"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/deeper_motives/92_2"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rules_glossary/g",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "g",
+  "title": "G",
+  "content": null,
+  "items": [
+    "rules_glossary/g/gear",
+    "rules_glossary/g/general_tokens",
+    "rules_glossary/g/the_golden_rule",
+    "rules_glossary/g/group_tests"
+  ],
+  "url": "/docs/category/g"
+}

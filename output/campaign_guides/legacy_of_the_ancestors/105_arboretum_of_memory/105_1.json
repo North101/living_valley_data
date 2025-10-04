@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/105_arboretum_of_memory/105_1",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "105.1",
+  "title": "105.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You study the petrified giants, trying to figure out how to read information from their stone hearts. This is probably the best place to find useful information regarding the founding of the arcology, and hopefully the trees will tell you more about the creation of its heart. What was (and is) its purpose? Why did the Estians create it? You just hope the information lies hidden within the ancient trees."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/arboretum_of_memory/105_1"
+}

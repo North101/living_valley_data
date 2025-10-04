@@ -1,0 +1,92 @@
+{
+  "id": "rules_glossary/c/camp",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "camp",
+  "title": "Camp",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "After choosing your new"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "location"
+            }
+          ],
+          "id": "rules_glossary/l/locations",
+          "anchor": "",
+          "url": "/docs/rules_glossary/L/locations"
+        },
+        {
+          "type": "text",
+          "text": "when"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "traveling"
+            }
+          ],
+          "id": "rules_glossary/t/travel",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/travel"
+        },
+        {
+          "type": "text",
+          "text": ", as a group, you can decide to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "end the day"
+            }
+          ],
+          "id": "rules_glossary/e/end_the_day",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/end_the_day"
+        },
+        {
+          "type": "text",
+          "text": "and set up camp for the night before venturing into the new landscape. Ending the day in this way is safer than ending it in the middle of navigating through a location and allows you an opportunity to prepare yourselves for the next day."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you end the day in this way, you are allowed to swap reward cards into your Ranger decks between sessions (see"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "customizing ranger decks"
+            }
+          ],
+          "id": "rules_glossary/c/customizing_ranger_decks",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/customizing_ranger_decks"
+        },
+        {
+          "type": "text",
+          "text": "). If you chose not to end the day, continue to step 4."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/C/camp"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_3",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "61.3",
+  "title": "61.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "With a final flourish, Tollin steps back and fiddles with the controls\non a pair of suspensor pedestals he\u2019s put on the sides of the bridge.\nWith a musical crashing and tinkling sound, the mound of kinetic\nglass shakes and rises. Slowly it forms into an abstract human shape,\nsurrounded by a spiraling swirl of stone. Even as you watch, the shape\nslowly moves their arms, and the stones solidify into a sparkling\nobsidian obelisk that envelops the figure, before breaking apart and\nreturning to its swirling spiral."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Tollin watches with a satisfied smile. \u201cThe hardest kinetic glass work\nI\u2019ve ever attempted,\u201d he says. \u201cAnd thanks to you, it was a success.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "He reaches into his bag and pulls out a hemisphere roughly the size\nof his palm, along with a large leather pouch. \u201cHere,\u201d he hands it to\nyou. \u201cI\u2019m afraid I don\u2019t have anything more practical to give you in\nreturn, but this is a sculpture I did of a rabbit when I was practicing my\nrealism. I thought you might like it, or \u2026 \u201d he trails off, then laughs.\n\u201cMaybe you can use it as a decoy!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the Kinetic Glass Sculpture reward card. Discard Tollin, and return"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "to the collection. Write"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "ERECTED A MIGHTY STATUE"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_3"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rules_glossary/r",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "r",
+  "title": "R",
+  "content": null,
+  "items": [
+    "rules_glossary/r/ranger_cards",
+    "rules_glossary/r/ranger_token",
+    "rules_glossary/r/ready",
+    "rules_glossary/r/refresh",
+    "rules_glossary/r/reshuffle_icon",
+    "rules_glossary/r/resolve",
+    "rules_glossary/r/response",
+    "rules_glossary/r/rest",
+    "rules_glossary/r/rewards",
+    "rules_glossary/r/role",
+    "rules_glossary/r/round",
+    "rules_glossary/r/rules_step"
+  ],
+  "url": "/docs/category/r"
+}

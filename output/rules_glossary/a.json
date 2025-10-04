@@ -1,0 +1,24 @@
+{
+  "id": "rules_glossary/a",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "a",
+  "title": "A",
+  "content": null,
+  "items": [
+    "rules_glossary/a/active",
+    "rules_glossary/a/along_the_way",
+    "rules_glossary/a/ambush_keyword",
+    "rules_glossary/a/approach_icons",
+    "rules_glossary/a/the_arcology_map",
+    "rules_glossary/a/area",
+    "rules_glossary/a/arrival",
+    "rules_glossary/a/artificer_specialty",
+    "rules_glossary/a/artisan_background",
+    "rules_glossary/a/aspects",
+    "rules_glossary/a/aspiration_keyword",
+    "rules_glossary/a/attach",
+    "rules_glossary/a/attachments",
+    "rules_glossary/a/attributes"
+  ],
+  "url": "/docs/category/a"
+}

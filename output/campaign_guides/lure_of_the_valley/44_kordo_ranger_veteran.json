@@ -1,0 +1,257 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "44",
+  "title": "44. Kordo, Ranger Veteran",
+  "content": [
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY:"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU HAVEN'T RECEIVED EITHER THE ACCOMMODATION OR INTERVENTION MISSION, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "44.1"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_1"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU\u2019VE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "FOUND KORDO'S QUARRY"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "44.2"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_2"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "44.3"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF HELPING HAND IS ATTACHED, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "44.4"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_4",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_4"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU\u2019VE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "FOUND KORDO'S QUARRY"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "44.5"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_5",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_5"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "44.6"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_6",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "red"
+        },
+        {
+          "type": "text",
+          "text": "GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "44.7"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_7",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_7"
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_1",
+    "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_2",
+    "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_3",
+    "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_4",
+    "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_5",
+    "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_6",
+    "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_7"
+  ],
+  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran"
+}

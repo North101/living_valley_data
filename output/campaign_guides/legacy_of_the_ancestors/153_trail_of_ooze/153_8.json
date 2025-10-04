@@ -1,0 +1,185 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_8",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "153.8",
+  "title": "153.8",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "READ ONE:"
+                }
+              ],
+              "highlight_color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "The being that Trail of Ooze is attached to is cleared with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "After what felt like hours of fighting, coaxing, and trying to avoid getting hit by the being\u2019s attacks, the ooze finally seems to understand that you\u2019re not a threat. It begins to shift again, but this time, it does so slowly and almost sheepishly. Instead of shifting into another predator of the Valley, it takes on a form that appears to be its actual self\u2014a small and vulnerable slug-like being."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you approach it carefully, you realize that the shapeshifting ability must be the entity\u2019s defense mechanism. By appearing to be a much larger and more fearsome predator, it can probably scare off most things that want to eat it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard Trail of Ooze and return"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "FOLLOWING A LEAD"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "to the collection. Return the cards in the Shapeshifter deck, and the card to which Trail of Ooze was attached, to their respective sets. Gain The Shapeshifter reward. Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "TRACKED DOWN THE OOZE"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "The being that Trail of Ooze is attached to is cleared with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "harm"
+                    }
+                  ],
+                  "icon_color": "black"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "With a final, squelching blow, you strike the shapeshifting monstrosity. It shudders and collapses before slowly spreading into a pool of clear ichor. As you step gingerly around the liquid, you can\u2019t help but wonder: Did the shapeshifter actually have a true form?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard Trail of Ooze and return"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "FOLLOWING A LEAD"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "to the collection. Return the cards in the Shapeshifter deck, and the card to which Trail of Ooze was attached, to their respective sets. Each Ranger soothes 3 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/trail_of_ooze/153_8"
+}

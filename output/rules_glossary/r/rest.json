@@ -1,0 +1,88 @@
+{
+  "id": "rules_glossary/r/rest",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "rest",
+  "title": "Rest",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you are finished taking"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "turns"
+            }
+          ],
+          "id": "rules_glossary/t/turns",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/turns"
+        },
+        {
+          "type": "text",
+          "text": "for the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "round"
+            }
+          ],
+          "id": "rules_glossary/r/round",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/round"
+        },
+        {
+          "type": "text",
+          "text": ", you can choose to rest. You can resolve any effects that resolve \u201cwhen you rest,\u201d then your"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "turn"
+            }
+          ],
+          "id": "rules_glossary/t/turns",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/turns"
+        },
+        {
+          "type": "text",
+          "text": "ends. You cannot take another turn this round."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Once all Rangers have rested, Ranger turns are over, and play proceeds to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Phase 3: Travel"
+            }
+          ],
+          "id": "rules_glossary/p/phase_3_travel",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/phase_3_travel"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/R/rest"
+}

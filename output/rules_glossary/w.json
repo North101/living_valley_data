@@ -1,0 +1,12 @@
+{
+  "id": "rules_glossary/w",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "w",
+  "title": "W",
+  "content": null,
+  "items": [
+    "rules_glossary/w/weather",
+    "rules_glossary/w/within_reach"
+  ],
+  "url": "/docs/category/w"
+}

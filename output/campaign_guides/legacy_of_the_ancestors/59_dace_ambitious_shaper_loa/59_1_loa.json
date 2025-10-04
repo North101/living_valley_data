@@ -1,0 +1,58 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_1_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "59.1",
+  "title": "59.1 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you walk along the trail, a breeze suddenly whips up around you, scattering leaves and dust. You have only a moment to notice that the wind doesn\u2019t seem to touch the trees just a few meters away when Dace gracefully descends on a column of whirling air."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Dace with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to ask what she\u2019s been up to."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_1"
+}

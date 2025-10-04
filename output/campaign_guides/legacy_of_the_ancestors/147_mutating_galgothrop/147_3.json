@@ -1,0 +1,61 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_3",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "147.3",
+  "title": "147.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Observing the galgothrop has been one of the more unpleasant tasks you\u2019ve taken on as a Ranger, especially as you watch its consumption-and-regurgitation eating cycle, but it\u2019s given you some valuable insights. Two of the most important are that galgothrops prefer only the deepest shadows, and while carnivorous, they are opportunists, not hunters. They lurk complacently in dark passages or beneath unstable piles of rubble, hoping for an easy meal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "COMPREHENDED THE GALGOTHROP"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker. If you had already"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "COMPREHENDED THE GALGOTHROP"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mutating_galgothrop/147_3"
+}

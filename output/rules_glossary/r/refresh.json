@@ -1,0 +1,31 @@
+{
+  "id": "rules_glossary/r/refresh",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "refresh",
+  "title": "Refresh",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "See"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Phase 4: Refresh"
+            }
+          ],
+          "id": "rules_glossary/p/phase_4_refresh",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/phase_4_refresh"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/R/refresh"
+}

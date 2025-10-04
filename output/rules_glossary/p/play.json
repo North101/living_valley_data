@@ -1,0 +1,157 @@
+{
+  "id": "rules_glossary/p/play",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "play",
+  "title": "Play",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "To play a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ranger card"
+            }
+          ],
+          "id": "rules_glossary/r/ranger_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/ranger_cards"
+        },
+        {
+          "type": "text",
+          "text": "from your hand, spend an amount of"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "energy"
+            }
+          ],
+          "id": "rules_glossary/e/energy",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/energy"
+        },
+        {
+          "type": "text",
+          "text": "matching the card\u2019s cost: the number and type of energy shown in the upper left-hand corner of the card.\nThe card then has an effect based on its card type:"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Moments"
+                }
+              ],
+              "id": "rules_glossary/m/moments",
+              "anchor": "",
+              "url": "/docs/rules_glossary/M/moments"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Attachments"
+                }
+              ],
+              "id": "rules_glossary/a/attachments",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/attachment"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Gear"
+                }
+              ],
+              "id": "rules_glossary/g/gear",
+              "anchor": "",
+              "url": "/docs/rules_glossary/G/gear"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Features"
+                }
+              ],
+              "id": "rules_glossary/f/features",
+              "anchor": "",
+              "url": "/docs/rules_glossary/F/features"
+            },
+            {
+              "type": "text",
+              "text": "and"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "beings"
+                }
+              ],
+              "id": "rules_glossary/b/beings",
+              "anchor": "",
+              "url": "/docs/rules_glossary/B/being"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Attributes"
+                }
+              ],
+              "id": "rules_glossary/a/attributes",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/attributes"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/P/play"
+}

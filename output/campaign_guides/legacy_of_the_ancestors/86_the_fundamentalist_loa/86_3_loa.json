@@ -1,0 +1,38 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_3_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "86.3",
+  "title": "86.3 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Fundamentalist collapses silently from his injuries. When you get to him, he\u2019s seems barely conscious. \u201cIs it my time?\u201d he whispers. \u201cDo I go now to join the ancestors?\u201d His eyes close. Despite his words, you see his injuries are treatable, though it will take some time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "End the Day."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_fundamentalist/86_3"
+}

@@ -1,0 +1,206 @@
+{
+  "id": "rules_glossary/p/phase_2_ranger_turns",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "phase_2_ranger_turns",
+  "title": "Phase 2: Ranger Turns",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Ranger"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "turns"
+            }
+          ],
+          "id": "rules_glossary/t/turns",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/turns"
+        },
+        {
+          "type": "text",
+          "text": "are the bulk of the game. This is where you\u2019ll be equipping your gear, interacting with the environment around you, and using your abilities to accomplish your goals for the day."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "During this phase, each Ranger takes separate turns. There is no limit to the number of turns a Ranger can take each"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "round"
+            }
+          ],
+          "id": "rules_glossary/r/round",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/round"
+        },
+        {
+          "type": "text",
+          "text": ". You decide as a group which Ranger takes the first turn, and following that, Rangers can take their turns in any order. Unless you are the only Ranger still taking turns, a different Ranger must go after you finish your turn. You can take a second turn in a row by"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "exhausting"
+            }
+          ],
+          "id": "rules_glossary/e/exhaust",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/exhaust"
+        },
+        {
+          "type": "text",
+          "text": "your"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "role"
+            }
+          ],
+          "id": "rules_glossary/r/role",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/role"
+        },
+        {
+          "type": "text",
+          "text": "card."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "On your"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "turn"
+            }
+          ],
+          "id": "rules_glossary/t/turns",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/turns"
+        },
+        {
+          "type": "text",
+          "text": ", you can do one of the following:"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Perform a"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Test"
+                }
+              ],
+              "id": "rules_glossary/t/tests",
+              "anchor": "",
+              "url": "/docs/rules_glossary/T/tests"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Play"
+                }
+              ],
+              "id": "rules_glossary/p/play",
+              "anchor": "",
+              "url": "/docs/rules_glossary/P/play"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Ranger Card"
+                }
+              ],
+              "id": "rules_glossary/r/ranger_cards",
+              "anchor": "",
+              "url": "/docs/rules_glossary/R/ranger_cards"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Rest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "At the beginning or end of  any Ranger\u2019s turn, you can resolve any exhaust abilities that don't specify a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "timing"
+            }
+          ],
+          "id": "rules_glossary/t/timing",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/timing"
+        },
+        {
+          "type": "text",
+          "text": ", or any other abilities that can be triggered by you that don't have a specified timing (such as the discard effect on Dayhowler). At this time you can also discard any equipped gear you no longer want."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/P/phase_2_ranger_turns"
+}

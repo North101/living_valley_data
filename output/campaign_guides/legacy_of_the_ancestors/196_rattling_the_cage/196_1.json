@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/196_rattling_the_cage/196_1",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "196.1",
+  "title": "196.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Before you can get on the trail, a massive tremor shakes the stone beneath your feet. The reverberations of the quake continue to echo back to you for minutes afterwards. These earthquakes have been getting more common across the last few days. Whatever Silaro did to the arcology changed something, and it\u2019s getting worse."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/rattling_the_cage/196_1"
+}

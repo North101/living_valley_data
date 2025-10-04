@@ -1,0 +1,115 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_4",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "53.4",
+  "title": "53.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The sizzle of live wires buzzes through the air, and a sharp yelp sends\nyou twirling around to find Silaro leaping back from large chunk of\nrubble from the Fractured Wall. \u201cStill live, definitely still live! I\u2019m fine\nthough, don\u2019t you worry!\u201d he cries."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You help him to his feet and ask about his experiment. \u201cSee I picked\nup what turned out to be not-so-faint traces of energy still humming\nthrough the dam\u2019s superstructure, which I believe must have been\ndistributed across the Valley \u2026\u201d He pauses for a moment, then his\neyes widen. \u201cYou wouldn\u2019t happen to be heading back to say \u2026 Spire\nor Branch? Ooo or White Sky, by any chance?\u201d He smiles sheepishly.\n\u201cIt\u2019s just \u2026 I have another, uh, time sensitive hypothesis to unravel.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "A) Agree to help."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "and attach the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission to Silaro."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "B) Not today."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard Silaro. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/silaro_mako_archaelologist/53_4"
+}

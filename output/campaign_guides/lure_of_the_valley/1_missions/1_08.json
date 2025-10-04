@@ -1,0 +1,345 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_08",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.08",
+  "title": "1.08",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "At the end of your travels, the tower at the center of Spire has never\nlooked more welcoming. You couldn\u2019t shake the haunted look on\nCalypsa\u2019s face when she saw those corpses, and ever since that\nday, you\u2019ve felt a presence, like a patient predator lurking in the\nunderbrush, hounding your every step."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "WATCHER IN THE BRUSH"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission and complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "JOURNEY (SPIRE)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you cross the bridge to the center of town, Ben Amon, pilot of\nthe Swift and master artificer, joins you. \u201cHello there! Elder Thrush\nasked that I come to Spire to check on the hydroelectric turbines just\nin case they suffered any damage during the flood,\u201d he says. \u201cWhat\nbrings you here?\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You explain what brought you here, and his smile fades. Without\ndelay, he accompanies you to see Elder Orlin."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You find Elder Mora Orlin in the heart of the Carbon Forge, bent over\nan air lathe with a heavy piece of carbon in her powerful hands. When\nshe sees you, she shuts off the howling machine and straightens.\n\u201cWhat is it?\u201d she growls."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Her flinty stare never wavers as you describe the strange beings with\nthe eyeless faces and dangerous looking claws. When you finish, she\ngrunts and nods to you and Ben Amon. \u201cMy mother told me about\nthese. When we first came over the passes into the Valley, our people\nencountered beings like the ones you described. Vicious biomelds.\nThey called them \u2018reclaimers.\u2019\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You ask why \u201creclaimers?\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cI\u2019m not certain,\u201d says Elder Orlin. \u201cBut, they are biomelds\u2014like the\ncaustic mulcher and the toxin eater\u2014and like all biomelds, they serve\nan ancient purpose. Perhaps they are compelled to capture something\nthey perceive to be lost, or they search for some possession they\nbelieve to be theirs. The best way to discover the answer is to find\nthem, and observe their behavior.\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cWhen you head out into the Valley, keep your eyes open. If you find\nreclaimers, see what you can learn about them.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ben Amon clears his throat. \u201cElder Orlin, searching the Valley could\ntake weeks. If we want to know where they are, I can set up a scanning\nrig. We just need to place a few relays around the Valley, and I can\nsweep for these ... reclaimers.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Elder Orlin shakes her head and gives Ben a bemused look. \u201dSensors.\nAlways sensors! We have all the sensors we need. Right here!\u201d She\ntaps her chest. \u201cAnd here!\u201d She taps her temple. \u201cUse your instinct.\nUse your intellect. And you will find them.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ben doesn\u2019t waver. \u201cElder, it\u2019s a big valley. If we don't send some\nsort of help, they could hike within a half mile of a swarm of these\nthings and never know it.\u201d He turns to you. \u201cWhat do you think? Do\nyou want to spend weeks searching the Valley for these things, or\ndiscover exactly where they are in just a few days?\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "A) Agree with Ben Amon. Deploy the scanners."
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You agree with Ben. The faster you find out if the reclaimers are\nin the Valley, the better. Elder Orlin grunts and turns back to her\nair lathe."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "After you leave, Ben takes you to the Hearty Brew, the best\ntavern in the town. There you find his pincrawler parked in the\ncourtyard. He opens the back hatch, revealing a store of parts\nand electronic components, along with a folding workbench.\nHe sets to work crafting something, and when you ask what\nhe\u2019s doing, he distractedly mutters that you should think about\ngetting some food."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "By the time you\u2019ve finished eating and return, you see a bundle of\nstakes about a meter long, each topped with a globe criss-crossed\nwith complex circuit inlays. \u201cThese are relay scanners,\u201d Ben explains\nproudly. \u201cSet them up across the Valley, and they should generate\na field that will pick up any biomeld activity. If there\u2019s a swarm of\nreclaimers out there, we\u2019ll see it. Just be sure to spread out the\nsensors as far as possible; opposite ends of the Valley would be\nbest. When you stick them in the ground, just whistle this tune\u201d\u2014\nhe blows three notes\u2014\u201cand the relay goes active.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ben hands you a glass disk in a smooth wooden frame. \u201cOnce\nall three are active, they will send the results to the biological\noutpost south of Branch. But you can see what they pick up\nwith this.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "SENSOR NETWORK"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "B) Agree with Elder Orlin. Rely on your senses."
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Elder Orlin grunts approvingly. \"You see, Ben? I am not the\nonly one who believes we are naturally equipped to accurately\nperceive and interpret our surroundings.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Write"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "IMPRESSED ELDER ORLIN"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"An ironic sentiment coming from the greatest artificer in the\nValley,\" Ben replies."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"Nonsense! The tools we craft here at the Carbon Forge require\nreal human effort. Our carbonforged blades, for example, have\nno equal in quality or durability, but they are nothing without the\nintention and skill of their wielder. A true artificer does not craft\ngadgets to replace the senses but creates tools to support and\nenhance them.\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"Well said, Elder Orlin. Well said. No matter how many years\nof experience I might accrue, I will forever be your apprentice.\"\nElder Orlin sets down her air lathe, gives Ben Amon a hug, and\nsmiles at him. \"Not forever, Ben. Not forever.\"\nShe turns to you. \"Take care out there. Stay alert. And may the\nancestors and your instincts guide you.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "SECRET INVASION"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_08"
+}

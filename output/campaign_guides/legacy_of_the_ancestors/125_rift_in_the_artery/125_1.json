@@ -1,0 +1,58 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/125_rift_in_the_artery/125_1",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "125.1",
+  "title": "125.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you proceed along the main passageway, you notice a patch of deeper darkness along the walls. As you look closer, you see that the recent tremors have torn apart the carbonforged panels. Behind the rubble, you can see some sort of smaller passage heading off in another direction. You\u2019re not sure where it leads; it might be a maintenance tunnel. Perhaps it could be used to shortcut your way to other locations, but do you want to leave your planned route to explore it?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear the Rift in the Artery with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to explore routes to distant locations."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/rift_in_the_artery/125_1"
+}

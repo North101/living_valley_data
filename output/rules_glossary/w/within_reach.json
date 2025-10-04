@@ -1,0 +1,39 @@
+{
+  "id": "rules_glossary/w/within_reach",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "within_reach",
+  "title": "Within Reach",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Within Reach is part of the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "play area"
+            }
+          ],
+          "id": "rules_glossary/p/the_play_area",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/play_area"
+        },
+        {
+          "type": "text",
+          "text": ". There is a separate within reach area in front of each player. This area represents things that are in the Ranger\u2019s immediate vicinity. When an effect refers to within reach, it means the area in front of the player reading the effect."
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "items": []
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/W/within_reach"
+}

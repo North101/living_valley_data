@@ -1,0 +1,159 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_125",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "1.125",
+  "title": "1.125",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The chamber shakes as the heart's attendant systems shut down one after the other. Somewhere, a massive slab of support buttressing peels away from the cavern wall and goes tumbling to the floor with a thunderous crash and a cloud of dust."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You feel deep regret at destroying the heart, but you know that this was the only way to ensure the people of the Valley would remain safe. You pause, then after a deep breath, you yank the last of the components free."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.125a"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_125",
+          "anchor": "1125a",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_125#1125a"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.125A"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1125a",
+          "url": "#1125a"
+        }
+      ],
+      "anchor": "1125a"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The heart\u2019s beat begins to accelerate, thumping frantically with fluttering spasms. The floor shakes beneath your feet. Jets of vaporized nutrient fluid vent from split conduits as rocks fall from the ceiling. The heart gives one last arrhythmic beat, then seizes up and spasms before growing still."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "All around, the hundreds of lights within the chamber begin to wink out one by one, and the chamber\u2019s ceiling continues to send down an intermittent rain of loose rock. Even as the girders groan and creak high above, the last of the lights die out, plunging you and the chamber into total darkness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete all Story and Interlude missions. Cross off any numbers starting with"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "199"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "above the day track. Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "KILLED THE HEART"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "and record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.129"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "above the next day on the day track."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "End the day."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_125"
+}

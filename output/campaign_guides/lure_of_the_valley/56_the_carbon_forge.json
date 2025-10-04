@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/56_the_carbon_forge",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "56",
+  "title": "56. The Carbon Forge",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Even outside the compound, you hear the muted roar of the Carbon\nForge and smell the sharp tang of ozone. Once beyond the wall, you\ncan see the squat bulbous shape of the Forge itself, a gray kiln larger\nthan three wagons. As you watch, a trio of sweating artificers haul a\nseries of heavy curved beams out of the Forge\u2019s mouth; frames for a\nroof. Another rushes forward to shovel graphite shards into a small\nhatch on the side. Blue sparks flicker within, and your hair stands on\nend as the Forge begins to reform the graphite into nano-assembled\ncarbon items."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_carbon_forge"
+}

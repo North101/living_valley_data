@@ -1,0 +1,64 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/157_overgrown_passage",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "157",
+  "title": "157. Overgrown Passage",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You open the pouch of spores and, with a gentle puff of breath, blow them towards the vines. The reaction is almost instantaneous. The vines shiver and recoil from the spores, revealing a previously unseen passageway."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "You can travel from this location along routes locked by the"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "overgrown_passage"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "icon. Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from Overgrown Passage and attach it facedown to the current location as a reminder. When you travel, return Overgrown Passage to the general set."
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/157_overgrown_passage/157_1",
+    "campaign_guides/legacy_of_the_ancestors/157_overgrown_passage/157_2"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/overgrown_passage"
+}

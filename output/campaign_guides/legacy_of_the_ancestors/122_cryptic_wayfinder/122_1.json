@@ -1,0 +1,58 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder/122_1",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "122.1",
+  "title": "122.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The long, oval room looks strangely familiar. You study the waving lines engraved along the walls and notice the odd, rippling patterns in the floor. Then you realize\u2014the lines on the walls are the mountain ranges that surround the Valley. The rippling floor is inert flowsteel, which suggests that if you activate it, the entire space may become a map of the Valley and the arcology."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear the Cryptic Wayfinder with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to view the map. Adding marker tokens will reveal additional information."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/cryptic_wayfinder/122_1"
+}

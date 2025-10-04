@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_4",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "84.4",
+  "title": "84.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cI'm settling in,\u201d Tala says. \u201cElder Wellers has me working on a few cliffside maintenance projects since I'm so comfortable with heights. The Waterspinner always needs some sort of work done to it. Kesis here also needs help tending to his cliffside gardens.\u201d She shakes her head and laughs. \u201cThank you again, for helping me find this place. It's wonderful.\u201d She turns away. \u201cHey, Kesis! Don't hurt yourself now! Let me help you with that axe.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard Tala. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/tala_the_red_exile/84_4"
+}

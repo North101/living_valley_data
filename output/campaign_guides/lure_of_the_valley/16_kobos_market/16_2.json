@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/16_kobos_market/16_2",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "16.2",
+  "title": "16.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You crest the lip of the dell and see Ren Kobo\u2019s market. The pond in\nthe center has overflowed its banks, and now half of the depression\nis a murky expanse of brown water. A few tents have been moved to\nthe new banks of the pond, but you see at least one colorful patch of\nfabric rising forlornly out of the pond on a single remaining tent pole."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Search the General set for Flood Damage and put it into play."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/kobos_market/16_2"
+}

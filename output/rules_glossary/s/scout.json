@@ -1,0 +1,63 @@
+{
+  "id": "rules_glossary/s/scout",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "scout",
+  "title": "Scout",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When you are instructed to \u201cscout\u201d a deck, you look at\u00a0 the number of cards specified from the top of that deck (for example, \u201cscout 3 path cards\u201d), then place any number of those cards on the top and/or bottom of that deck in the order of your choice."
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "If an effect scouts path cards, it can only be used to target the path deck, not other specially-named decks made from"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "path cards"
+                }
+              ],
+              "id": "rules_glossary/p/path_cards",
+              "anchor": "",
+              "url": "/docs/rules_glossary/P/path_cards"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "If an effect scouts Ranger cards, it can only be used to target your own Ranger deck."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Many effects that scout also instruct you to draw a card after scouting, but this is not part of the scout effect. Fully resolve the scout, then resolve any other instructions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/S/scout"
+}

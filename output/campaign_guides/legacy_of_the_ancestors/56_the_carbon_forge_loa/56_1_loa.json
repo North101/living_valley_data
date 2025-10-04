@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa/56_1_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "56.1",
+  "title": "56.1 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The muted roar of the Carbon Forge and sharp tang of ozone in the air are ever-present here since the reclaimers tore through Spire. It has been over a century since Sal Orlin first discovered the Forge in the arcology ruins beneath Spire. Now, the device is being worked tirelessly to craft materials for repairing the damaged buildings. Artificers shovel graphite shards into the small hatch on the side of the forge. Blue sparks flicker within, and your hair stands on end as the Forge reforms the graphite into nanoassembled carbon items."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_carbon_forge/56_1"
+}

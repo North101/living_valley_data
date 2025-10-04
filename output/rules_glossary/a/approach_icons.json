@@ -1,0 +1,332 @@
+{
+  "id": "rules_glossary/a/approach_icons",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "approach_icons",
+  "title": "Approach Icons",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Approach icons appear on the lefthand side of"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ranger cards"
+            }
+          ],
+          "id": "rules_glossary/r/ranger_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/ranger_cards"
+        },
+        {
+          "type": "text",
+          "text": ". They also appear in"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "tests"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": "printed on"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "path cards"
+            }
+          ],
+          "id": "rules_glossary/p/path_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/path_cards"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "weather"
+            }
+          ],
+          "id": "rules_glossary/w/weather",
+          "anchor": "",
+          "url": "/docs/rules_glossary/W/weather"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "missions"
+            }
+          ],
+          "id": "rules_glossary/m/missions",
+          "anchor": "",
+          "url": "/docs/rules_glossary/M/missions"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "locations"
+            }
+          ],
+          "id": "rules_glossary/l/locations",
+          "anchor": "",
+          "url": "/docs/rules_glossary/L/locations"
+        },
+        {
+          "type": "text",
+          "text": ", and Ranger cards."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "There are four approach icons:"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "conflict"
+                }
+              ],
+              "icon_color": "black"
+            },
+            {
+              "type": "text",
+              "text": "Conflict"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "reason"
+                }
+              ],
+              "icon_color": "black"
+            },
+            {
+              "type": "text",
+              "text": "Reason"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "exploration"
+                }
+              ],
+              "icon_color": "black"
+            },
+            {
+              "type": "text",
+              "text": "Exploration"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "connection"
+                }
+              ],
+              "icon_color": "black"
+            },
+            {
+              "type": "text",
+              "text": "Connection"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "During Step 2 of performing a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "test"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": "you may"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "discard"
+            }
+          ],
+          "id": "rules_glossary/d/discard",
+          "anchor": "",
+          "url": "/docs/rules_glossary/D/discard"
+        },
+        {
+          "type": "text",
+          "text": "any number of cards from your hand with approach icons matching the icon shown in the test you are performing. Each matching approach icon on the discarded cards contributes 1"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "effort"
+            }
+          ],
+          "id": "rules_glossary/e/effort",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/effort"
+        },
+        {
+          "type": "text",
+          "text": ". There is no limit to the number of cards with matching approach icons you can discard to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "commit"
+            }
+          ],
+          "id": "rules_glossary/c/commit",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/commit"
+        },
+        {
+          "type": "text",
+          "text": "to a test."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When you discard a card for its approach icons, ignore all information on the card that doesn\u2019t explicitly refer to committing that card to the test."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Thematically, approach icons on"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ranger cards"
+            }
+          ],
+          "id": "rules_glossary/r/ranger_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/ranger_cards"
+        },
+        {
+          "type": "text",
+          "text": "represent the way in which your Ranger typically approachs situations based on their personality and experience. When approach icons appear in"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "tests"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": ", they combine with an"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "aspect"
+            }
+          ],
+          "id": "rules_glossary/a/aspects",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/aspects"
+        },
+        {
+          "type": "text",
+          "text": "to form a descriptive narrative action."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/A/approach_icons"
+}

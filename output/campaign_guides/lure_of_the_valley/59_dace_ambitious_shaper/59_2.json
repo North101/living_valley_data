@@ -1,0 +1,58 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_2",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "59.2",
+  "title": "59.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "A sudden whooshing sound is all you hear before a dark shadow\nflashes overhead. For a moment, you think you\u2019re being attacked by\na hungry irix, but then you see the shaper Dace fly through the air.\nShe lands in front of you, stumbles, and rolls into a ball. But when she\nstands up, her face is aglow with pleasure and pride."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Dace with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to ask her how learning to fly is going."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/dace_ambitious_shaper/59_2"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/79_ranger_cache_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "79",
+  "title": "79. Ranger Cache (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You barely notice the sigil carved into a nearby boulder. You don\u2019t see any sign of the Ranger cache, but you whistle the five tones known to all Rangers of the Valley. The illusion of the lichen-covered boulder flares and fades as the lenser deactivates, revealing four carbonforged chests bolted to the ground."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/ranger_cache"
+}

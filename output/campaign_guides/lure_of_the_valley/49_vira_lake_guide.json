@@ -1,0 +1,235 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "49",
+  "title": "49. Vira, Lake Guide",
+  "content": [
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF A RANGER HAS BISCUIT BASKET EQUIPPED, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "49.1"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/vira_lake_guide/49_1"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU\u2019VE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "SAVED VIRA"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "49.2"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/vira_lake_guide/49_2"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "49.3"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/vira_lake_guide/49_3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU\u2019VE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "SAVED VIRA"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "49.4"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_4",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/vira_lake_guide/49_4"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "49.5"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_5",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/vira_lake_guide/49_5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "red"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "49.6"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_6",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/vira_lake_guide/49_6"
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_1",
+    "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_2",
+    "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_3",
+    "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_4",
+    "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_5",
+    "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_6"
+  ],
+  "url": "/docs/campaign_guides/lure_of_the_valley/vira_lake_guide"
+}

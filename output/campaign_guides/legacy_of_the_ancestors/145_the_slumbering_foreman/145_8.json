@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_8",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "145.8",
+  "title": "145.8",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "With a scream of shearing metal, the machine collapses. Black lubricant sprays everywhere, and you have to duck as a decapitated sensor frond spins past your head. Another irreplaceable piece of Estian technology has been lost."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger suffers 3 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_slumbering_foreman/145_8"
+}

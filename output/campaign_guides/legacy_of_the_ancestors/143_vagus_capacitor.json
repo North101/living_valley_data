@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/143_vagus_capacitor",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "143",
+  "title": "143. Vagus Capacitor",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The sparking electrical nodes run down the height of the cavern, with regular crackling arcs of electricity snapping across the lower nodes to play across the heart. These arcs help keep the heart beating regularly and allow it to send energy back into the arcology systems."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/vagus_capacitor"
+}

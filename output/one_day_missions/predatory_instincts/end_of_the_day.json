@@ -1,0 +1,392 @@
+{
+  "id": "one_day_missions/predatory_instincts/end_of_the_day",
+  "lookup_group": "one_day_missions/predatory_instincts",
+  "lookup_id": "end_of_the_day",
+  "title": "End of the Day",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF YOU HAVE COMPLETED LURE (CAUSTIC MULCHER), GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "EoD2"
+            }
+          ],
+          "id": null,
+          "anchor": "eod2",
+          "url": "#eod2"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "br",
+      "items": []
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Otherwise, read:"
+        }
+      ]
+    },
+    {
+      "type": "h5",
+      "items": [
+        {
+          "type": "text",
+          "text": "RESOLVE THE FOLLOWING BASED ON HOW YOU ENDED THE DAY:"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "resolve-the-following-based-on-how-you-ended-the-day",
+          "url": "#resolve-the-following-based-on-how-you-ended-the-day"
+        }
+      ],
+      "anchor": "resolve-the-following-based-on-how-you-ended-the-day"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ranger too fatigued:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Your legs burn as you put one foot in front of the other, but at a certain point you know you just can\u2019t go on. You lean against a rock, heaving a deep sigh. You can\u2019t hunt the mulcher in this state, so you loosen your boots and make yourself comfortable. Just as you begin to settle in for a rest, you hear the crash of lumbering footsteps. You leap to your feet and prepare for the worst."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "A caustic mulcher bursts through the trees and charges toward you. You brace for impact, but suddenly the mulcher stops short just a few meters away. Its tongue hangs limply beneath it, and it makes no move to grab you."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cHallo there!\u201d You look up to see a figure atop the mulcher: Kal Iver, a Ranger well known as one of the most capable (and confident) in the Valley. \u201cLooks like you could use a ride. Turns out these things are pretty easy to tame if you know what you\u2019re doing!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You hesitantly accept, and careful climb onto the mulcher's back. Although you need to endure Kal\u2019s boasting all the way to the Ranger Station, you have to admit, there's nothing quite like riding a mulcher when your legs are tired."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ranger too injured:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You wince as you walk forward. Blood is soaking through your temporary bandages. You lean down against a rock, stifling a moan. You\u2019ve tried your best, but you wouldn\u2019t be able to hunt the mulcher in this state."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You set up camp for the night and begin to rewrap your bandages when you hear someone approaching along the trail. You look up to see Kal Iver, a Ranger well known as one of the most capable (and confident) in the Valley, stagger up the path while dragging the massive tentacle-tongue of a caustic mulcher."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cWhy hello!\u201d He throws down the tongue and joins you, stripping off thick, acid-scarred gloves as he does. \u201cTake a look at what I\u2019m bringing to Sirisana at the Biological Outpost! I bet you\u2019re glad you weren\u2019t the only one the Elders assigned to this mission. Hope you don\u2019t mind if I stay here for the night; wrestling with that mulcher really tired me out! Though, I'd say I have less to complain about than it does, poor fellow.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Kal kicks off his boots, tips his hat over his eyes, and begins snoring softly. You go back to tending your wounds, not the least of which your bruised ego."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "A human cleared with"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "harm"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "With a companion in need, you know that hunting the mulcher will have to wait. You send up a starspark, signaling for any Ranger in the vicinity to come to your aid. It soars high above the trees and explodes in a shower of glittering white light. You assure your companion that help is on the way."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "EoD2"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "eod2",
+          "url": "#eod2"
+        }
+      ],
+      "anchor": "eod2"
+    },
+    {
+      "type": "h5",
+      "items": [
+        {
+          "type": "text",
+          "text": "RESOLVE THE FOLLOWING BASED ON HOW YOU ENDED THE DAY:"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "resolve-the-following-based-on-how-you-ended-the-day-1",
+          "url": "#resolve-the-following-based-on-how-you-ended-the-day-1"
+        }
+      ],
+      "anchor": "resolve-the-following-based-on-how-you-ended-the-day-1"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ranger too fatigued:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You stagger back, tumble, and take cover behind a fallen tree. You\u2019ve pushed yourself to your limits, but the mulcher is just too formidable a foe. The struggle has left you exhausted, and if you keep going, you might end up the mulcher\u2019s next meal. You take your first opening and flee. You will have to get some rest, regroup, and try again tomorrow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ranger too injured:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Despite your greatest efforts, the mulcher has proven to be too formidable a foe. You think back upon your life and all the events that led you here to this moment. Despite the direness of your current dilemma, you find that you have no regrets. You embrace the end as the mulcher envelopes you in its grotesque mouth. But then, the mulcher's jaws unclench, rain pours in, and you see a cloaked figure framed against the darkened sky, a foot on either side of the mulcher's mouth, holding it open."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"Don't just sit there!\" he yells. \"Get out while you can!\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As if freed from a trance, you find the strength to leap from the mulcher's grasp and run to safety. After some time, you hear the mulcher move off in into the distance, and you're joined by your savior, a fellow Ranger by the name of Kal Iver. He looks you over, making sure you're not bleeding, and that nothing is broken. Once satisfied with your well-being, he sits down beside you and takes a drink from his infusion canteen."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"Thank the ancestors I came along when I did!\" he says. \"A few more minutes and you would have been nothing more than a slurry of your component elements!\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You give Kal your thanks and think back on your close shave with death. You take a deep, invigorating breath. You are alive, and all the more thankful for it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "A human cleared with"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "harm"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The mulcher wraps its tongue around your companion and starts drawing them towards it."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Realizing the horrible danger, you leap up and wrestle your companion free. You both land hard on the ground. The mulcher reels, and you use the opportunity to flee. You run until your legs can carry you no further. Taking shelter at the base of a tall and sturdy oak, you listen for sounds of pursuit. There are none. You and your companion are safe."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Looking at your their wounds, they are going to need more help than you can provide. Once you're certain that the mulcher has lost interest, you send up a starspark, signaling for any Ranger in the vicinity to come to your aid. It soars high above the trees and explodes in a shower of glittering white light. You assure your companion that help is on the way."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/one_day_missions/predatory_instincts/end_the_day"
+}

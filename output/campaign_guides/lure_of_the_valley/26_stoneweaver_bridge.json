@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/26_stoneweaver_bridge",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "26",
+  "title": "26. Stoneweaver Bridge",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Silverfin flows cheerily beneath the great bridge, which was\ncoaxed from the very earth and shaped by the Stoneweavers in a\ndisplay of great discipline. The shapers from the Monastery spent\nseveral years to manifest this marvel and only finished the work last\nspring. Since then, you can\u2019t walk twenty paces in Spire without\noverhearing someone talking about how wonderfully useful it is."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/stoneweaver_bridge"
+}

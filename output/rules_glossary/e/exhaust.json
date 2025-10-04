@@ -1,0 +1,168 @@
+{
+  "id": "rules_glossary/e/exhaust",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "exhaust",
+  "title": "Exhaust",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "To exhaust a card, turn it ninety degrees. To"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "ready"
+            }
+          ],
+          "id": "rules_glossary/r/ready",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/ready"
+        },
+        {
+          "type": "text",
+          "text": "a card, turn it upright."
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Exhausted cards do not"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "fatigue"
+                }
+              ],
+              "id": "rules_glossary/f/fatigue",
+              "anchor": "",
+              "url": "/docs/rules_glossary/F/fatigue"
+            },
+            {
+              "type": "text",
+              "text": "you."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Exhausted cards are not"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "active"
+                }
+              ],
+              "id": "rules_glossary/a/active",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/active"
+            },
+            {
+              "type": "text",
+              "text": ", so you do not resolve challenge effects on them."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Challenge effects on exhausted cards cannot resolve."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "You can"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "interact"
+                }
+              ],
+              "id": "rules_glossary/i/interact",
+              "anchor": "",
+              "url": "/docs/rules_glossary/I/interact"
+            },
+            {
+              "type": "text",
+              "text": "with exhausted cards."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "If a text effect is prefaced by \u201cexhaust [this card],\u201d you must be able to exhaust the card to trigger the effect."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "You cannot exhaust a card that is already exhausted."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "text",
+              "text": "Note: Abilities that begin with Exhaust: can only be used at a specific"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "timing"
+                }
+              ],
+              "id": "rules_glossary/t/timing",
+              "anchor": "",
+              "url": "/docs/rules_glossary/T/timing"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/E/exhaust"
+}

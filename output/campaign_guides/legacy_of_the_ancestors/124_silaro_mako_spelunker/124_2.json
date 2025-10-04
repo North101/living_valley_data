@@ -1,0 +1,67 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_2",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "124.2",
+  "title": "124.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You find Silaro bent over a flowsteel mirror, a half-disassembled lightbringer beside him. Even as you watch, the mirror ripples. Estian script sinks into the surface, and Silaro grunts and moves something in the machine in response. A small burst of sparks erupts, and he sighs."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cResearching ancient technology is a lot easier when you have years to do it,\u201d he says when he notices you. \u201cHopefully you\u2019ve been having better luck than I.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Silaro Mako with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to chat with him about what you've discovered."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/silaro_mako_spelunker/124_2"
+}

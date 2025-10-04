@@ -1,0 +1,156 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/104_mycelial_conclave",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "104",
+  "title": "104. Mycelial Conclave",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The cavern before you is overgrown with mushrooms of all shapes and sizes, from delicate frilled growths creeping along the floor to towering specimens as tall as cedars. Many glow with a vibrant luminescence, displaying a kaleidoscope of color. The smell of decay fills your nostrils, and drifting clouds of spores hang lazily in the air."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Although the room is cloaked in silence, you can sense a presence here. It's as though the mushrooms themselves were watching you\u2014a fungal quorum wordlessly discussing what, if anything, should be done with you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you have not received the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "SPORE SPECIMENS"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission, continue reading:"
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Beneath a mushroom the size of your childhood home, you spot the glow of a lambance rig. You draw closer and find that it's Sirisana Mir, the Ranger from the Biological Outpost south of Branch. You haven't seen her since the business with the reclaimers!"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You see that she's hunched over a cloth that, when you get closer, you discover is covered with what appear to be small clumps of dirt. She methodically picks at them."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Sirisana looks up from her work. \u201cOh, hello!\u201d she says. \u201cSo good to see someone else this deep! What a tremendous opportunity this expedition is turning out to be, isn't it? I haven\u2019t seen so much unrecognizable animal feces in decades! Just look at it!\u201d She puts her hands on her hips, looks down at her handiwork, and smiles broadly."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cYou know,\" she says. \"It\u2019s fortunate that you came along when you did. I\u2019m so very busy, and since my apprentice Tiella remained on the surface, I simply haven\u2019t had the time to do all the research down here that needs doing,\u201d she says. \u201cMy fellow Ranger, I bestow upon you the honor of gathering spore samples from the multitude of mushrooms down here and testing their effects on some of the local flora and fauna. There\u2019s no telling what we might discover regarding their properties and uses!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Without waiting for your agreement, Sirisana thrusts a curious device into your hand. You inspect it, noting a narrow vacuum tube connected to a rotating drum housing six individual glass vials."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cJust point this device at the bio-sample and pull the lever,\u201d Sirisana explains. \u201cThe sample is drawn into the vial, and once inhaled by the collector, it creates a seal around the vial. Then, just insert the vial into the applicator and squeeze to release the spores. It couldn\u2019t be simpler!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "SPORE SPECIMENS"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission, put it into the mission area with the Gathering side faceup."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Travel along Fungal Forest paths to collect spore samples."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mycelial_conclave"
+}

@@ -1,0 +1,140 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_27",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.27",
+  "title": "1.27",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The seething tide of reclaimers surges toward you, clicking in hungry\nanticipation. You grimly prepare to fight to the end, when the cloudy\nwaters beneath the reclaimers begin to bubble and churn."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Suddenly, huge segmented coils erupt out of the water, and fang-filled\ncircular maws lunge forward to scoop up struggling reclaimers and\ngulp them down in single bites. The Roiling\u2014the voracious mass of\nhydraworms that spawns all others\u2014has begun to feed. You quickly\nflee as you hear a horrible symphony of hisses, splashing, and terrible\nwet crunches. Drawn by the Roiling\u2019s frenzy, the other hydraworms\njoin the feast."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Once you reach safety, Kasende stops to watch the carnage. \u201cI've\nnever seen anything like it. Incredible! As long as the lure stays active,\nthe reclaimers should keep coming, and the hydraworms should be\nstirred up enough to keep eating for weeks.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "She looks at you and almost smiles. \"That was ... fun,\" she says. \"Just\nlet me know if you ever need my help again, and I'll be there.\"\nGiven the sheer number of reclaimers flooding into the marsh, you\u2019re\ncertain the bulk of them have been dealt with. You\u2019d better get back\nto Lone Tree Station and report to Elder Thrush."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "GRUESOME FEAST"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "and"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "INVASION"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "missions, and gain\nthe"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "JOURNEY (LONE TREE STATION)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Each Ranger soothes\n2 fatigue. Write"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "RECLAIMERS CONSUMED"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "and"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "KASENDE ALMOST SMILED"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker. Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "REMOVE THE RECLAIMERS"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_27"
+}

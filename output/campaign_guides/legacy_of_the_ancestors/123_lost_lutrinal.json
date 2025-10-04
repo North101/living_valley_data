@@ -1,0 +1,222 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "123",
+  "title": "123. Lost Lutrinal",
+  "content": [
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY:"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF THE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "LUTRINAL FLED"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "123.1"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/lost_lutrinal/123_1"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "123.2"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/lost_lutrinal/123_2"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU ARE AT A LOCATION ON THE VALLEY MAP AND THERE IS A WATER FEATURE IN PLAY, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "123.3"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/lost_lutrinal/123_3"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF HELPING HAND IS ATTACHED, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "123.4"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_4",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/lost_lutrinal/123_4"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "123.5"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_5",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/lost_lutrinal/123_5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "black",
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "123.6"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_6",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/lost_lutrinal/123_6"
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_1",
+    "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_2",
+    "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_3",
+    "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_4",
+    "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_5",
+    "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_6"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/lost_lutrinal"
+}

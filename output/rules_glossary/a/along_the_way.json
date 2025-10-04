@@ -1,0 +1,160 @@
+{
+  "id": "rules_glossary/a/along_the_way",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "along_the_way",
+  "title": "Along the Way",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Along the way is an"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "area"
+                }
+              ],
+              "id": "rules_glossary/a/area",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "path card"
+            }
+          ],
+          "id": "rules_glossary/p/path_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/path_cards"
+        },
+        {
+          "type": "text",
+          "text": "is drawn, it is placed along the way if the arrow in the upper lefthand corner of the card is pointing up."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Ready"
+                }
+              ],
+              "id": "rules_glossary/r/ready",
+              "anchor": "",
+              "url": "/docs/rules_glossary/R/ready"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "cards along the way are always considered"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "active"
+            }
+          ],
+          "id": "rules_glossary/a/active",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/active"
+        },
+        {
+          "type": "text",
+          "text": "during Step 5 of performing a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "test"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Thematically,"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "being"
+            }
+          ],
+          "id": "rules_glossary/b/beings",
+          "anchor": "",
+          "url": "/docs/rules_glossary/B/being"
+        },
+        {
+          "type": "text",
+          "text": "and"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "features"
+            }
+          ],
+          "id": "rules_glossary/f/features",
+          "anchor": "",
+          "url": "/docs/rules_glossary/F/features"
+        },
+        {
+          "type": "text",
+          "text": "that are along the way affect all Rangers equally, whether that be an irix circling overhead or an overgrown thicket that must be traversed on the way to the Rangers' destination."
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "items": []
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/A/along_the_way"
+}

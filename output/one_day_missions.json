@@ -1,0 +1,202 @@
+{
+  "id": "one_day_missions",
+  "lookup_group": null,
+  "lookup_id": null,
+  "title": "One-Day Missions",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "While Earthborne Rangers was designed to be played as an on-going campaign with a branching story told across many play sessions (or \u201cdays\u201d), it was also designed to be flexible. The \"One-Day Missions\" allow you to play Earthborne Rangers a different way: as a stand-alone adventure. The following rules guide you in setting up and playing a short story of Earthborne Rangers designed to be completed in a single sitting."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each of the following missions contains a small number of replacement entries for those found in the Lure of the Valley campaign guide. If a card prompts you to read a campaign guide entry while playing a One-Day Mission, first check for a replacement entry in the mission drop-down menu. Read the entry found there in place of the standard entry. For any other entry, simply read from the Lure of the Valley campaign guide."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each One-Day Mission also has an entry to read at the end of the day if you are unable to successfully complete your mission. If your day ends for any reason other than successfully completing your mission, read the \u201cEnd of the Day\u201d entry in the mission drop-down menu."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Getting Started"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "getting-started",
+          "url": "#getting-started"
+        }
+      ],
+      "anchor": "getting-started"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Before you begin a One-Day Mission, each player must build a Ranger deck. You can build your deck following the rules on page 32 of the rulebook, or you can assemble one of the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "premade Ranger decks"
+            }
+          ],
+          "id": "https://earthbornegames.com/resources/ranger-decks",
+          "anchor": "",
+          "url": "https://earthbornegames.com/resources/ranger-decks"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Once you've built your deck, choose a mission:"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Animal Rescue"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "animal-rescue",
+          "url": "#animal-rescue"
+        }
+      ],
+      "anchor": "animal-rescue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "While on patrol, the Rangers come across an injured animal. They decide to escort it to the Biological Outpost for rehabilitation."
+        }
+      ]
+    },
+    {
+      "type": "a",
+      "items": [
+        {
+          "type": "text",
+          "text": "Start Animal Rescue Mission"
+        }
+      ],
+      "id": "one_day_missions/animal_rescue",
+      "anchor": "",
+      "url": "/docs/one_day_missions/animal_rescue"
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Missing Person"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "missing-person",
+          "url": "#missing-person"
+        }
+      ],
+      "anchor": "missing-person"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Ren Kobo hasn\u2019t arrived for his regular appearance at the market. The Rangers will have to track him down and get him to safety."
+        }
+      ]
+    },
+    {
+      "type": "a",
+      "items": [
+        {
+          "type": "text",
+          "text": "Start Missing Person Mission"
+        }
+      ],
+      "id": "one_day_missions/missing_person",
+      "anchor": "",
+      "url": "/docs/one_day_missions/missing_person"
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Predatory Instincts"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "predatory-instincts",
+          "url": "#predatory-instincts"
+        }
+      ],
+      "anchor": "predatory-instincts"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Caustic Mulchers have been getting bolder and are causing issues throughout the Valley. The Rangers have been asked to deal with them, one way or another."
+        }
+      ]
+    },
+    {
+      "type": "a",
+      "items": [
+        {
+          "type": "text",
+          "text": "Start Predatory Instincts Mission"
+        }
+      ],
+      "id": "one_day_missions/predatory_instincts",
+      "anchor": "",
+      "url": "/docs/one_day_missions/predatory_instincts"
+    }
+  ],
+  "items": [
+    "one_day_missions/animal_rescue",
+    "one_day_missions/missing_person",
+    "one_day_missions/predatory_instincts"
+  ],
+  "url": "/docs/one_day_missions"
+}

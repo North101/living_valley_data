@@ -1,0 +1,337 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "76",
+  "title": "76. Kasende, Expert Hunter",
+  "content": [
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY:"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU ARE ON THE REMOVE THE RECLAIMERS MISSION, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "76.1"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kasende_expert_hunter/76_1"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU\u2019VE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "PRUNED THE HYDRAWORM"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "76.2"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kasende_expert_hunter/76_2"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "76.3"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kasende_expert_hunter/76_3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU ARE ON GRUESOME FEAST, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "76.4"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_4",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kasende_expert_hunter/76_4"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF THERE IS A HYDRAWORM IN THE PATH DISCARD, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "76.5"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_5",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kasende_expert_hunter/76_5"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF HELPING HAND IS ATTACHED TO KASENDE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "76.6"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_6",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kasende_expert_hunter/76_6"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU\u2019VE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "PRUNED THE HYDRAWORM"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "76.7"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_7",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kasende_expert_hunter/76_7"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "76.8"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_8",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kasende_expert_hunter/76_8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "harm"
+                }
+              ],
+              "icon_color": "red"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU ARE ON GRUESOME FEAST, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "1.28"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/1_missions/1_28",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_28"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "76.9"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_9",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/kasende_expert_hunter/76_9"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_1",
+    "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_2",
+    "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_3",
+    "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_4",
+    "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_5",
+    "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_6",
+    "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_7",
+    "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_8",
+    "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_9"
+  ],
+  "url": "/docs/campaign_guides/lure_of_the_valley/kasende_expert_hunter"
+}

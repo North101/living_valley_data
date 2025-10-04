@@ -1,0 +1,161 @@
+{
+  "id": "rules_glossary/d/deployed_keyword",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "deployed_keyword",
+  "title": "Deployed (Keyword)",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When rules text on a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "gear"
+            }
+          ],
+          "id": "rules_glossary/g/gear",
+          "anchor": "",
+          "url": "/docs/rules_glossary/G/gear"
+        },
+        {
+          "type": "text",
+          "text": "card is preceded by \u201cDeployed,\u201d that card represents equipment that must be set up or assembled to be functional."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "The ability that follows \u201cDeployed\u201d is functional only while the card is"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "ready"
+            }
+          ],
+          "id": "rules_glossary/r/ready",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/ready"
+        },
+        {
+          "type": "text",
+          "text": ". When it is"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "exhausted"
+            }
+          ],
+          "id": "rules_glossary/e/exhaust",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/exhaust"
+        },
+        {
+          "type": "text",
+          "text": ", that ability is inactive and its effects are not applied to the game."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "At the beginning of the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ranger Turns phase"
+            }
+          ],
+          "id": "rules_glossary/p/phase_2_ranger_turns",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/phase_2_ranger_turns"
+        },
+        {
+          "type": "text",
+          "text": ", you may"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "exhaust"
+            }
+          ],
+          "id": "rules_glossary/e/exhaust",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/exhaust"
+        },
+        {
+          "type": "text",
+          "text": "any of your"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "equipped"
+            }
+          ],
+          "id": "rules_glossary/e/equipped",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/equipped"
+        },
+        {
+          "type": "text",
+          "text": "cards with Deployed in their rules. Additionally, when you"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "play"
+            }
+          ],
+          "id": "rules_glossary/p/play",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/play"
+        },
+        {
+          "type": "text",
+          "text": "a card with Deployed, you can choose to have it enter play"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "exhausted"
+            }
+          ],
+          "id": "rules_glossary/e/exhaust",
+          "anchor": "",
+          "url": "/docs/rules_glossary/E/exhaust"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/D/deployed"
+}

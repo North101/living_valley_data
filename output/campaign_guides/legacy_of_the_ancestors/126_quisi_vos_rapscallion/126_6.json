@@ -1,0 +1,110 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_6",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "126.6",
+  "title": "126.6",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You patiently answer Quisi\u2019s many questions and assure her that the slug living inside her lantern is just fine. The beaming smile on her face is infectious. Before she can ask a cavalcade of follow-up questions, you ponder aloud what the two of them are up to now that their map of the artery is complete."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cWell, we\u2019ve mapped out the main tunnel, but there are all kinds of other branches down here. Most of them are dead ends, but some of them might lead elsewhere,\u201d Harlan explains. \u201cWe figured we\u2019d map those out, too. I\u2019m not letting this one out of my sight again, though.\u201d He pats his daughter\u2019s shoulder playfully."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cBut Daaad!\u201d she protests."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cBefore we leave, do you want to take a look at our map? It might help you figure out where to head next,\u201d Harlan offers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Place 1"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "per_ranger"
+            },
+            {
+              "type": "text",
+              "text": " \ue016"
+            },
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "on the location or on a feature in play (2"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "per_ranger"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "instead if there is"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "on both Quisi and Harlan). Discard Quisi and Harlan Vos."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/quisi_vos_rapscallion/126_6"
+}

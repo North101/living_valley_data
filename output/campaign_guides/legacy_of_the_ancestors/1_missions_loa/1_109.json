@@ -1,0 +1,239 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_109",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "1.109",
+  "title": "1.109",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You and Silaro scramble to the top of the last of the Ziggurats. Silaro moves animatedly to the center of the platform."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cThis should do it,\u201d Silaro says to himself. \u201cOnce we activate this Ziggurat, it will complete the localized circuit and begin transmitting power back into the arcology.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "He pulls out a bronze, multi-toned whistle and begins blowing the precise notes. As he does, you look out over the Valley. Something catches your eye: the Tenebrae, which normally roam implacably near the Ziggurats, are drifting with uncharacteristic haste toward the mountains to the west. You are about to say something to Silaro when he blows the last crisp note."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As soon as it rings out, it's met with a clap of thunder as a massive electrical discharge ignites several meters above your head and leaps from the Ziggurat upon which you\u2019re standing to the next one in sequence, then the next, then the next. For a long moment, the Ziggurats are wreathed in a crackling, blue-white light. Then, the energy seems to flow down the sides of the structures like a blazing flood, spreading out across the Valley floor before vanishing into the air."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "POWERED UP THE ARCOLOGY"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker. Add"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "to the location equal to the number of power tokens on it. Then, discard all power tokens from the location and all path cards. Return both Unstable Ziggurats to the collection."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cHm,\u201d Silaro says as he sits up. \u201cThat was a bit more energetic than...\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Before he can complete his thought, the stone bucks beneath you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.109a"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_109",
+          "anchor": "1109a",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_109#1109a"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.109A"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1109a",
+          "url": "#1109a"
+        }
+      ],
+      "anchor": "1109a"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You manage to prevent yourself from being flung from the crown of the Ziggurat. Beneath you, you see the ground shake, spreading through the surrounding forest like ripples on a pond. Trees groan and fall, and everywhere, flights of birds erupt from their roosts in a cacophony of alarm."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you gather your wits, your thoughts turn to the expedition, and then to Kal, Quisi, and Harlan. A sonorous rumble shakes your bones, and your mind is filled with visions of them lost in the dark, trapped beneath tons of fallen rock. You must venture back underground and ensure their safety before it\u2019s too late!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "POWER UP"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission and gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "COLLAPSE! (KAL IVER, HARLAN VOS, QUISI VOS)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        },
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "text",
+              "text": "Reminder: find Kal in the Arcology set and Harlan and Quisi in the Artery set and attach them facedown to the mission card."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Cross off the above-ground weather for today and the next 6 days, record Electric Fog in its place, and swap the current weather for Electric Fog. Then record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "199.5"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "4 days from now on the day tracker."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_109"
+}

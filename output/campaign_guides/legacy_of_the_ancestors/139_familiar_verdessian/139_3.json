@@ -1,0 +1,45 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_3",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "139.3",
+  "title": "139.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You shrink back as the Verdessian looms over you, arms raised. The last of these things was trouble enough, but now you have to deal with another. You notice then that the pattern on its \u201cface\u201d does look familiar. You feel a twinge of doubt. Is this the Verdessian you previously encountered?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger suffers 2 fatigue. Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "139.10"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_10",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_10"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_03"
+}

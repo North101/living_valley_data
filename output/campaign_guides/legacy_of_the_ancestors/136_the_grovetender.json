@@ -1,0 +1,38 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/136_the_grovetender",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "136",
+  "title": "136. The Grovetender",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "ENTERS PLAY: GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "136.1"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_grovetender/136_1"
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_1",
+    "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_2",
+    "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_3",
+    "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_4",
+    "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_5"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_grovetender"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/62_the_hornbranch",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "62",
+  "title": "62. The Hornbranch",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The rustling of leaves sounds like the distant roar of an ocean as you\nwalk the elevated pathways of Branch. Steps wrap around the outside\nof a dolewood, and you follow them up as they lead to a walkway\nrunning along one of the its largest boughs. There you find a hollow\ndolewood branch fashioned into the shape of a great horn."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Unable to resist the temptation, you put your lips to it and blow.\nA deep, melodious rumble resonates from its mouth, vibrating your\nbones and causing the birds to erupt from the forest all around you\nin a raucous, protesting chorus. You imagine that if you blew harder,\nthe sound would be heard at even the far edges of the forest. It's no\nwonder that the people of Branch use it as a signaling device."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_hornbranch"
+}

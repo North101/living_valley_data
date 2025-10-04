@@ -1,0 +1,67 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_1",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "47.1",
+  "title": "47.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You hear Hy\u2019s shrill whistling long before you see him. It\u2019s said that\nevery Ranger in the Valley has tried to teach Hy Pimpot a new song to\nwhistle, but none of them have succeeded."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Eventually you spot the stout little gnome of a man intently chopping\nand mixing vinegary-smelling herbs and vegetables into a large bowl.\n\u201cGood, good, you\u2019re here,\u201d he says without looking at you. \u201cTry this\nstew. I need to know if I\u2019ve hit the right balance between \u2018pleasant\nheat\u2019 and \u2018tongue searing.\u2019 What does it need? Kelpweed? Mourning\nRoot?\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "You can help Hy Pimpot by gathering ingredients for the stew,\nor you can clear him with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to ask him how to make the stew as good as possible."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/hy_pimpot_chef/47_1"
+}

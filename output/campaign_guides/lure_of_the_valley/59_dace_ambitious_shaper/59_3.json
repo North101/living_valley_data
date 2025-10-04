@@ -1,0 +1,76 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_3",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "59.3",
+  "title": "59.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you move along the path, you see a woman in the signature\nresplendent attire of a shaper, running along the trail, skipping with\nher arms outstretched. Every few steps she leaps as high into the air\nas she can."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You call out to her, and she almost falls on her face. She straightens\nup, face flushed with embarrassment. \u201cWhat is it?\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You ask her what she\u2019s doing, and she glares at you. \u201cI\u2019m trying not to\nfall on my face. Isn't it obvious?\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Dace with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to find out what she's really doing."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/dace_ambitious_shaper/59_3"
+}

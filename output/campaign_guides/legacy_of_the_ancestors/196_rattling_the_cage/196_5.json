@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/196_rattling_the_cage/196_5",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "196.5",
+  "title": "196.5",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You barely got any rest last night. The earth twists and shakes constantly now. A feeling of pain, dread, and finality suffuses the air. Somehow, you know that if you don't get to the source of this by the end of today, it will end without you."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/rattling_the_cage/196_5"
+}

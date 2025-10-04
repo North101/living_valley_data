@@ -1,0 +1,92 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_4",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "60.4",
+  "title": "60.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Mora glances skyward. \u201cSpire\u2019s a big place, plenty of people need\nhelp. But right now, I\u2019m most worried about that giant raptor, Umbra.\nThe blighter may fly all over the Valley, but she likes perching at the\ntop of the Spire, then swooping down to snatch up her prey. Last year,\nit was Old Harli Jephson. I don\u2019t want to see that happen again.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "A) Agree to help."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "LURE (UMBRA)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Reminder: find Umbra and attach her to the mission card. You may choose this option only if you don\u2019t have another Lure or Confront mission. Discard Elder Orlin."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "B) Not today."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard Elder Orlin. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/elder_mora_orlin/60_4"
+}

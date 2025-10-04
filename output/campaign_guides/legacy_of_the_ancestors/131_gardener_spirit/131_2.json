@@ -1,0 +1,82 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_2",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "131.2",
+  "title": "131.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As the spirit steps into the brightly lit spaces of the arboretum, you see her ethereal form sink slightly into the thick loam and small bits of soil drift up, merge with her body."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "She wanders around the multi-trunked trees, occasionally bending to inspect how they have rooted themselves into the earth. Then, she pauses next to one particularly ancient tree that has petrified into stone, and you see her bow her head."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "She reaches out to touch the tree, and you see her hand sink below its stony surface. She speaks again in her ancient tongue, and while you are unable to understand her, the sentiment is clear. The spirit is in mourning for someone who was dear to her."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "She steps away from the tree, and you see her take notice of the new growth sprouting nearby. She cocks her head, indicating her surprise, and kneels down beside it, her back to you. Then her shoulders begin to shake. Though you first assumed her to be crying, she instead begins to laugh. Softly at first, then uninhibited and joyful."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "She looks back at you, and you see the purity of her spirit shining like a light before you. She smiles, and bows her head in thanks as she dissapears into thin air."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard the Gardener Spirit and permanently remove her from the Mycelial Conclave set. Return"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "to the collection. Gain the Gardener Spirit reward card."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/gardener_spirit/131_2"
+}

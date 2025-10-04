@@ -1,0 +1,27 @@
+{
+  "id": "rules_glossary/s",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "s",
+  "title": "S",
+  "content": null,
+  "items": [
+    "rules_glossary/s/scout",
+    "rules_glossary/s/search",
+    "rules_glossary/s/set_aside",
+    "rules_glossary/s/sets",
+    "rules_glossary/s/setup",
+    "rules_glossary/s/setup_keyword",
+    "rules_glossary/s/shaper_specialty",
+    "rules_glossary/s/shepherd_background",
+    "rules_glossary/s/soothe",
+    "rules_glossary/s/specialties",
+    "rules_glossary/s/spirit_keyword",
+    "rules_glossary/s/spirit_speaker_specialty",
+    "rules_glossary/s/spiritspeaking",
+    "rules_glossary/s/start_of_day",
+    "rules_glossary/s/starting_cards",
+    "rules_glossary/s/stewards_of_the_valley_expansion",
+    "rules_glossary/s/surroundings"
+  ],
+  "url": "/docs/category/s"
+}

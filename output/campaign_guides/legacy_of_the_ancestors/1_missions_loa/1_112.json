@@ -1,0 +1,116 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_112",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "1.112",
+  "title": "1.112",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Lunn was right. You\u2019ve found no shortage of the curious \"quantum cubes\" he told you about, but only a precious few still carry a charge."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Cautiously, you hold one of the glass cubes over the square recess on the underside of the underwater-breathing device, then plug it into place."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The light at the center of the cube pulses. Then golden lines, moving like poured honey, travel along the surface of the collar until it is covered with a fine, luminous tracery. The glow eventually subsides, leaving behind Estian script painted in burnished gold."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You place the collar over your head, and when it makes contact with your shoulders, it projects a shimmering bubble around the mantle, just wide enough to surround your head. Now that the device is functional, all that remains is to put it to the test."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "BREATHE EASIER"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Write"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "ACQUIRED A REBREATHER"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker. Gain the Rebreather reward."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger may suffer 2 fatigue to swap a card in their hand for one copy of the Rebreather reward (this counts as swapping in a reward card as described on page 31 of the rulebook)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Now that you have a way to swim the Flooded Passage, you\u2019ll be able to reach new areas within the arcology."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_112"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/106_the_verdant_sphere",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "106",
+  "title": "106. The Verdant Sphere",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Thanks to the wide hole in the ceiling, little in this place has remained untouched by centuries of rain and runoff. All is stained and weathered, and has long ago fallen apart. You find several species of plant growing here that you recognize from the surface, and a few that you don\u2019t. Here also grow the large carnivorous plants that move with an intelligence that belies their appearance."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "It is only upon entering the sphere itself that you are able to venture a guess as to the former function of this place. Wondrous machines lie about a vast open arena in various states of disrepair, and you imagine that this is where the Estians engineered their biomelds like the spindlescuttlers, hydraworms, and countless others."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you are on"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "TO THE HEART OF IT"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "and haven\u2019t received or completed the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "OVERGROWN"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission, go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "106.1"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/106_the_verdant_sphere/106_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_verdant_sphere/106_1"
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/106_the_verdant_sphere/106_1"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_verdant_sphere"
+}

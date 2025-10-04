@@ -1,0 +1,273 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_48_rescue_",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.48",
+  "title": "1.48 RESCUE ",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "RESCUE (LUNN), GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.48A"
+            }
+          ],
+          "id": null,
+          "anchor": "148a",
+          "url": "#148a"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "RESCUE (VIRA), GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.48B"
+            }
+          ],
+          "id": null,
+          "anchor": "148b",
+          "url": "#148b"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "RESCUE (KASENDE), GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.48C"
+            }
+          ],
+          "id": null,
+          "anchor": "148c",
+          "url": "#148c"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.48A"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "148a",
+          "url": "#148a"
+        }
+      ],
+      "anchor": "148a"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Lunn\u2019s eyes roll back in his head, and he collapses on the ground.\nThe pain finally overwhelmed him and sent him into merciful\nunconsciousness. You\u2019re a bit relieved he\u2019s not suffering at the moment,\nbut with a sinking heart, you realize now you\u2019ll have to carry him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Attach Lunn facedown to a Ranger\u2019s role card. While Lunn is attached\nto your role, you can only have 2 equip value worth of gear equipped."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Arrive at a Ranger Station to unattach Lunn from your role."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.48B"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "148b",
+          "url": "#148b"
+        }
+      ],
+      "anchor": "148b"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Vira gasps and collapses, unconscious. You scramble over her, and\nfind her wounds are worse than you feared. You\u2019re not sure you can\nwake her up, but you are sure she\u2019s not moving on her own anymore."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Vira\u2019s a big person, but you\u2019re not going to let her die out here. You\nswing her over your shoulder and stagger on, heading for the nearest\nRanger station."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Attach Vira facedown to a Ranger\u2019s role card. While Vira is attached to\nyour role, you can only have 2 equip value worth of gear equipped."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Arrive at a Ranger Station to unattach Vira from your role."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.48C"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "148c",
+          "url": "#148c"
+        }
+      ],
+      "anchor": "148c"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Kasende stopped talking a while ago. Now, when you look at her,\nyou realize she\u2019s fallen into a deep trance. You try to wake her up, and\nshe doesn\u2019t stir."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Between her pale skin and the whiff of putrefaction around her\nwound, you can tell she is close to death. But you\u2019re not ready to give\nup. You drop your pack, lift Kasende onto your back, and start moving\ntoward the nearest Ranger station."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Attach Kasende facedown to a Ranger\u2019s role card. While Kasende is\nattached to your role, you can only have 2 equip value worth of gear\nequipped."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Arrive at a Ranger station to unattach Kasende from your role."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_48-rescue"
+}

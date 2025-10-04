@@ -1,0 +1,374 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_29",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.29",
+  "title": "1.29",
+  "content": [
+    {
+      "type": "h5",
+      "items": [
+        {
+          "type": "text",
+          "text": "READ THE ENTRY CORRESPONDING TO YOUR PROGRESS ON SPIRE UNDER ATTACK!"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "read-the-entry-corresponding-to-your-progress-on-spire-under-attack",
+          "url": "#read-the-entry-corresponding-to-your-progress-on-spire-under-attack"
+        }
+      ],
+      "anchor": "read-the-entry-corresponding-to-your-progress-on-spire-under-attack"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "A) Up to \u2666\u2666\u2662"
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you approach the village of Spire, you hear distant shouts\nand the occasional snap of a whispercrack darter. While you\nsee several reclaimers moving toward the village, it is not yet\noverrun. There may be time yet to get everyone to safety."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "B) \u2666\u2666\u2666"
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you approach the village of Spire, you hear distant shouts and\nsee tendrils of smoke rising from the town center. Reclaimers are\nswarming the village. You hope that there is still time to get\neveryone in the village to safety."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger suffers 2 fatigue."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u00bb Continue reading:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You know that the evacuation of Spire will take all the energy you\nhave and more. You pause to consider your options."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "A) Rest and start fresh tomorrow."
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You decide that you can be the most help by being well rested.\nYou find a gully near the riverbank where you think you can get\nsome rest without drawing the attention of reclaimers. You curl\nup to get a few hours of sleep."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "SPIRE UNDER ATTACK!"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission, and gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "FALL OF SPIRE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.29A"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "above the next day on the day track."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "End the day. You are considered to have camped."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "B) There's no time to waste!"
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.29B"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/1_missions/1_29",
+          "anchor": "129b",
+          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_29#129b"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.29A"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "129a",
+          "url": "#129a"
+        }
+      ],
+      "anchor": "129a"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You awake from a fitful rest to the sound of distant shouts. Tendrils of\nsmoke rise as packs of reclaimers slither toward the village of Spire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.29B"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/1_missions/1_29",
+          "anchor": "129b",
+          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_29#129b"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.29B"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "129b",
+          "url": "#129b"
+        }
+      ],
+      "anchor": "129b"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You maneuver to the riverbank and can make out scores of reclaimers\nmoving among the buildings. You also see people hiding, others\npulling neighbors to safety, and more fending off reclaimers with\nstaves, thumpers, darters, static sifters, and anything else they can\nfind. The seekers have already begun covering the structures in their\nreproductive mucus, and you can see polyps forming everywhere you\nlook. The only option is to get those people out of there."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The inhabitants seem to be gathering in several locations, banding\ntogether to defend themselves. If you can get to those groups\u2014and\nmore importantly, find the people who are organizing and leading\nthose groups\u2014maybe you can lead them safely away from the village."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "SPIRE UNDER ATTACK"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "! mission, and gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "FALL OF\nSPIRE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Each Ranger soothes two fatigue. Search the General\nset for five Reclaimer Seekers, and add them to the Spire deck. Search\nthe General set for one Reclaimer Polyp, and put it into play."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_29"
+}

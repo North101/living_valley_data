@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/142_nutrient_injector",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "142",
+  "title": "142. Nutrient Injector",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Thick tubes gurgle as a syrupy goo flows through them, down towards the large spider-like device that latches onto the side of the heart. The syrup is a complex mixture of nutrients and essential vitamins that keeps the heart alive."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/nutrient_injector"
+}

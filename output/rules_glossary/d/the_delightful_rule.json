@@ -1,0 +1,35 @@
+{
+  "id": "rules_glossary/d/the_delightful_rule",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "the_delightful_rule",
+  "title": "The Delightful Rule",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you are ever unsure how to resolve a rules or"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "timing"
+            }
+          ],
+          "id": "rules_glossary/t/timing",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/timing"
+        },
+        {
+          "type": "text",
+          "text": "conflict, resolve the conflict in the manner that would be the most beneficial to you and your fellow Rangers. If your group is unable to agree on a resolution, the decision falls to the lead Ranger."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/D/delightful_rule"
+}

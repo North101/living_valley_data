@@ -1,0 +1,63 @@
+{
+  "id": "rules_glossary/d/disconnected_keyword",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "disconnected_keyword",
+  "title": "Disconnected (Keyword)",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "You cannot add"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "progress"
+            }
+          ],
+          "id": "rules_glossary/p/progress",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/progress"
+        },
+        {
+          "type": "text",
+          "text": "to a card with the disconnected"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "keyword"
+            }
+          ],
+          "id": "rules_glossary/k/keywords",
+          "anchor": "",
+          "url": "/docs/rules_glossary/K/keywords"
+        },
+        {
+          "type": "text",
+          "text": "using the Connect"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "common test"
+            }
+          ],
+          "id": "rules_glossary/c/common_test",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/common_tests"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/D/disconnected"
+}

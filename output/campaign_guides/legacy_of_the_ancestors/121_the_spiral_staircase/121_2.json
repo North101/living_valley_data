@@ -1,0 +1,67 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_2",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "121.2",
+  "title": "121.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The massive, twisting form of the Spiral Stairway rises out of the gloom. In the dark, it is impossible to see where it reaches, but you think you can make out branching paths leading to far edges of the chamber. As you cautiously step onto the sloping steps, you think you see flickers of movement in the distance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Search the path deck for the next being and put it into play."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear The Spiral Stairway with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "ranger_token"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to travel back up to Spire."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/thespiral_stairway/121_2"
+}

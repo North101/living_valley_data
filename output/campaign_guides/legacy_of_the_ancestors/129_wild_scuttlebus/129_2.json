@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/129_wild_scuttlebus/129_2",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "129.2",
+  "title": "129.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The clacking mandibles and fang-filled maw bite through a metal brace right above your head. You raise your arms to ward off the steel splinters, and as you do you catch a glimpse of a ragged gray cloak flapping from between its teeth. With a sinking heart, you realize you\u2019ve likely discovered the fate of at least one member of the expedition. Unfortunately, given how voracious this scuttlebus seems, you doubt you\u2019ll be able to find out anything more."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/wild_scuttlebus/129_2"
+}

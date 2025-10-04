@@ -1,0 +1,64 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/16_kobos_market_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "16",
+  "title": "16. Kobo's Market (LOA)",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF YOU HAVE NOT COMPLETED THE LIMITED TIME OFFER MISSION, GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.103"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_103",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_103"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "br",
+      "items": []
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "OTHERWISE, READ:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Given Ren Kobo\u2019s Messipian heritage, it\u2019s not surprising that he set up his market next to a clear, spring-fed lake. You see the market, bathed in sunlight, bursting with wares from both inside and outside the Valley. You hear the joyful chatter of bartering customers and merchants as you approach."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kobos_market"
+}

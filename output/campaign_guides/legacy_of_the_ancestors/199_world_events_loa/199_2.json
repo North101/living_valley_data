@@ -1,0 +1,133 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/199_world_events_loa/199_2",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "199.2",
+  "title": "199.2",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "READ ONE:"
+                }
+              ],
+              "highlight_color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you\u2019ve completed The Descent:"
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Journeying underground has given you an even greater appreciation of the world above\u2014the open sky, the sweet smell of sunberry bushes, the song of meadowlarks. The chorus of life sings a different melody underground. Strange, but beautiful."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "A small white crab scuttles by at your feet. It stops, faces you, then raises one claw into the air. After a moment, you raise your hand in response. Finding this acceptable, the crab continues on its way."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger gains 1 additional energy of any type for the first round."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you haven\u2019t:"
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You have yet to meet up with Silaro at the Chimney. You know that every day you delay you run the risk that he'll get himself into trouble, but you're reasonably certain that he'll be fine until you get there. You set about preparing breakfast."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "RUNNING LATE"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on your campaign tracker. Write"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "199.4"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "7 days from now on the day tracker."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/world_events/199_2"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_3",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "132.3",
+  "title": "132.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You spot something unusual in the fungal groves: boot prints. Somone else has been here. Then, your attention is drawn by two towering, identical mushrooms that loom over the others in the area. They seem different from the other fungi you\u2019ve been moving through\u2014taller, more statuesque somehow. As you approach them, coughing as you try to clear your lungs of the choking clouds of spores, you start to hear \u2026 something in the air. Is it a murmur? A voice? Can you sense a presence somewhere?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear these strange mushrooms with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to speak with the voice."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_3"
+}

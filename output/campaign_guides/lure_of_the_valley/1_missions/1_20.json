@@ -1,0 +1,321 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_20",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.20",
+  "title": "1.20",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Read one entry based on how many days have passed since receiving"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "JOURNEY (ALLUVIAL RUINS):"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "0 - 1:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "You climb to the top of the ruined tower Aell described, careful\nto avoid the reclaimers nesting throughout the ruins. You see Aell\nsitting in a small, well-concealed shelter. He beckons you over. \u201cI\nmade good time on my errand,\u201d he says, patting a cloth-wrapped\nconduit lying next to him. \u201cI\u2019m glad you did the same.\" He leans\nclose. \"You weren't kidding. There are so many reclaimers here!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "2+:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "You climb to the top of the ruined tower Aell described, careful\nto avoid the reclaimers nesting throughout the ruins. You see Aell\nsleeping in a small, well-concealed shelter. You shake him awake, and\nhe startles before recognizing you. \u201cThere you are!\u201d he hisses. \u201cI\u2019ve\nbeen waiting for days; what took you so long? There are reclaimers\neverywhere!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Aell leads you to the edge of the tower, and you look down into a vast\npit teeming with reclaimers consuming the heart of the ruins. \u201cThis is\ngoing to be dangerous,\u201d Aell says, and you agree. \u201cDo you want to\nrest before we begin? We only have one shot at this.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "A) Rest first (ends the day)."
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You set up camp beside Aell's shelter, and lie down for what will\nsurely be a fitful night\u2019s sleep."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "JOURNEY (ALLUVIAL RUINS)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission, and gain\nthe"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "WASHED AWAY"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.21"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "above the next day on the day track."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "End the day. You are considered to have camped."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "B) There is no time to waste!"
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You lock eyes with Aell and nod to each other. He carefully\nunwraps what appears to be a long wooden cylinder, woven\nthrough with delicate copper wire. He picks it up, and it makes\na hissing sound like a far-off deluge. The hairs on your arms start\nto rise as he begins to channel through the conduit, and you can\nfeel the humidity rise and the wind pick up."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cPosition yourself upstream,\u201d he says. It may take hours for the\nflooding to begin. Once it does, you\u2019re going to need to direct\nthe flow of water for maximum effect. Otherwise, this whole\nplace may be washed away, or we may not hit the nest at all!\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Aell adjusts his hat and flashes a confident smile. \"Just let me\nknow if you need assistance. And keep those reclaimers off of\nme!\u201d With that, he raises his conduit, and the skies instantly\ndarken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Aell with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to move a Flood card."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "JOURNEY (ALLUVIAL RUINS)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission, and gain\nthe"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "WASHED AWAY"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Replace the current weather with\nDownpour (if it is not already in play)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Search the Marsh of Rebirth set for Aell, Ambitious Shaper, and\nput him into play within reach of a Ranger of your choice. Do\nnot read his entry. Search the General set for all Reclaimers, and\nshuffle them into the path deck."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Finally, after you have completed arrival setup, search the\nGeneral set for one Flood, and put it into play."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_20"
+}

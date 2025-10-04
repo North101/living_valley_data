@@ -1,0 +1,31 @@
+{
+  "id": "rules_glossary/s/start_of_day",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "start_of_day",
+  "title": "Start of Day",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Any abilities that resolve at \"start of day\" are resolved during step 10 of"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "setup"
+            }
+          ],
+          "id": "rules_glossary/s/setup",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/setup"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/S/start_of_day"
+}

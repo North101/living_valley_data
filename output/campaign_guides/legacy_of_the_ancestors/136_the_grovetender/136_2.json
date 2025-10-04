@@ -1,0 +1,202 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_2",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "136.2",
+  "title": "136.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The data running through the grovetender\u2019s processor begins to spill onto a makeshift interface you have rigged up. The random strings of numbers and letters begin to shift and reorganize as the machine interprets the data it has read. The script appears as glyphs and symbols that you recognize from the other Estian ruins, but then, miraculously, it forms something comprehensible. You're not sure how, but the information seems to reformat so that you can interpret it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "READ AN ENTRY BASED ON THE CARD TO WHICH THE GROVETENDER IS ATTACHED"
+                }
+              ],
+              "highlight_color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Flora with Mycelial Keyword:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "The machine chatters and the cuff wraps around the stalk. It takes several long moments as it tries to adjust, but finally it clicks and data starts to flow onto the interface. Instead of neatly organized information entries, you see something on the interface that looks like a cloud of gauze full of glowing nodes. Glinting lights float along the entries, moving at random. Zooming in on a single glinting light reveals cobwebs of light and ever-increasing complexity. They almost seem like \u2026 neural networks?"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Soothe fatigue equal to the number of flora with the mycelial keyword in play."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "New Growth:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "For a long moment, the machine doesn\u2019t seem to fit on such a small trunk. But it shifts and adjusts itself, and then data flows onto your interface. You\u2019re not sure how to read all of it, but it does seem to be a bunch of machine reports on the current functions of the arcology. You notice a series of alerts that coincide with the earthquakes that have been shaking the Valley. They also are linked to a series of \u201cbeat failure\u201d reports originating from a space called \u201cthe Cage\u201d in the very depths of the arcology."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Petrified Giant:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Go to"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "136.3"
+                }
+              ],
+              "id": "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_3",
+              "anchor": "",
+              "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_grovetender/136_3"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Petrified Colossus:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Go to"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "136.4"
+                }
+              ],
+              "id": "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_4",
+              "anchor": "",
+              "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_grovetender/136_4"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Petrified Behemoth:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Go to"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "136.5"
+                }
+              ],
+              "id": "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_5",
+              "anchor": "",
+              "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_grovetender/136_5"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Other Flora:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "The interface lights up with information almost immediately, but it\u2019s just a mass of gibberish. The machine must work only with specific, genetically modified plants."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_grovetender/136_2"
+}

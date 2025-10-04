@@ -1,0 +1,81 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/10_tumbledown",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "10",
+  "title": "10. Tumbledown",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF TALA THE RED IS IN PLAY, GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "84.11"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_11",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/tala_the_red_exile/84_11"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "OTHERWISE, READ:"
+        }
+      ]
+    },
+    {
+      "type": "br",
+      "items": []
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you near the terminus of the Valley, the Silverfin rushes and churns\nbetween massive boulders on its way to the falls. Ahead of you, there is\na constant, booming roar. Just beyond, the Silverfin rushes over the lip\nof the cliff and plummets hundreds of meters to the Verdessa far below."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you haven't gained or completed the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "SEARCH (KASENDE)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission, do not shuffle Kasende, Expert Hunter into the path deck."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/tumbledown"
+}

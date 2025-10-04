@@ -1,0 +1,47 @@
+{
+  "id": "rules_glossary/d/dangerous_keyword",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "dangerous_keyword",
+  "title": "Dangerous (Keyword)",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "After a card with the dangerous keyword"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "fatigues you"
+            }
+          ],
+          "id": "rules_glossary/f/fatigue",
+          "anchor": "fatigues-you",
+          "url": "/docs/rules_glossary/F/fatigue#fatigues-you"
+        },
+        {
+          "type": "text",
+          "text": ", suffer 1"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "injury"
+            }
+          ],
+          "id": "rules_glossary/i/injury",
+          "anchor": "",
+          "url": "/docs/rules_glossary/I/injury"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/D/dangerous"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_138",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "1.138",
+  "title": "1.138",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You come through the half-sealed hatchway, only to have your head nearly taken off by a snapping vine. In the distance, writhing masses undulate and slither along the walls and floor. The vines in this series of chambers are much larger and more concentrated than normal. In places, they\u2019ve sprouted voracious, thorn-lined mouths; to all appearances overgrown carnivorous plants."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You recall that these vines grow from large central roots. Although you don\u2019t relish trying to weave among them to find their origin point, you know that if you destroy the roots, the vines will go with them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If the path you used to travel here was not Deep Roots, search the Deep Roots terrain set for Snarling Roots and 1"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "per_ranger"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "Snapping Maws and shuffle them into the path deck."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you are at the Rootway, search the General set for the Locked Passage and put it into play."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "If"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "SPIRE FALLEN"
+                }
+              ],
+              "color": "blue"
+            },
+            {
+              "type": "text",
+              "text": ", continue reading:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you\u2019ve traveled through the arcology, you constantly wonder where all the reclaimers have gone. Now, you have at least part of an answer. If you look carefully, you see the flashing hints of seekers lurking among the vines. They lash out at the plants, tearing and rending. The vines seem to be getting the better of the fight, however, as every so often you see one of their vine-trap \u201cmouths\u201d scoop up a reclaimer whole."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Search the General set for 2 Reclaimer Seekers and shuffle them into the path deck. Flip the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "AT THE SOURCE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "card over to its"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RECLAIMERS\u2019 FATE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "side, but don\u2019t change your mission log."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_138"
+}

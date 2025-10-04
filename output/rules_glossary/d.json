@@ -1,0 +1,19 @@
+{
+  "id": "rules_glossary/d",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "d",
+  "title": "D",
+  "content": null,
+  "items": [
+    "rules_glossary/d/dangerous_keyword",
+    "rules_glossary/d/day_track",
+    "rules_glossary/d/the_delightful_rule",
+    "rules_glossary/d/deployed_keyword",
+    "rules_glossary/d/difficulty",
+    "rules_glossary/d/disabled_thresholds",
+    "rules_glossary/d/discard",
+    "rules_glossary/d/disconnected_keyword",
+    "rules_glossary/d/dodge"
+  ],
+  "url": "/docs/category/d"
+}

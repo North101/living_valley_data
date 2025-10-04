@@ -1,0 +1,92 @@
+{
+  "id": "rules_glossary/r/rewards",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "rewards",
+  "title": "Rewards",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rewards are"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Ranger cards"
+            }
+          ],
+          "id": "rules_glossary/r/ranger_cards",
+          "anchor": "",
+          "url": "/docs/rules_glossary/R/ranger_cards"
+        },
+        {
+          "type": "text",
+          "text": "that are unlocked as you play through the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "campaign"
+            }
+          ],
+          "id": "rules_glossary/c/campaign",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/campaign"
+        },
+        {
+          "type": "text",
+          "text": ". When the campaign guide rewards you with a new card, write the name of the card in the \u201cRewards\u201d section of the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "campaign tracker"
+            }
+          ],
+          "id": "rules_glossary/c/campaign_tracker",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/campaign_tracker"
+        },
+        {
+          "type": "text",
+          "text": ". Find all copies of that reward card in your collection and set them aside, using the \"Unlocked Rewards\" card divider to keep them separate. These cards are now available for any Ranger playing in the campaign to use for deck customization. If the campaign guide ever instructs you gain the same reward card again, ignore that effect."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "See"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Customizing Ranger Decks"
+            }
+          ],
+          "id": "rules_glossary/c/customizing_ranger_decks",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/customizing_ranger_decks"
+        },
+        {
+          "type": "text",
+          "text": "for details on adding rewards to your deck."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/R/rewards"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/23_headwaters_station/23_1",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "23.1",
+  "title": "23.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You were told the waters of Headwaters Station had magical\nproperties, and when you dive into the deep blue pool, you can see\nwhy. The water is cold but not unpleasant, and you feel tingles run\ndown your arms as effervescent bubbles play across your skin."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you swim deeper, shapes rise out of the indigo gloom, indistinct\nforms of animals and people that spin and dive around you. The\ndarkness seems to be illuminated by an expanse of gleaming sand,\nbut as you swim closer, you realize that it\u2019s a field of stars."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You plunge into the starry expanse, the shapes moving with you\nand carrying you along. Suddenly, the light grows brighter. You find\nyourself heading toward a wall of shimmering light\u2014and then you\nburst through it and erupt out of the water."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You spend a long time on the edge of the pool, gasping for breath as\nyour lungs clench and burn. But even as your heart thunders in your\nears, it feels like your mind has never been clearer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the Clarity of the Headwaters reward card."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/headwaters_station/23_1"
+}

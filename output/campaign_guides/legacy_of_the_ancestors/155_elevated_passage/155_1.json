@@ -1,0 +1,79 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/155_elevated_passage/155_1",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "155.1",
+  "title": "155.1",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "If you are on Stratum 1, go to"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "155.2"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/155_elevated_passage/155_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/elevated_passage/155_2"
+                }
+              ],
+              "highlight_color": "blue"
+            }
+          ]
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Otherwise, read:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You scramble up the final few meters of the slope, feet sliding on the slippery surface. You emerge onto a landing. Doorways lead into higher levels of the arcology, and to one side, another walkway stretches upward, rising to some higher level still."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Travel to any location on the map one stratum above your current location (if you are at a location on Stratum 3, travel to any location on Stratum 2, and if you are at a location on Stratum 2, any location on Stratum 1). Use the Cave System terrain set when constructing the path deck."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/elevated_passage/155_1"
+}

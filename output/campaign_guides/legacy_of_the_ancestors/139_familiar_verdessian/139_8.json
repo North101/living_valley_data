@@ -1,0 +1,176 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_8",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "139.8",
+  "title": "139.8",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You try and focus your thoughts, sifting through the chaotic jumble of images that bombards your mind. Suddenly, you recognize one: a reclaimer!"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As if in response, the images seem to flow and sort themselves into some sort of order. Trying to understand them is like reading a book covered in mud, but eventually you start to make sense of what you\u2019re seeing."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You see the Verdessian commanding the reclaimers with the help of a small white flower, sending them down into the arcology where they begin to melt away debris. You see the Verdessian trying to direct them either away from or toward the strange, carnivorous plants you've encountered. Then you watch as the reclaimers are gripped and consumed by them."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Finally, you see a particularly large and almost pulsing root, from which the carnivorous plants are growing. Is the Verdessian trying to destroy these plants at their source? Is it asking you for help?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "A) Agree to help eradicate these plant."
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "AT THE SOURCE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Check off the right-most bubble next to it. It is not used for this mission. Cross off"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "REFUSED THE VERDESSIAN"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "if it is on the campaign tracker."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "B) Refuse the Verdessian's request."
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The petals of the Verdessian's face ripple and twitch. It then twists upon itself until it becomes a willowy stalk, and then retreats into the floor, like a sapling growing in reverse, and is gone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard the Familiar Verdessian. Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "REFUSED THE VERDESSIAN"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_08"
+}

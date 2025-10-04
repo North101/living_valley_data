@@ -1,0 +1,144 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "85",
+  "title": "85. Calypsa, Ranger Mentor",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "ENTERS PLAY: GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "85.1"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/calypsa_ranger_mentor/85_1"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF HELPING HAND IS ATTACHED TO CALYPSA, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "85.2"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/calypsa_ranger_mentor/85_2"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "85.3"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/calypsa_ranger_mentor/85_3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "red"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "85.4"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_4",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/calypsa_ranger_mentor/85_4"
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_1",
+    "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_2",
+    "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_3",
+    "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_4"
+  ],
+  "url": "/docs/campaign_guides/lure_of_the_valley/calypsa_ranger_mentor"
+}

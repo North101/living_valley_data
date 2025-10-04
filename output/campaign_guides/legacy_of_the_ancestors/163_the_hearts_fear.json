@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/163_the_hearts_fear",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "163",
+  "title": "163. The Heart's Fear",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You reach out to the heart and feel a weight upon you like a blanket of dread. The past, unchangeable; the future, uncertain. Time is a tortuous construct\u2014a prison from which the heart cannot escape. And it is terrified\u2014of what came before, of what comes after, and everything in between."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_hearts_fear"
+}

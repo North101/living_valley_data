@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/43_hanging_gardens_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "43",
+  "title": "43. Hanging Gardens (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "High above the ground, you step out of the doorway from the trunk of Lone Tree and onto a wildly swinging catwalk. You keep a firm grip as you make your way toward the massive boxes, each as large as a flatboat and overflowing with plants that hang from the tree\u2019s thick branches. As the wind shifts, you catch the heady aroma of blooming flowers and ripe vegetables."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/hanging_gardens"
+}

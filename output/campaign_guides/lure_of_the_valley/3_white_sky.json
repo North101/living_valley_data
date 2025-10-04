@@ -1,0 +1,145 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/3_white_sky",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "3",
+  "title": "3. White Sky",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF SILARO MAKO IS IN PLAY, GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "53.6"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_6",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/silaro_mako_archaelologist/53_6"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF TALA THE RED IS IN PLAY, GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "84.7"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_7",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/tala_the_red_exile/84_7"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "WHITE SKY"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "IS FLOODED, GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "3.1"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/3_white_sky/3_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/white_sky/3_1"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF THE MOON IS IN WANING GIBBOUS (DAYS 15 \u2013 20), GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "3.2"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/3_white_sky/3_2",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/white_sky/3_2"
+        }
+      ]
+    },
+    {
+      "type": "br",
+      "items": []
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "OTHERWISE, READ:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "From your vantage point you can see much of the southern shore of\nWhite Sky Lake, from the froth of rapids at the head of the Silverfin\nRiver to the mix of rocky promontories and pebble-strewn beaches\nthat slowly curve around toward the opposite shore. There you see\nthe village of White Sky and the tiny forms of villagers going about\ntheir business on the platforms and docks."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/lure_of_the_valley/3_white_sky/3_1",
+    "campaign_guides/lure_of_the_valley/3_white_sky/3_2"
+  ],
+  "url": "/docs/campaign_guides/lure_of_the_valley/white_sky"
+}

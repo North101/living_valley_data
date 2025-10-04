@@ -1,0 +1,20 @@
+{
+  "id": "rules_glossary/t",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "t",
+  "title": "T",
+  "content": null,
+  "items": [
+    "rules_glossary/t/talespinner_background",
+    "rules_glossary/t/terms",
+    "rules_glossary/t/terrain",
+    "rules_glossary/t/tests",
+    "rules_glossary/t/timing",
+    "rules_glossary/t/tokens",
+    "rules_glossary/t/traits",
+    "rules_glossary/t/travel",
+    "rules_glossary/t/traveler_background",
+    "rules_glossary/t/turns"
+  ],
+  "url": "/docs/category/t"
+}

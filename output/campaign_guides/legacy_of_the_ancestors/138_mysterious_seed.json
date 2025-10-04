@@ -1,0 +1,236 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "138",
+  "title": "138. Mysterious Seed",
+  "content": [
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY:"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "OBEYED THE SEED"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "138.1"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mysterious_seed/138_1"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "138.2"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mysterious_seed/138_2"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF HELPING HAND IS ATTACHED, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "138.3"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mysterious_seed/138_3"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "OBEYED THE SEED"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "138.4"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_4",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mysterious_seed/138_4"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "138.5"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_5",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mysterious_seed/138_5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "black",
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "138.6"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_6",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/mysterious_seed/138_6"
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_1",
+    "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_2",
+    "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_3",
+    "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_4",
+    "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_5",
+    "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_6"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mysterious_seed"
+}

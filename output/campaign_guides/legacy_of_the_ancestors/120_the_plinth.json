@@ -1,0 +1,163 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/120_the_plinth",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "120",
+  "title": "120. The Plinth",
+  "content": [
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY:"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF THE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "CHIMNEY IS SETTLED"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "120.1"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_plinth/120_1"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "120.2"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_plinth/120_2"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF AT LEAST ONE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "ranger_token"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "IS ON THIS FEATURE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "120.3"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_plinth/120_3"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, DISCARD THE PLINTH."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_1",
+    "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_2",
+    "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_3"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_plinth"
+}

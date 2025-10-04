@@ -1,0 +1,129 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/50_the_bubble",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "50",
+  "title": "50. The Bubble",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "ENTERS PLAY: GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "50.1"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble/50_1"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "ranger_token"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU HAVEN\u2019T RECEIVED THE ARCOLOGY ARCHAEOLOGY MISSION, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "50.2"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble/50_2"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU ARE ON THE ARCOLOGY ARCHAEOLOGY MISSION, AND IT HAS 3 CHECK MARKS, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "50.3"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble/50_3"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "50.4"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_4",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble/50_4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/lure_of_the_valley/50_the_bubble/50_1",
+    "campaign_guides/lure_of_the_valley/50_the_bubble/50_2",
+    "campaign_guides/lure_of_the_valley/50_the_bubble/50_3",
+    "campaign_guides/lure_of_the_valley/50_the_bubble/50_4"
+  ],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble"
+}

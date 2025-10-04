@@ -1,0 +1,64 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/159_lunn_curious_scavenger/159_3",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "159.3",
+  "title": "159.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You ask Lunn about the devices that allow you to breathe underwater and the eccentric Ranger lights up. \u201cOne of the most interesting devices I\u2019ve ever seen. Estian no less!\u201d he says, producing a small case of brown, lacquered wood from his pack. Inside are several intricately crafted collars."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cI went to the Golden Shore to give them a try. Ren Kobo warned me that they were running low on juice, and he wasn\u2019t wrong! After about a minute of breathing easy as can be, the thing stopped working. I had to swim for my life!\u201d He shakes his head. \u201cYou know me. I love to tinker! But I couldn't get it to work with our power cells. I thought maybe I\u2019d find something down here that could help. It runs on the quantumly entangled photons contained in these little glass cubes the Estians were fond of. Let's call them 'quantum cubes' for short. I\u2019ve found some in the rubble, but so far they\u2019re all either dead or broken.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Lunn lifts a collar from the case. \u201cYou know what?\u201d he says. \u201cI think you should take them with you. Usually, I\u2019d want something in trade, but the universe conspired for us to cross paths here in this isolated sinkhole, and I have a feeling this is the reason.\u201d He hands you the case and gathers his pack. \u201cYou\u2019re sure to find some of those cubes on your journey. Just keep your eyes open for piles of rubble. Once you do, just insert the cube into this here socket, and it should power right up!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "BREATHE EASIER"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Discard Lunn. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/lunn_curious_scavenger/159_3"
+}

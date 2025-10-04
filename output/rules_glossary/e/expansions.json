@@ -1,0 +1,374 @@
+{
+  "id": "rules_glossary/e/expansions",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "expansions",
+  "title": "Expansions",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each expansion for Earthborne Rangers contains new content to enhance your play experience. The complete list of expansions is as follows:"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "strong",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "Legacy of the Ancestors"
+                    }
+                  ]
+                }
+              ],
+              "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
+              "anchor": "",
+              "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
+            },
+            {
+              "type": "text",
+              "text": "adds a new narrative"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "campaign"
+                }
+              ],
+              "id": "rules_glossary/c/campaign",
+              "anchor": "",
+              "url": "/docs/rules_glossary/C/campaign"
+            },
+            {
+              "type": "text",
+              "text": "that takes place after Lure of the Valley, complete with a new"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "campaign guide"
+                }
+              ],
+              "id": "rules_glossary/c/campaign_guide",
+              "anchor": "",
+              "url": "/docs/rules_glossary/C/campaign_guide"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "campaign tracker"
+                }
+              ],
+              "id": "rules_glossary/c/campaign_tracker",
+              "anchor": "",
+              "url": "/docs/rules_glossary/C/campaign_tracker"
+            },
+            {
+              "type": "text",
+              "text": "and"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "map"
+                }
+              ],
+              "id": "rules_glossary/a/the_arcology_map",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/arcology_map"
+            },
+            {
+              "type": "text",
+              "text": ", along with new"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "locations"
+                }
+              ],
+              "id": "rules_glossary/l/locations",
+              "anchor": "",
+              "url": "/docs/rules_glossary/L/locations"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "path cards"
+                }
+              ],
+              "id": "rules_glossary/p/path_cards",
+              "anchor": "",
+              "url": "/docs/rules_glossary/P/path_cards"
+            },
+            {
+              "type": "text",
+              "text": ", and"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "rewards"
+                }
+              ],
+              "id": "rules_glossary/r/rewards",
+              "anchor": "",
+              "url": "/docs/rules_glossary/R/rewards"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "strong",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "Stewards of the Valley"
+                    }
+                  ]
+                }
+              ],
+              "id": "rules_glossary/s/stewards_of_the_valley_expansion",
+              "anchor": "",
+              "url": "/docs/rules_glossary/S/stewards_of_the_valley"
+            },
+            {
+              "type": "text",
+              "text": "adds new"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Ranger cards"
+                }
+              ],
+              "id": "rules_glossary/r/ranger_cards",
+              "anchor": "",
+              "url": "/docs/rules_glossary/R/ranger_cards"
+            },
+            {
+              "type": "text",
+              "text": "for each of the"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "backgrounds"
+                }
+              ],
+              "id": "rules_glossary/b/backgrounds",
+              "anchor": "",
+              "url": "/docs/rules_glossary/B/backgrounds"
+            },
+            {
+              "type": "text",
+              "text": "and"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "specialties"
+                }
+              ],
+              "id": "rules_glossary/s/specialties",
+              "anchor": "",
+              "url": "/docs/rules_glossary/S/specialties"
+            },
+            {
+              "type": "text",
+              "text": "from the core set, as well as adding new"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "personality"
+                }
+              ],
+              "id": "rules_glossary/p/personalities",
+              "anchor": "",
+              "url": "/docs/rules_glossary/P/personalities"
+            },
+            {
+              "type": "text",
+              "text": "cards and new"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "aspect"
+                }
+              ],
+              "id": "rules_glossary/a/aspects",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/aspects"
+            },
+            {
+              "type": "text",
+              "text": "cards. It also adds an entirely new"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "background"
+                }
+              ],
+              "id": "rules_glossary/b/backgrounds",
+              "anchor": "",
+              "url": "/docs/rules_glossary/B/backgrounds"
+            },
+            {
+              "type": "text",
+              "text": "set ("
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Talespinner"
+                }
+              ],
+              "id": "rules_glossary/t/talespinner_background",
+              "anchor": "",
+              "url": "/docs/rules_glossary/T/talespinner"
+            },
+            {
+              "type": "text",
+              "text": ") and a new"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "specialty"
+                }
+              ],
+              "id": "rules_glossary/s/specialties",
+              "anchor": "",
+              "url": "/docs/rules_glossary/S/specialties"
+            },
+            {
+              "type": "text",
+              "text": "set ("
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Spirit Speaker"
+                }
+              ],
+              "id": "rules_glossary/s/spirit_speaker_specialty",
+              "anchor": "",
+              "url": "/docs/rules_glossary/S/spirit_speaker"
+            },
+            {
+              "type": "text",
+              "text": "), both of which can be chosen at character creation."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "strong",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "Moments on the Path"
+                    }
+                  ]
+                }
+              ],
+              "id": "rules_glossary/m/moments_on_the_path_expansion",
+              "anchor": "",
+              "url": "/docs/rules_glossary/M/moments_on_the_path"
+            },
+            {
+              "type": "text",
+              "text": "adds exciting and narrative"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "moments"
+                }
+              ],
+              "id": "rules_glossary/p/path_moments",
+              "anchor": "",
+              "url": "/docs/rules_glossary/P/path_moments"
+            },
+            {
+              "type": "text",
+              "text": "to your path deck and can be used at any point during your Lure of the Valley or Legacy of the Ancestors"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "campaigns"
+                }
+              ],
+              "id": "rules_glossary/c/campaign",
+              "anchor": "",
+              "url": "/docs/rules_glossary/C/campaign"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/E/expansions"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/161_the_hearts_anger",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "161",
+  "title": "161. The Heart's Anger",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Cage echoes with the sound of the heart struggling to find its rhythm. Anger roils inside it like White Sky Lake in a storm. Waves of anger crash against you with every labored beat. Scattered visions of the Estians fill your mind. You see thousands of faces, their features distinct for but a moment as they morph from one to the next to the next\u2014all lost in the flood."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "When the vision clears and you return to yourself, you find your hands clenched in tight fists. You must help the heart release its anger if it is to be made whole once more."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_hearts_anger"
+}

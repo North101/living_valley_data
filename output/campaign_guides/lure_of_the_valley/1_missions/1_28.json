@@ -1,0 +1,190 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_28",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.28",
+  "title": "1.28",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The seething tide of reclaimers surges toward you, clicking in hungry\nanticipation. Injured, exhausted, and out of options, you prepare to\nsell your lives dearly."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Suddenly, from across the swamp, darter shots punch into the\nreclaimers, knocking several to the ground. You see Kal Iver and\nthree other Rangers attacking from the flank, carrying whispercrack\ndarters and firing as fast as their fingers can pull the trigger. They\nmanage to cut a path into the heart of the swarm, and then you see Kasende run forward, darter in one hand, and the lure held tightly in\nthe other. Twice she seems about to be overrun, but Kal\u2019s fire keeps\nthe reclaimers at bay."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Finally, she reaches the center of the swarm, raises the lure high\nand turns it to maximum power. A moment later, Kasende vanishes\nunder a tide of reclaimers, just as the water around them begins to\nchurn and froth. The Roiling\u2014the voracious mass of hydraworms that\nspawns all others\u2014begins to feed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Write"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "KASENDE LOST"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker, and complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "GRUESOME FEAST"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "and"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "INVASION"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "missions. Write"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "RECLAIMERS\nCONSUMED"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker. Permanently remove Kasende from\nthe Tumbledown set."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Huge segmented coils of flesh erupt out of the water, and fang-filled\ncircular maws lunge forward to scoop up struggling reclaimers and\ngulp them down in single bites."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Kal and his team reach you and help you to your feet, dragging you\nout of the marsh as you hear a horrible symphony of hisses, splashing,\nand terrible wet crunches. Drawn by the Roiling\u2019s frenzy, the other\nhydraworms join the feast."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "For once, Kal\u2019s face shows no trace of cocky superiority. \u201cWe came\nas soon as we got word of your plan,\u201d he says. \u201cI just wish we could\nhave gotten here sooner.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You can\u2019t help but wish the same. The reclaimers have been dealt\nwith, but at what cost? If Kal hadn\u2019t come along when he did, you\nwould have perished alongside Kasende."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"Come on,\" Kal says, patting you on the shoulder. \"Let's get back to\nLone Tree Station and tell Elder Thrush what happened.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "JOURNEY (LONE TREE STATION)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "REMOVE THE RECLAIMERS"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_28"
+}

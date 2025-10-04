@@ -1,0 +1,58 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/69_elder_jular_abel/69_1",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "69.1",
+  "title": "69.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You hear Elder Jular Abel\u2019s stomping stride through the grass, but\nwhen you finally come across her, she\u2019s walking with a much more\nrelaxed (if still energetic) air. \u201cGlorious day for a hike, now that I don\u2019t\nhave to worry \u2018bout a hole full of teeth and legs opening beneath\nmy feet!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Elder Abel with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to ask her what there is to do around Meadow."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/elder_jular_abel/69_1"
+}

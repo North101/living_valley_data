@@ -1,0 +1,12 @@
+{
+  "id": "campaign_guides",
+  "lookup_group": null,
+  "lookup_id": null,
+  "title": "Campaign Guides",
+  "content": null,
+  "items": [
+    "campaign_guides/lure_of_the_valley",
+    "campaign_guides/legacy_of_the_ancestors"
+  ],
+  "url": "/docs/category/campaign-guides/"
+}

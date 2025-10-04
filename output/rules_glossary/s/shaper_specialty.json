@@ -1,0 +1,145 @@
+{
+  "id": "rules_glossary/s/shaper_specialty",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "shaper_specialty",
+  "title": "Shaper (Specialty)",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Shaper is one of the available specialty"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "sets"
+            }
+          ],
+          "id": "rules_glossary/s/sets",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/sets"
+        },
+        {
+          "type": "text",
+          "text": "for Ranger decks."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Many years ago, you walked the perilous stair to the monastery at the top of Blind Peak where, through decades of study and practice in the Floating Tower, you learned to focus your intent and alter reality through the use of a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "conduit"
+            }
+          ],
+          "id": "rules_glossary/c/conduit_keyword",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/conduit"
+        },
+        {
+          "type": "text",
+          "text": ", a wonder of modern technology, inoperable by any but the most disciplined and self-aware. Shaper cards require you to include a special piece of"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "gear"
+            }
+          ],
+          "id": "rules_glossary/g/gear",
+          "anchor": "",
+          "url": "/docs/rules_glossary/G/gear"
+        },
+        {
+          "type": "text",
+          "text": "called a"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "conduit"
+            }
+          ],
+          "id": "rules_glossary/c/conduit_keyword",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/conduit"
+        },
+        {
+          "type": "text",
+          "text": "in your deck. With it, they make use of powerful abilities that can manipulate parts of the game system that are usually inaccessible to others."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "Life as a Shaper"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "life-as-a-shaper",
+          "url": "#life-as-a-shaper"
+        }
+      ],
+      "anchor": "life-as-a-shaper"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Shapers hold a unique place in the community. All shapers have studied at the monastery atop Blind Peak, but very few leave. Those who do often become hermits, living in relative solitude in remote and sometimes inhospitable locations, pondering the greater mysteries of the universe and mindfully shaping the circumstances of their lives."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "The few who rejoin their communities are held in high esteem, for a shaper must display tremendous discipline and wisdom to be entrusted with the power to alter the very fabric of reality, so they often serve as councilors to conciliators and Elders alike, providing unique insight."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "On occasion, groups of shapers will descend from the monastery to perform amazing feats that take years to complete\u2014like shaping dolewood trees into the village of Branch or teasing stone from the Earth to create Stoneweaver Bridge."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "It is rare for a shaper to join the Rangers, but those who do are some of the most individually capable humans in the Valley."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/S/shaper"
+}

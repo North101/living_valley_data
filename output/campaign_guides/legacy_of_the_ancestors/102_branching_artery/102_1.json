@@ -1,0 +1,102 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/102_branching_artery/102_1",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "102.1",
+  "title": "102.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cWell, well!\u201d You hear Kal calling from behind you. \u201cYou\u2019re pretty quick on your feet, even in the dark!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "He sits down on a nearby rock and takes a quick swig from his infusion canteen. He smiles, teeth flashing in the gloom. \u201cYou won fair and square, even if I was only a few steps behind you!\u201d He reaches into his pack and hands you a compact parcel marked with the Orlin sigil. \u201cA gift to commemorate your victory,\u201d he says. \u201cWhen I beat you next time, I don\u2019t want you complaining that you were too tired to race!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the Memlev Hammock reward card. Each Ranger soothes 2 fatigue. Discard Kal Iver and return"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "to the collection. Write down that you"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "BESTED KAL"
+            }
+          ],
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you are at the Terminal Artery and traveled there from Carbonforged Maze, go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "158.2"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_2",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/locked_passage/158_2"
+        },
+        {
+          "type": "text",
+          "text": ". Otherwise, if you are at the Terminal Artery, go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "158.1"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/locked_passage/158_1"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/branching_artery/102_1"
+}

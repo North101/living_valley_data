@@ -1,0 +1,59 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_2",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "139.2",
+  "title": "139.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Verdessian stands completely still, watching you with its eyeless sight. The thicker leaves that make up its torso unfurl, and the swirling green-on-green patterns bring forth memories of your adventures several cycles ago. You\u2019re pretty sure this is the same Verdessian you encountered during the Reclaimer Crisis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Place 2"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "on the Familiar Verdessian. Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "139.10"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_10",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_10"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_02"
+}

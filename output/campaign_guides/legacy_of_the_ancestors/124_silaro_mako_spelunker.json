@@ -1,0 +1,230 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "124",
+  "title": "124. Silaro Mako, Spelunker",
+  "content": [
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY:"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU'RE ON AN URGENT REQUEST, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "124.1"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/silaro_mako_spelunker/124_1"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU'VE RECEIVED THE EXPEDITION'S PATH, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "124.2"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/silaro_mako_spelunker/124_2"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "124.3"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/silaro_mako_spelunker/124_3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU'RE ON THE EXPEDITION'S PATH, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "124.4"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_4",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/silaro_mako_spelunker/124_4"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU'VE COMPLETED THE EXPEDITION'S PATH, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "124.5"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_5",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/silaro_mako_spelunker/124_5"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "124.6"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_6",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/silaro_mako_spelunker/124_6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "black",
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": ": GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "124.7"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_7",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/silaro_mako_spelunker/124_7"
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_1",
+    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_2",
+    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_3",
+    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_4",
+    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_5",
+    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_6",
+    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_7"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/silaro_mako_spelunker"
+}

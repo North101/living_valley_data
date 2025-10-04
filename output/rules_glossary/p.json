@@ -1,0 +1,29 @@
+{
+  "id": "rules_glossary/p",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "p",
+  "title": "P",
+  "content": null,
+  "items": [
+    "rules_glossary/p/path_attachments",
+    "rules_glossary/p/path_cards",
+    "rules_glossary/p/path_moments",
+    "rules_glossary/p/per_ranger",
+    "rules_glossary/p/persistent_keyword",
+    "rules_glossary/p/personalities",
+    "rules_glossary/p/phase_1_path_cards",
+    "rules_glossary/p/phase_2_ranger_turns",
+    "rules_glossary/p/phase_3_travel",
+    "rules_glossary/p/phase_4_refresh",
+    "rules_glossary/p/pivotal",
+    "rules_glossary/p/play",
+    "rules_glossary/p/the_play_area",
+    "rules_glossary/p/player_area",
+    "rules_glossary/p/powered_x",
+    "rules_glossary/p/presence",
+    "rules_glossary/p/progress",
+    "rules_glossary/p/progress_threshold",
+    "rules_glossary/p/prologue"
+  ],
+  "url": "/docs/category/p"
+}

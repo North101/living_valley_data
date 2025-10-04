@@ -1,0 +1,191 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_4",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "45.4",
+  "title": "45.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You get between Nal and Kordo, and ask them what they\u2019re arguing\nabout. Kordo huffs, then Nal rolls her eyes and turns to you."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cWe have been debating this since Kordo and I first met, actually,\u201d\nshe says. \u201cIt\u2019s a question of our role here, both as Rangers and\ninhabitants of this valley.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cDon\u2019t make it too dramatic,\u201d Kordo grumbles. \u201cI just think that if\nwe\u2019re going to be proper stewards here, it\u2019s up to us to clean up our\nancestor\u2019s mistakes.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cBiomelds aren\u2019t mistakes!\u201d Nal shoots back. \u201cThey may have been created for a purpose thousands of years ago, but in the time since\nthey\u2019ve evolved and become part of the ecosystem. They reproduce,\nthey coexist, just like any other being.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cOh, you think that caustic mulcher that has been lumbering around\nthe wooded areas of the Valley is coexisting with everything else?\u201d\nKordo looks at you. \u201cMaybe you can settle this. Nal thinks that\nbig sticky-tongued, acid-drooling eating machine is a part of the\nenvironment. I, on the other hand, think that it\u2019s been eating its way\nthrough the rest of the ecosystem, and it\u2019s time to stop it. What do\nyou think?\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "He reaches into his pocket and pulls out a ball of cloth. You catch\nit and open it, and find that it\u2019s actually a long and lethal-looking\ngauzeblade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the Gauzeblade reward card."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Nal sighs. \u201cWell it\u2019s important to be able to identify yourself to it\njust like any other being,\u201d she says, \u201cThe caustic mulcher, like the\nother biomelds around here, is an important part of the ecosystem. I\nhaven't observed a drastic decrease in animal populations. Have you,\nKordo? If the mulcher was a mistake, nature would have corrected it\nby now. It doesn't eat everything. Only what it must.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Kordo grunts. \u201cYou\u2019ve already told me your plan to prove it. Coating\nyourself in leaf paste and seeing if the mulcher will eat you or spit you\nout? Sounds like a terrible idea.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cIf I\u2019m right,\u201d Nal says, \u201cthen the mulcher won\u2019t eat living plants, or\nsomething that tastes like one. It\u2019s not cutting a swathe through the\nforest. It\u2019s helping to manage it.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "A) Agree with Kordo. The mulcher must go."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "INTERVENTION"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "B) Agree with Nal. The mulcher is misunderstood."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "ACCOMMODATION"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/spirit_speaker_nal/45_4"
+}

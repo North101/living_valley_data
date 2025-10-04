@@ -1,0 +1,67 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_2",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "65.2",
+  "title": "65.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The sound of metal splitting wood and the scent of fresh sawdust\nwafts toward you as you approach. A woman heaves an axe up, sweat\ndripping from her brow. Around her are an assortment of finely carved\nobjects lazily strewn on work benches and old stumps. She waves you\nover as she grabs a tool you\u2019ve never seen before, a long-handled\ndevice lined in a power casing."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cTo what do I owe the pleasure?\u201d She clicks a button on the handle\nrevealing a molten wire, humming with energy. \u201cLaser cutter. Bark of\nthe dolewood is woven so tight you need to heat the surface if you\u2019re\ngonna cut through it.\u201d She slowly begins hewing away at the bark of\na long piece of dolewood. Next to it you spy an intricately engraved\ncollapsible canoe. The craftsmanship is spectacular."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Lyn with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to ask her about the boat."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_2"
+}

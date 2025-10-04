@@ -1,0 +1,219 @@
+{
+  "id": "rules_glossary/c/challenge_cards",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "challenge_cards",
+  "title": "Challenge Cards",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Challenge cards are shuffled into the challenge deck that sits above the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "surroundings"
+            }
+          ],
+          "id": "rules_glossary/s/surroundings",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/surroundings"
+        },
+        {
+          "type": "text",
+          "text": "during play."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "A challenge card shows each of the four"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "aspects"
+            }
+          ],
+          "id": "rules_glossary/a/aspects",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/aspects"
+        },
+        {
+          "type": "text",
+          "text": "along with a 0, +1, \u20131, or \u20132. Additionally, it shows one of three challenge icons on a band of color across the bottom: the Crest ("
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "crest"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": ") (red), the Mountain ("
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "mountain"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": ") (blue), or the Sun ("
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "sun"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": ") (orange). These icons match those found next to challenge effects on cards"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "in play"
+            }
+          ],
+          "id": "rules_glossary/i/in_play",
+          "anchor": "",
+          "url": "/docs/rules_glossary/I/in_play"
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "items": []
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "After resolving a test, if any challenge cards that show the"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "reshuffle icon"
+                    }
+                  ],
+                  "id": "rules_glossary/r/reshuffle_icon",
+                  "anchor": "",
+                  "url": "/docs/rules_glossary/R/reshuffle_icon"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "reshuffle"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "were put into the discard, shuffle the challenge discard back into the challenge deck."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Occasionally, rules effects other than tests may have you draw a challenge card as a randomizer. In these cases, do not resolve challenge effects unless otherwise specified. However, if the challenge card shows a"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "reshuffle icon"
+                    }
+                  ],
+                  "id": "rules_glossary/r/reshuffle_icon",
+                  "anchor": "",
+                  "url": "/docs/rules_glossary/R/reshuffle_icon"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "reshuffle"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": ") and is"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "discarded"
+                    }
+                  ],
+                  "id": "rules_glossary/d/discard",
+                  "anchor": "",
+                  "url": "/docs/rules_glossary/D/discard"
+                },
+                {
+                  "type": "text",
+                  "text": ", shuffle the challenge discard back into the challenge deck."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/C/challenge_cards"
+}

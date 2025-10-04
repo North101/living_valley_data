@@ -1,0 +1,91 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_5",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "47.5",
+  "title": "47.5",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You\u2019re heading along the trail when Hy Pimpot suddenly shouts, \u201cStop!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You look around, worried you\u2019re about to stumble into a\npuffercrawler. But instead you see Hy scrambling with his oversized\npack, pulling out his portable Sol coil and pot. \u201cGet me water,\u201d he\nshouts as he pulls some leaves from a bush along the trail. \u201cThis\nneeds to go into the pot immediately, and the rest of the ingredients\nhave aged \u2026 perfectly!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You watch in bemused amusement as he dashes around the\nimpromptu outdoor kitchen, dicing, slicing, mashing, frying, and at\none point, smoking, the varied ingredients you and he worked so\nhard to gather. Finally, he raises his head from the steaming pot. \u201cIt\u2019s\n\u2026 \u201d he says, his voice quavering. \u201c ... just try it.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You gather around the pot, dipping your spoons into the fragrant\nbroth. It is quite simply the best soup, and possibly the best food,\nyou\u2019ve ever had. The complex flavors blend perfectly, rich but not\noverpowering, fresh but hearty, warm and soothing yet light and\neffervescent. Your only regret, as you set down your spoon and\nrealize the pot is empty, is that you may never taste something quite\nthat good again."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Hy has a beatific smile on his face. \u201cThe best it\u2019s ever been,\u201d he says."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You all sit in contented silence for a while, before you get up the\ncourage to ask Hy exactly how he made the soup. The master chef\nnods. \u201cI\u2019ll tell you the recipe,\u201d he says. \u201cAs long as you promise\nto remember it, and practice it. Someday, I want you to serve me\nsomething even better than this!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard each flora attached to Hy. Each Ranger soothes 4 fatigue. Gain\nthe Hy Pimpot\u2019s Secret Recipe reward card. Discard Hy Pimpot and\nreturn"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "to the collection."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/hy_pimpot_chef/47_5"
+}

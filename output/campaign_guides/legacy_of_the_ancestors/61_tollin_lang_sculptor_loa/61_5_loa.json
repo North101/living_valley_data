@@ -1,0 +1,163 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_5_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "61.5",
+  "title": "61.5 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Tollin smiles at you and waves you over. \u201cCome see what I\u2019m working on! Ever since I was able to install my masterpiece on the Stoneweaver Bridge, I\u2019ve been experimenting with new subjects, and even some new materials!\u201d He points at the collection of plates he\u2019s assembled. \u201cThis, for instance, is going to be a musical instrument!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You ask him what kind of instrument he\u2019s making, and his smile turns a bit sheepish. \u201cWell, I\u2019m not sure yet. It\u2019s all flowsteel, so it can take whatever shape we want it to. But while I was toying around, I did notice that the size, shape and concavity all change the note produced when struck. See, listen!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "He strikes one of the plates with a metal rod, and it resounds in a hideous note that makes your entire body cringe. \u201cIn any case, I\u2019m really happy to see you,\u201d Tollin continues. \u201cYou see, I\u2019m skilled at creating things, but I\u2019m not exactly musically inclined. I can shape each of these plates to produce a specific note, but I have no idea how to tune it as a whole. Perhaps you\u2019d be willing to help me shape these plates into a workable instrument? It might take a while, though\u2014I\u2019ll understand if you\u2019re busy!\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "A) Help Tollin tune his prototype instrument."
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from Tollin and attach"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Shuffle each unused Aspect card and deal 5 of them facedown in a row outside the play area. This is the lithophone."
+        },
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Tollin with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "while HELPING HAND is attached to help him tune the lithophone."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "B) Some other time."
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Discard Tollin. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_5"
+}

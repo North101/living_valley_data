@@ -1,0 +1,71 @@
+{
+  "id": "rules_glossary/v/the_valley_map",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "the_valley_map",
+  "title": "The Valley Map",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "The Valley map is used for the Lure of the Valley"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "campaign"
+            }
+          ],
+          "id": "rules_glossary/c/campaign",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/campaign"
+        },
+        {
+          "type": "text",
+          "text": ". It shows all the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "locations"
+            }
+          ],
+          "id": "rules_glossary/l/locations",
+          "anchor": "",
+          "url": "/docs/rules_glossary/L/locations"
+        },
+        {
+          "type": "text",
+          "text": "in the Valley and how they are connected by paths. When you"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "travel"
+            }
+          ],
+          "id": "rules_glossary/t/travel",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/travel"
+        },
+        {
+          "type": "text",
+          "text": ", this map is used to determine which locations you can travel to next."
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "items": []
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/V/valley_map"
+}

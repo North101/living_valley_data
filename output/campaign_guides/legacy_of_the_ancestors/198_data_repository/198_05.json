@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_05",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "198.05",
+  "title": "198.05",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The records on the use of hydraworms seem garbled and mixed with other records, and you quickly find yourself reading meticulously kept records of the menus for all cafeterias and dining facilities in the arcology for the first hundred years of its existence. Besides learning that most Estians living in the arcology subsisted primarily on flavored protein paste, it tells you nothing useful."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_05"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/24_greenbriar_knoll",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "24",
+  "title": "24. Greenbriar Knoll",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF JARIS, WILLFUL YOUTH IS IN PLAY GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "24.1"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/24_greenbriar_knoll/24_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/greenbriar_knoll/24_1"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "OTHERWISE, READ:"
+        }
+      ]
+    },
+    {
+      "type": "br",
+      "items": []
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The head-high grass makes it impossible to spot the knoll until the\nground slopes upward, and you begin to climb a gentle grade."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you finish your ascent, you find yourself on a hilltop. At the summit,\nyou find a dais of time-worn and lichen-crusted stone, with narrow\nthreads of metal weaving through it. You can see the dulled and\npatinated threads form distinct patterns\u2014the mark of the Estians."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/lure_of_the_valley/24_greenbriar_knoll/24_1"
+  ],
+  "url": "/docs/campaign_guides/lure_of_the_valley/greenbriar_knoll"
+}

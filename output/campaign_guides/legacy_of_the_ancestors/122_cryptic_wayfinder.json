@@ -1,0 +1,85 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "122",
+  "title": "122. Cryptic Wayfinder",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "ENTERS PLAY, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "122.1"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder/122_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/cryptic_wayfinder/122_1"
+                }
+              ],
+              "highlight_color": "blue"
+            }
+          ]
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "CLEAR"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "122.2"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder/122_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/cryptic_wayfinder/122_2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder/122_1",
+    "campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder/122_2"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/cryptic_wayfinder"
+}

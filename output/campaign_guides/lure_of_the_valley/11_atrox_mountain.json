@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/11_atrox_mountain",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "11",
+  "title": "11. Atrox Mountain",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "During your training, Calypsa would jokingly threaten to send you\non a patrol of Atrox Mountain whenever she needed to provide you\nwith some extra encouragement. Now, struggling up the side of\nthe mountain, you can see why. The paths around Atrox Mountain\nare a maze of narrow trails weaving between rockfalls and slopes of\nunstable scree, and you know that lurking along the trail there may be\nan atrox waiting to pounce."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/atrox_mountain"
+}

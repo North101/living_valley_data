@@ -1,0 +1,38 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_4",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "85.4",
+  "title": "85.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Calypsa gasps and drops down on one knee. As you move over to her,\nshe looks up. \u201cI\u2019ll admit it,\" she says. \"I'm hurt.\u201d She winces as you get\nout some medical supplies and get to work treating her injuries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "End the day."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/calypsa_ranger_mentor/85_4"
+}

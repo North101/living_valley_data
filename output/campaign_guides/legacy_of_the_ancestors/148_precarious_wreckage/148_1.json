@@ -1,0 +1,47 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_1",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "148.1",
+  "title": "148.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You\u2019ve come across another teetering mass of wreckage, forming a walkway over a wide, open space. This time, however, you can immediately recognize where upon it you should step, and where you should not. So much so, in fact, you feel that if you follow this path, you may actually make better progress than if you were to take another route."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Exhaust Precarious Wreckage and add 3"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "to it."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/precarious_wreckage/148_1"
+}

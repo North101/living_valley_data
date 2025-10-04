@@ -1,0 +1,155 @@
+{
+  "id": "rules_glossary/p/progress_threshold",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "progress_threshold",
+  "title": "Progress Threshold",
+  "content": [
+    {
+      "type": "img",
+      "items": []
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Features"
+            }
+          ],
+          "id": "rules_glossary/f/features",
+          "anchor": "",
+          "url": "/docs/rules_glossary/F/features"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "beings"
+            }
+          ],
+          "id": "rules_glossary/b/beings",
+          "anchor": "",
+          "url": "/docs/rules_glossary/B/being"
+        },
+        {
+          "type": "text",
+          "text": ", and"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "locations"
+            }
+          ],
+          "id": "rules_glossary/l/locations",
+          "anchor": "",
+          "url": "/docs/rules_glossary/L/locations"
+        },
+        {
+          "type": "text",
+          "text": "can have progress thresholds. These are indicated by a value in a blue box in the upper-right corner of the card's text box."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When a card has"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "progress"
+            }
+          ],
+          "id": "rules_glossary/p/progress",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/progress"
+        },
+        {
+          "type": "text",
+          "text": "on it equal to or exceeding its progress threshold, the card"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "clears"
+            }
+          ],
+          "id": "rules_glossary/c/clear",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/clear"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Some"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "path cards"
+                }
+              ],
+              "id": "rules_glossary/p/path_cards",
+              "anchor": "",
+              "url": "/docs/rules_glossary/P/path_cards"
+            },
+            {
+              "type": "text",
+              "text": "don\u2019t have progress thresholds. These cards can still receive progress, but they will never clear because of them."
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Some progress thresholds are marked with the Ranger symbol. These cards are"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "cleared"
+                }
+              ],
+              "id": "rules_glossary/c/clear",
+              "anchor": "",
+              "url": "/docs/rules_glossary/C/clear"
+            },
+            {
+              "type": "text",
+              "text": "when every Rangers\u2019 token is on the card."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/P/progress_threshold"
+}

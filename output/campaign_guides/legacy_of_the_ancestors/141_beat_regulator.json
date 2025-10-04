@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/141_beat_regulator",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "141",
+  "title": "141. Beat Regulator",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The curving, bronze pipework and smooth, ashen plating arches over your head. This is the beat regulator, one of the many machines that provide life-giving sustenance to the heart. Even behind the thick shield plating, you can still hear its pumps rumbling rhythmically with an almost sub-sonic hum."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/beat_regulator"
+}

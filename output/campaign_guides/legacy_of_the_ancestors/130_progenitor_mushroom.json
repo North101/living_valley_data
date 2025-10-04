@@ -1,0 +1,128 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "130",
+  "title": "130. Progenitor Mushroom",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "ENTERS PLAY: GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "130.1"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/progenitor_mushroom/130_1"
+                }
+              ],
+              "highlight_color": "blue"
+            }
+          ]
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "CLEAR"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": ": GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "130.2"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/progenitor_mushroom/130_2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "CLEAR"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "harm"
+                    }
+                  ],
+                  "icon_color": "black",
+                  "color": "red"
+                },
+                {
+                  "type": "text",
+                  "text": ": GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "130.3"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/progenitor_mushroom/130_3"
+                }
+              ],
+              "highlight_color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_1",
+    "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_2",
+    "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_3"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/progenitor_mushroom"
+}

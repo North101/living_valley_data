@@ -1,0 +1,134 @@
+{
+  "id": "rules_glossary/h/harm_threshold",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "harm_threshold",
+  "title": "Harm Threshold",
+  "content": [
+    {
+      "type": "img",
+      "items": []
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "Features"
+            }
+          ],
+          "id": "rules_glossary/f/features",
+          "anchor": "",
+          "url": "/docs/rules_glossary/F/features"
+        },
+        {
+          "type": "text",
+          "text": "or"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "beings"
+            }
+          ],
+          "id": "rules_glossary/b/beings",
+          "anchor": "",
+          "url": "/docs/rules_glossary/B/being"
+        },
+        {
+          "type": "text",
+          "text": "can have harm thresholds. These are indicated by a value in a red box in the upper-right corner of the card's text box."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "When a card has"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "harm"
+            }
+          ],
+          "id": "rules_glossary/h/harm",
+          "anchor": "",
+          "url": "/docs/rules_glossary/H/harm"
+        },
+        {
+          "type": "text",
+          "text": "on it equal to or exceeding its harm threshold, the card"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "clears"
+            }
+          ],
+          "id": "rules_glossary/c/clear",
+          "anchor": "",
+          "url": "/docs/rules_glossary/C/clear"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "Some"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "path cards"
+                }
+              ],
+              "id": "rules_glossary/p/path_cards",
+              "anchor": "",
+              "url": "/docs/rules_glossary/P/path_cards"
+            },
+            {
+              "type": "text",
+              "text": "don\u2019t have harm thresholds. These cards can still receive"
+            },
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "harm"
+                }
+              ],
+              "id": "rules_glossary/h/harm",
+              "anchor": "",
+              "url": "/docs/rules_glossary/H/harm"
+            },
+            {
+              "type": "text",
+              "text": ", but they will never clear because of them."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/H/harm_threshold"
+}

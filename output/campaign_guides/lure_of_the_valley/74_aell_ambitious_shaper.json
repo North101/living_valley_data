@@ -1,0 +1,264 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "74",
+  "title": "74. Aell, Ambitious Shaper",
+  "content": [
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY:"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU ARE ON GRUESOME FEAST, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "74.1"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_1"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU ARE ON REMOVE THE RECLAIMERS, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "1.19"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/1_missions/1_19",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_19"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "74.3"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU ARE ON WASHED AWAY, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "74.4"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_4",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_4"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "74.5"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_5",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "harm"
+                }
+              ],
+              "icon_color": "red"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU ARE ON WASHED AWAY, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "1.22"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/1_missions/1_22",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_22"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU ARE ON GRUESOME FEAST, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "74.6"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_6",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_6"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "74.7"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_7",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_7"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_1",
+    "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_3",
+    "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_4",
+    "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_5",
+    "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_6",
+    "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_7"
+  ],
+  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/14_boulder_field_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "14",
+  "title": "14. Boulder Field (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Long ago, a great mountain once stood here, but as the millenniums passed, it steadily split and crumbled. At the edges of the boulder field, the ground is littered with round rocks the size of apples. As you head deeper in, however, the boulders grow larger until you find yourself weaving between what you imagine to be the bones of the lost mountain, pillars of rock that reach toward the sky."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/boulder_field"
+}

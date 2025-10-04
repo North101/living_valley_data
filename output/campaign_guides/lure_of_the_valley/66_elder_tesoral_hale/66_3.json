@@ -1,0 +1,51 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_3",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "66.3",
+  "title": "66.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Elder Tesoral catches your eye a few meters off and bounds over.\n\u201cThank you again for searching for Vira. I can\u2019t thank you enough. If\nyou ever need to find anyone else, make your way to Evergreen Hall,\norder a sweet wine, and start chatting away. All of the comings and\ngoings of the Valley somehow find their way there."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "He gives you a knowing nod. \u201cIf you are looking for a bit more\nexcitement here in Branch, I\u2019m sure Seilo could use a hand or two\nwith harvesting his honey. Also, Lyn Mira, our local woodworker,\nmakes excellent canoes. Give her a shout and she\u2019d be more than\nhappy to show you!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "If you are on REMOVE THE RECLAIMERS:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "As Tesoral wraps up,\nyou bring up the reclaimer threat and ask him for ideas. \"Ha! We're\ncraftspeople here in Branch. You're better off asking the more wild\nfolks like Kasende down in Tumbledown. Or maybe one of the\nshapers. I think a couple of have taken up residence in Spire. A\nbrother and sister?\""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/elder_tesoral_hale/66_3"
+}

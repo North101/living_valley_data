@@ -1,0 +1,61 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/17_the_philosophers_garden",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "17",
+  "title": "17. The Philosopher's Garden",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "IF SEILO GRISS IS IN PLAY GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "17.1"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/17_the_philosophers_garden/17_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/the_philosophers_garden/17_1"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "OTHERWISE, READ:"
+        }
+      ]
+    },
+    {
+      "type": "br",
+      "items": []
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "No one has ever been able to tell you how this patch of woodland\ngot its name. You can\u2019t help but feel a shiver run down your spine as\nyou travel through it, however. Although the grass is just as green, the\nsame birdsong echoes through the branches, and the usual insects\nbuzz in your ears, you can\u2019t help but notice that all the trees grow in\nstrange and precise geometric patterns."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/lure_of_the_valley/17_the_philosophers_garden/17_1"
+  ],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_philosophers_garden"
+}

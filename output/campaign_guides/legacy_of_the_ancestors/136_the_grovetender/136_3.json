@@ -1,0 +1,273 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_3",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "136.3",
+  "title": "136.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The grovetender clicks and whirs, then with an electronic burbling, an avalanche of data spills onto the interface. For a moment, the information is far too chaotic to interpret, but then it resolves into a complex but orderly tree of data that you can navigate."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You start sorting through the information. It appears that the petrified tree contains a wealth of information about the arcology, specifically about the structure\u2019s construction and expansion. It all seems to have been logged by someone named"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "ARCHIVIST RAL"
+                }
+              ],
+              "color": "blue"
+            },
+            {
+              "type": "text",
+              "text": ", and this person\u2019s notes cover generations of development. You realize that the most difficult part of this process isn\u2019t going to be accessing the data, but sorting through the entries to find the most valuable bits!"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The database lists excavation efforts throughout the generations. Each entry is sorted by the arcology population at the time of the excavation and the method used for the excavation. By inputting those two pieces of data, you can look up different bits of stored history. What do you input?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Information marked in blue may be useful to you outside of this entry. You may want to record it somewhere."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Input 425,336 and Hydraworms:"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "198.05"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_05",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_05"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Input 23,956 and Spindlescuttlers:"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "198.03"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_03",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_03"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Input 425,336 and Spindlescuttlers:"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "198.04"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_04",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_04"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Input 1,965 and Machines:"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "198.01"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_01",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_01"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Input 23,956 and Hydraworms:"
+                }
+              ],
+              "color": "red"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "198.09"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_09",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_09"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_grovetender/136_3"
+}

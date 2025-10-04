@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/35_rings_of_the_moon",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "35",
+  "title": "35. Rings of the Moon",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Rising up from a series of small hillocks along the edges of Meadow\u2019s\nvast prairie, the large towers each support a massive loop of dull-gray\nmetal and ceramics. Some have broken into half- or quarter-circles,\nbut a few are still intact. The locals in Meadow say that if you go to\nthe edges of the Valley with a scope and look back through all the\nloops at once, you\u2019ll see another world in a reality just sideways from\nyour own. Almost every artificer who\u2019s inspected the rings, however,\nbelieves they are part of a vast (and nonfunctional) sensor network."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/rings_of_the_moon"
+}

@@ -1,0 +1,106 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/102_branching_artery",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "102",
+  "title": "102. Branching Artery",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You find yourself at the edge of a wide opening that plunges deep into the earth. You\u2019re unable to make out the bottom of the shaft, but rising from below you see a diffuse blue-green glow like a luminous mist. You note a slight, coppery tang in the air as though a smoldering cauldron of molten metal lies beyond the mist."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Before you, a massive carbonforged structure hangs above the opening. Dim lights pulse along its length, and you can hear a nearly subsonic hum of energy beneath the heavy blanket of silence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If Kal Iver is in play and you have not"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "BESTED KAL"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "102.1"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/102_branching_artery/102_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/branching_artery/102_1"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If Kal Iver is in play and you have"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "BESTED KAL"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "102.2"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/102_branching_artery/102_2",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/branching_artery/102_2"
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/102_branching_artery/102_1",
+    "campaign_guides/legacy_of_the_ancestors/102_branching_artery/102_2"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/branching_artery"
+}

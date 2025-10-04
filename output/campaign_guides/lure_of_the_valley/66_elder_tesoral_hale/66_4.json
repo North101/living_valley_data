@@ -1,0 +1,129 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_4",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "66.4",
+  "title": "66.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Elder Hale sighs, twisting his fingers together. \u201cI\u2019m sorry. I\u2019m sure\nthere\u2019s some other folks who have problems around here, but right\nnow I\u2019m worried about Vira. You know her? From White Sky? Lyn and I\nwere expecting her to come get her new boat, but she never arrived.\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Suddenly his eyes lighten. \u201cDo you think you could look for her?\nMaybe she got lost or hurt on the trip.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "items": [
+        {
+          "type": "text",
+          "text": "Rangers Choose"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "rangers-choose",
+          "url": "#rangers-choose"
+        }
+      ],
+      "anchor": "rangers-choose"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "A) Agree to help."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "SEARCH (VIRA)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Reminder: search the White Sky set for Vira and attach her facedown to the mission card. Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "94.8"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "three days from now on the campaign tracker. You may choose this option only if you don\u2019t have another Search or Rescue mission. Discard Elder Hale."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "B) Leave Vira to someone else."
+            }
+          ],
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "Discard Elder Hale. Record"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "94.8"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "three days from now on the campaign tracker."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/elder_tesoral_hale/66_4"
+}

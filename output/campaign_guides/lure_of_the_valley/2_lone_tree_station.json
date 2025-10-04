@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/2_lone_tree_station",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "2",
+  "title": "2. Lone Tree Station",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Visible for miles around, Lone Tree is a single enormous giga-redwood\nrising out of the thick grass of a high prairie. From far away, the tree\nis all you can see, but as you come closer, you can see the rest of\nthe station: the large box-garden plots hanging from the branches,\nthe airship Swift moored to its dock in the tree\u2019s crown, the doors\nand windows carved into the trunk and peeking out from among\nthe roots. Lone Tree Station has been the base of operations for the\nRangers ever since the people came to the Valley. And ever since you\nbecame a Ranger, it\u2019s been your home."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/lone_tree_station"
+}

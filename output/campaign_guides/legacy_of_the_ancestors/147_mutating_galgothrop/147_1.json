@@ -1,0 +1,62 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_1",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "147.1",
+  "title": "147.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "In a shadowed alcove, you see a familiar-looking misshapen heap of detritus: a galgothrop, munching on its meal. Its gargling hiss sends shivers up your spine, but now that you understand better how it fits into the arcology\u2019s ecosystem, it doesn\u2019t alarm you nearly as much as it did on your first meeting."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Exhaust Mutating Galgothrop and add 4"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "to it. Then, add 2"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "black",
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "to another being."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mutating_galgothrop/147_1"
+}

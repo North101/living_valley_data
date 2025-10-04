@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_2",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "130.2",
+  "title": "130.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You move carefully past the giant fungi, ensuring that each of your steps avoids the twisted mycelial knots that run across the caverns beneath your feet. Best to leave these ancient mushrooms be."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Attach the Progenitor Mushroom facedown to the location as a reminder. The next time you travel, the lead Ranger searches for the next 2 flora and puts them into play during arrival setup."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/progenitor_mushroom/130_2"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_5_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "85.5",
+  "title": "85.5 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Calypsa smiles at you. \u201cActually, I think I have some good news. That reclaimer we hunted may have actually been the last one in the Valley! I\u2019ve been keeping to my searches and checking with the various villages, but nobody has seen one, or even any tracks, for weeks!\u201d\nShe clasps your hand. \u201cI\u2019m glad we can finally put that chapter of the Valley\u2019s history behind us.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard Calypsa. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/calypsa_ranger_mentor/85_5"
+}

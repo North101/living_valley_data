@@ -1,0 +1,69 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_3_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "85.3",
+  "title": "85.3 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Slowly, cautiously, you approach the lone reclaimer. However, as it backs away, its movements feel more \u2026 lethargic than those of the reclaimers you faced two months ago. As you surround the reclaimer and cut off its escape routes, you wonder what\u2019s different about this one."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Calypsa approaches, machete out and a somber frown on her face. She looks over at you. \u201cOne more \u2026\u201d she says. \u201cOne more, then we\u2019ll be able to leave this invasion in the past where it belongs.\u201d She sets her hand on your shoulder. \u201cYou\u2019ve done good work. Why don\u2019t you let me finish this chapter?\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the Fate of the Reclaimers reward card. Discard Calypsa and return"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HELPING HAND"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "to the collection. Record that you"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLOSED THE BOOK"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": "on the campaign tracker."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/calypsa_ranger_mentor/85_3"
+}

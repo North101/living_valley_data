@@ -1,0 +1,67 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/78_arcology_sinkhole/78_1",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "78.1",
+  "title": "78.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The land suddenly drops away in front of you. Luckily, you are paying\nattention, and you catch yourself before you go tumbling down a\nsteep slope."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You stand on the edge of a large pit, where it looks like an entire\ngrove of trees has collapsed into the ground not long ago. Between\nthe tangled mass of splintered trunks, you can see what looks like\na broken steel archway and cracked pipes leading into darkness.\nThe sinkhole may have exposed a new route into the old arcology\nbeneath the Valley."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Arcology Sinkhole with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to explore its depths."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/arcology_sinkhole/78_1"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/137_sap_applicator",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "137",
+  "title": "137. Sap Applicator",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "At first, you're not sure what the device is. A large glass tube filled with amber liquid sits cradled within its enclosed metal cylinder, with no obvious mechanism for dispensing. Just then, you watch as its metallic casing unfurls to reveal a host of small applicators, dripping with that same thick amber liquid. Simple pictographs on the metal casing reveal that this applicator seems designed to dispense some sort of regenerative sap for injuries."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/sap_applicator"
+}

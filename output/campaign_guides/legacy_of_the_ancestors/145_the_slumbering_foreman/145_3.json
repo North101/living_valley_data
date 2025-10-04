@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_3",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "145.3",
+  "title": "145.3",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The machine once more stirs with a series of beeps and boops. It turns to face you as if it recognizes you, its sensors gliding over your arms and shoulders. Another series of high-pitched beeps chime, but this time the machine doesn\u2019t immediately march off. Instead, several power cells eject from its casing, clattering onto the floor in front of you. Then, with a steady hum, it clumsily trudges away from you. Is it offering you a gift in return for helping it?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard the Slumbering Foreman. You may distribute all power that was on it among other machines in play. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_slumbering_foreman/145_3"
+}

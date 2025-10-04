@@ -1,0 +1,67 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_2",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "64.2",
+  "title": "64.2",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "A strange buzzing fills the air. A flash of yellow and black, and a\nbumblebee whizzes past. It\u2019s quickly followed by three others.\nYou follow them around the base of the tree only to find a man in\na beekeeper\u2019s shroud carefully examining a tray of honey. \u201cWhere\nare you? I know you\u2019re hiding somewhere \u2026 \u201d He leans closer and\nlaughs. \u201cWhy hello, your highness!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The man finally notices you and gives you a theatrical bow. \u201cWelcome!\nName is Seilo Griss! Though I\u2019m sure you knew that already. I suppose\nyou\u2019re looking for some honey then. They always are \u2026 Best honey\nin the Valley.\u201d He winks and swaggers toward you. \u201cWell, nothing\u2019s\nfor free in this world. You get your hands sticky and help me with this\nharvest, then maybe I\u2019ll give you a taste \u2026 \u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Seilo with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to help him with harvesting his honey."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_2"
+}

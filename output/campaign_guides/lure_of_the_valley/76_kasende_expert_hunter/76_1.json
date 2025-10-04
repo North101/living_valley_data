@@ -1,0 +1,109 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_1",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "76.1",
+  "title": "76.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The hunter watches you with a glint of amusement in her eyes. \u201cWhat\nis it?\u201d she asks."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You explain your mission to rid the Valley of the reclaimers, and ask\nKasende if she has any ideas."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"I might,\" she says. \"Ever since the reclaimers started showing up\nin the Valley, I've been tracking them and observing their behavior. I\nnoticed that some of the reclaimers had white flowers sprouting from\ntheir spines, and that those reclaimers seemed to be leading the way\nfor the others, so I killed one and harvested these.\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The hunter reaches into her pocket and pulls out a vial containing\nseveral small white flowers."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"I've learned that these flowers have no odor, but strangely, they\nemit an inaudible sound\u2014a sonic vibration that only other reclaimers\ncan perceive, and with the help of the artificers of Tumbledown, I\ndeveloped a lure. It works, but even if we could amplify the sound\nenough to attract all the reclaimers in the Valley, I don't know what\nwe'd do with them once they were all gathered in one place.\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You suggest that perhaps the place is what's important\u2014someplace\nfrom which the reclaimers couldn't escape. Someplace like..."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\"The Marsh of Rebirth,\" Kasende says. \"Of course! Hydraworms will\neat anything! Once they\u2019re lured deep into the swamp, they should\nhandle the rest. We just need to get them there!\""
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Kasende leaves for a moment, then comes back with a bundle of small\ndevices. \u201cYou take these lure amplifiers and set them at the borders\nof the swamp, then come and meet me in the Marsh of Rebirth where\nI'll prepare the lure itself. Before I leave, I'll let Elder Wellers know our\nplan. He can send word to Lone Tree Station. I'd like to think we can\nhandle it, but who knows? We might need backup.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "WORM FOOD"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Check off the right-most bubble next to it. It is not used for this mission."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/kasende_expert_hunter/76_1"
+}

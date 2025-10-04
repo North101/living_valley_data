@@ -1,0 +1,97 @@
+{
+  "id": "rules_glossary/a/area",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "area",
+  "title": "Area",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "The play space for Earthborne Rangers is divided of into distinct"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "areas"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ": the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "surroundings"
+            }
+          ],
+          "id": "rules_glossary/s/surroundings",
+          "anchor": "",
+          "url": "/docs/rules_glossary/S/surroundings"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "along the way"
+            }
+          ],
+          "id": "rules_glossary/a/along_the_way",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/along_the_way"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "within reach"
+            }
+          ],
+          "id": "rules_glossary/w/within_reach",
+          "anchor": "",
+          "url": "/docs/rules_glossary/W/within_reach"
+        },
+        {
+          "type": "text",
+          "text": ", and the"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "player area"
+            }
+          ],
+          "id": "rules_glossary/p/player_area",
+          "anchor": "",
+          "url": "/docs/rules_glossary/P/player_area"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger has their own Within Reach area and Player Area."
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "items": []
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/A/area"
+}

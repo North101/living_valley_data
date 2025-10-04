@@ -1,0 +1,39 @@
+{
+  "id": "rules_glossary/c/common_test",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "common_test",
+  "title": "Common Test",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "You always have access to four common"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "tests"
+            }
+          ],
+          "id": "rules_glossary/t/tests",
+          "anchor": "",
+          "url": "/docs/rules_glossary/T/tests"
+        },
+        {
+          "type": "text",
+          "text": "which you can reference on the common test reference card."
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "items": []
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/C/common_tests"
+}

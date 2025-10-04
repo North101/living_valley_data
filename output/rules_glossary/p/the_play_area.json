@@ -1,0 +1,108 @@
+{
+  "id": "rules_glossary/p/the_play_area",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "the_play_area",
+  "title": "The Play Area",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "The play area is broken up into four distinct"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "areas"
+            }
+          ],
+          "id": "rules_glossary/a/area",
+          "anchor": "",
+          "url": "/docs/rules_glossary/A/area"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Surroundings"
+                }
+              ],
+              "id": "rules_glossary/s/surroundings",
+              "anchor": "",
+              "url": "/docs/rules_glossary/S/surroundings"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Along the Way"
+                }
+              ],
+              "id": "rules_glossary/a/along_the_way",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/along_the_way"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Within Reach"
+                }
+              ],
+              "id": "rules_glossary/w/within_reach",
+              "anchor": "",
+              "url": "/docs/rules_glossary/W/within_reach"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Player Area"
+                }
+              ],
+              "id": "rules_glossary/p/player_area",
+              "anchor": "",
+              "url": "/docs/rules_glossary/P/player_area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "img",
+      "items": []
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/P/play_area"
+}

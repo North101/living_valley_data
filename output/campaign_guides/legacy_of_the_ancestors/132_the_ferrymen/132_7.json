@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_7",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "132.7",
+  "title": "132.7",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The voice grows quieter. You try to focus your mind, grabbing hold of the connection more tightly, but it\u2019s as if you\u2019re trying to hold water in your fist. The whispers slip through your mental fingers like mist flowing through trees, and in a moment the voices from these mushrooms have gone silent. You\u2019ve lost your chance to communicate with the mycelial network here, but perhaps there are other such mushrooms in the arcology? Maybe they offer a similar opportunity?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard this flora."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_7"
+}

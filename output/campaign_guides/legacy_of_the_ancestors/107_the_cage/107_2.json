@@ -1,0 +1,610 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "107.2",
+  "title": "107.2",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "CONSULTED THE SPIRITS"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": "AND"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "JURY RIGGED A SOLUTION"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "107.2A"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2",
+                  "anchor": "1072a",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_2#1072a"
+                }
+              ],
+              "highlight_color": "blue"
+            }
+          ]
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU ONLY"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "CONSULTED THE SPIRITS"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "107.2B"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2",
+                  "anchor": "1072b",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_2#1072b"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU ONLY"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "JURY RIGGED A SOLUTION"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "107.2C"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2",
+                  "anchor": "1072c",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_2#1072c"
+                }
+              ],
+              "highlight_color": "blue"
+            }
+          ]
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, READ:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You wish there was another solution; but you have not been able to find one. That leaves only one choice. As unfortunate as it is to destroy such a creation, the heart must be stopped if the Valley is to survive."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete all story and interlude missions except for"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RATTLING THE CAGE"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "HEART ATTACK"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "107.2A"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1072a",
+          "url": "#1072a"
+        }
+      ],
+      "anchor": "1072a"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Your research has been long and grueling, but in the end, extremely worthwhile. You\u2019ve come to understand that the last millennia have inflicted severe emotional and physical trauma on the heart. Thanks to Nal's spiritual guidance, and your journey to speak with the Estians, you now understand that the heart's spirit has been choked and withered by the events that led to the death of the Estian civilization. At the same time, its form has suffered from thousands of years of wear and tear without any maintenance or healing. Only if you can treat both issues do you think you can save the Valley: by shocking the heart to stabilize its arrhythmic beating while confronting the negative emotions that have festered within."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "CARDIAC THERAPY"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "and"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR!"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "missions. Search the General set for the following cards and shuffle them into the path deck:"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "per_ranger"
+                }
+              ],
+              "icon_color": "black"
+            },
+            {
+              "type": "text",
+              "text": "copies of Crimson Guardian"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Heart\u2019s Confusion"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Heart\u2019s Anger"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Heart\u2019s Sorrow"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Heart\u2019s Fear"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Complete both missions before the end of the day."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "107.2B"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1072b",
+          "url": "#1072b"
+        }
+      ],
+      "anchor": "1072b"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Your studies of the Estians' records have been worthwhile. Thanks to Nal's spiritual guidance, and your journey to speak with the Estians, you now understand that the heart has suffered severe emotional trauma over the past millennia. The death of the Estians has left a festering emotional wound, and you will have to help the heart confront that wound in order to heal it."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you step into the Cage, you see the heart shudder. Flashing red lights blink around the chamber. The arrythmia is getting worse! You\u2019ll have to hurry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "CARDIAC THERAPY"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "and"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "THE CAGE CRUMBLES"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "missions. Search the General set for the following cards and shuffle them into the path deck:"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "per_ranger"
+                }
+              ],
+              "icon_color": "black"
+            },
+            {
+              "type": "text",
+              "text": "copies of Crimson Guardian"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Heart\u2019s Confusion"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Heart\u2019s Anger"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Heart\u2019s Sorrow"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Heart\u2019s Fear"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Complete the Cardiac Therapy mission before the end of the day."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "107.2C"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1072c",
+          "url": "#1072c"
+        }
+      ],
+      "anchor": "1072c"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Your research into the heart\u2019s development and creation has proven most worthwhile. As you suspected, a millennia of deferred maintenance and caretaking has left the heart in rough shape. Specifically, it seems the heart would not be able to hold a regular beat forever, and so would need to be re-calibrated every so often."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "It\u2019s no small task, but you think that if you deliver to it a powerful enough electric shock, you can stabilize the heart and bring it back into rhythm, thereby saving the arcology and the Valley above."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR!"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "and"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "THE CAGE CRUMBLES"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "missions. Search the General set for copies of Crimson Guardian equal to the number of Rangers and shuffle them into the path deck."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Complete the Clear! mission before the end of the day."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_2"
+}

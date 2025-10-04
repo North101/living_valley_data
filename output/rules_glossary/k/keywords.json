@@ -1,0 +1,322 @@
+{
+  "id": "rules_glossary/k/keywords",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "keywords",
+  "title": "Keywords",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Keywords stand in for longer rules statements that would otherwise commonly appear on cards."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Keywords are listed at the start of a card's text. That card can be treated as having that keyword's rules text printed on the card. These are distinct from Terms that can appear mid-sentence in a rules effect. The complete list of keywords is:"
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Ambush"
+                }
+              ],
+              "id": "rules_glossary/a/ambush_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/ambush"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Aspiration"
+                }
+              ],
+              "id": "rules_glossary/a/aspiration_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/A/aspiration"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Conduit"
+                }
+              ],
+              "id": "rules_glossary/c/conduit_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/C/conduit"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Dangerous"
+                }
+              ],
+              "id": "rules_glossary/d/dangerous_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/D/dangerous"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Deployed"
+                }
+              ],
+              "id": "rules_glossary/d/deployed_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/D/deployed"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Disconnected"
+                }
+              ],
+              "id": "rules_glossary/d/disconnected_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/D/disconnected"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Fatiguing"
+                }
+              ],
+              "id": "rules_glossary/f/fatiguing_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/F/fatiguing"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Friendly"
+                }
+              ],
+              "id": "rules_glossary/f/friendly_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/F/friendly"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Illumination"
+                }
+              ],
+              "id": "rules_glossary/i/illumination_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/I/illumination"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Manifestation"
+                }
+              ],
+              "id": "rules_glossary/m/manifestation_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/M/manifestation"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Mycelial"
+                }
+              ],
+              "id": "rules_glossary/m/mycelial_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/M/mycelial"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Obstacle"
+                }
+              ],
+              "id": "rules_glossary/o/obstacle_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/O/obstacle"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Persistent"
+                }
+              ],
+              "id": "rules_glossary/p/persistent_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/P/persistent"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Setup"
+                }
+              ],
+              "id": "rules_glossary/s/setup_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/S/setup_keyword"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Spirit"
+                }
+              ],
+              "id": "rules_glossary/s/spirit_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/S/spirit"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Unique"
+                }
+              ],
+              "id": "rules_glossary/u/unique_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/U/unique"
+            }
+          ]
+        },
+        {
+          "type": "li",
+          "items": [
+            {
+              "type": "a",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Untraversable"
+                }
+              ],
+              "id": "rules_glossary/u/untraversable_keyword",
+              "anchor": "",
+              "url": "/docs/rules_glossary/U/untraversable"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/K/keywords"
+}

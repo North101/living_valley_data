@@ -1,0 +1,47 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_9_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "44.9",
+  "title": "44.9 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Kordo stumbles and falls to the ground. He grips his leg, wincing in pain."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cMy own fault,\u201d he grunts. \u201cI don\u2019t think I\u2019ll be moving anywhere soon. Sorry about this, friends, but I\u2019m going to need your help to get patched up.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "End the Day."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kordo_ranger_veteran/44_9"
+}

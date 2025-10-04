@@ -1,0 +1,241 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_121",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "1.121",
+  "title": "1.121",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "ARRIVE: VERDANT SPHERE, GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "106.1"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/106_the_verdant_sphere/106_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_verdant_sphere/106_1"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "ENTERS PLAY: FAMILIAR VERDESSIAN, GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.121A"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_121",
+          "anchor": "1121a",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_121#1121a"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": ": FAMILIAR VERDESSIAN, GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.121B"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_121",
+          "anchor": "1121b",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_121#1121b"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "black",
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": ": USE THE NORMAL ENTRY"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.121A"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1121a",
+          "url": "#1121a"
+        }
+      ],
+      "anchor": "1121a"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you pull at the densely-packed vines, you hear a sound like dried leaves being crushed underfoot. You turn, and, to your surprise, see a familiar Verdessian standing behind you."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "It regards you for a long moment, then its attention is drawn to the curtain of vines. Slowly, it moves toward them, its arms stretching like newly sprouted plants yearning for the sun."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear the Familiar Verdessian with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to observe its behavior."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.121B"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "1121b",
+          "url": "#1121b"
+        }
+      ],
+      "anchor": "1121b"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Verdessian reaches out with its long-fingered hands and grasps the vines. Its fingers appear to dissolve into them, and as you watch, the vines slowly start to wither, as if the Verdessian were draining them of moisture. Then, with a sudden wrenching motion, the Verdessian rips several vines away. Apparently, it wants to help."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Move 2 vines from Prototype to the Familiar Verdessian. Then discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from the Verdessian. It remains in play."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_121"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_41",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.41",
+  "title": "1.41",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "With a hideous, grating groan, the spindle-legged caustic mulcher\ncollapses onto the ground. As you try and catch your breath after the\nbrutal fight, Kordo runs up. \u201cWell done!\u201d he shouts, clapping you on\nthe back."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You look at the dead biomeld, wondering if killing it was the right call.\nKordo looks at you and nods to himself. Then he points around the\nwoodlands. \u201cCome on, take a look.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You follow his gestures and see that the forest around you, which\nseemed so quiet and somber with the mulcher around, is already\ncoming back to life. Squirrels and birds are starting to flit about, and\nyou see a pair of artilopes poke their heads cautiously around a tree.\n\u201cSee?\u201d Kordo says. \u201cThe ecosystem is already benefiting from this\naberration\u2019s absence.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "INTERVENTION"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Permanently remove the\nCaustic Mulcher from the Woods set. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "After you help Kordo dispose of the caustic mulcher\u2019s body, you start\nto think. There are several infamous mega-predators throughout the\nValley. You remember in your training that some of the Elders want\nto see these predators eliminated to keep people and the rest of the\nValley safe. Perhaps they would appreciate your help with carefully\n\u201cmanaging\u201d them for the good of the Valley?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_41"
+}

@@ -1,0 +1,485 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_42_lure",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.42",
+  "title": "1.42 LURE",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "LURE (QUIET), GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.42A"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/1_missions/1_42_lure",
+          "anchor": "142a",
+          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_42-lure#142a"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "LURE (UMBRA), GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.42B"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/1_missions/1_42_lure",
+          "anchor": "142b",
+          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_42-lure#142b"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "LURE (OL\u2019 BLOODY CLICKER), GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.42C"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/1_missions/1_42_lure",
+          "anchor": "142c",
+          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_42-lure#142c"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.42A"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "142a",
+          "url": "#142a"
+        }
+      ],
+      "anchor": "142a"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "It took some time to find enough bait and even longer to get close to\none of her hunting grounds. She\u2019s nowhere to be seen, but you don\u2019t\nhave any interest in using yourself as bait. Instead you release the\nprey animals and observe from a distance."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You wait for hours before you spot movement. You hold your breath\nas the sleek, shadowy form of the largest bearded lynx you\u2019ve ever\nseen slips out of the underbrush. With Quiet right before you, you\nhave a choice. You can try to understand and perhaps even befriend\nthe lynx, as Nal would want, or you can try to kill her and ensure the\nValley's safety, as Kordo would want."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Flip the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "LURE (QUIET)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "card over to its"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "CONFRONT"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "side, but don\u2019t\nchange your mission log. If you don\u2019t complete the confrontation today,\nyou will have to track her down again."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Put Quiet into play within reach of a Ranger of your choice. Do not read\nher entry. Return all set-aside prey to the collection. Then, If you\u2019ve"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "UNDERSTOOD THE MULCHER"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.42D"
+            }
+          ],
+          "id": null,
+          "anchor": "142d",
+          "url": "#142d"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.42B"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "142b",
+          "url": "#142b"
+        }
+      ],
+      "anchor": "142b"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Nobody knows for sure where Umbra nests, so you\u2019ve decided to\nbait her out. A prey animal sits alone in a clearing as you hide in the\nbrush off to the side."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Surprisingly quickly, a dark shadow flashes across your hiding place."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "With a rush of air, a blur streaks down from the sky.\nNow is your chance! You can try to understand and perhaps even\nbefriend her, as Nal would want, or you can kill her and ensure the\nValley's safety, as Kordo would want."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Flip the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "LURE (UMBRA)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "card over to its"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "CONFRONT"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "side, but don\u2019t\nchange your mission log. If you don\u2019t complete the confrontation today,\nyou will have to track her down again."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Put Umbra into play. Do not read her entry. Return all set-aside prey to\nyour collection. Then, If you\u2019ve"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "UNDERSTOOD THE MULCHER"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.42D"
+            }
+          ],
+          "id": null,
+          "anchor": "142d",
+          "url": "#142d"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.42C"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "142c",
+          "url": "#142c"
+        }
+      ],
+      "anchor": "142c"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Luring out Ol\u2019 Bloody Clicker isn\u2019t simple. You know that he's nearby,\nbut with kilometers of tunnels beneath the surface of the Valley, you\u2019re\nnot sure where he could be lurking, and the last thing you want to do\nis to climb into one of those tunnels to find him."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You lead the prey animals to a small clearing where they paw the\nground nervously, then go still. Suddenly, you feel a rumbling in the\nearth. The ground under the prey animals sags and then suddenly\ngives way into a huge pit."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You see a massive segmented body with hundreds of spindly legs\nwrithing in the dirt and debris. A head with narrow insectoid eyes\nand wide mandibles grabs hold of one of the prey animals. Now is your\nchance! You can try to understand and perhaps even befriend the\nspindlescuttler, as Nal would want, or you can try to kill him and\nensure the Valley's safety, as Kordo would want."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Flip the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "LURE (OL\u2019 BLOODY CLICKER)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "card over to its"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "CONFRONT"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "side, but don\u2019t change your mission log. If you don\u2019t complete the\nconfrontation today, you will have to track him down again."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Put Ol\u2019 Bloody Clicker into play. Do not read his entry. Return all\nset-aside prey to your collection. Then, If you\u2019ve"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "text",
+              "text": "UNDERSTOOD THE MULCHER"
+            }
+          ],
+          "color": "blue"
+        },
+        {
+          "type": "text",
+          "text": ", go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.42D"
+            }
+          ],
+          "id": null,
+          "anchor": "142d",
+          "url": "#142d"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.42D"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "142d",
+          "url": "#142d"
+        }
+      ],
+      "anchor": "142d"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you face down your quarry, you think back to Nal's\nwords. Everything in the ecosystem has its place, even these massive\npredators. You take a deep, controlled breath, and look the predator\nin the eyes to see a flicker, just for a moment, of understanding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Add 2"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "per_ranger"
+            },
+            {
+              "type": "text",
+              "text": " \ue016"
+            },
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "to the mission subject. Each Ranger soothes 1 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_42-lure"
+}

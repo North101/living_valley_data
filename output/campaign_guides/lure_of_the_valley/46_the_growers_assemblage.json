@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/46_the_growers_assemblage",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "46",
+  "title": "46. The Growers' Assemblage",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you approach Meadow's village center, you hear the cheery\nsounds of commerce. Local foragers and ranchers have set up their\ndaily market, and the people of Meadow have gathered both to trade\nand to socialize. Stalls of pine and forged carbon bustle with life,\ntheir awnings woven from long grasses dyed in a multitude of vibrant\ncolors. Most are stocked with foodstuffs, from freshly baked bread to\nmoss-cherry preserves to smoked mutton. You can see, however, that\na few of the locals are trading gear and equipment as well."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_growlers_assemblage"
+}

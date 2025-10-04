@@ -1,0 +1,234 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_44_confront_",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.44",
+  "title": "1.44 CONFRONT ",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CONFRONT (QUIET), GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.44A"
+            }
+          ],
+          "id": null,
+          "anchor": "144a",
+          "url": "#144a"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CONFRONT (UMBRA), GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.44B"
+            }
+          ],
+          "id": null,
+          "anchor": "144b",
+          "url": "#144b"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CONFRONT (OL\u2019 BLOODY CLICKER), GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "1.44C"
+            }
+          ],
+          "id": null,
+          "anchor": "144c",
+          "url": "#144c"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.44A"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "144a",
+          "url": "#144a"
+        }
+      ],
+      "anchor": "144a"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You stand over Quiet\u2019s lifeless body. A beautiful being, even in death.\nYou know that many in the Valley will sleep better when they hear 17\nthe news, but their joy will be tempered. A being of great power has\ndeparted, and all will mourn her passing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "LURE (QUIET)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Permanently remove Quiet\nfrom the Valley set. Gain the Lynx Fur Cloak reward card. Each Ranger\nsoothes 2 fatigue."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.44B"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "144b",
+          "url": "#144b"
+        }
+      ],
+      "anchor": "144b"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You watch the huge raptor as it drops lower and lower in the sky,\nbefore crashing into the grass of a clearing. You know that many in\nthe Valley will sleep better when they hear the news, but their joy\nwill be tempered. A being of great power has departed, and all will\nmourn its passing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "LURE (UMBRA)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Permanently remove Umbra\nfrom the Valley set. Gain the Umbral Claw reward card. Each Ranger\nsoothes 2 fatigue."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "items": [
+        {
+          "type": "text",
+          "text": "1.44C"
+        },
+        {
+          "type": "a",
+          "items": [],
+          "id": null,
+          "anchor": "144c",
+          "url": "#144c"
+        }
+      ],
+      "anchor": "144c"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You stand over the lifeless form of Ol' Bloody Clicker. Where he once\nseemed alien and threatening, he now appears strangely beautiful.\nYou know that many in the Valley will sleep better when they hear\nthe news, but their joy will be tempered. A being of great power has\ndeparted, and all will mourn its passing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "LURE (OL\u2019 BLOODY CLICKER)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission. Permanently\nremove Ol\u2019 Bloody Clicker from the Valley set. Gain the Scuttler Tunnel\nreward card. Each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_44-confront"
+}

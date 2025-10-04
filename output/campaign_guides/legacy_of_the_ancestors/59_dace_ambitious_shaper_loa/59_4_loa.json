@@ -1,0 +1,83 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_4_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "59.4",
+  "title": "59.4 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cOh, Aell and I have been keeping plenty busy,\u201d Dace says. \u201cWe\u2019re helping rebuild Spire, you know! Plenty of opportunities for us to use our talents, and even when there aren\u2019t, the townsfolk can always benefit from a couple extra pairs of hands.\u201d She opens her palms, and you smile to see the thick calluses."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cYou know it\u2019s funny,\u201d Dace continues after a moment, \u201cbut even when we\u2019re hauling beams or shifting bags of rubble, the work feels so \u2026 satisfying! And working alongside Aell, well, it\u2019s honestly brought us closer together than we\u2019ve been in years. That alone makes me grateful.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You note that the work rebuilding Spire has been going well, and Dace nods in agreement. \u201cI just wish the Shapers up on Blind Peak would come down to help out too,\u201d she adds. \u201cBut on the other hand, perhaps Elder Cress feels like Aell and I are the appropriate amount of aid.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You acknowledge that it might be so, and also note how inscrutable Cress tends to be. Dace laughs. \u201cThat\u2019s the truth! Might as well try and talk to a thunderstorm. But anyway, I\u2019d better be off. More work to do, you know. Good luck on your adventures!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "A puff of wind, and she\u2019s gone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard Dace. Each Ranger soothes 2 fatigue. Search the Spire deck for the Arcology Threshold and put it into play. Then, each Ranger may place their"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "ranger_token"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "on it."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_4"
+}

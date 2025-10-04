@@ -1,0 +1,65 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_4",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "51.4",
+  "title": "51.4",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cThank you for your help,\u201d he says. \u201cNow, is there anything I can do\nfor you?\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You ask him if there\u2019s anything else you can do for the folks of\nWhite Sky, and he thinks for a moment. \u201cA lot of people have been\ncomplaining about the poor fishing around here lately. Including\nmyself! I recommend talking to Ar Tel about that. Otherwise, you\ncould always swim down to the Bubble and see if Silaro needs help.\nHe\u2019d be happy for the company!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you make to leave, he taps your arm. \u201cAlso, if you need help\ngetting around the lake, talk to Vira. She may be gruff, but she\u2019s the\nbest barge pilot I know.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "If you are on REMOVE THE RECLAIMERS:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "You tell the elder about\nthe reclaimer threat, and he looks at you with worried eyes. \"That's\na lot on your shoulders. I'm not sure our little village can help. We\nbarely managed against that flood ... say, that's an idea! Where did\nthat foolish shaper get off to? Those flood waters he summoned\nwould surely be strong enough to sweep some reclaimers away. I\nthink his sister, Dace, is still living in Spire. Maybe ask her.\""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/elder_murtok_gral/51_4"
+}

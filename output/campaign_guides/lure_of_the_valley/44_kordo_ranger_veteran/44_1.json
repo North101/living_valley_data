@@ -1,0 +1,63 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_1",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "44.1",
+  "title": "44.1",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Through the brush you hear two people arguing at each other. One\nyou immediately recognize as Kordo Haverson, but it takes a moment\nbefore you recognize the other as Spirit Speaker Nal. You don\u2019t think\nyou\u2019ve heard her raise her voice before."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You push forward and come across the two of them in the midst of a\nheated debate. Kordo\u2019s face is flushed, and Nal has her arms crossed\nand is glaring. Although you\u2019re not sure what\u2019s going on, you feel like\nyou should step in."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If Nal is not in play, search the path deck for her, and put her into play\nin the same area as Kordo. Do not read her normal entry."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "45.4"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_4",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/spirit_speaker_nal/45_4"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_1"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa/42_1_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "42.1",
+  "title": "42.1 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "High atop Lone Tree Station, you see the familiar gleam of the Swift\u2019s hull perched on the series of circular platforms of polished wood and forged carbon."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you look at the airship, you feel a surge of excitement. You remember the feeling of exhilaration on your first flight all those months ago as the Swift launched high into the air\u2014then, the tranquility as its wings unfurled and the glider soundlessly soared toward the horizon, steadily descending as it flew en route to its destination."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Working away on the airship, you see none other than Ben Amon, making adjustments to the Swift's launching mechanisms. A small group of apprentice artificers gather 'round to watch a master at work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Topside Mast with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "ranger_token"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to take the Swift for a ride."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/topside_mast/42_1"
+}

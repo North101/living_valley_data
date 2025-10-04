@@ -1,0 +1,257 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "48",
+  "title": "48. Ar Tel, Angler",
+  "content": [
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF A RANGER HAS BISCUIT BASKET EQUIPPED, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "48.1"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/ar_tel_angler/48_1"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU\u2019VE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "FOUND THE PERFECT FISHING SPOT"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "48.2"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/ar_tel_angler/48_2"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "48.3"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/ar_tel_angler/48_3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF HELPING HAND IS ATTACHED, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "48.4"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_4",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/ar_tel_angler/48_4"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU\u2019VE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "FOUND THE PERFECT FISHING SPOT"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "48.5"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_5",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/ar_tel_angler/48_5"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "48.6"
+                    }
+                  ],
+                  "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_6",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/lure_of_the_valley/ar_tel_angler/48_6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "CLEAR"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "red"
+        },
+        {
+          "type": "text",
+          "text": "GO TO"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "48.7"
+            }
+          ],
+          "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_7",
+          "anchor": "",
+          "url": "/docs/campaign_guides/lure_of_the_valley/ar_tel_angler/48_7"
+        }
+      ],
+      "highlight_color": "blue"
+    }
+  ],
+  "items": [
+    "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_1",
+    "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_2",
+    "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_3",
+    "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_4",
+    "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_5",
+    "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_6",
+    "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_7"
+  ],
+  "url": "/docs/campaign_guides/lure_of_the_valley/ar_tel_angler"
+}

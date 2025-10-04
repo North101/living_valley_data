@@ -1,0 +1,185 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "152",
+  "title": "152. A Shadow in the Darkness",
+  "content": [
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "ENTERS PLAY:"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU'VE COMPLETED ONE THOUSAND LEGS (WILD SCUTTLEBUS), GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "152.1"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_1",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_shadow_in_the_darkness/152_1"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "152.2"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_2",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_shadow_in_the_darkness/152_2"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "div",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "CLEAR"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "progress"
+                }
+              ],
+              "icon_color": "black"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU\u2019VE COMPLETED OR CURRENTLY HAVE ONE THOUSAND LEGS (WILD SCUTTLEBUS), GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "152.3"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_3",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_shadow_in_the_darkness/152_3"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "IF YOU'VE"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "ENCOUNTERED THE SCUTTLEBUS"
+                    }
+                  ],
+                  "color": "blue"
+                },
+                {
+                  "type": "text",
+                  "text": ", GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "152.4"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_4",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_shadow_in_the_darkness/152_4"
+                }
+              ]
+            },
+            {
+              "type": "li",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "OTHERWISE, GO TO"
+                },
+                {
+                  "type": "a",
+                  "items": [
+                    {
+                      "type": "text",
+                      "text": "152.5"
+                    }
+                  ],
+                  "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_5",
+                  "anchor": "",
+                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_shadow_in_the_darkness/152_5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_1",
+    "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_2",
+    "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_3",
+    "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_4",
+    "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_5",
+    "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_6"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_shadow_in_the_darkness"
+}

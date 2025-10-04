@@ -1,0 +1,67 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/83_ren_kobo_merchant_loa/83_1_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "83.1",
+  "title": "83.1 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Even from a great distance, the figure of the venerable trader Ren Kobo, is unmistakable. He sees you and tips his hat in your direction. As you approach, he smiles warmly and speaks with the unmistakable, confident drawl of the Messipian seafolk. \u201cGreetings!\u201d he says. \u201cA fine day for a swap meet, don\u2019t you agree? I\u2019m on my way to the market now. You should join me! The journey is always more pleasurable when shared with a friend. Don\u2019t you agree?\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "He gestures toward his hoversled, which appears to be even more packed with goods than usual. \u201cOf course, we can always do a spot of trading along the way.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Ren Kobo with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to trade with him."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/ren_kobo_merchant/83_1"
+}

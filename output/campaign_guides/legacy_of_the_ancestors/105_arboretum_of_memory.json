@@ -1,0 +1,87 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/105_arboretum_of_memory",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "105",
+  "title": "105. Arboretum of Memory",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The rounded chambers of the Arboretum of Memory are not the largest or the most awe-inspiring spaces you\u2019ve found within the arcology. However, something about the solemnity of the groves hushes your voices and leads you to walk quietly between the towering giants."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The trees of the copse are each multi-trunked giants, growing out of a joined root structure and reaching close to the curved and gently glowing ceilings many meters above you. Here they merge again into a thicket of leafy branches. Otherwise, the trunks are smooth save for the curves of the wood and faint ridges of the outer bark."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You head deeper into the chambers, and soon you start to find live trees outnumbered by dead ones whose upper branches have been pruned back to stumps like monstrous fig trees. You look closer, and are surprised to find that the trees aren\u2019t dead, they\u2019re actually petrified! Some mystery of the Estians has turned the towering trunks to stone, a process that should have taken ages to complete."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You study the ancient Estian text carved into the walls of the chambers and using the translations Silaro taught you, you realize with a start that this is an Estian data storage facility! Somehow, the Estians stored yottabytes of information into the structure of each tree, then when the trees were fully grown, induced petrification to preserve the information forever. You look at the massive copse of petrified and living trees around you and wonder just how many secrets this place holds."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If you are on"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "TO THE HEART OF IT"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", go to"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "105.1"
+            }
+          ],
+          "id": "campaign_guides/legacy_of_the_ancestors/105_arboretum_of_memory/105_1",
+          "anchor": "",
+          "url": "/docs/campaign_guides/legacy_of_the_ancestors/arboretum_of_memory/105_1"
+        }
+      ]
+    }
+  ],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/105_arboretum_of_memory/105_1"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/arboretum_of_memory"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/1_missions/1_26",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "1.26",
+  "title": "1.26",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You wake up in the morning and carefully look around before getting\nout of your hammocks to make sure the murky waters aren\u2019t hiding\nany hydraworms. Despite a night dreaming of roiling, hungry masses\njust beneath your feet, you feel much better rested than you did\nyesterday."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Kasende leads you into the murky and mist-filled heart of the Marsh,\nfinding a spit of relatively dry ground to stand on. Then Kasende\ntriggers the lure. Almost immediately, you hear the scuttling, splashing\nsounds of reclaimers heading toward you. Kasende breathes deep\nand raises her whispercrack darter. \u201cWe need enough of them here\nto drive the hydraworms into a feeding frenzy. Until then \u2026 we just\nhave to survive.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Search the Tumbledown set for Kasende, Expert Hunter, and put her\ninto play within reach of a Ranger of your choice. Do not read her entry.\nSearch the General set for five Reclaimer Seekers, and shuffle them into\nthe path deck."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_26"
+}

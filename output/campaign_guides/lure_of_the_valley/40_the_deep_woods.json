@@ -1,0 +1,24 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/40_the_deep_woods",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "40",
+  "title": "40. The Deep Woods",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The evergreen woods of the northern mountains consist of massive\nrotting cedars intermixed with silver firs draped in hanging moss. No\nlight filters down from the canopy, leaving the forest floor a gloomy\ncathedral, crowded with tree trunks and lichen-covered rocks. You\ncan\u2019t see more than a few meters ahead, and all around you, the\nforest seems completely quiet."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_deep_woods"
+}

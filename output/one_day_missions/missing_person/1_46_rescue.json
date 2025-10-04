@@ -1,0 +1,170 @@
+{
+  "id": "one_day_missions/missing_person/1_46_rescue",
+  "lookup_group": "one_day_missions/missing_person",
+  "lookup_id": "1_46_rescue",
+  "title": "1.46 RESCUE",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "Read the following based on how much"
+            },
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "icon",
+                  "icon": "harm"
+                }
+              ],
+              "icon_color": "black"
+            },
+            {
+              "type": "text",
+              "text": "is on Ren Kobo:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "0-1:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "You have been hiking abreast with Ren Kobo, though he\u2019s been less talkative than normal. Perhaps his run-in with Umbra has left him more shaken than he's let on."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "At long last, you crest a hill to be greeted by the welcoming sight of the Ranger Station. A few minutes later, the old Messipian is sitting down with a cup of hot broth, drying off from the rain."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cThank you,\u201d Ren Kobo says. \u201cThis is why I love the Valley so much.\u201d He clasps your hands. \u201cIt's full of exceptional people that you can always rely upon in your hour of need.\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "strong",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "2-3:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Ren Kobo\u2019s injuries have been wearing on him more and more as you travel, but at long last you see the Ranger Station in the distance. A few minutes later, you\u2019re inside, and the old Messipian is sitting down with a cup of hot broth, drying off from the rain as you tend to his bumps and bruises."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cThank you,\u201d he says. \u201cPeople like you are why I love this Valley so much.\u201d He clasps your hands. \u201cOnce you're done patching me up, we should probably go back for my merchandise. What do you say?\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u00bb Continue Reading:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "text",
+              "text": "You've ensured Ren Kobo's safety for now, though you're certain he'll be back on the trail soon enough."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "RESCUE (REN KOBO)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "End the day."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/one_day_missions/missing_person/1_46-rescue"
+}

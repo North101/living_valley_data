@@ -1,0 +1,76 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_5",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "139.5",
+  "title": "139.5",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The Verdessian stares at you, eyeless head shifting back and forth. You\u2019re not very familiar with Verdessians, though you\u2019ve heard of them before. This one at least doesn\u2019t seem to be hostile."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you and the Verdessian stare at each other, the patterns on its face shift and change, and suddenly your vision \u2026 flickers. For a moment, you see the vines that fill the Verdant Sphere growing, reaching, wrapping around the arcology."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You gasp in panic and the vision vanishes, leaving you to stumble down onto one knee. You shake your head to clear the ringing. This must be some means of communication for a being without without a means to vocalize. But how to interpret it?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear the Familiar Verdessian with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to attempt to communicate with it."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_05"
+}

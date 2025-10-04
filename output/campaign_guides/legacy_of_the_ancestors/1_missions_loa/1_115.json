@@ -1,0 +1,149 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_115",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "1.115",
+  "title": "1.115",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "READ AN ENTRY BASED ON YOUR PROGRESS ON ARTIFICIAL ADAPTATION:"
+        }
+      ],
+      "highlight_color": "blue"
+    },
+    {
+      "type": "p",
+      "items": []
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "A) \u2662\u2662\u2662"
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You take a moment to examine the adapters you\u2019ve gathered, and after attempting to slot them into Lunn\u2019s scrap-built door opener, it looks like only one of them is compatible with the device. You marvel at Lunn\u2019s ingenious yet somewhat inefficient design and determine that you\u2019ll need to find at least two more compatible adapters, then find somewhere where you can weld them into place, in order to get it working again."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard all adapter tokens from the mission and check off one bubble next to this mission on the campaign tracker."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "B) \u2666\u2662\u2662"
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You pause to sort through your growing collection of Estian power adapters and are delighted to find another to be compatible with Lunn\u2019s device. Your enthusiasm, however, is somewhat tempered. Although you only need to find one more, you\u2019ll still need to find somewhere in the arcology to fuse them to the device it once you do. You tell yourself that next mission you\u2019ll be sure to pack some soldering gear."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard all adapter tokens from the mission and check off one bubble next to this mission on the campaign tracker."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "C) \u2666\u2666\u2662"
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Removing the power cell from its casing, you examine it closely and find that it possesses precisely the last bit of circuitry you need to repair Lunn\u2019s door opener. All you need to do now is find a place with the equipment necessary to put it all together. Then, it dawns on you. What better place to find artificing equipment than in Orlin\u2019s Vault, the great workshop of the Estians? You carefully wrap the adapters in gauzeweave, tuck them gently into your pack, and continue on your way."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Check off the last box next to this mission. Complete the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "ARTIFICIAL ADAPTATION"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission and gain the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "ASSEMBLY REQUIRED"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "mission."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_115"
+}

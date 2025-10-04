@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/55_megadam_ruins",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "55",
+  "title": "55. Megadam Ruins",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Rising up above the tree line, you see the craggy peaks of giant\nruins, stretching out along the horizon like a mountain range. They\nappear to have once been pieces of the large crumbling wall looming\nin the distance, now long overgrown with trees and bushes. As you\nmake your way deeper into the ruins, you find yourself in a maze of\ncrumbling stone, unable to find a clear path forward. After some time\nsearching, you stumble upon a large fissure scarring one of the ruins\nahead. As you illuminate the entrance, what appears to be a long\ncavern springs up before you."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "As you gaze deeper, you see the tunnel splits off in different directions\ninto a labyrinthine array of passages carved through its belly. You catch\na glimmer of something along a barren patch of ceiling, and you think\nyou can make out the distinctive, even shine of industrial steel. If these\npassages were originally man-made, this is the only trace left of its\nmakers\u2019 mark, now buried in the endless, winding silence."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/megadam_ruins"
+}

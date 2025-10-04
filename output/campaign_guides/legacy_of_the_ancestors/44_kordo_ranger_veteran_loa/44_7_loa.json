@@ -1,0 +1,62 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_7_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "44.7",
+  "title": "44.7 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Kordo gives you a grin and lets out a whoop that echoes off of the underground chamber walls. He is on the hunt, and nothing is going to distract him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "If the Wild Scuttlebus is in play, add 3"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "harm"
+            }
+          ],
+          "icon_color": "black",
+          "color": "red"
+        },
+        {
+          "type": "text",
+          "text": "to the Wild Scuttlebus and discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from Kordo (he does not discard). Otherwise, discard Kordo and each Ranger soothes 2 fatigue."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kordo_ranger_veteran/44_7"
+}

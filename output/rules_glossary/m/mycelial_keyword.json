@@ -1,0 +1,70 @@
+{
+  "id": "rules_glossary/m/mycelial_keyword",
+  "lookup_group": "rules_glossary",
+  "lookup_id": "mycelial_keyword",
+  "title": "Mycelial (Keyword)",
+  "content": [
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "A card with the Mycelial keyword gains the"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "traits"
+            }
+          ]
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "keywords"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", and"
+        },
+        {
+          "type": "strong",
+          "items": [
+            {
+              "type": "text",
+              "text": "challenge effects"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "of each other card"
+        },
+        {
+          "type": "a",
+          "items": [
+            {
+              "type": "text",
+              "text": "in play"
+            }
+          ],
+          "id": "rules_glossary/i/in_play",
+          "anchor": "",
+          "url": "/docs/rules_glossary/I/in_play"
+        },
+        {
+          "type": "text",
+          "text": "with the Mycelial keyword. If two or more cards with Mycelial have the same trait, keyword, or challenge effect, each card with Mycelial counts as having only one instance of each."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/rules_glossary/M/mycelial"
+}

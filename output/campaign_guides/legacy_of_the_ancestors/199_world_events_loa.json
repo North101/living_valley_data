@@ -1,0 +1,15 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/199_world_events_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "199",
+  "title": "199. World Events (LOA)",
+  "content": [],
+  "items": [
+    "campaign_guides/legacy_of_the_ancestors/199_world_events_loa/199_1",
+    "campaign_guides/legacy_of_the_ancestors/199_world_events_loa/199_2",
+    "campaign_guides/legacy_of_the_ancestors/199_world_events_loa/199_3",
+    "campaign_guides/legacy_of_the_ancestors/199_world_events_loa/199_4",
+    "campaign_guides/legacy_of_the_ancestors/199_world_events_loa/199_5"
+  ],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/world_events"
+}

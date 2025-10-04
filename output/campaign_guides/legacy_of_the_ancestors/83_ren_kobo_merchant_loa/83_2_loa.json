@@ -1,0 +1,67 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/83_ren_kobo_merchant_loa/83_2_loa",
+  "lookup_group": "campaign_guides/legacy_of_the_ancestors",
+  "lookup_id": "83.2",
+  "title": "83.2 (LOA)",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "The man\u2019s familiar, broad face has been weathered by years of strong wind, and his eyes are surrounded by a forest of wrinkles from a lifetime of squinting into the sun. He pulls his hand out of the pocket of his long coat and thrusts it forward."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "He speaks with the drawl of the Messipian seafolk. \u201cAlways good to see a Ranger,\u201d he says. \u201cPerhaps you\u2019d like to make a trade? If not, we can simply share the road; I see we\u2019re traveling in the same direction.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "span",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Clear Ren Kobo with"
+                },
+                {
+                  "type": "span",
+                  "items": [
+                    {
+                      "type": "icon",
+                      "icon": "progress"
+                    }
+                  ],
+                  "icon_color": "black"
+                },
+                {
+                  "type": "text",
+                  "text": "to trade with him."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/ren_kobo_merchant/83_2"
+}

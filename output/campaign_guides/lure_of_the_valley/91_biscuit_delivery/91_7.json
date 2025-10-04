@@ -1,0 +1,76 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_7",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "91.7",
+  "title": "91.7",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "Hy Pimpot crosses his arms and gives you a severe look. \u201cYou\u2019d\nbetter grab those biscuits and hit the trail before they cool too much!\nThey\u2019re still good cold, mind you, but they\u2019re just so much better\nwhen they\u2019re warm!\u201d"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "You raise your hands and tell him you\u2019re just about to leave. \u201cGood!\u201d\nhe says. \u201cJust let me know when you\u2019re ready. I\u2019ll be right here.\nWaiting.\u201d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Discard all"
+        },
+        {
+          "type": "span",
+          "items": [
+            {
+              "type": "icon",
+              "icon": "progress"
+            }
+          ],
+          "icon_color": "black"
+        },
+        {
+          "type": "text",
+          "text": "from Hy Pimpot. (He is not discarded.)"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "em",
+          "items": [
+            {
+              "type": "p",
+              "items": [
+                {
+                  "type": "text",
+                  "text": "Travel away from Lone Tree Station while Hy Pimpot is in play to collect\nthe biscuits and continue the mission."
+                }
+              ],
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/biscuit_delivery/91_7"
+}

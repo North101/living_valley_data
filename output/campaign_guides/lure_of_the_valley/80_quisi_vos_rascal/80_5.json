@@ -1,0 +1,42 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_5",
+  "lookup_group": "campaign_guides/lure_of_the_valley",
+  "lookup_id": "80.5",
+  "title": "80.5",
+  "content": [
+    {
+      "type": "blockquote",
+      "items": [
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "After a nonstop barrage of questions, you\u2019re a bit surprised when\nQuisi suddenly stops talking. You turn, and she\u2019s standing on a rock,\nshielding her eyes as she looks at the sun."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "items": [
+            {
+              "type": "text",
+              "text": "\u201cI would stay and help you some more, but I can\u2019t be late for dinner.\nSee you some other time!\u201d She hops off the rock and scampers down\nthe path, vanishing from view in an instant."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "items": [
+        {
+          "type": "text",
+          "text": "Each Ranger soothes 2 fatigue. Discard Quisi."
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_5"
+}
