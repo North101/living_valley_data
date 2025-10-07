@@ -86,9 +86,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "read-the-entry-corresponding-to-your-progress-on-trail-of-vines",
-          "url": "#read-the-entry-corresponding-to-your-progress-on-trail-of-vines"
+          "link": {
+            "id": null,
+            "anchor": "read-the-entry-corresponding-to-your-progress-on-trail-of-vines",
+            "url": "#read-the-entry-corresponding-to-your-progress-on-trail-of-vines"
+          }
         }
       ],
       "anchor": "read-the-entry-corresponding-to-your-progress-on-trail-of-vines"

@@ -11,7 +11,6 @@ from .util import *
 
 TAG_CLASSES: dict[str, set[str]] = {}
 TAG_URLS = set[str]()
-TAG_ICONS = set[str]()
 
 
 def get_nav_parents(e: Any):
@@ -38,9 +37,9 @@ def scrape_urls(session: requests.Session, base_url: str, url: str):
     print(url)
   tree = parse_html(data)
 
-  page_id = '/'.join(get_nav_parents(tree))
+  resource_id = '/'.join(get_nav_parents(tree))
   items = list(list_nav_items(tree))
-  yield url, page_id
+  yield url, resource_id
 
   for item in items:
     item_url = item[2]
@@ -59,9 +58,9 @@ def scrape_page(session: requests.Session, base_url: str, url: str):
     content: Any = next(iter(tree.xpath(SECTION_MARKDOWN)), None)
   else:
     content = None
-  page_id = '/'.join(get_nav_parents(tree))
+  resource_id = '/'.join(get_nav_parents(tree))
   items = list(list_nav_items(tree))
-  yield title, url, page_id, items, content
+  yield title, url, resource_id, items, content
 
   for item in items:
     item_url = item[2]
@@ -111,9 +110,11 @@ def parse_element(e: Any, urls: dict[str, str], icon_color: str | None):
   }
   if tag == 'a':
     data.update({
-        'id': resource_id,
-        'anchor': anchor,
-        'url': url,
+        'link': {
+          'id': resource_id,
+          'anchor': anchor,
+          'url': url,
+        },
     })
   elif anchor:
     data.update({
@@ -129,6 +130,11 @@ def parse_element(e: Any, urls: dict[str, str], icon_color: str | None):
     data.update({
         'highlight_color': highlight_color,
     })
+  
+  # if 'button' in classes:
+  #   data.update({
+  #     'button': True,
+  #   })
 
   return data
 
@@ -173,27 +179,27 @@ def remove_content_title(data: list):
   return data[1:]
 
 
-def get_lookup_group(page_id: str):
-  parts = page_id.split('/')
+def get_lookup_group(resource_id: str):
+  parts = resource_id.split('/')
   if parts[0] in ('campaign_guides', 'one_day_missions') and len(parts) > 1:
     return '/'.join(parts[:2])
-  elif parts[0] == 'rules_glossary':
+  if parts[0] == 'rules_glossary':
     return parts[0]
   return None
 
 
-def get_lookup(page_id: str, title: str) -> tuple[None, None] | tuple[str, None] | tuple[str, str]:
-  lookup_group = get_lookup_group(page_id)
+def get_lookup(resource_id: str, title: str) -> tuple[None, None] | tuple[str, None] | tuple[str, str]:
+  lookup_group = get_lookup_group(resource_id)
   if not lookup_group:
     return None, None
 
-  id_parts = page_id.split('/')
+  id_parts = resource_id.split('/')
   lookup_parts = lookup_group.split('/')
   if lookup_parts[0] == 'campaign_guides' and len(id_parts) > 2 and (guide_entry := get_guide_entry(title)):
     return lookup_group, guide_entry
-  elif lookup_parts[0] == 'one_day_missions' and len(id_parts) > 2:
+  if lookup_parts[0] == 'one_day_missions' and len(id_parts) > 2:
     return lookup_group, id_parts[-1]
-  elif lookup_parts[0] == 'rules_glossary' and len(id_parts) > 1:
+  if lookup_parts[0] == 'rules_glossary' and len(id_parts) > 1:
     return lookup_group, id_parts[-1]
   return lookup_group, None
 
@@ -211,31 +217,31 @@ def main(base_url: str, page_urls: list[str]):
     }
 
     urls = {
-        url: page_id
+        url: resource_id
         for page_url in page_urls
-        for url, page_id in scrape_urls(session, base_url, page_url)
+        for url, resource_id in scrape_urls(session, base_url, page_url)
     }
     for page_url in page_urls:
       sections = scrape_page(session, base_url, page_url)
-      for title, url, page_id, items, data in sections:
-        file = output_dir / f'{page_id}.json'
+      for title, url, resource_id, items, data in sections:
+        file = output_dir / f'{resource_id}.json'
         content = (
             remove_content_title(list(parse_element_items(data, urls, None)))
             if data is not None else
             None
         )
 
-        lookup_group, lookup_id = get_lookup(page_id, title)
+        lookup_group, lookup_id = get_lookup(resource_id, title)
         file.parent.mkdir(exist_ok=True, parents=True)
         with file.open('w') as f:
           json.dump({
-              'id': page_id,
+              'id': resource_id,
               'lookup_group': lookup_group,
               'lookup_id': lookup_id,
               'title': title,
               'content': content,
               'items': [
-                  '/'.join((page_id, item_id))
+                  '/'.join((resource_id, item_id))
                   for item_id, _, _ in items
               ],
               'url': url,
@@ -247,11 +253,8 @@ def main(base_url: str, page_urls: list[str]):
   with (log_dir / 'tags.json').open('w') as f:
     json.dump({
         key: sorted(value)
-        for key, value in TAG_CLASSES.items()
+        for key, value in sorted(TAG_CLASSES.items(), key=lambda x: x[0])
     }, f, indent=2)
 
   with (log_dir / 'urls.json').open('w') as f:
     json.dump(sorted(TAG_URLS), f, indent=2)
-
-  with (log_dir / 'icons.json').open('w') as f:
-    json.dump(sorted(TAG_ICONS), f, indent=2)

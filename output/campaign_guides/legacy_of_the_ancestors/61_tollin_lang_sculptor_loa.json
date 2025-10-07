@@ -19,9 +19,11 @@
               "text": "61.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_1_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_1_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -66,9 +68,11 @@
                       "text": "61.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_2_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_2_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_2"
+                  }
                 }
               ]
             },
@@ -101,9 +105,11 @@
                       "text": "61.5"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_5_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_5"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_5_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_5"
+                  }
                 }
               ]
             },
@@ -136,9 +142,11 @@
                       "text": "61.6"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_6_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_6"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_6_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_6"
+                  }
                 }
               ]
             },
@@ -157,9 +165,11 @@
                       "text": "61.7"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_7_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_7"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_7_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_7"
+                  }
                 }
               ]
             }
@@ -197,9 +207,11 @@
               "text": "61.8"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_8_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_8"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_8_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_8"
+          }
         }
       ],
       "highlight_color": "blue"

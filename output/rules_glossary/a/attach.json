@@ -41,9 +41,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -57,9 +59,11 @@
               "text": "facedown"
             }
           ],
-          "id": "rules_glossary/f/facedown_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/facedown_cards"
+          "link": {
+            "id": "rules_glossary/f/facedown_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/facedown_cards"
+          }
         },
         {
           "type": "text",
@@ -91,9 +95,11 @@
               "text": "facedown"
             }
           ],
-          "id": "rules_glossary/f/facedown_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/facedown_cards"
+          "link": {
+            "id": "rules_glossary/f/facedown_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/facedown_cards"
+          }
         },
         {
           "type": "a",
@@ -103,9 +109,11 @@
               "text": "discard"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -128,9 +136,11 @@
               "text": "discarded"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         }
       ]
     },
@@ -149,9 +159,11 @@
               "text": "role"
             }
           ],
-          "id": "rules_glossary/r/role",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/role"
+          "link": {
+            "id": "rules_glossary/r/role",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/role"
+          }
         },
         {
           "type": "text",
@@ -165,9 +177,11 @@
               "text": "interact"
             }
           ],
-          "id": "rules_glossary/i/interact",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/interact"
+          "link": {
+            "id": "rules_glossary/i/interact",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/interact"
+          }
         },
         {
           "type": "text",
@@ -190,9 +204,11 @@
               "text": "within reach"
             }
           ],
-          "id": "rules_glossary/w/within_reach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/within_reach"
+          "link": {
+            "id": "rules_glossary/w/within_reach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/within_reach"
+          }
         }
       ]
     },
@@ -211,9 +227,11 @@
               "text": "interact"
             }
           ],
-          "id": "rules_glossary/i/interact",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/interact"
+          "link": {
+            "id": "rules_glossary/i/interact",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/interact"
+          }
         },
         {
           "type": "text",
@@ -227,9 +245,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -243,9 +263,11 @@
               "text": "role"
             }
           ],
-          "id": "rules_glossary/r/role",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/role"
+          "link": {
+            "id": "rules_glossary/r/role",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/role"
+          }
         },
         {
           "type": "text",
@@ -259,9 +281,11 @@
               "text": "ready"
             }
           ],
-          "id": "rules_glossary/r/ready",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ready"
+          "link": {
+            "id": "rules_glossary/r/ready",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ready"
+          }
         },
         {
           "type": "text",
@@ -275,9 +299,11 @@
               "text": "fatigue"
             }
           ],
-          "id": "rules_glossary/f/fatigue",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/fatigue"
+          "link": {
+            "id": "rules_glossary/f/fatigue",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/fatigue"
+          }
         },
         {
           "type": "text",
@@ -291,9 +317,11 @@
               "text": "interact"
             }
           ],
-          "id": "rules_glossary/i/interact",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/interact"
+          "link": {
+            "id": "rules_glossary/i/interact",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/interact"
+          }
         },
         {
           "type": "text",
@@ -324,9 +352,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "camoveave-cloak-with-universal-power-cells-attached",
-          "url": "#camoveave-cloak-with-universal-power-cells-attached"
+          "link": {
+            "id": null,
+            "anchor": "camoveave-cloak-with-universal-power-cells-attached",
+            "url": "#camoveave-cloak-with-universal-power-cells-attached"
+          }
         }
       ],
       "anchor": "camoveave-cloak-with-universal-power-cells-attached"

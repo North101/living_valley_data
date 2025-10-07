@@ -19,9 +19,11 @@
               "text": "18.1"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/18_the_high_basin/18_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/the_high_basin/18_1"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/18_the_high_basin/18_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/the_high_basin/18_1"
+          }
         }
       ],
       "highlight_color": "blue"

@@ -19,9 +19,11 @@
               "text": "info@earthbornegames.com"
             }
           ],
-          "id": "mailto:info@earthbornegames.com",
-          "anchor": "",
-          "url": "mailto:info@earthbornegames.com"
+          "link": {
+            "id": "mailto:info@earthbornegames.com",
+            "anchor": "",
+            "url": "mailto:info@earthbornegames.com"
+          }
         },
         {
           "type": "text",
@@ -43,9 +45,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "the-delightful-rule",
-          "url": "#the-delightful-rule"
+          "link": {
+            "id": null,
+            "anchor": "the-delightful-rule",
+            "url": "#the-delightful-rule"
+          }
         }
       ],
       "anchor": "the-delightful-rule"
@@ -73,9 +77,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "abilities-and-effects",
-          "url": "#abilities-and-effects"
+          "link": {
+            "id": null,
+            "anchor": "abilities-and-effects",
+            "url": "#abilities-and-effects"
+          }
         }
       ],
       "anchor": "abilities-and-effects"
@@ -234,9 +240,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "campaign-guide",
-          "url": "#campaign-guide"
+          "link": {
+            "id": null,
+            "anchor": "campaign-guide",
+            "url": "#campaign-guide"
+          }
         }
       ],
       "anchor": "campaign-guide"
@@ -283,9 +291,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "challenge-effects",
-          "url": "#challenge-effects"
+          "link": {
+            "id": null,
+            "anchor": "challenge-effects",
+            "url": "#challenge-effects"
+          }
         }
       ],
       "anchor": "challenge-effects"
@@ -444,9 +454,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "locations",
-          "url": "#locations"
+          "link": {
+            "id": null,
+            "anchor": "locations",
+            "url": "#locations"
+          }
         }
       ],
       "anchor": "locations"
@@ -521,9 +533,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "missions",
-          "url": "#missions"
+          "link": {
+            "id": null,
+            "anchor": "missions",
+            "url": "#missions"
+          }
         }
       ],
       "anchor": "missions"
@@ -570,9 +584,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "path-cards",
-          "url": "#path-cards"
+          "link": {
+            "id": null,
+            "anchor": "path-cards",
+            "url": "#path-cards"
+          }
         }
       ],
       "anchor": "path-cards"
@@ -647,9 +663,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "ranger-cards",
-          "url": "#ranger-cards"
+          "link": {
+            "id": null,
+            "anchor": "ranger-cards",
+            "url": "#ranger-cards"
+          }
         }
       ],
       "anchor": "ranger-cards"
@@ -864,9 +882,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "tests",
-          "url": "#tests"
+          "link": {
+            "id": null,
+            "anchor": "tests",
+            "url": "#tests"
+          }
         }
       ],
       "anchor": "tests"
@@ -1025,9 +1045,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "timing",
-          "url": "#timing"
+          "link": {
+            "id": null,
+            "anchor": "timing",
+            "url": "#timing"
+          }
         }
       ],
       "anchor": "timing"
@@ -1102,9 +1124,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "miscellaneous",
-          "url": "#miscellaneous"
+          "link": {
+            "id": null,
+            "anchor": "miscellaneous",
+            "url": "#miscellaneous"
+          }
         }
       ],
       "anchor": "miscellaneous"

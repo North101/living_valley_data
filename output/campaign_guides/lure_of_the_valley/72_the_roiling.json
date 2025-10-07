@@ -19,9 +19,11 @@
               "text": "72.1"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/72_the_roiling/72_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/the_roiling/72_1"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/72_the_roiling/72_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/the_roiling/72_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -55,9 +57,11 @@
               "text": "72.2"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/72_the_roiling/72_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/the_roiling/72_2"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/72_the_roiling/72_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/the_roiling/72_2"
+          }
         }
       ]
     }

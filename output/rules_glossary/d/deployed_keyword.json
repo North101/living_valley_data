@@ -19,9 +19,11 @@
               "text": "gear"
             }
           ],
-          "id": "rules_glossary/g/gear",
-          "anchor": "",
-          "url": "/docs/rules_glossary/G/gear"
+          "link": {
+            "id": "rules_glossary/g/gear",
+            "anchor": "",
+            "url": "/docs/rules_glossary/G/gear"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "ready"
             }
           ],
-          "id": "rules_glossary/r/ready",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ready"
+          "link": {
+            "id": "rules_glossary/r/ready",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ready"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "exhausted"
             }
           ],
-          "id": "rules_glossary/e/exhaust",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/exhaust"
+          "link": {
+            "id": "rules_glossary/e/exhaust",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/exhaust"
+          }
         },
         {
           "type": "text",
@@ -85,9 +91,11 @@
               "text": "Ranger Turns phase"
             }
           ],
-          "id": "rules_glossary/p/phase_2_ranger_turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/phase_2_ranger_turns"
+          "link": {
+            "id": "rules_glossary/p/phase_2_ranger_turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/phase_2_ranger_turns"
+          }
         },
         {
           "type": "text",
@@ -101,9 +109,11 @@
               "text": "exhaust"
             }
           ],
-          "id": "rules_glossary/e/exhaust",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/exhaust"
+          "link": {
+            "id": "rules_glossary/e/exhaust",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/exhaust"
+          }
         },
         {
           "type": "text",
@@ -117,9 +127,11 @@
               "text": "equipped"
             }
           ],
-          "id": "rules_glossary/e/equipped",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/equipped"
+          "link": {
+            "id": "rules_glossary/e/equipped",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/equipped"
+          }
         },
         {
           "type": "text",
@@ -133,9 +145,11 @@
               "text": "play"
             }
           ],
-          "id": "rules_glossary/p/play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/play"
+          "link": {
+            "id": "rules_glossary/p/play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/play"
+          }
         },
         {
           "type": "text",
@@ -149,9 +163,11 @@
               "text": "exhausted"
             }
           ],
-          "id": "rules_glossary/e/exhaust",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/exhaust"
+          "link": {
+            "id": "rules_glossary/e/exhaust",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/exhaust"
+          }
         }
       ]
     }

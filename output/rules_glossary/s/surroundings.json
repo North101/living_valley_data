@@ -19,9 +19,11 @@
               "text": "play area"
             }
           ],
-          "id": "rules_glossary/p/the_play_area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/play_area"
+          "link": {
+            "id": "rules_glossary/p/the_play_area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/play_area"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "location"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "weather"
             }
           ],
-          "id": "rules_glossary/w/weather",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/weather"
+          "link": {
+            "id": "rules_glossary/w/weather",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/weather"
+          }
         },
         {
           "type": "text",
@@ -67,9 +73,11 @@
               "text": "missions"
             }
           ],
-          "id": "rules_glossary/m/missions",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/missions"
+          "link": {
+            "id": "rules_glossary/m/missions",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/missions"
+          }
         },
         {
           "type": "text",

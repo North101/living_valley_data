@@ -19,9 +19,11 @@
               "text": "24.1"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/24_greenbriar_knoll/24_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/greenbriar_knoll/24_1"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/24_greenbriar_knoll/24_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/greenbriar_knoll/24_1"
+          }
         }
       ],
       "highlight_color": "blue"

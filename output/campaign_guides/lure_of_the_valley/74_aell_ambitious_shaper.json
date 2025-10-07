@@ -34,9 +34,11 @@
                       "text": "74.1"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_1"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_1"
+                  }
                 }
               ]
             },
@@ -55,9 +57,11 @@
                       "text": "1.19"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/1_missions/1_19",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_19"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/1_missions/1_19",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_19"
+                  }
                 }
               ]
             },
@@ -76,9 +80,11 @@
                       "text": "74.3"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_3"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_3"
+                  }
                 }
               ]
             }
@@ -127,9 +133,11 @@
                       "text": "74.4"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_4"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_4"
+                  }
                 }
               ]
             },
@@ -148,9 +156,11 @@
                       "text": "74.5"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_5",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_5"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_5",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_5"
+                  }
                 }
               ]
             }
@@ -198,9 +208,11 @@
                       "text": "1.22"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/1_missions/1_22",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_22"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/1_missions/1_22",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_22"
+                  }
                 }
               ]
             },
@@ -219,9 +231,11 @@
                       "text": "74.6"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_6",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_6"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_6",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_6"
+                  }
                 }
               ]
             },
@@ -240,9 +254,11 @@
                       "text": "74.7"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_7",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_7"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_7",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/aell_ambitious_shaper/74_7"
+                  }
                 }
               ]
             }

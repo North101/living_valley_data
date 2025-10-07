@@ -19,9 +19,11 @@
               "text": "timing"
             }
           ],
-          "id": "rules_glossary/t/timing",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/timing"
+          "link": {
+            "id": "rules_glossary/t/timing",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/timing"
+          }
         },
         {
           "type": "text",

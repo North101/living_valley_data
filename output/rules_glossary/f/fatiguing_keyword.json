@@ -19,9 +19,11 @@
               "text": "rest"
             }
           ],
-          "id": "rules_glossary/r/rest",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/rest"
+          "link": {
+            "id": "rules_glossary/r/rest",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/rest"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "keyword"
             }
           ],
-          "id": "rules_glossary/k/keywords",
-          "anchor": "",
-          "url": "/docs/rules_glossary/K/keywords"
+          "link": {
+            "id": "rules_glossary/k/keywords",
+            "anchor": "",
+            "url": "/docs/rules_glossary/K/keywords"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "player area"
             }
           ],
-          "id": "rules_glossary/p/player_area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/player_area"
+          "link": {
+            "id": "rules_glossary/p/player_area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/player_area"
+          }
         },
         {
           "type": "a",
@@ -63,9 +69,11 @@
               "text": "within reach"
             }
           ],
-          "id": "rules_glossary/w/within_reach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/within_reach"
+          "link": {
+            "id": "rules_glossary/w/within_reach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/within_reach"
+          }
         },
         {
           "type": "text",
@@ -79,9 +87,11 @@
               "text": "along the way"
             }
           ],
-          "id": "rules_glossary/a/along_the_way",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/along_the_way"
+          "link": {
+            "id": "rules_glossary/a/along_the_way",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/along_the_way"
+          }
         },
         {
           "type": "text",
@@ -95,9 +105,11 @@
               "text": "fatigue"
             }
           ],
-          "id": "rules_glossary/f/fatigue",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/fatigue"
+          "link": {
+            "id": "rules_glossary/f/fatigue",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/fatigue"
+          }
         },
         {
           "type": "text",

@@ -47,9 +47,11 @@
               "text": "102.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/102_branching_artery/102_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/branching_artery/102_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/102_branching_artery/102_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/branching_artery/102_1"
+          }
         }
       ]
     },
@@ -82,9 +84,11 @@
               "text": "102.2"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/102_branching_artery/102_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/branching_artery/102_2"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/102_branching_artery/102_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/branching_artery/102_2"
+          }
         }
       ]
     }

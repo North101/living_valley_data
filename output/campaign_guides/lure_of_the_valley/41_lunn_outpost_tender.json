@@ -33,9 +33,11 @@
               "text": "41.1"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/lunn_outpost_tender/41_1"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/lunn_outpost_tender/41_1"
+          }
         },
         {
           "type": "text",
@@ -49,9 +51,11 @@
               "text": "41.2"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/lunn_outpost_tender/41_2"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/lunn_outpost_tender/41_2"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -99,9 +103,11 @@
               "text": "41.3"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_3",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/lunn_outpost_tender/41_3"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_3",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/lunn_outpost_tender/41_3"
+          }
         },
         {
           "type": "text",
@@ -115,9 +121,11 @@
               "text": "41.4"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_4",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/lunn_outpost_tender/41_4"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_4",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/lunn_outpost_tender/41_4"
+          }
         }
       ]
     },
@@ -150,9 +158,11 @@
               "text": "41.5"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_5",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/lunn_outpost_tender/41_5"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_5",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/lunn_outpost_tender/41_5"
+          }
         }
       ],
       "highlight_color": "blue"

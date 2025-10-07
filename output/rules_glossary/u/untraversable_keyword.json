@@ -19,9 +19,11 @@
               "text": "progress"
             }
           ],
-          "id": "rules_glossary/p/progress",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/progress"
+          "link": {
+            "id": "rules_glossary/p/progress",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/progress"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "common test"
             }
           ],
-          "id": "rules_glossary/c/common_test",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/common_tests"
+          "link": {
+            "id": "rules_glossary/c/common_test",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/common_tests"
+          }
         }
       ]
     }

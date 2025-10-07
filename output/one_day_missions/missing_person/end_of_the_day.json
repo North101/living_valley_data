@@ -19,9 +19,11 @@
               "text": "EoD2"
             }
           ],
-          "id": null,
-          "anchor": "eod2",
-          "url": "#eod2"
+          "link": {
+            "id": null,
+            "anchor": "eod2",
+            "url": "#eod2"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -49,9 +51,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "resolve-the-following-based-on-how-you-ended-the-day",
-          "url": "#resolve-the-following-based-on-how-you-ended-the-day"
+          "link": {
+            "id": null,
+            "anchor": "resolve-the-following-based-on-how-you-ended-the-day",
+            "url": "#resolve-the-following-based-on-how-you-ended-the-day"
+          }
         }
       ],
       "anchor": "resolve-the-following-based-on-how-you-ended-the-day"
@@ -196,9 +200,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "eod2",
-          "url": "#eod2"
+          "link": {
+            "id": null,
+            "anchor": "eod2",
+            "url": "#eod2"
+          }
         }
       ],
       "anchor": "eod2"
@@ -213,9 +219,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "resolve-the-following-based-on-how-you-ended-the-day-1",
-          "url": "#resolve-the-following-based-on-how-you-ended-the-day-1"
+          "link": {
+            "id": null,
+            "anchor": "resolve-the-following-based-on-how-you-ended-the-day-1",
+            "url": "#resolve-the-following-based-on-how-you-ended-the-day-1"
+          }
         }
       ],
       "anchor": "resolve-the-following-based-on-how-you-ended-the-day-1"

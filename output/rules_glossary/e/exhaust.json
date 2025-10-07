@@ -19,9 +19,11 @@
               "text": "ready"
             }
           ],
-          "id": "rules_glossary/r/ready",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ready"
+          "link": {
+            "id": "rules_glossary/r/ready",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ready"
+          }
         },
         {
           "type": "text",
@@ -47,9 +49,11 @@
                   "text": "fatigue"
                 }
               ],
-              "id": "rules_glossary/f/fatigue",
-              "anchor": "",
-              "url": "/docs/rules_glossary/F/fatigue"
+              "link": {
+                "id": "rules_glossary/f/fatigue",
+                "anchor": "",
+                "url": "/docs/rules_glossary/F/fatigue"
+              }
             },
             {
               "type": "text",
@@ -72,9 +76,11 @@
                   "text": "active"
                 }
               ],
-              "id": "rules_glossary/a/active",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/active"
+              "link": {
+                "id": "rules_glossary/a/active",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/active"
+              }
             },
             {
               "type": "text",
@@ -106,9 +112,11 @@
                   "text": "interact"
                 }
               ],
-              "id": "rules_glossary/i/interact",
-              "anchor": "",
-              "url": "/docs/rules_glossary/I/interact"
+              "link": {
+                "id": "rules_glossary/i/interact",
+                "anchor": "",
+                "url": "/docs/rules_glossary/I/interact"
+              }
             },
             {
               "type": "text",
@@ -154,9 +162,11 @@
                   "text": "timing"
                 }
               ],
-              "id": "rules_glossary/t/timing",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/timing"
+              "link": {
+                "id": "rules_glossary/t/timing",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/timing"
+              }
             }
           ]
         }

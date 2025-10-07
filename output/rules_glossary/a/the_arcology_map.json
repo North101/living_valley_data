@@ -19,9 +19,11 @@
               "text": "Legacy of the Ancestors"
             }
           ],
-          "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
+          "link": {
+            "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
+          }
         },
         {
           "type": "a",
@@ -31,9 +33,11 @@
               "text": "campaign"
             }
           ],
-          "id": "rules_glossary/c/campaign",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign"
+          "link": {
+            "id": "rules_glossary/c/campaign",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign"
+          }
         },
         {
           "type": "text",
@@ -47,9 +51,11 @@
               "text": "Valley map"
             }
           ],
-          "id": "rules_glossary/v/the_valley_map",
-          "anchor": "",
-          "url": "/docs/rules_glossary/V/valley_map"
+          "link": {
+            "id": "rules_glossary/v/the_valley_map",
+            "anchor": "",
+            "url": "/docs/rules_glossary/V/valley_map"
+          }
         },
         {
           "type": "text",
@@ -63,9 +69,11 @@
               "text": "Valley map"
             }
           ],
-          "id": "rules_glossary/v/the_valley_map",
-          "anchor": "",
-          "url": "/docs/rules_glossary/V/valley_map"
+          "link": {
+            "id": "rules_glossary/v/the_valley_map",
+            "anchor": "",
+            "url": "/docs/rules_glossary/V/valley_map"
+          }
         },
         {
           "type": "text",
@@ -83,9 +91,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "map-levels",
-          "url": "#map-levels"
+          "link": {
+            "id": null,
+            "anchor": "map-levels",
+            "url": "#map-levels"
+          }
         }
       ],
       "anchor": "map-levels"
@@ -105,9 +115,11 @@
               "text": "Legacy of the Ancestors"
             }
           ],
-          "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
+          "link": {
+            "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
+          }
         },
         {
           "type": "text",
@@ -125,9 +137,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "locked-paths",
-          "url": "#locked-paths"
+          "link": {
+            "id": null,
+            "anchor": "locked-paths",
+            "url": "#locked-paths"
+          }
         }
       ],
       "anchor": "locked-paths"
@@ -147,9 +161,11 @@
               "text": "Legacy of the Ancestors"
             }
           ],
-          "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
+          "link": {
+            "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
+          }
         },
         {
           "type": "text",
@@ -163,9 +179,11 @@
               "text": "location"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -179,9 +197,11 @@
               "text": "travel"
             }
           ],
-          "id": "rules_glossary/t/travel",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/travel"
+          "link": {
+            "id": "rules_glossary/t/travel",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/travel"
+          }
         },
         {
           "type": "text",
@@ -195,9 +215,11 @@
               "text": "location"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -211,9 +233,11 @@
               "text": "location"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -227,9 +251,11 @@
               "text": "traveling"
             }
           ],
-          "id": "rules_glossary/t/travel",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/travel"
+          "link": {
+            "id": "rules_glossary/t/travel",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/travel"
+          }
         },
         {
           "type": "text",
@@ -243,9 +269,11 @@
               "text": "location"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -259,9 +287,11 @@
               "text": "locations"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -280,9 +310,11 @@
               "text": "Ranger cards"
             }
           ],
-          "id": "rules_glossary/r/ranger_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ranger_cards"
+          "link": {
+            "id": "rules_glossary/r/ranger_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ranger_cards"
+          }
         },
         {
           "type": "text",
@@ -296,9 +328,11 @@
               "text": "rewards"
             }
           ],
-          "id": "rules_glossary/r/rewards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/rewards"
+          "link": {
+            "id": "rules_glossary/r/rewards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/rewards"
+          }
         },
         {
           "type": "text",
@@ -312,9 +346,11 @@
               "text": "travel"
             }
           ],
-          "id": "rules_glossary/t/travel",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/travel"
+          "link": {
+            "id": "rules_glossary/t/travel",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/travel"
+          }
         },
         {
           "type": "text",

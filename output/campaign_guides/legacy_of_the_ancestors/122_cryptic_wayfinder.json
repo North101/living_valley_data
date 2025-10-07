@@ -25,9 +25,11 @@
                       "text": "122.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder/122_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/cryptic_wayfinder/122_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder/122_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/cryptic_wayfinder/122_1"
+                  }
                 }
               ],
               "highlight_color": "blue"
@@ -66,9 +68,11 @@
                       "text": "122.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder/122_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/cryptic_wayfinder/122_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder/122_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/cryptic_wayfinder/122_2"
+                  }
                 }
               ]
             }

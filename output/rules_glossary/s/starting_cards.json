@@ -19,9 +19,11 @@
               "text": "creating your decks"
             }
           ],
-          "id": "rules_glossary/c/creating_ranger_decks",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/creating_ranger_decks"
+          "link": {
+            "id": "rules_glossary/c/creating_ranger_decks",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/creating_ranger_decks"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "background"
             }
           ],
-          "id": "rules_glossary/b/backgrounds",
-          "anchor": "",
-          "url": "/docs/rules_glossary/B/backgrounds"
+          "link": {
+            "id": "rules_glossary/b/backgrounds",
+            "anchor": "",
+            "url": "/docs/rules_glossary/B/backgrounds"
+          }
         },
         {
           "type": "a",
@@ -56,9 +60,11 @@
               "text": "specialty"
             }
           ],
-          "id": "rules_glossary/s/specialties",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/specialties"
+          "link": {
+            "id": "rules_glossary/s/specialties",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/specialties"
+          }
         },
         {
           "type": "text",
@@ -72,9 +78,11 @@
               "text": "personality"
             }
           ],
-          "id": "rules_glossary/p/personalities",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/personalities"
+          "link": {
+            "id": "rules_glossary/p/personalities",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/personalities"
+          }
         },
         {
           "type": "text",

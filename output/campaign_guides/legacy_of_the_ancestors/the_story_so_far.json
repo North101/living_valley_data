@@ -87,9 +87,11 @@
               "text": "Entry 1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions"
+          }
         }
       ]
     },
@@ -311,9 +313,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose",
-          "url": "#rangers-choose"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose",
+            "url": "#rangers-choose"
+          }
         }
       ],
       "anchor": "rangers-choose"
@@ -450,9 +454,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose-1",
-          "url": "#rangers-choose-1"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose-1",
+            "url": "#rangers-choose-1"
+          }
         }
       ],
       "anchor": "rangers-choose-1"
@@ -636,9 +642,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose-2",
-          "url": "#rangers-choose-2"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose-2",
+            "url": "#rangers-choose-2"
+          }
         }
       ],
       "anchor": "rangers-choose-2"

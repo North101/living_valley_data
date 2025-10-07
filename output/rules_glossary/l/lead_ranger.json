@@ -19,9 +19,11 @@
               "text": "setup"
             }
           ],
-          "id": "rules_glossary/s/setup",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/setup"
+          "link": {
+            "id": "rules_glossary/s/setup",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/setup"
+          }
         },
         {
           "type": "text",
@@ -48,9 +50,11 @@
               "text": "path card"
             }
           ],
-          "id": "rules_glossary/p/path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/path_cards"
+          "link": {
+            "id": "rules_glossary/p/path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/path_cards"
+          }
         },
         {
           "type": "text",
@@ -64,9 +68,11 @@
               "text": "round"
             }
           ],
-          "id": "rules_glossary/r/round",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/round"
+          "link": {
+            "id": "rules_glossary/r/round",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/round"
+          }
         },
         {
           "type": "text",

@@ -19,9 +19,11 @@
               "text": "Spirit Speakers"
             }
           ],
-          "id": "rules_glossary/s/spirit_speaker_specialty",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/spirit_speaker"
+          "link": {
+            "id": "rules_glossary/s/spirit_speaker_specialty",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/spirit_speaker"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "common test"
             }
           ],
-          "id": "rules_glossary/c/common_test",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/common_tests"
+          "link": {
+            "id": "rules_glossary/c/common_test",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/common_tests"
+          }
         }
       ]
     },
@@ -79,9 +83,11 @@
               "text": "attachments"
             }
           ],
-          "id": "rules_glossary/a/attachments",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/attachment"
+          "link": {
+            "id": "rules_glossary/a/attachments",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/attachment"
+          }
         },
         {
           "type": "text",

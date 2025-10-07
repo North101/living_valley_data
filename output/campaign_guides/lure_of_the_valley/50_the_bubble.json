@@ -19,9 +19,11 @@
               "text": "50.1"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble/50_1"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble/50_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -66,9 +68,11 @@
                       "text": "50.2"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble/50_2"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble/50_2"
+                  }
                 }
               ]
             },
@@ -87,9 +91,11 @@
                       "text": "50.3"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble/50_3"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble/50_3"
+                  }
                 }
               ]
             },
@@ -108,9 +114,11 @@
                       "text": "50.4"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble/50_4"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble/50_4"
+                  }
                 }
               ]
             }

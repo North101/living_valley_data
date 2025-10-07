@@ -48,9 +48,11 @@
                       "text": "148.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/precarious_wreckage/148_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/precarious_wreckage/148_1"
+                  }
                 }
               ]
             },
@@ -69,9 +71,11 @@
                       "text": "148.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/precarious_wreckage/148_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/precarious_wreckage/148_2"
+                  }
                 }
               ]
             }
@@ -134,9 +138,11 @@
                       "text": "148.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/precarious_wreckage/148_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/precarious_wreckage/148_3"
+                  }
                 }
               ]
             },

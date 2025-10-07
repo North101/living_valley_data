@@ -19,9 +19,11 @@
               "text": "setup"
             }
           ],
-          "id": "rules_glossary/s/setup",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/setup"
+          "link": {
+            "id": "rules_glossary/s/setup",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/setup"
+          }
         }
       ]
     }

@@ -32,9 +32,11 @@
               "text": "surroundings"
             }
           ],
-          "id": "rules_glossary/s/surroundings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/surroundings"
+          "link": {
+            "id": "rules_glossary/s/surroundings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/surroundings"
+          }
         },
         {
           "type": "a",
@@ -44,9 +46,11 @@
               "text": "along the way"
             }
           ],
-          "id": "rules_glossary/a/along_the_way",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/along_the_way"
+          "link": {
+            "id": "rules_glossary/a/along_the_way",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/along_the_way"
+          }
         },
         {
           "type": "a",
@@ -56,9 +60,11 @@
               "text": "within reach"
             }
           ],
-          "id": "rules_glossary/w/within_reach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/within_reach"
+          "link": {
+            "id": "rules_glossary/w/within_reach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/within_reach"
+          }
         },
         {
           "type": "text",
@@ -72,9 +78,11 @@
               "text": "player area"
             }
           ],
-          "id": "rules_glossary/p/player_area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/player_area"
+          "link": {
+            "id": "rules_glossary/p/player_area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/player_area"
+          }
         }
       ]
     },

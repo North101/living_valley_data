@@ -43,9 +43,11 @@
               "text": "1.13a"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_13",
-          "anchor": "113a",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_13#113a"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_13",
+            "anchor": "113a",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_13#113a"
+          }
         }
       ]
     },
@@ -74,9 +76,11 @@
               "text": "1.13b"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_13",
-          "anchor": "113b",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_13#113b"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_13",
+            "anchor": "113b",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_13#113b"
+          }
         }
       ]
     },
@@ -90,9 +94,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "113a",
-          "url": "#113a"
+          "link": {
+            "id": null,
+            "anchor": "113a",
+            "url": "#113a"
+          }
         }
       ],
       "anchor": "113a"
@@ -121,9 +127,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose",
-          "url": "#rangers-choose"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose",
+            "url": "#rangers-choose"
+          }
         }
       ],
       "anchor": "rangers-choose"
@@ -217,9 +225,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "113b",
-          "url": "#113b"
+          "link": {
+            "id": null,
+            "anchor": "113b",
+            "url": "#113b"
+          }
         }
       ],
       "anchor": "113b"
@@ -259,9 +269,11 @@
               "text": "1.14"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_14",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_14"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_14",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_14"
+          }
         }
       ]
     },
@@ -304,9 +316,11 @@
               "text": "1.14"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_14",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_14"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_14",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_14"
+          }
         }
       ]
     },
@@ -358,9 +372,11 @@
               "text": "1.14"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_14",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_14"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_14",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_14"
+          }
         }
       ]
     }

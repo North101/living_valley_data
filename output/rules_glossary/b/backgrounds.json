@@ -19,9 +19,11 @@
               "text": "set"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -43,9 +45,11 @@
                   "text": "Artisan"
                 }
               ],
-              "id": "rules_glossary/a/artisan_background",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/artisan"
+              "link": {
+                "id": "rules_glossary/a/artisan_background",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/artisan"
+              }
             }
           ]
         },
@@ -60,9 +64,11 @@
                   "text": "Forager"
                 }
               ],
-              "id": "rules_glossary/f/forager_background",
-              "anchor": "",
-              "url": "/docs/rules_glossary/F/forager"
+              "link": {
+                "id": "rules_glossary/f/forager_background",
+                "anchor": "",
+                "url": "/docs/rules_glossary/F/forager"
+              }
             }
           ]
         },
@@ -77,9 +83,11 @@
                   "text": "Shepherd"
                 }
               ],
-              "id": "rules_glossary/s/shepherd_background",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/shepherd"
+              "link": {
+                "id": "rules_glossary/s/shepherd_background",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/shepherd"
+              }
             }
           ]
         },
@@ -94,9 +102,11 @@
                   "text": "Talespinner"
                 }
               ],
-              "id": "rules_glossary/t/talespinner_background",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/talespinner"
+              "link": {
+                "id": "rules_glossary/t/talespinner_background",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/talespinner"
+              }
             },
             {
               "type": "text",
@@ -128,9 +138,11 @@
                   "text": "Traveler"
                 }
               ],
-              "id": "rules_glossary/t/traveler_background",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/traveler"
+              "link": {
+                "id": "rules_glossary/t/traveler_background",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/traveler"
+              }
             }
           ]
         }

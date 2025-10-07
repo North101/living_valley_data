@@ -37,9 +37,11 @@
               "text": "beings"
             }
           ],
-          "id": "rules_glossary/b/beings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/B/being"
+          "link": {
+            "id": "rules_glossary/b/beings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/B/being"
+          }
         },
         {
           "type": "text",
@@ -53,9 +55,11 @@
               "text": "features"
             }
           ],
-          "id": "rules_glossary/f/features",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/features"
+          "link": {
+            "id": "rules_glossary/f/features",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/features"
+          }
         },
         {
           "type": "text",
@@ -78,9 +82,11 @@
               "text": "harm threshold"
             }
           ],
-          "id": "rules_glossary/h/harm_threshold",
-          "anchor": "",
-          "url": "/docs/rules_glossary/H/harm_threshold"
+          "link": {
+            "id": "rules_glossary/h/harm_threshold",
+            "anchor": "",
+            "url": "/docs/rules_glossary/H/harm_threshold"
+          }
         },
         {
           "type": "text",
@@ -94,9 +100,11 @@
               "text": "harm threshold"
             }
           ],
-          "id": "rules_glossary/h/harm_threshold",
-          "anchor": "",
-          "url": "/docs/rules_glossary/H/harm_threshold"
+          "link": {
+            "id": "rules_glossary/h/harm_threshold",
+            "anchor": "",
+            "url": "/docs/rules_glossary/H/harm_threshold"
+          }
         },
         {
           "type": "text",

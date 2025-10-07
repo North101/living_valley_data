@@ -19,9 +19,11 @@
               "text": "106.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/106_the_verdant_sphere/106_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_verdant_sphere/106_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/106_the_verdant_sphere/106_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_verdant_sphere/106_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -41,9 +43,11 @@
               "text": "1.121A"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_121",
-          "anchor": "1121a",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_121#1121a"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_121",
+            "anchor": "1121a",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_121#1121a"
+          }
         }
       ]
     },
@@ -76,9 +80,11 @@
               "text": "1.121B"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_121",
-          "anchor": "1121b",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_121#1121b"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_121",
+            "anchor": "1121b",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_121#1121b"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -117,9 +123,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1121a",
-          "url": "#1121a"
+          "link": {
+            "id": null,
+            "anchor": "1121a",
+            "url": "#1121a"
+          }
         }
       ],
       "anchor": "1121a"
@@ -191,9 +199,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1121b",
-          "url": "#1121b"
+          "link": {
+            "id": null,
+            "anchor": "1121b",
+            "url": "#1121b"
+          }
         }
       ],
       "anchor": "1121b"

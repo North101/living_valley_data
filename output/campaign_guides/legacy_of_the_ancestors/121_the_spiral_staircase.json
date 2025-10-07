@@ -48,9 +48,11 @@
                       "text": "121.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/thespiral_stairway/121_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/thespiral_stairway/121_1"
+                  }
                 }
               ]
             },
@@ -69,9 +71,11 @@
                       "text": "121.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/thespiral_stairway/121_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/thespiral_stairway/121_2"
+                  }
                 }
               ]
             }
@@ -115,9 +119,11 @@
                       "text": "121.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/thespiral_stairway/121_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/thespiral_stairway/121_3"
+                  }
                 }
               ]
             }

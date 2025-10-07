@@ -53,9 +53,11 @@
                       "text": "107.2A"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2",
-                  "anchor": "1072a",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_2#1072a"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2",
+                    "anchor": "1072a",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_2#1072a"
+                  }
                 }
               ],
               "highlight_color": "blue"
@@ -94,9 +96,11 @@
                       "text": "107.2B"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2",
-                  "anchor": "1072b",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_2#1072b"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2",
+                    "anchor": "1072b",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_2#1072b"
+                  }
                 }
               ]
             }
@@ -134,9 +138,11 @@
                       "text": "107.2C"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2",
-                  "anchor": "1072c",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_2#1072c"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2",
+                    "anchor": "1072c",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_2#1072c"
+                  }
                 }
               ],
               "highlight_color": "blue"
@@ -218,9 +224,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1072a",
-          "url": "#1072a"
+          "link": {
+            "id": null,
+            "anchor": "1072a",
+            "url": "#1072a"
+          }
         }
       ],
       "anchor": "1072a"
@@ -364,9 +372,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1072b",
-          "url": "#1072b"
+          "link": {
+            "id": null,
+            "anchor": "1072b",
+            "url": "#1072b"
+          }
         }
       ],
       "anchor": "1072b"
@@ -519,9 +529,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1072c",
-          "url": "#1072c"
+          "link": {
+            "id": null,
+            "anchor": "1072c",
+            "url": "#1072c"
+          }
         }
       ],
       "anchor": "1072c"

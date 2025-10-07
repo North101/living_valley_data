@@ -33,9 +33,11 @@
               "text": "56.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa/56_1_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_carbon_forge/56_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa/56_1_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_carbon_forge/56_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -55,9 +57,11 @@
               "text": "56.2"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa/56_2_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_carbon_forge/56_2"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa/56_2_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_carbon_forge/56_2"
+          }
         }
       ]
     }

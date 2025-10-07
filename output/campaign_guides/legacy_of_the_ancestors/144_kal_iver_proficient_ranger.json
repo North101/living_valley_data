@@ -48,9 +48,11 @@
                       "text": "144.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_1"
+                  }
                 }
               ]
             },
@@ -83,9 +85,11 @@
                       "text": "144.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_2"
+                  }
                 }
               ]
             },
@@ -104,9 +108,11 @@
                       "text": "144.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_3"
+                  }
                 }
               ]
             }
@@ -155,9 +161,11 @@
                       "text": "144.4"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_4"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_4"
+                  }
                 }
               ]
             },
@@ -176,9 +184,11 @@
                       "text": "144.5"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_5",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_5"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_5",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_5"
+                  }
                 }
               ]
             }
@@ -216,9 +226,11 @@
               "text": "144.6"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_6",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_6"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_6",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_6"
+          }
         }
       ],
       "highlight_color": "blue"

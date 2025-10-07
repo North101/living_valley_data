@@ -19,9 +19,11 @@
               "text": "campaign"
             }
           ],
-          "id": "rules_glossary/c/campaign",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign"
+          "link": {
+            "id": "rules_glossary/c/campaign",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "locations"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "travel"
             }
           ],
-          "id": "rules_glossary/t/travel",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/travel"
+          "link": {
+            "id": "rules_glossary/t/travel",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/travel"
+          }
         },
         {
           "type": "text",

@@ -32,9 +32,11 @@
                   ]
                 }
               ],
-              "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
-              "anchor": "",
-              "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
+              "link": {
+                "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
+                "anchor": "",
+                "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
+              }
             },
             {
               "type": "text",
@@ -48,9 +50,11 @@
                   "text": "campaign"
                 }
               ],
-              "id": "rules_glossary/c/campaign",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign"
+              "link": {
+                "id": "rules_glossary/c/campaign",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign"
+              }
             },
             {
               "type": "text",
@@ -64,9 +68,11 @@
                   "text": "campaign guide"
                 }
               ],
-              "id": "rules_glossary/c/campaign_guide",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign_guide"
+              "link": {
+                "id": "rules_glossary/c/campaign_guide",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign_guide"
+              }
             },
             {
               "type": "a",
@@ -76,9 +82,11 @@
                   "text": "campaign tracker"
                 }
               ],
-              "id": "rules_glossary/c/campaign_tracker",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign_tracker"
+              "link": {
+                "id": "rules_glossary/c/campaign_tracker",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign_tracker"
+              }
             },
             {
               "type": "text",
@@ -92,9 +100,11 @@
                   "text": "map"
                 }
               ],
-              "id": "rules_glossary/a/the_arcology_map",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/arcology_map"
+              "link": {
+                "id": "rules_glossary/a/the_arcology_map",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/arcology_map"
+              }
             },
             {
               "type": "text",
@@ -108,9 +118,11 @@
                   "text": "locations"
                 }
               ],
-              "id": "rules_glossary/l/locations",
-              "anchor": "",
-              "url": "/docs/rules_glossary/L/locations"
+              "link": {
+                "id": "rules_glossary/l/locations",
+                "anchor": "",
+                "url": "/docs/rules_glossary/L/locations"
+              }
             },
             {
               "type": "a",
@@ -120,9 +132,11 @@
                   "text": "path cards"
                 }
               ],
-              "id": "rules_glossary/p/path_cards",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/path_cards"
+              "link": {
+                "id": "rules_glossary/p/path_cards",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/path_cards"
+              }
             },
             {
               "type": "text",
@@ -136,9 +150,11 @@
                   "text": "rewards"
                 }
               ],
-              "id": "rules_glossary/r/rewards",
-              "anchor": "",
-              "url": "/docs/rules_glossary/R/rewards"
+              "link": {
+                "id": "rules_glossary/r/rewards",
+                "anchor": "",
+                "url": "/docs/rules_glossary/R/rewards"
+              }
             }
           ]
         },
@@ -158,9 +174,11 @@
                   ]
                 }
               ],
-              "id": "rules_glossary/s/stewards_of_the_valley_expansion",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/stewards_of_the_valley"
+              "link": {
+                "id": "rules_glossary/s/stewards_of_the_valley_expansion",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/stewards_of_the_valley"
+              }
             },
             {
               "type": "text",
@@ -174,9 +192,11 @@
                   "text": "Ranger cards"
                 }
               ],
-              "id": "rules_glossary/r/ranger_cards",
-              "anchor": "",
-              "url": "/docs/rules_glossary/R/ranger_cards"
+              "link": {
+                "id": "rules_glossary/r/ranger_cards",
+                "anchor": "",
+                "url": "/docs/rules_glossary/R/ranger_cards"
+              }
             },
             {
               "type": "text",
@@ -190,9 +210,11 @@
                   "text": "backgrounds"
                 }
               ],
-              "id": "rules_glossary/b/backgrounds",
-              "anchor": "",
-              "url": "/docs/rules_glossary/B/backgrounds"
+              "link": {
+                "id": "rules_glossary/b/backgrounds",
+                "anchor": "",
+                "url": "/docs/rules_glossary/B/backgrounds"
+              }
             },
             {
               "type": "text",
@@ -206,9 +228,11 @@
                   "text": "specialties"
                 }
               ],
-              "id": "rules_glossary/s/specialties",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/specialties"
+              "link": {
+                "id": "rules_glossary/s/specialties",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/specialties"
+              }
             },
             {
               "type": "text",
@@ -222,9 +246,11 @@
                   "text": "personality"
                 }
               ],
-              "id": "rules_glossary/p/personalities",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/personalities"
+              "link": {
+                "id": "rules_glossary/p/personalities",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/personalities"
+              }
             },
             {
               "type": "text",
@@ -238,9 +264,11 @@
                   "text": "aspect"
                 }
               ],
-              "id": "rules_glossary/a/aspects",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/aspects"
+              "link": {
+                "id": "rules_glossary/a/aspects",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/aspects"
+              }
             },
             {
               "type": "text",
@@ -254,9 +282,11 @@
                   "text": "background"
                 }
               ],
-              "id": "rules_glossary/b/backgrounds",
-              "anchor": "",
-              "url": "/docs/rules_glossary/B/backgrounds"
+              "link": {
+                "id": "rules_glossary/b/backgrounds",
+                "anchor": "",
+                "url": "/docs/rules_glossary/B/backgrounds"
+              }
             },
             {
               "type": "text",
@@ -270,9 +300,11 @@
                   "text": "Talespinner"
                 }
               ],
-              "id": "rules_glossary/t/talespinner_background",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/talespinner"
+              "link": {
+                "id": "rules_glossary/t/talespinner_background",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/talespinner"
+              }
             },
             {
               "type": "text",
@@ -286,9 +318,11 @@
                   "text": "specialty"
                 }
               ],
-              "id": "rules_glossary/s/specialties",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/specialties"
+              "link": {
+                "id": "rules_glossary/s/specialties",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/specialties"
+              }
             },
             {
               "type": "text",
@@ -302,9 +336,11 @@
                   "text": "Spirit Speaker"
                 }
               ],
-              "id": "rules_glossary/s/spirit_speaker_specialty",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/spirit_speaker"
+              "link": {
+                "id": "rules_glossary/s/spirit_speaker_specialty",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/spirit_speaker"
+              }
             },
             {
               "type": "text",
@@ -328,9 +364,11 @@
                   ]
                 }
               ],
-              "id": "rules_glossary/m/moments_on_the_path_expansion",
-              "anchor": "",
-              "url": "/docs/rules_glossary/M/moments_on_the_path"
+              "link": {
+                "id": "rules_glossary/m/moments_on_the_path_expansion",
+                "anchor": "",
+                "url": "/docs/rules_glossary/M/moments_on_the_path"
+              }
             },
             {
               "type": "text",
@@ -344,9 +382,11 @@
                   "text": "moments"
                 }
               ],
-              "id": "rules_glossary/p/path_moments",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/path_moments"
+              "link": {
+                "id": "rules_glossary/p/path_moments",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/path_moments"
+              }
             },
             {
               "type": "text",
@@ -360,9 +400,11 @@
                   "text": "campaigns"
                 }
               ],
-              "id": "rules_glossary/c/campaign",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign"
+              "link": {
+                "id": "rules_glossary/c/campaign",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign"
+              }
             }
           ]
         }

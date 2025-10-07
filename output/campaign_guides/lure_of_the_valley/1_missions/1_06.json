@@ -22,9 +22,11 @@
                   "text": "1.22"
                 }
               ],
-              "id": "campaign_guides/lure_of_the_valley/1_missions/1_22",
-              "anchor": "",
-              "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_22"
+              "link": {
+                "id": "campaign_guides/lure_of_the_valley/1_missions/1_22",
+                "anchor": "",
+                "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_22"
+              }
             },
             {
               "type": "text",

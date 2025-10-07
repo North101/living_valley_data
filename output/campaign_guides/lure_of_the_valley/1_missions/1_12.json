@@ -37,9 +37,11 @@
               "text": "1.12A"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_12",
-          "anchor": "112a",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_12#112a"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_12",
+            "anchor": "112a",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_12#112a"
+          }
         },
         {
           "type": "strong",
@@ -62,9 +64,11 @@
               "text": "1.12B"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_12",
-          "anchor": "112b",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_12#112b"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_12",
+            "anchor": "112b",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_12#112b"
+          }
         },
         {
           "type": "br",
@@ -91,9 +95,11 @@
               "text": "1.12C"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_12",
-          "anchor": "112c",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_12#112c"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_12",
+            "anchor": "112c",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_12#112c"
+          }
         },
         {
           "type": "strong",
@@ -116,9 +122,11 @@
               "text": "1.12D"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_12",
-          "anchor": "112d",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_12#112d"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_12",
+            "anchor": "112d",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_12#112d"
+          }
         }
       ]
     },
@@ -132,9 +140,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "112a",
-          "url": "#112a"
+          "link": {
+            "id": null,
+            "anchor": "112a",
+            "url": "#112a"
+          }
         }
       ],
       "anchor": "112a"
@@ -163,9 +173,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose",
-          "url": "#rangers-choose"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose",
+            "url": "#rangers-choose"
+          }
         }
       ],
       "anchor": "rangers-choose"
@@ -246,9 +258,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "112b",
-          "url": "#112b"
+          "link": {
+            "id": null,
+            "anchor": "112b",
+            "url": "#112b"
+          }
         }
       ],
       "anchor": "112b"
@@ -277,9 +291,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose-1",
-          "url": "#rangers-choose-1"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose-1",
+            "url": "#rangers-choose-1"
+          }
         }
       ],
       "anchor": "rangers-choose-1"
@@ -360,9 +376,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "112c",
-          "url": "#112c"
+          "link": {
+            "id": null,
+            "anchor": "112c",
+            "url": "#112c"
+          }
         }
       ],
       "anchor": "112c"
@@ -391,9 +409,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose-2",
-          "url": "#rangers-choose-2"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose-2",
+            "url": "#rangers-choose-2"
+          }
         }
       ],
       "anchor": "rangers-choose-2"
@@ -474,9 +494,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "112d",
-          "url": "#112d"
+          "link": {
+            "id": null,
+            "anchor": "112d",
+            "url": "#112d"
+          }
         }
       ],
       "anchor": "112d"
@@ -505,9 +527,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose-3",
-          "url": "#rangers-choose-3"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose-3",
+            "url": "#rangers-choose-3"
+          }
         }
       ],
       "anchor": "rangers-choose-3"
@@ -602,9 +626,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "read-the-entry-corresponding-to-the-number-of-tokens-on-the-deeper-motives-card",
-          "url": "#read-the-entry-corresponding-to-the-number-of-tokens-on-the-deeper-motives-card"
+          "link": {
+            "id": null,
+            "anchor": "read-the-entry-corresponding-to-the-number-of-tokens-on-the-deeper-motives-card",
+            "url": "#read-the-entry-corresponding-to-the-number-of-tokens-on-the-deeper-motives-card"
+          }
         }
       ],
       "anchor": "read-the-entry-corresponding-to-the-number-of-tokens-on-the-deeper-motives-card"

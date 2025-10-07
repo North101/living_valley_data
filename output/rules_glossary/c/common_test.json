@@ -19,9 +19,11 @@
               "text": "tests"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",

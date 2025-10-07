@@ -54,9 +54,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",

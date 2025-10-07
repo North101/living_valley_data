@@ -48,9 +48,11 @@
                       "text": "70.1"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/jaris_willful_youth/70_1"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/jaris_willful_youth/70_1"
+                  }
                 }
               ]
             },
@@ -69,9 +71,11 @@
                       "text": "70.2"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/jaris_willful_youth/70_2"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/jaris_willful_youth/70_2"
+                  }
                 }
               ]
             }
@@ -120,9 +124,11 @@
                       "text": "70.3"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/jaris_willful_youth/70_3"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/jaris_willful_youth/70_3"
+                  }
                 }
               ]
             },
@@ -155,9 +161,11 @@
                       "text": "70.4"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/jaris_willful_youth/70_4"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/jaris_willful_youth/70_4"
+                  }
                 }
               ]
             },
@@ -176,9 +184,11 @@
                       "text": "70.5"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_5",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/jaris_willful_youth/70_5"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_5",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/jaris_willful_youth/70_5"
+                  }
                 }
               ]
             }
@@ -215,9 +225,11 @@
               "text": "70.6"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_6",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/jaris_willful_youth/70_6"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_6",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/jaris_willful_youth/70_6"
+          }
         }
       ],
       "highlight_color": "blue"

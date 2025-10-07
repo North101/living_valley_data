@@ -33,9 +33,11 @@
               "text": "15.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/15_ancestors_grove/15_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/ancestors_grove/15_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/15_ancestors_grove/15_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/ancestors_grove/15_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -65,9 +67,11 @@
               "text": "15.2"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/15_ancestors_grove/15_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/ancestors_grove/15_2"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/15_ancestors_grove/15_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/ancestors_grove/15_2"
+          }
         }
       ]
     },

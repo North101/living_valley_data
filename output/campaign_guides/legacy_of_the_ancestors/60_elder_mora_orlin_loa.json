@@ -19,9 +19,11 @@
               "text": "60.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_1_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin/60_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_1_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin/60_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -80,9 +82,11 @@
                       "text": "60.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_2_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin/60_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_2_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin/60_2"
+                  }
                 }
               ]
             },
@@ -101,9 +105,11 @@
                       "text": "60.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_3_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin/60_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_3_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin/60_3"
+                  }
                 }
               ]
             }
@@ -141,9 +147,11 @@
               "text": "60.4"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_4_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin/60_4"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_4_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin/60_4"
+          }
         }
       ],
       "highlight_color": "blue"

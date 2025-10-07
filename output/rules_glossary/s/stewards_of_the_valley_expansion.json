@@ -19,9 +19,11 @@
               "text": "backgrounds"
             }
           ],
-          "id": "rules_glossary/b/backgrounds",
-          "anchor": "",
-          "url": "/docs/rules_glossary/B/backgrounds"
+          "link": {
+            "id": "rules_glossary/b/backgrounds",
+            "anchor": "",
+            "url": "/docs/rules_glossary/B/backgrounds"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "specialties"
             }
           ],
-          "id": "rules_glossary/s/specialties",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/specialties"
+          "link": {
+            "id": "rules_glossary/s/specialties",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/specialties"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "personality"
             }
           ],
-          "id": "rules_glossary/p/personalities",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/personalities"
+          "link": {
+            "id": "rules_glossary/p/personalities",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/personalities"
+          }
         },
         {
           "type": "text",
@@ -67,9 +73,11 @@
               "text": "aspect"
             }
           ],
-          "id": "rules_glossary/a/aspects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/aspects"
+          "link": {
+            "id": "rules_glossary/a/aspects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/aspects"
+          }
         },
         {
           "type": "text",
@@ -83,9 +91,11 @@
               "text": "background"
             }
           ],
-          "id": "rules_glossary/b/backgrounds",
-          "anchor": "",
-          "url": "/docs/rules_glossary/B/backgrounds"
+          "link": {
+            "id": "rules_glossary/b/backgrounds",
+            "anchor": "",
+            "url": "/docs/rules_glossary/B/backgrounds"
+          }
         },
         {
           "type": "text",
@@ -99,9 +109,11 @@
               "text": "(Talespinner)"
             }
           ],
-          "id": "rules_glossary/t/talespinner_background",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/talespinner"
+          "link": {
+            "id": "rules_glossary/t/talespinner_background",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/talespinner"
+          }
         },
         {
           "type": "text",
@@ -115,9 +127,11 @@
               "text": "specialty"
             }
           ],
-          "id": "rules_glossary/s/specialties",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/specialties"
+          "link": {
+            "id": "rules_glossary/s/specialties",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/specialties"
+          }
         },
         {
           "type": "text",
@@ -131,9 +145,11 @@
               "text": "(Spirit Speaker)"
             }
           ],
-          "id": "rules_glossary/s/spirit_speaker_specialty",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/spirit_speaker"
+          "link": {
+            "id": "rules_glossary/s/spirit_speaker_specialty",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/spirit_speaker"
+          }
         },
         {
           "type": "text",
@@ -151,9 +167,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "new-concepts-and-keywords",
-          "url": "#new-concepts-and-keywords"
+          "link": {
+            "id": null,
+            "anchor": "new-concepts-and-keywords",
+            "url": "#new-concepts-and-keywords"
+          }
         }
       ],
       "anchor": "new-concepts-and-keywords"
@@ -172,9 +190,11 @@
                   "text": "Aspiration (Keyword)"
                 }
               ],
-              "id": "rules_glossary/a/aspiration_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/aspiration"
+              "link": {
+                "id": "rules_glossary/a/aspiration_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/aspiration"
+              }
             }
           ]
         },
@@ -189,9 +209,11 @@
                   "text": "Deployed"
                 }
               ],
-              "id": "rules_glossary/d/deployed_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/deployed"
+              "link": {
+                "id": "rules_glossary/d/deployed_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/deployed"
+              }
             }
           ]
         },
@@ -206,9 +228,11 @@
                   "text": "Manifestation on Attributes"
                 }
               ],
-              "id": "rules_glossary/m/manifestation_keyword",
-              "anchor": "manifestation-on-attributes",
-              "url": "/docs/rules_glossary/M/manifestation#manifestation-on-attributes"
+              "link": {
+                "id": "rules_glossary/m/manifestation_keyword",
+                "anchor": "manifestation-on-attributes",
+                "url": "/docs/rules_glossary/M/manifestation#manifestation-on-attributes"
+              }
             }
           ]
         },
@@ -223,9 +247,11 @@
                   "text": "Disabled Thresholds"
                 }
               ],
-              "id": "rules_glossary/d/disabled_thresholds",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/disabled_thresholds"
+              "link": {
+                "id": "rules_glossary/d/disabled_thresholds",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/disabled_thresholds"
+              }
             }
           ]
         },
@@ -240,9 +266,11 @@
                   "text": "Spirit (Keyword)"
                 }
               ],
-              "id": "rules_glossary/s/spirit_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/spirit"
+              "link": {
+                "id": "rules_glossary/s/spirit_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/spirit"
+              }
             }
           ]
         },
@@ -257,9 +285,11 @@
                   "text": "Spiritspeaking"
                 }
               ],
-              "id": "rules_glossary/s/spiritspeaking",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/spiritspeaking"
+              "link": {
+                "id": "rules_glossary/s/spiritspeaking",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/spiritspeaking"
+              }
             }
           ]
         }

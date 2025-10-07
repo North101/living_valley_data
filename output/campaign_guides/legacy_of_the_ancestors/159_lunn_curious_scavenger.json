@@ -34,9 +34,11 @@
                       "text": "159.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/159_lunn_curious_scavenger/159_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/lunn_curious_scavenger/159_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/159_lunn_curious_scavenger/159_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/lunn_curious_scavenger/159_1"
+                  }
                 }
               ]
             },
@@ -55,9 +57,11 @@
                       "text": "159.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/159_lunn_curious_scavenger/159_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/lunn_curious_scavenger/159_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/159_lunn_curious_scavenger/159_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/lunn_curious_scavenger/159_2"
+                  }
                 }
               ]
             }
@@ -106,9 +110,11 @@
                       "text": "159.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/159_lunn_curious_scavenger/159_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/lunn_curious_scavenger/159_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/159_lunn_curious_scavenger/159_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/lunn_curious_scavenger/159_3"
+                  }
                 }
               ]
             },
@@ -127,9 +133,11 @@
                       "text": "159.4"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/159_lunn_curious_scavenger/159_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/lunn_curious_scavenger/159_4"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/159_lunn_curious_scavenger/159_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/lunn_curious_scavenger/159_4"
+                  }
                 }
               ]
             }
@@ -167,9 +175,11 @@
               "text": "159.5"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/159_lunn_curious_scavenger/159_5",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/lunn_curious_scavenger/159_5"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/159_lunn_curious_scavenger/159_5",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/lunn_curious_scavenger/159_5"
+          }
         }
       ],
       "highlight_color": "blue"

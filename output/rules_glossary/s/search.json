@@ -19,9 +19,11 @@
               "text": "path card"
             }
           ],
-          "id": "rules_glossary/p/path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/path_cards"
+          "link": {
+            "id": "rules_glossary/p/path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/path_cards"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "Ranger card"
             }
           ],
-          "id": "rules_glossary/r/ranger_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ranger_cards"
+          "link": {
+            "id": "rules_glossary/r/ranger_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ranger_cards"
+          }
         },
         {
           "type": "text",
@@ -69,9 +73,11 @@
               "text": "set"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -85,9 +91,11 @@
               "text": "collection"
             }
           ],
-          "id": "rules_glossary/c/the_collection",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/collection"
+          "link": {
+            "id": "rules_glossary/c/the_collection",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/collection"
+          }
         },
         {
           "type": "text",

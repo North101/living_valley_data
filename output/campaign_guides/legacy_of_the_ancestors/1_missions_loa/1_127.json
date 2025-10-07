@@ -64,9 +64,11 @@
               "text": "1.127a"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_127",
-          "anchor": "1127a",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_127#1127a"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_127",
+            "anchor": "1127a",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_127#1127a"
+          }
         }
       ]
     },
@@ -98,9 +100,11 @@
               "text": "1.128"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_128",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_128"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_128",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_128"
+          }
         }
       ]
     },
@@ -123,9 +127,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose",
-          "url": "#rangers-choose"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose",
+            "url": "#rangers-choose"
+          }
         }
       ],
       "anchor": "rangers-choose"
@@ -169,9 +175,11 @@
               "text": "1.127a"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_127",
-          "anchor": "1127a",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_127#1127a"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_127",
+            "anchor": "1127a",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_127#1127a"
+          }
         }
       ]
     },
@@ -251,9 +259,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1127a",
-          "url": "#1127a"
+          "link": {
+            "id": null,
+            "anchor": "1127a",
+            "url": "#1127a"
+          }
         }
       ],
       "anchor": "1127a"

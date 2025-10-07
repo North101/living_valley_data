@@ -19,9 +19,11 @@
               "text": "test"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "commit"
             }
           ],
-          "id": "rules_glossary/c/commit",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/commit"
+          "link": {
+            "id": "rules_glossary/c/commit",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/commit"
+          }
         },
         {
           "type": "text",
@@ -73,9 +77,11 @@
               "text": "committed"
             }
           ],
-          "id": "rules_glossary/c/commit",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/commit"
+          "link": {
+            "id": "rules_glossary/c/commit",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/commit"
+          }
         },
         {
           "type": "text",
@@ -111,9 +117,11 @@
               "text": "challenge card"
             }
           ],
-          "id": "rules_glossary/c/challenge_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/challenge_cards"
+          "link": {
+            "id": "rules_glossary/c/challenge_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/challenge_cards"
+          }
         },
         {
           "type": "text",

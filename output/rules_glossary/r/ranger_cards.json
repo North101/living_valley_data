@@ -19,9 +19,11 @@
               "text": "turn"
             }
           ],
-          "id": "rules_glossary/t/turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/turns"
+          "link": {
+            "id": "rules_glossary/t/turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/turns"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "energy"
             }
           ],
-          "id": "rules_glossary/e/energy",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/energy"
+          "link": {
+            "id": "rules_glossary/e/energy",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/energy"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "test"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",
@@ -67,9 +73,11 @@
               "text": "discarded"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -83,9 +91,11 @@
               "text": "approach icons"
             }
           ],
-          "id": "rules_glossary/a/approach_icons",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/approach_icons"
+          "link": {
+            "id": "rules_glossary/a/approach_icons",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/approach_icons"
+          }
         },
         {
           "type": "text",
@@ -99,9 +109,11 @@
               "text": "effort"
             }
           ],
-          "id": "rules_glossary/e/effort",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/effort"
+          "link": {
+            "id": "rules_glossary/e/effort",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/effort"
+          }
         }
       ]
     },
@@ -128,9 +140,11 @@
                   "text": "Role"
                 }
               ],
-              "id": "rules_glossary/r/role",
-              "anchor": "",
-              "url": "/docs/rules_glossary/R/role"
+              "link": {
+                "id": "rules_glossary/r/role",
+                "anchor": "",
+                "url": "/docs/rules_glossary/R/role"
+              }
             }
           ]
         },
@@ -145,9 +159,11 @@
                   "text": "Moments"
                 }
               ],
-              "id": "rules_glossary/m/moments",
-              "anchor": "",
-              "url": "/docs/rules_glossary/M/moments"
+              "link": {
+                "id": "rules_glossary/m/moments",
+                "anchor": "",
+                "url": "/docs/rules_glossary/M/moments"
+              }
             }
           ]
         },
@@ -162,9 +178,11 @@
                   "text": "Attachments"
                 }
               ],
-              "id": "rules_glossary/a/attachments",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/attachment"
+              "link": {
+                "id": "rules_glossary/a/attachments",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/attachment"
+              }
             }
           ]
         },
@@ -179,9 +197,11 @@
                   "text": "Gear"
                 }
               ],
-              "id": "rules_glossary/g/gear",
-              "anchor": "",
-              "url": "/docs/rules_glossary/G/gear"
+              "link": {
+                "id": "rules_glossary/g/gear",
+                "anchor": "",
+                "url": "/docs/rules_glossary/G/gear"
+              }
             }
           ]
         },
@@ -196,9 +216,11 @@
                   "text": "Features"
                 }
               ],
-              "id": "rules_glossary/f/features",
-              "anchor": "",
-              "url": "/docs/rules_glossary/F/features"
+              "link": {
+                "id": "rules_glossary/f/features",
+                "anchor": "",
+                "url": "/docs/rules_glossary/F/features"
+              }
             },
             {
               "type": "text",
@@ -212,9 +234,11 @@
                   "text": "beings"
                 }
               ],
-              "id": "rules_glossary/b/beings",
-              "anchor": "",
-              "url": "/docs/rules_glossary/B/being"
+              "link": {
+                "id": "rules_glossary/b/beings",
+                "anchor": "",
+                "url": "/docs/rules_glossary/B/being"
+              }
             }
           ]
         },
@@ -229,9 +253,11 @@
                   "text": "Attributes"
                 }
               ],
-              "id": "rules_glossary/a/attributes",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/attributes"
+              "link": {
+                "id": "rules_glossary/a/attributes",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/attributes"
+              }
             }
           ]
         }

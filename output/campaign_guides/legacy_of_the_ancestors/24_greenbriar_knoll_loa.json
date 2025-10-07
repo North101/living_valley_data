@@ -42,9 +42,11 @@
               "text": "24.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/24_greenbriar_knoll_loa/24_1_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/greenbriar_knoll/24_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/24_greenbriar_knoll_loa/24_1_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/greenbriar_knoll/24_1"
+          }
         }
       ]
     }

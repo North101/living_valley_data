@@ -19,9 +19,11 @@
               "text": "fatigues you"
             }
           ],
-          "id": "rules_glossary/f/fatigue",
-          "anchor": "fatigues-you",
-          "url": "/docs/rules_glossary/F/fatigue#fatigues-you"
+          "link": {
+            "id": "rules_glossary/f/fatigue",
+            "anchor": "fatigues-you",
+            "url": "/docs/rules_glossary/F/fatigue#fatigues-you"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "injury"
             }
           ],
-          "id": "rules_glossary/i/injury",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/injury"
+          "link": {
+            "id": "rules_glossary/i/injury",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/injury"
+          }
         }
       ]
     }

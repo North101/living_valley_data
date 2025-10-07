@@ -73,9 +73,11 @@
               "text": "105.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/105_arboretum_of_memory/105_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/arboretum_of_memory/105_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/105_arboretum_of_memory/105_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/arboretum_of_memory/105_1"
+          }
         }
       ]
     }

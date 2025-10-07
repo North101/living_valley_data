@@ -19,9 +19,11 @@
               "text": "campaign"
             }
           ],
-          "id": "rules_glossary/c/campaign",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign"
+          "link": {
+            "id": "rules_glossary/c/campaign",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "Prologue"
             }
           ],
-          "id": "rules_glossary/p/prologue",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/prologue"
+          "link": {
+            "id": "rules_glossary/p/prologue",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/prologue"
+          }
         },
         {
           "type": "text",
@@ -73,9 +77,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "choose-your-aspects",
-          "url": "#choose-your-aspects"
+          "link": {
+            "id": null,
+            "anchor": "choose-your-aspects",
+            "url": "#choose-your-aspects"
+          }
         }
       ],
       "anchor": "choose-your-aspects"
@@ -95,9 +101,11 @@
               "text": "aspect"
             }
           ],
-          "id": "rules_glossary/a/aspects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/aspects"
+          "link": {
+            "id": "rules_glossary/a/aspects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/aspects"
+          }
         },
         {
           "type": "text",
@@ -111,9 +119,11 @@
               "text": "aspects"
             }
           ],
-          "id": "rules_glossary/a/aspects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/aspects"
+          "link": {
+            "id": "rules_glossary/a/aspects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/aspects"
+          }
         },
         {
           "type": "text",
@@ -136,9 +146,11 @@
               "text": "Ranger card"
             }
           ],
-          "id": "rules_glossary/r/ranger_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ranger_cards"
+          "link": {
+            "id": "rules_glossary/r/ranger_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ranger_cards"
+          }
         },
         {
           "type": "text",
@@ -156,9 +168,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "determine-your-personality",
-          "url": "#determine-your-personality"
+          "link": {
+            "id": null,
+            "anchor": "determine-your-personality",
+            "url": "#determine-your-personality"
+          }
         }
       ],
       "anchor": "determine-your-personality"
@@ -174,9 +188,11 @@
               "text": "Personality"
             }
           ],
-          "id": "rules_glossary/p/personalities",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/personalities"
+          "link": {
+            "id": "rules_glossary/p/personalities",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/personalities"
+          }
         },
         {
           "type": "text",
@@ -199,9 +215,11 @@
               "text": "set"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -215,9 +233,11 @@
               "text": "aspects"
             }
           ],
-          "id": "rules_glossary/a/aspects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/aspects"
+          "link": {
+            "id": "rules_glossary/a/aspects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/aspects"
+          }
         },
         {
           "type": "text",
@@ -235,9 +255,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "choose-your-background",
-          "url": "#choose-your-background"
+          "link": {
+            "id": null,
+            "anchor": "choose-your-background",
+            "url": "#choose-your-background"
+          }
         }
       ],
       "anchor": "choose-your-background"
@@ -257,9 +279,11 @@
               "text": "sets"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         }
       ]
     },
@@ -319,9 +343,11 @@
               "text": "sets"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -339,9 +365,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "choose-your-specialty",
-          "url": "#choose-your-specialty"
+          "link": {
+            "id": null,
+            "anchor": "choose-your-specialty",
+            "url": "#choose-your-specialty"
+          }
         }
       ],
       "anchor": "choose-your-specialty"
@@ -411,9 +439,11 @@
               "text": "sets"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -436,9 +466,11 @@
               "text": "role"
             }
           ],
-          "id": "rules_glossary/r/role",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/role"
+          "link": {
+            "id": "rules_glossary/r/role",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/role"
+          }
         },
         {
           "type": "text",
@@ -452,9 +484,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -472,9 +506,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "choose-your-outside-interest",
-          "url": "#choose-your-outside-interest"
+          "link": {
+            "id": null,
+            "anchor": "choose-your-outside-interest",
+            "url": "#choose-your-outside-interest"
+          }
         }
       ],
       "anchor": "choose-your-outside-interest"
@@ -494,9 +530,11 @@
               "text": "role"
             }
           ],
-          "id": "rules_glossary/r/role",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/role"
+          "link": {
+            "id": "rules_glossary/r/role",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/role"
+          }
         },
         {
           "type": "text",

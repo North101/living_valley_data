@@ -19,9 +19,11 @@
               "text": "90.1"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian/90_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/mysterious_verdessian/90_1"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian/90_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/mysterious_verdessian/90_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -55,9 +57,11 @@
               "text": "90.2"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian/90_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/mysterious_verdessian/90_2"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian/90_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/mysterious_verdessian/90_2"
+          }
         }
       ]
     },
@@ -90,9 +94,11 @@
               "text": "90.3"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian/90_3",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/mysterious_verdessian/90_3"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian/90_3",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/mysterious_verdessian/90_3"
+          }
         }
       ],
       "highlight_color": "blue"

@@ -25,9 +25,11 @@
                       "text": "146.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/146_flowsteel_control/146_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/flowsteel_controls/146_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/146_flowsteel_control/146_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/flowsteel_controls/146_1"
+                  }
                 }
               ],
               "highlight_color": "blue"
@@ -66,9 +68,11 @@
                       "text": "146.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/146_flowsteel_control/146_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/flowsteel_controls/146_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/146_flowsteel_control/146_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/flowsteel_controls/146_2"
+                  }
                 }
               ]
             }

@@ -25,9 +25,11 @@
                       "text": "125.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/125_rift_in_the_artery/125_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/rift_in_the_artery/125_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/125_rift_in_the_artery/125_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/rift_in_the_artery/125_1"
+                  }
                 }
               ],
               "highlight_color": "blue"
@@ -66,9 +68,11 @@
                       "text": "125.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/125_rift_in_the_artery/125_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/rift_in_the_artery/125_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/125_rift_in_the_artery/125_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/rift_in_the_artery/125_2"
+                  }
                 }
               ]
             }

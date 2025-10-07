@@ -23,9 +23,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "path-beings",
-          "url": "#path-beings"
+          "link": {
+            "id": null,
+            "anchor": "path-beings",
+            "url": "#path-beings"
+          }
         }
       ],
       "anchor": "path-beings"
@@ -45,9 +47,11 @@
               "text": "path card"
             }
           ],
-          "id": "rules_glossary/p/path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/path_cards"
+          "link": {
+            "id": "rules_glossary/p/path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/path_cards"
+          }
         },
         {
           "type": "text",
@@ -86,9 +90,11 @@
                   "text": "set"
                 }
               ],
-              "id": "rules_glossary/s/sets",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/sets"
+              "link": {
+                "id": "rules_glossary/s/sets",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/sets"
+              }
             },
             {
               "type": "text",
@@ -132,9 +138,11 @@
                       "text": "Traits"
                     }
                   ],
-                  "id": "rules_glossary/t/traits",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/T/traits"
+                  "link": {
+                    "id": "rules_glossary/t/traits",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/T/traits"
+                  }
                 }
               ]
             },
@@ -158,9 +166,11 @@
                       "text": "Area"
                     }
                   ],
-                  "id": "rules_glossary/a/area",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/A/area"
+                  "link": {
+                    "id": "rules_glossary/a/area",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/A/area"
+                  }
                 },
                 {
                   "type": "text",
@@ -180,9 +190,11 @@
                   "text": "within reach"
                 }
               ],
-              "id": "rules_glossary/w/within_reach",
-              "anchor": "",
-              "url": "/docs/rules_glossary/W/within_reach"
+              "link": {
+                "id": "rules_glossary/w/within_reach",
+                "anchor": "",
+                "url": "/docs/rules_glossary/W/within_reach"
+              }
             },
             {
               "type": "text",
@@ -196,9 +208,11 @@
                   "text": "along the way"
                 }
               ],
-              "id": "rules_glossary/a/along_the_way",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/along_the_way"
+              "link": {
+                "id": "rules_glossary/a/along_the_way",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/along_the_way"
+              }
             }
           ]
         },
@@ -226,9 +240,11 @@
                   "text": "campaign guide"
                 }
               ],
-              "id": "rules_glossary/c/campaign_guide",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign_guide"
+              "link": {
+                "id": "rules_glossary/c/campaign_guide",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign_guide"
+              }
             },
             {
               "type": "text",
@@ -250,9 +266,11 @@
                       "text": "Presence"
                     }
                   ],
-                  "id": "rules_glossary/p/presence",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/P/presence"
+                  "link": {
+                    "id": "rules_glossary/p/presence",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/P/presence"
+                  }
                 }
               ]
             },
@@ -268,9 +286,11 @@
                   "text": "fatigue"
                 }
               ],
-              "id": "rules_glossary/f/fatigue",
-              "anchor": "",
-              "url": "/docs/rules_glossary/F/fatigue"
+              "link": {
+                "id": "rules_glossary/f/fatigue",
+                "anchor": "",
+                "url": "/docs/rules_glossary/F/fatigue"
+              }
             },
             {
               "type": "text",
@@ -302,9 +322,11 @@
                   "text": "general tokens"
                 }
               ],
-              "id": "rules_glossary/g/general_tokens",
-              "anchor": "",
-              "url": "/docs/rules_glossary/G/general_tokens"
+              "link": {
+                "id": "rules_glossary/g/general_tokens",
+                "anchor": "",
+                "url": "/docs/rules_glossary/G/general_tokens"
+              }
             },
             {
               "type": "text",
@@ -326,9 +348,11 @@
                       "text": "Harm Threshold"
                     }
                   ],
-                  "id": "rules_glossary/h/harm_threshold",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/H/harm_threshold"
+                  "link": {
+                    "id": "rules_glossary/h/harm_threshold",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/H/harm_threshold"
+                  }
                 }
               ]
             },
@@ -344,9 +368,11 @@
                   "text": "clears"
                 }
               ],
-              "id": "rules_glossary/c/clear",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/clear"
+              "link": {
+                "id": "rules_glossary/c/clear",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/clear"
+              }
             }
           ]
         },
@@ -364,9 +390,11 @@
                       "text": "Progress Threshold"
                     }
                   ],
-                  "id": "rules_glossary/p/progress_threshold",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/P/progress_threshold"
+                  "link": {
+                    "id": "rules_glossary/p/progress_threshold",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/P/progress_threshold"
+                  }
                 }
               ]
             },
@@ -382,9 +410,11 @@
                   "text": "clears"
                 }
               ],
-              "id": "rules_glossary/c/clear",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/clear"
+              "link": {
+                "id": "rules_glossary/c/clear",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/clear"
+              }
             }
           ]
         },
@@ -412,9 +442,11 @@
                   "text": "tests"
                 }
               ],
-              "id": "rules_glossary/t/tests",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/tests"
+              "link": {
+                "id": "rules_glossary/t/tests",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/tests"
+              }
             },
             {
               "type": "text",
@@ -428,9 +460,11 @@
                   "text": "clears"
                 }
               ],
-              "id": "rules_glossary/c/clear",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/clear"
+              "link": {
+                "id": "rules_glossary/c/clear",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/clear"
+              }
             }
           ]
         },
@@ -458,9 +492,11 @@
                   "text": "challenge card"
                 }
               ],
-              "id": "rules_glossary/c/challenge_cards",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/challenge_cards"
+              "link": {
+                "id": "rules_glossary/c/challenge_cards",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/challenge_cards"
+              }
             }
           ]
         },
@@ -488,9 +524,11 @@
                   "text": "set"
                 }
               ],
-              "id": "rules_glossary/s/sets",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/sets"
+              "link": {
+                "id": "rules_glossary/s/sets",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/sets"
+              }
             },
             {
               "type": "text",
@@ -510,9 +548,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "ranger-beings",
-          "url": "#ranger-beings"
+          "link": {
+            "id": null,
+            "anchor": "ranger-beings",
+            "url": "#ranger-beings"
+          }
         }
       ],
       "anchor": "ranger-beings"
@@ -538,9 +578,11 @@
                       "text": "Energy"
                     }
                   ],
-                  "id": "rules_glossary/e/energy",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/E/energy"
+                  "link": {
+                    "id": "rules_glossary/e/energy",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/E/energy"
+                  }
                 },
                 {
                   "type": "text",
@@ -604,9 +646,11 @@
                       "text": "Presence"
                     }
                   ],
-                  "id": "rules_glossary/p/presence",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/P/presence"
+                  "link": {
+                    "id": "rules_glossary/p/presence",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/P/presence"
+                  }
                 }
               ]
             },
@@ -640,9 +684,11 @@
                   "text": "general tokens"
                 }
               ],
-              "id": "rules_glossary/g/general_tokens",
-              "anchor": "",
-              "url": "/docs/rules_glossary/G/general_tokens"
+              "link": {
+                "id": "rules_glossary/g/general_tokens",
+                "anchor": "",
+                "url": "/docs/rules_glossary/G/general_tokens"
+              }
             },
             {
               "type": "text",
@@ -664,9 +710,11 @@
                       "text": "Harm Threshold"
                     }
                   ],
-                  "id": "rules_glossary/h/harm_threshold",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/H/harm_threshold"
+                  "link": {
+                    "id": "rules_glossary/h/harm_threshold",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/H/harm_threshold"
+                  }
                 }
               ]
             },
@@ -682,9 +730,11 @@
                   "text": "clears"
                 }
               ],
-              "id": "rules_glossary/c/clear",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/clear"
+              "link": {
+                "id": "rules_glossary/c/clear",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/clear"
+              }
             }
           ]
         },
@@ -702,9 +752,11 @@
                       "text": "Approach Icons"
                     }
                   ],
-                  "id": "rules_glossary/a/approach_icons",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/A/approach_icons"
+                  "link": {
+                    "id": "rules_glossary/a/approach_icons",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/A/approach_icons"
+                  }
                 }
               ]
             },
@@ -720,9 +772,11 @@
                   "text": "committed"
                 }
               ],
-              "id": "rules_glossary/c/commit",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/commit"
+              "link": {
+                "id": "rules_glossary/c/commit",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/commit"
+              }
             },
             {
               "type": "text",
@@ -736,9 +790,11 @@
                   "text": "discarding"
                 }
               ],
-              "id": "rules_glossary/d/discard",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/discard"
+              "link": {
+                "id": "rules_glossary/d/discard",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/discard"
+              }
             },
             {
               "type": "text",
@@ -752,9 +808,11 @@
                   "text": "effort"
                 }
               ],
-              "id": "rules_glossary/e/effort",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/effort"
+              "link": {
+                "id": "rules_glossary/e/effort",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/effort"
+              }
             },
             {
               "type": "text",
@@ -786,9 +844,11 @@
                   "text": "tests"
                 }
               ],
-              "id": "rules_glossary/t/tests",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/tests"
+              "link": {
+                "id": "rules_glossary/t/tests",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/tests"
+              }
             },
             {
               "type": "text",
@@ -802,9 +862,11 @@
                   "text": "clears"
                 }
               ],
-              "id": "rules_glossary/c/clear",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/clear"
+              "link": {
+                "id": "rules_glossary/c/clear",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/clear"
+              }
             }
           ]
         },
@@ -822,9 +884,11 @@
                       "text": "Aspect"
                     }
                   ],
-                  "id": "rules_glossary/a/aspects",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/A/aspects"
+                  "link": {
+                    "id": "rules_glossary/a/aspects",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/A/aspects"
+                  }
                 },
                 {
                   "type": "text",
@@ -862,9 +926,11 @@
                   "text": "set"
                 }
               ],
-              "id": "rules_glossary/s/sets",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/sets"
+              "link": {
+                "id": "rules_glossary/s/sets",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/sets"
+              }
             },
             {
               "type": "text",

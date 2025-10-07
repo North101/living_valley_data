@@ -19,9 +19,11 @@
               "text": "keyword"
             }
           ],
-          "id": "rules_glossary/k/keywords",
-          "anchor": "",
-          "url": "/docs/rules_glossary/K/keywords"
+          "link": {
+            "id": "rules_glossary/k/keywords",
+            "anchor": "",
+            "url": "/docs/rules_glossary/K/keywords"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "interacting"
             }
           ],
-          "id": "rules_glossary/i/interact",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/interact"
+          "link": {
+            "id": "rules_glossary/i/interact",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/interact"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "fatigue"
             }
           ],
-          "id": "rules_glossary/f/fatigue",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/fatigue"
+          "link": {
+            "id": "rules_glossary/f/fatigue",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/fatigue"
+          }
         },
         {
           "type": "text",

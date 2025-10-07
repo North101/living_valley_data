@@ -34,9 +34,11 @@
                       "text": "126.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/quisi_vos_rapscallion/126_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/quisi_vos_rapscallion/126_1"
+                  }
                 }
               ]
             },
@@ -69,9 +71,11 @@
                       "text": "127.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_1"
+                  }
                 }
               ]
             },
@@ -90,9 +94,11 @@
                       "text": "126.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/quisi_vos_rapscallion/126_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/quisi_vos_rapscallion/126_3"
+                  }
                 }
               ]
             },
@@ -111,9 +117,11 @@
                       "text": "127.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_2"
+                  }
                 }
               ]
             }
@@ -162,9 +170,11 @@
                       "text": "127.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_3"
+                  }
                 }
               ]
             },
@@ -197,9 +207,11 @@
                       "text": "126.6"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_6",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/quisi_vos_rapscallion/126_6"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_6",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/quisi_vos_rapscallion/126_6"
+                  }
                 }
               ]
             },
@@ -218,9 +230,11 @@
                       "text": "127.4"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_4"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_4"
+                  }
                 }
               ]
             }
@@ -258,9 +272,11 @@
               "text": "127.5"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_5",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_5"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_5",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_5"
+          }
         }
       ],
       "highlight_color": "blue"

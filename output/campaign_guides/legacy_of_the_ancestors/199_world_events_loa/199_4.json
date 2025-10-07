@@ -152,9 +152,11 @@
               "text": "1.109a"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_109",
-          "anchor": "1109a",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_109#1109a"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_109",
+            "anchor": "1109a",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_109#1109a"
+          }
         }
       ]
     },
@@ -211,9 +213,11 @@
               "text": "199.4A"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/199_world_events_loa/199_4",
-          "anchor": "1994a",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/world_events/199_4#1994a"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/199_world_events_loa/199_4",
+            "anchor": "1994a",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/world_events/199_4#1994a"
+          }
         }
       ]
     },
@@ -279,9 +283,11 @@
               "text": "199.4A"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/199_world_events_loa/199_4",
-          "anchor": "1994a",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/world_events/199_4#1994a"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/199_world_events_loa/199_4",
+            "anchor": "1994a",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/world_events/199_4#1994a"
+          }
         }
       ]
     },
@@ -295,9 +301,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1994a",
-          "url": "#1994a"
+          "link": {
+            "id": null,
+            "anchor": "1994a",
+            "url": "#1994a"
+          }
         }
       ],
       "anchor": "1994a"

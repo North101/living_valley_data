@@ -132,9 +132,11 @@
               "text": "1.111A"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_111",
-          "anchor": "1111a",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_111#1111a"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_111",
+            "anchor": "1111a",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_111#1111a"
+          }
         }
       ]
     },

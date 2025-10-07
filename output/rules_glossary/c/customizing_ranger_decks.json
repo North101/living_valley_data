@@ -19,9 +19,11 @@
               "text": "campaign"
             }
           ],
-          "id": "rules_glossary/c/campaign",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign"
+          "link": {
+            "id": "rules_glossary/c/campaign",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign"
+          }
         },
         {
           "type": "text",
@@ -48,9 +50,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "permanent-alterations",
-          "url": "#permanent-alterations"
+          "link": {
+            "id": null,
+            "anchor": "permanent-alterations",
+            "url": "#permanent-alterations"
+          }
         }
       ],
       "anchor": "permanent-alterations"
@@ -70,9 +74,11 @@
               "text": "Ranger card"
             }
           ],
-          "id": "rules_glossary/r/ranger_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ranger_cards"
+          "link": {
+            "id": "rules_glossary/r/ranger_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ranger_cards"
+          }
         },
         {
           "type": "text",
@@ -99,9 +105,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "swapping-rewards-in-and-out",
-          "url": "#swapping-rewards-in-and-out"
+          "link": {
+            "id": null,
+            "anchor": "swapping-rewards-in-and-out",
+            "url": "#swapping-rewards-in-and-out"
+          }
         }
       ],
       "anchor": "swapping-rewards-in-and-out"
@@ -121,9 +129,11 @@
               "text": "end the day"
             }
           ],
-          "id": "rules_glossary/e/end_the_day",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/end_the_day"
+          "link": {
+            "id": "rules_glossary/e/end_the_day",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/end_the_day"
+          }
         },
         {
           "type": "text",
@@ -146,9 +156,11 @@
               "text": "reward"
             }
           ],
-          "id": "rules_glossary/r/rewards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/rewards"
+          "link": {
+            "id": "rules_glossary/r/rewards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/rewards"
+          }
         },
         {
           "type": "text",
@@ -162,9 +174,11 @@
               "text": "aspect"
             }
           ],
-          "id": "rules_glossary/a/aspects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/aspects"
+          "link": {
+            "id": "rules_glossary/a/aspects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/aspects"
+          }
         },
         {
           "type": "text",
@@ -178,9 +192,11 @@
               "text": "malady"
             }
           ],
-          "id": "rules_glossary/m/maladies",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/maladies"
+          "link": {
+            "id": "rules_glossary/m/maladies",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/maladies"
+          }
         },
         {
           "type": "text",
@@ -203,9 +219,11 @@
               "text": "collection"
             }
           ],
-          "id": "rules_glossary/c/the_collection",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/collection"
+          "link": {
+            "id": "rules_glossary/c/the_collection",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/collection"
+          }
         },
         {
           "type": "text",
@@ -219,9 +237,11 @@
               "text": "starting"
             }
           ],
-          "id": "rules_glossary/s/starting_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/starting_cards"
+          "link": {
+            "id": "rules_glossary/s/starting_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/starting_cards"
+          }
         },
         {
           "type": "text",
@@ -239,9 +259,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "maladies",
-          "url": "#maladies"
+          "link": {
+            "id": null,
+            "anchor": "maladies",
+            "url": "#maladies"
+          }
         }
       ],
       "anchor": "maladies"
@@ -261,9 +283,11 @@
               "text": "malady"
             }
           ],
-          "id": "rules_glossary/m/maladies",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/maladies"
+          "link": {
+            "id": "rules_glossary/m/maladies",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/maladies"
+          }
         },
         {
           "type": "text",
@@ -277,9 +301,11 @@
               "text": "end the day"
             }
           ],
-          "id": "rules_glossary/e/end_the_day",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/end_the_day"
+          "link": {
+            "id": "rules_glossary/e/end_the_day",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/end_the_day"
+          }
         },
         {
           "type": "text",
@@ -293,9 +319,11 @@
               "text": "injuries"
             }
           ],
-          "id": "rules_glossary/i/injury",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/injury"
+          "link": {
+            "id": "rules_glossary/i/injury",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/injury"
+          }
         }
       ]
     },

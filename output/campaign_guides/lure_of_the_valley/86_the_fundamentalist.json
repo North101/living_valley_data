@@ -34,9 +34,11 @@
                       "text": "86.1"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_1"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_1"
+                  }
                 }
               ]
             },
@@ -55,9 +57,11 @@
                       "text": "86.2"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_2"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_2"
+                  }
                 }
               ]
             }
@@ -106,9 +110,11 @@
                       "text": "86.3"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_3"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_3"
+                  }
                 }
               ]
             },
@@ -127,9 +133,11 @@
                       "text": "86.4"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_4"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_4"
+                  }
                 }
               ]
             }
@@ -166,9 +174,11 @@
               "text": "86.5"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_5",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_5"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_5",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist/86_5"
+          }
         }
       ],
       "highlight_color": "blue"

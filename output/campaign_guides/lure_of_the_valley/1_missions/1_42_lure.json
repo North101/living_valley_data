@@ -19,9 +19,11 @@
               "text": "1.42A"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_42_lure",
-          "anchor": "142a",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_42-lure#142a"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_42_lure",
+            "anchor": "142a",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_42-lure#142a"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -41,9 +43,11 @@
               "text": "1.42B"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_42_lure",
-          "anchor": "142b",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_42-lure#142b"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_42_lure",
+            "anchor": "142b",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_42-lure#142b"
+          }
         }
       ]
     },
@@ -62,9 +66,11 @@
               "text": "1.42C"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_42_lure",
-          "anchor": "142c",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_42-lure#142c"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_42_lure",
+            "anchor": "142c",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_42-lure#142c"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -79,9 +85,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "142a",
-          "url": "#142a"
+          "link": {
+            "id": null,
+            "anchor": "142a",
+            "url": "#142a"
+          }
         }
       ],
       "anchor": "142a"
@@ -173,9 +181,11 @@
               "text": "1.42D"
             }
           ],
-          "id": null,
-          "anchor": "142d",
-          "url": "#142d"
+          "link": {
+            "id": null,
+            "anchor": "142d",
+            "url": "#142d"
+          }
         }
       ]
     },
@@ -189,9 +199,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "142b",
-          "url": "#142b"
+          "link": {
+            "id": null,
+            "anchor": "142b",
+            "url": "#142b"
+          }
         }
       ],
       "anchor": "142b"
@@ -292,9 +304,11 @@
               "text": "1.42D"
             }
           ],
-          "id": null,
-          "anchor": "142d",
-          "url": "#142d"
+          "link": {
+            "id": null,
+            "anchor": "142d",
+            "url": "#142d"
+          }
         }
       ]
     },
@@ -308,9 +322,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "142c",
-          "url": "#142c"
+          "link": {
+            "id": null,
+            "anchor": "142c",
+            "url": "#142c"
+          }
         }
       ],
       "anchor": "142c"
@@ -411,9 +427,11 @@
               "text": "1.42D"
             }
           ],
-          "id": null,
-          "anchor": "142d",
-          "url": "#142d"
+          "link": {
+            "id": null,
+            "anchor": "142d",
+            "url": "#142d"
+          }
         }
       ]
     },
@@ -427,9 +445,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "142d",
-          "url": "#142d"
+          "link": {
+            "id": null,
+            "anchor": "142d",
+            "url": "#142d"
+          }
         }
       ],
       "anchor": "142d"

@@ -19,9 +19,11 @@
               "text": "78.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_1_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_sinkhole/78_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_1_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_sinkhole/78_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -66,9 +68,11 @@
                       "text": "78.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_2_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_sinkhole/78_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_2_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_sinkhole/78_2"
+                  }
                 }
               ]
             },
@@ -87,9 +91,11 @@
                       "text": "78.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_3_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_sinkhole/78_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_3_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_sinkhole/78_3"
+                  }
                 }
               ]
             }

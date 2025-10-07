@@ -34,9 +34,11 @@
                       "text": "51.1"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/elder_murtok_gral/51_1"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/elder_murtok_gral/51_1"
+                  }
                 }
               ]
             },
@@ -55,9 +57,11 @@
                       "text": "51.2"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/elder_murtok_gral/51_2"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/elder_murtok_gral/51_2"
+                  }
                 }
               ]
             },
@@ -76,9 +80,11 @@
                       "text": "51.3"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/elder_murtok_gral/51_3"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/elder_murtok_gral/51_3"
+                  }
                 }
               ]
             }
@@ -127,9 +133,11 @@
                       "text": "51.4"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/elder_murtok_gral/51_4"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/elder_murtok_gral/51_4"
+                  }
                 }
               ]
             },
@@ -148,9 +156,11 @@
                       "text": "51.5"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_5",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/elder_murtok_gral/51_5"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_5",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/elder_murtok_gral/51_5"
+                  }
                 }
               ]
             }
@@ -187,9 +197,11 @@
               "text": "51.6"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_6",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/elder_murtok_gral/51_6"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_6",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/elder_murtok_gral/51_6"
+          }
         }
       ],
       "highlight_color": "blue"

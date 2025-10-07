@@ -48,9 +48,11 @@
                       "text": "150.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/fractal_frog/150_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/fractal_frog/150_1"
+                  }
                 }
               ]
             },
@@ -69,9 +71,11 @@
                       "text": "150.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/fractal_frog/150_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/fractal_frog/150_2"
+                  }
                 }
               ]
             }
@@ -109,9 +113,11 @@
               "text": "150.3"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_3",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/fractal_frog/150_3"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_3",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/fractal_frog/150_3"
+          }
         }
       ]
     },
@@ -145,9 +151,11 @@
               "text": "150.4"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_4",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/fractal_frog/150_4"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_4",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/fractal_frog/150_4"
+          }
         }
       ],
       "highlight_color": "blue"

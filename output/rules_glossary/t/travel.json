@@ -28,9 +28,11 @@
               "text": "Phase 3: Travel"
             }
           ],
-          "id": "rules_glossary/p/phase_3_travel",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/phase_3_travel"
+          "link": {
+            "id": "rules_glossary/p/phase_3_travel",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/phase_3_travel"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "progress"
             }
           ],
-          "id": "rules_glossary/p/progress",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/progress"
+          "link": {
+            "id": "rules_glossary/p/progress",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/progress"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "location"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "progress threshold"
             }
           ],
-          "id": "rules_glossary/p/progress_threshold",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/progress_threshold"
+          "link": {
+            "id": "rules_glossary/p/progress_threshold",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/progress_threshold"
+          }
         },
         {
           "type": "text",
@@ -92,9 +100,11 @@
               "text": "campaign guide"
             }
           ],
-          "id": "rules_glossary/c/campaign_guide",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_guide"
+          "link": {
+            "id": "rules_glossary/c/campaign_guide",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_guide"
+          }
         },
         {
           "type": "text",
@@ -108,9 +118,11 @@
               "text": "path cards"
             }
           ],
-          "id": "rules_glossary/p/path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/path_cards"
+          "link": {
+            "id": "rules_glossary/p/path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/path_cards"
+          }
         },
         {
           "type": "text",
@@ -137,9 +149,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1-clear-play-area",
-          "url": "#1-clear-play-area"
+          "link": {
+            "id": null,
+            "anchor": "1-clear-play-area",
+            "url": "#1-clear-play-area"
+          }
         }
       ],
       "anchor": "1-clear-play-area"
@@ -155,9 +169,11 @@
               "text": "Discard"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -171,9 +187,11 @@
               "text": "path cards"
             }
           ],
-          "id": "rules_glossary/p/path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/path_cards"
+          "link": {
+            "id": "rules_glossary/p/path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/path_cards"
+          }
         },
         {
           "type": "a",
@@ -183,9 +201,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -199,9 +219,11 @@
               "text": "Ranger cards"
             }
           ],
-          "id": "rules_glossary/r/ranger_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ranger_cards"
+          "link": {
+            "id": "rules_glossary/r/ranger_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ranger_cards"
+          }
         },
         {
           "type": "a",
@@ -211,9 +233,11 @@
               "text": "within reach"
             }
           ],
-          "id": "rules_glossary/w/within_reach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/within_reach"
+          "link": {
+            "id": "rules_glossary/w/within_reach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/within_reach"
+          }
         },
         {
           "type": "a",
@@ -223,9 +247,11 @@
               "text": "along the way"
             }
           ],
-          "id": "rules_glossary/a/along_the_way",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/along_the_way"
+          "link": {
+            "id": "rules_glossary/a/along_the_way",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/along_the_way"
+          }
         },
         {
           "type": "text",
@@ -239,9 +265,11 @@
               "text": "surroundings"
             }
           ],
-          "id": "rules_glossary/s/surroundings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/surroundings"
+          "link": {
+            "id": "rules_glossary/s/surroundings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/surroundings"
+          }
         },
         {
           "type": "text",
@@ -255,9 +283,11 @@
               "text": "player area"
             }
           ],
-          "id": "rules_glossary/p/player_area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/player_area"
+          "link": {
+            "id": "rules_glossary/p/player_area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/player_area"
+          }
         },
         {
           "type": "text",
@@ -271,9 +301,11 @@
               "text": "sets"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -287,9 +319,11 @@
               "text": "collection"
             }
           ],
-          "id": "rules_glossary/c/the_collection",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/collection"
+          "link": {
+            "id": "rules_glossary/c/the_collection",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/collection"
+          }
         }
       ]
     },
@@ -311,9 +345,11 @@
                   "text": "persistent"
                 }
               ],
-              "id": "rules_glossary/p/persistent_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/persistent"
+              "link": {
+                "id": "rules_glossary/p/persistent_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/persistent"
+              }
             },
             {
               "type": "a",
@@ -323,9 +359,11 @@
                   "text": "keyword"
                 }
               ],
-              "id": "rules_glossary/k/keywords",
-              "anchor": "",
-              "url": "/docs/rules_glossary/K/keywords"
+              "link": {
+                "id": "rules_glossary/k/keywords",
+                "anchor": "",
+                "url": "/docs/rules_glossary/K/keywords"
+              }
             },
             {
               "type": "text",
@@ -346,9 +384,11 @@
               "text": "Missions"
             }
           ],
-          "id": "rules_glossary/m/missions",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/missions"
+          "link": {
+            "id": "rules_glossary/m/missions",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/missions"
+          }
         },
         {
           "type": "text",
@@ -366,9 +406,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "2-travel-to-a-new-location",
-          "url": "#2-travel-to-a-new-location"
+          "link": {
+            "id": null,
+            "anchor": "2-travel-to-a-new-location",
+            "url": "#2-travel-to-a-new-location"
+          }
         }
       ],
       "anchor": "2-travel-to-a-new-location"
@@ -388,9 +430,11 @@
               "text": "location"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -404,9 +448,11 @@
               "text": "Valley map"
             }
           ],
-          "id": "rules_glossary/v/the_valley_map",
-          "anchor": "",
-          "url": "/docs/rules_glossary/V/valley_map"
+          "link": {
+            "id": "rules_glossary/v/the_valley_map",
+            "anchor": "",
+            "url": "/docs/rules_glossary/V/valley_map"
+          }
         },
         {
           "type": "text",
@@ -420,9 +466,11 @@
               "text": "nearby"
             }
           ],
-          "id": "rules_glossary/n/nearby",
-          "anchor": "",
-          "url": "/docs/rules_glossary/N/nearby"
+          "link": {
+            "id": "rules_glossary/n/nearby",
+            "anchor": "",
+            "url": "/docs/rules_glossary/N/nearby"
+          }
         },
         {
           "type": "text",
@@ -445,9 +493,11 @@
               "text": "surroundings"
             }
           ],
-          "id": "rules_glossary/s/surroundings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/surroundings"
+          "link": {
+            "id": "rules_glossary/s/surroundings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/surroundings"
+          }
         },
         {
           "type": "text",
@@ -479,9 +529,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "3-decide-to-camp",
-          "url": "#3-decide-to-camp"
+          "link": {
+            "id": null,
+            "anchor": "3-decide-to-camp",
+            "url": "#3-decide-to-camp"
+          }
         }
       ],
       "anchor": "3-decide-to-camp"
@@ -501,9 +553,11 @@
               "text": "location"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -517,9 +571,11 @@
               "text": "end the day"
             }
           ],
-          "id": "rules_glossary/e/end_the_day",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/end_the_day"
+          "link": {
+            "id": "rules_glossary/e/end_the_day",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/end_the_day"
+          }
         },
         {
           "type": "text",
@@ -542,9 +598,11 @@
               "text": "customizing ranger decks"
             }
           ],
-          "id": "rules_glossary/c/customizing_ranger_decks",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/customizing_ranger_decks"
+          "link": {
+            "id": "rules_glossary/c/customizing_ranger_decks",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/customizing_ranger_decks"
+          }
         },
         {
           "type": "text",
@@ -562,9 +620,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "4-build-the-path-deck",
-          "url": "#4-build-the-path-deck"
+          "link": {
+            "id": null,
+            "anchor": "4-build-the-path-deck",
+            "url": "#4-build-the-path-deck"
+          }
         }
       ],
       "anchor": "4-build-the-path-deck"
@@ -605,9 +665,11 @@
                   "text": "locations"
                 }
               ],
-              "id": "rules_glossary/l/locations",
-              "anchor": "",
-              "url": "/docs/rules_glossary/L/locations"
+              "link": {
+                "id": "rules_glossary/l/locations",
+                "anchor": "",
+                "url": "/docs/rules_glossary/L/locations"
+              }
             },
             {
               "type": "text",
@@ -629,9 +691,11 @@
                   "text": "Valley map"
                 }
               ],
-              "id": "rules_glossary/v/the_valley_map",
-              "anchor": "",
-              "url": "/docs/rules_glossary/V/valley_map"
+              "link": {
+                "id": "rules_glossary/v/the_valley_map",
+                "anchor": "",
+                "url": "/docs/rules_glossary/V/valley_map"
+              }
             },
             {
               "type": "text",
@@ -645,9 +709,11 @@
                   "text": "set"
                 }
               ],
-              "id": "rules_glossary/s/sets",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/sets"
+              "link": {
+                "id": "rules_glossary/s/sets",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/sets"
+              }
             },
             {
               "type": "text",
@@ -679,9 +745,11 @@
                   "text": "locations"
                 }
               ],
-              "id": "rules_glossary/l/locations",
-              "anchor": "",
-              "url": "/docs/rules_glossary/L/locations"
+              "link": {
+                "id": "rules_glossary/l/locations",
+                "anchor": "",
+                "url": "/docs/rules_glossary/L/locations"
+              }
             },
             {
               "type": "text",
@@ -695,9 +763,11 @@
                   "text": "Valley map"
                 }
               ],
-              "id": "rules_glossary/v/the_valley_map",
-              "anchor": "",
-              "url": "/docs/rules_glossary/V/valley_map"
+              "link": {
+                "id": "rules_glossary/v/the_valley_map",
+                "anchor": "",
+                "url": "/docs/rules_glossary/V/valley_map"
+              }
             },
             {
               "type": "text",
@@ -711,9 +781,11 @@
                   "text": "path cards"
                 }
               ],
-              "id": "rules_glossary/p/path_cards",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/path_cards"
+              "link": {
+                "id": "rules_glossary/p/path_cards",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/path_cards"
+              }
             },
             {
               "type": "text",
@@ -735,9 +807,11 @@
                   "text": "set"
                 }
               ],
-              "id": "rules_glossary/s/sets",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/sets"
+              "link": {
+                "id": "rules_glossary/s/sets",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/sets"
+              }
             },
             {
               "type": "text",
@@ -769,9 +843,11 @@
                   "text": "weather"
                 }
               ],
-              "id": "rules_glossary/w/weather",
-              "anchor": "",
-              "url": "/docs/rules_glossary/W/weather"
+              "link": {
+                "id": "rules_glossary/w/weather",
+                "anchor": "",
+                "url": "/docs/rules_glossary/W/weather"
+              }
             },
             {
               "type": "a",
@@ -781,9 +857,11 @@
                   "text": "location"
                 }
               ],
-              "id": "rules_glossary/l/locations",
-              "anchor": "",
-              "url": "/docs/rules_glossary/L/locations"
+              "link": {
+                "id": "rules_glossary/l/locations",
+                "anchor": "",
+                "url": "/docs/rules_glossary/L/locations"
+              }
             },
             {
               "type": "text",
@@ -797,9 +875,11 @@
                   "text": "missions"
                 }
               ],
-              "id": "rules_glossary/m/missions",
-              "anchor": "",
-              "url": "/docs/rules_glossary/M/missions"
+              "link": {
+                "id": "rules_glossary/m/missions",
+                "anchor": "",
+                "url": "/docs/rules_glossary/M/missions"
+              }
             },
             {
               "type": "text",
@@ -819,9 +899,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "5-arrival-setup",
-          "url": "#5-arrival-setup"
+          "link": {
+            "id": null,
+            "anchor": "5-arrival-setup",
+            "url": "#5-arrival-setup"
+          }
         }
       ],
       "anchor": "5-arrival-setup"
@@ -841,9 +923,11 @@
               "text": "campaign guide"
             }
           ],
-          "id": "rules_glossary/c/campaign_guide",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_guide"
+          "link": {
+            "id": "rules_glossary/c/campaign_guide",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_guide"
+          }
         },
         {
           "type": "text",
@@ -862,9 +946,11 @@
               "text": "Missions"
             }
           ],
-          "id": "rules_glossary/m/missions",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/missions"
+          "link": {
+            "id": "rules_glossary/m/missions",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/missions"
+          }
         },
         {
           "type": "text",
@@ -878,9 +964,11 @@
               "text": "campaign guide"
             }
           ],
-          "id": "rules_glossary/c/campaign_guide",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_guide"
+          "link": {
+            "id": "rules_glossary/c/campaign_guide",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_guide"
+          }
         },
         {
           "type": "text",
@@ -907,9 +995,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "travel-flowchart",
-          "url": "#travel-flowchart"
+          "link": {
+            "id": null,
+            "anchor": "travel-flowchart",
+            "url": "#travel-flowchart"
+          }
         }
       ],
       "anchor": "travel-flowchart"

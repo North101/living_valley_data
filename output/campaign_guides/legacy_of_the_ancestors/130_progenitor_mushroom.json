@@ -25,9 +25,11 @@
                       "text": "130.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/progenitor_mushroom/130_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/progenitor_mushroom/130_1"
+                  }
                 }
               ],
               "highlight_color": "blue"
@@ -66,9 +68,11 @@
                       "text": "130.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/progenitor_mushroom/130_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/progenitor_mushroom/130_2"
+                  }
                 }
               ]
             }
@@ -107,9 +111,11 @@
                       "text": "130.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/progenitor_mushroom/130_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/progenitor_mushroom/130_3"
+                  }
                 }
               ],
               "highlight_color": "blue"

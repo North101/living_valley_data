@@ -19,9 +19,11 @@
               "text": "sets"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "beings"
             }
           ],
-          "id": "rules_glossary/b/beings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/B/being"
+          "link": {
+            "id": "rules_glossary/b/beings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/B/being"
+          }
         },
         {
           "type": "text",
@@ -64,9 +68,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "life-as-a-shepherd",
-          "url": "#life-as-a-shepherd"
+          "link": {
+            "id": null,
+            "anchor": "life-as-a-shepherd",
+            "url": "#life-as-a-shepherd"
+          }
         }
       ],
       "anchor": "life-as-a-shepherd"

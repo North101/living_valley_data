@@ -19,9 +19,11 @@
               "text": "play area"
             }
           ],
-          "id": "rules_glossary/p/the_play_area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/play_area"
+          "link": {
+            "id": "rules_glossary/p/the_play_area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/play_area"
+          }
         },
         {
           "type": "text",

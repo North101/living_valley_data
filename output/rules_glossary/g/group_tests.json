@@ -19,9 +19,11 @@
               "text": "tests"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "tests"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "tests"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "energy"
             }
           ],
-          "id": "rules_glossary/e/energy",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/energy"
+          "link": {
+            "id": "rules_glossary/e/energy",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/energy"
+          }
         },
         {
           "type": "text",
@@ -92,9 +100,11 @@
               "text": "approach icons"
             }
           ],
-          "id": "rules_glossary/a/approach_icons",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/approach_icons"
+          "link": {
+            "id": "rules_glossary/a/approach_icons",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/approach_icons"
+          }
         },
         {
           "type": "text",
@@ -108,9 +118,11 @@
               "text": "energy"
             }
           ],
-          "id": "rules_glossary/e/energy",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/energy"
+          "link": {
+            "id": "rules_glossary/e/energy",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/energy"
+          }
         },
         {
           "type": "text",
@@ -124,9 +136,11 @@
               "text": "committed"
             }
           ],
-          "id": "rules_glossary/c/commit",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/commit"
+          "link": {
+            "id": "rules_glossary/c/commit",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/commit"
+          }
         },
         {
           "type": "text",
@@ -140,9 +154,11 @@
               "text": "test"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",
@@ -156,9 +172,11 @@
               "text": "commit"
             }
           ],
-          "id": "rules_glossary/c/commit",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/commit"
+          "link": {
+            "id": "rules_glossary/c/commit",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/commit"
+          }
         },
         {
           "type": "a",
@@ -168,9 +186,11 @@
               "text": "energy"
             }
           ],
-          "id": "rules_glossary/e/energy",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/energy"
+          "link": {
+            "id": "rules_glossary/e/energy",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/energy"
+          }
         },
         {
           "type": "text",
@@ -184,9 +204,11 @@
               "text": "commit"
             }
           ],
-          "id": "rules_glossary/c/commit",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/commit"
+          "link": {
+            "id": "rules_glossary/c/commit",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/commit"
+          }
         },
         {
           "type": "text",
@@ -200,9 +222,11 @@
               "text": "challenge card"
             }
           ],
-          "id": "rules_glossary/c/challenge_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/challenge_cards"
+          "link": {
+            "id": "rules_glossary/c/challenge_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/challenge_cards"
+          }
         },
         {
           "type": "text",
@@ -225,9 +249,11 @@
               "text": "challenge effects"
             }
           ],
-          "id": "rules_glossary/c/challenge_effects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/challenge_effects"
+          "link": {
+            "id": "rules_glossary/c/challenge_effects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/challenge_effects"
+          }
         },
         {
           "type": "text",
@@ -241,9 +267,11 @@
               "text": "surroundings"
             }
           ],
-          "id": "rules_glossary/s/surroundings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/surroundings"
+          "link": {
+            "id": "rules_glossary/s/surroundings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/surroundings"
+          }
         },
         {
           "type": "text",
@@ -257,9 +285,11 @@
               "text": "along the way"
             }
           ],
-          "id": "rules_glossary/a/along_the_way",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/along_the_way"
+          "link": {
+            "id": "rules_glossary/a/along_the_way",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/along_the_way"
+          }
         },
         {
           "type": "text",
@@ -273,9 +303,11 @@
               "text": "committed"
             }
           ],
-          "id": "rules_glossary/c/commit",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/commit"
+          "link": {
+            "id": "rules_glossary/c/commit",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/commit"
+          }
         },
         {
           "type": "a",
@@ -285,9 +317,11 @@
               "text": "effort"
             }
           ],
-          "id": "rules_glossary/e/effort",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/effort"
+          "link": {
+            "id": "rules_glossary/e/effort",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/effort"
+          }
         },
         {
           "type": "text",
@@ -301,9 +335,11 @@
               "text": "test"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",
@@ -317,9 +353,11 @@
               "text": "challenge effects"
             }
           ],
-          "id": "rules_glossary/c/challenge_effects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/challenge_effects"
+          "link": {
+            "id": "rules_glossary/c/challenge_effects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/challenge_effects"
+          }
         },
         {
           "type": "a",
@@ -329,9 +367,11 @@
               "text": "within reach"
             }
           ],
-          "id": "rules_glossary/w/within_reach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/within_reach"
+          "link": {
+            "id": "rules_glossary/w/within_reach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/within_reach"
+          }
         },
         {
           "type": "text",
@@ -345,9 +385,11 @@
               "text": "within reach"
             }
           ],
-          "id": "rules_glossary/w/within_reach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/within_reach"
+          "link": {
+            "id": "rules_glossary/w/within_reach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/within_reach"
+          }
         },
         {
           "type": "text",
@@ -361,9 +403,11 @@
               "text": "committed"
             }
           ],
-          "id": "rules_glossary/c/commit",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/commit"
+          "link": {
+            "id": "rules_glossary/c/commit",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/commit"
+          }
         },
         {
           "type": "a",
@@ -373,9 +417,11 @@
               "text": "effort"
             }
           ],
-          "id": "rules_glossary/e/effort",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/effort"
+          "link": {
+            "id": "rules_glossary/e/effort",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/effort"
+          }
         },
         {
           "type": "text",
@@ -389,9 +435,11 @@
               "text": "active"
             }
           ],
-          "id": "rules_glossary/a/active",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/active"
+          "link": {
+            "id": "rules_glossary/a/active",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/active"
+          }
         }
       ]
     }

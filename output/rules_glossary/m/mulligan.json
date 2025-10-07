@@ -19,9 +19,11 @@
               "text": "setup"
             }
           ],
-          "id": "rules_glossary/s/setup",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/setup"
+          "link": {
+            "id": "rules_glossary/s/setup",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/setup"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "set aside"
             }
           ],
-          "id": "rules_glossary/s/set_aside",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/set_aside"
+          "link": {
+            "id": "rules_glossary/s/set_aside",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/set_aside"
+          }
         },
         {
           "type": "text",

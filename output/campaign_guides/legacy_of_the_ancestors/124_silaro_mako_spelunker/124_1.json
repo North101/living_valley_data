@@ -46,9 +46,11 @@
               "text": "124.2"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/silaro_mako_spelunker/124_2"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/silaro_mako_spelunker/124_2"
+          }
         }
       ]
     },
@@ -67,9 +69,11 @@
               "text": "124.3"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_3",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/silaro_mako_spelunker/124_3"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_3",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/silaro_mako_spelunker/124_3"
+          }
         }
       ]
     }

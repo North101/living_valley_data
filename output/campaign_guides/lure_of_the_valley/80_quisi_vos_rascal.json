@@ -34,9 +34,11 @@
                       "text": "80.1"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_1"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_1"
+                  }
                 }
               ]
             },
@@ -55,9 +57,11 @@
                       "text": "80.2"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_2"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_2"
+                  }
                 }
               ]
             },
@@ -76,9 +80,11 @@
                       "text": "80.3"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_3"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_3"
+                  }
                 }
               ]
             }
@@ -116,9 +122,11 @@
               "text": "80.5"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_5",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_5"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_5",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_5"
+          }
         }
       ]
     },
@@ -151,9 +159,11 @@
               "text": "80.6"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_6",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_6"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_6",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/quisi_vos_rascal/80_6"
+          }
         }
       ],
       "highlight_color": "blue"

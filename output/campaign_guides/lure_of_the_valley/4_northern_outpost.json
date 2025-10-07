@@ -28,9 +28,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "read-one",
-          "url": "#read-one"
+          "link": {
+            "id": null,
+            "anchor": "read-one",
+            "url": "#read-one"
+          }
         }
       ],
       "anchor": "read-one"
@@ -190,9 +192,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose",
-          "url": "#rangers-choose"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose",
+            "url": "#rangers-choose"
+          }
         }
       ],
       "anchor": "rangers-choose"

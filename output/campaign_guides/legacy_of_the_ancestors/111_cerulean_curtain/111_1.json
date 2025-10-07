@@ -78,9 +78,11 @@
               "text": "157.2"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/157_overgrown_passage/157_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/overgrown_passage/157_2"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/157_overgrown_passage/157_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/overgrown_passage/157_2"
+          }
         }
       ]
     },
@@ -99,9 +101,11 @@
               "text": "157.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/157_overgrown_passage/157_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/overgrown_passage/157_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/157_overgrown_passage/157_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/overgrown_passage/157_1"
+          }
         }
       ]
     }

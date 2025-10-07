@@ -19,9 +19,11 @@
               "text": "clears"
             }
           ],
-          "id": "rules_glossary/c/clear",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/clear"
+          "link": {
+            "id": "rules_glossary/c/clear",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/clear"
+          }
         },
         {
           "type": "text",
@@ -47,9 +49,11 @@
                   "text": "attached"
                 }
               ],
-              "id": "rules_glossary/a/attach",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/attach"
+              "link": {
+                "id": "rules_glossary/a/attach",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/attach"
+              }
             },
             {
               "type": "text",
@@ -72,9 +76,11 @@
                   "text": "mission"
                 }
               ],
-              "id": "rules_glossary/m/missions",
-              "anchor": "",
-              "url": "/docs/rules_glossary/M/missions"
+              "link": {
+                "id": "rules_glossary/m/missions",
+                "anchor": "",
+                "url": "/docs/rules_glossary/M/missions"
+              }
             },
             {
               "type": "text",
@@ -102,9 +108,11 @@
                   "text": "timing"
                 }
               ],
-              "id": "rules_glossary/t/timing",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/timing"
+              "link": {
+                "id": "rules_glossary/t/timing",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/timing"
+              }
             }
           ]
         }

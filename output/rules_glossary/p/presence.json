@@ -19,9 +19,11 @@
               "text": "Features"
             }
           ],
-          "id": "rules_glossary/f/features",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/features"
+          "link": {
+            "id": "rules_glossary/f/features",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/features"
+          }
         },
         {
           "type": "a",
@@ -31,9 +33,11 @@
               "text": "beings"
             }
           ],
-          "id": "rules_glossary/b/beings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/B/being"
+          "link": {
+            "id": "rules_glossary/b/beings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/B/being"
+          }
         },
         {
           "type": "text",
@@ -47,9 +51,11 @@
               "text": "locations"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -75,9 +81,11 @@
                   "text": "Fatigues"
                 }
               ],
-              "id": "rules_glossary/f/fatigue",
-              "anchor": "",
-              "url": "/docs/rules_glossary/F/fatigue"
+              "link": {
+                "id": "rules_glossary/f/fatigue",
+                "anchor": "",
+                "url": "/docs/rules_glossary/F/fatigue"
+              }
             },
             {
               "type": "text",
@@ -91,9 +99,11 @@
                   "text": "ready"
                 }
               ],
-              "id": "rules_glossary/r/ready",
-              "anchor": "",
-              "url": "/docs/rules_glossary/R/ready"
+              "link": {
+                "id": "rules_glossary/r/ready",
+                "anchor": "",
+                "url": "/docs/rules_glossary/R/ready"
+              }
             },
             {
               "type": "text",
@@ -107,9 +117,11 @@
                   "text": "exhausted"
                 }
               ],
-              "id": "rules_glossary/e/exhaust",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/exhaust"
+              "link": {
+                "id": "rules_glossary/e/exhaust",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/exhaust"
+              }
             },
             {
               "type": "text",
@@ -132,9 +144,11 @@
                   "text": "common tests"
                 }
               ],
-              "id": "rules_glossary/c/common_test",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/common_tests"
+              "link": {
+                "id": "rules_glossary/c/common_test",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/common_tests"
+              }
             },
             {
               "type": "text",
@@ -148,9 +162,11 @@
                   "text": "difficulty"
                 }
               ],
-              "id": "rules_glossary/d/difficulty",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/difficulty"
+              "link": {
+                "id": "rules_glossary/d/difficulty",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/difficulty"
+              }
             },
             {
               "type": "text",
@@ -164,9 +180,11 @@
                   "text": "interacting"
                 }
               ],
-              "id": "rules_glossary/i/interact",
-              "anchor": "",
-              "url": "/docs/rules_glossary/I/interact"
+              "link": {
+                "id": "rules_glossary/i/interact",
+                "anchor": "",
+                "url": "/docs/rules_glossary/I/interact"
+              }
             }
           ]
         }

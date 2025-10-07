@@ -19,9 +19,11 @@
               "text": "background"
             }
           ],
-          "id": "rules_glossary/b/backgrounds",
-          "anchor": "",
-          "url": "/docs/rules_glossary/B/backgrounds"
+          "link": {
+            "id": "rules_glossary/b/backgrounds",
+            "anchor": "",
+            "url": "/docs/rules_glossary/B/backgrounds"
+          }
         },
         {
           "type": "a",
@@ -31,9 +33,11 @@
               "text": "sets"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -56,9 +60,11 @@
               "text": "soothing"
             }
           ],
-          "id": "rules_glossary/s/soothe",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/soothe"
+          "link": {
+            "id": "rules_glossary/s/soothe",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/soothe"
+          }
         },
         {
           "type": "a",
@@ -68,9 +74,11 @@
               "text": "fatigue"
             }
           ],
-          "id": "rules_glossary/f/fatigue",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/fatigue"
+          "link": {
+            "id": "rules_glossary/f/fatigue",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/fatigue"
+          }
         },
         {
           "type": "text",
@@ -84,9 +92,11 @@
               "text": "fatigue"
             }
           ],
-          "id": "rules_glossary/f/fatigue",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/fatigue"
+          "link": {
+            "id": "rules_glossary/f/fatigue",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/fatigue"
+          }
         },
         {
           "type": "text",
@@ -100,9 +110,11 @@
               "text": "moments"
             }
           ],
-          "id": "rules_glossary/m/moments",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/moments"
+          "link": {
+            "id": "rules_glossary/m/moments",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/moments"
+          }
         },
         {
           "type": "text",
@@ -120,9 +132,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "life-as-a-talespinner",
-          "url": "#life-as-a-talespinner"
+          "link": {
+            "id": null,
+            "anchor": "life-as-a-talespinner",
+            "url": "#life-as-a-talespinner"
+          }
         }
       ],
       "anchor": "life-as-a-talespinner"

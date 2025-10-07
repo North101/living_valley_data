@@ -19,9 +19,11 @@
               "text": "1.119A"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_119",
-          "anchor": "1119a",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_119#1119a"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_119",
+            "anchor": "1119a",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_119#1119a"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -66,9 +68,11 @@
                       "text": "1.119B"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_119",
-                  "anchor": "1119b",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_119#1119b"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_119",
+                    "anchor": "1119b",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_119#1119b"
+                  }
                 }
               ]
             },
@@ -87,9 +91,11 @@
                       "text": "1.119C"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_119",
-                  "anchor": "1119c",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_119#1119c"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_119",
+                    "anchor": "1119c",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_119#1119c"
+                  }
                 }
               ]
             }
@@ -127,9 +133,11 @@
               "text": "1.119D"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_119",
-          "anchor": "1119d",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_119#1119d"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_119",
+            "anchor": "1119d",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_119#1119d"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -144,9 +152,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1119a",
-          "url": "#1119a"
+          "link": {
+            "id": null,
+            "anchor": "1119a",
+            "url": "#1119a"
+          }
         }
       ],
       "anchor": "1119a"
@@ -309,9 +319,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1119b",
-          "url": "#1119b"
+          "link": {
+            "id": null,
+            "anchor": "1119b",
+            "url": "#1119b"
+          }
         }
       ],
       "anchor": "1119b"
@@ -381,9 +393,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1119c",
-          "url": "#1119c"
+          "link": {
+            "id": null,
+            "anchor": "1119c",
+            "url": "#1119c"
+          }
         }
       ],
       "anchor": "1119c"
@@ -444,9 +458,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1119d",
-          "url": "#1119d"
+          "link": {
+            "id": null,
+            "anchor": "1119d",
+            "url": "#1119d"
+          }
         }
       ],
       "anchor": "1119d"

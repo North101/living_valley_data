@@ -48,9 +48,11 @@
                       "text": "65.1"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_1"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_1"
+                  }
                 }
               ]
             },
@@ -69,9 +71,11 @@
                       "text": "65.2"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_2"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_2"
+                  }
                 }
               ]
             }
@@ -120,9 +124,11 @@
                       "text": "65.3"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_3"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_3"
+                  }
                 }
               ]
             },
@@ -141,9 +147,11 @@
                       "text": "65.4"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_4"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_4"
+                  }
                 }
               ]
             },
@@ -176,9 +184,11 @@
                       "text": "65.5"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_5",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_5"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_5",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_5"
+                  }
                 }
               ]
             },
@@ -197,9 +207,11 @@
                       "text": "65.6"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_6",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_6"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_6",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_6"
+                  }
                 }
               ]
             }
@@ -236,9 +248,11 @@
               "text": "65.7"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_7",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_7"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_7",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/lyn_mira_woodworker/65_7"
+          }
         }
       ],
       "highlight_color": "blue"

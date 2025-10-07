@@ -48,9 +48,11 @@
                       "text": "64.1"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_1"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_1"
+                  }
                 }
               ]
             },
@@ -69,9 +71,11 @@
                       "text": "64.2"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_2"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_2"
+                  }
                 }
               ]
             }
@@ -120,9 +124,11 @@
                       "text": "64.3"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_3"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_3"
+                  }
                 }
               ]
             },
@@ -141,9 +147,11 @@
                       "text": "64.4"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_4"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_4"
+                  }
                 }
               ]
             },
@@ -176,9 +184,11 @@
                       "text": "64.5"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_5",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_5"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_5",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_5"
+                  }
                 }
               ]
             },
@@ -197,9 +207,11 @@
                       "text": "64.6"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_6",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_6"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_6",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_6"
+                  }
                 }
               ]
             }
@@ -236,9 +248,11 @@
               "text": "64.7"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_7",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_7"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_7",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_7"
+          }
         }
       ],
       "highlight_color": "blue"

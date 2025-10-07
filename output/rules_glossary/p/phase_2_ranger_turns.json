@@ -19,9 +19,11 @@
               "text": "turns"
             }
           ],
-          "id": "rules_glossary/t/turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/turns"
+          "link": {
+            "id": "rules_glossary/t/turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/turns"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "round"
             }
           ],
-          "id": "rules_glossary/r/round",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/round"
+          "link": {
+            "id": "rules_glossary/r/round",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/round"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "exhausting"
             }
           ],
-          "id": "rules_glossary/e/exhaust",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/exhaust"
+          "link": {
+            "id": "rules_glossary/e/exhaust",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/exhaust"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "role"
             }
           ],
-          "id": "rules_glossary/r/role",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/role"
+          "link": {
+            "id": "rules_glossary/r/role",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/role"
+          }
         },
         {
           "type": "text",
@@ -101,9 +109,11 @@
               "text": "turn"
             }
           ],
-          "id": "rules_glossary/t/turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/turns"
+          "link": {
+            "id": "rules_glossary/t/turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/turns"
+          }
         },
         {
           "type": "text",
@@ -129,9 +139,11 @@
                   "text": "Test"
                 }
               ],
-              "id": "rules_glossary/t/tests",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/tests"
+              "link": {
+                "id": "rules_glossary/t/tests",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/tests"
+              }
             }
           ]
         },
@@ -146,9 +158,11 @@
                   "text": "Play"
                 }
               ],
-              "id": "rules_glossary/p/play",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/play"
+              "link": {
+                "id": "rules_glossary/p/play",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/play"
+              }
             },
             {
               "type": "a",
@@ -158,9 +172,11 @@
                   "text": "Ranger Card"
                 }
               ],
-              "id": "rules_glossary/r/ranger_cards",
-              "anchor": "",
-              "url": "/docs/rules_glossary/R/ranger_cards"
+              "link": {
+                "id": "rules_glossary/r/ranger_cards",
+                "anchor": "",
+                "url": "/docs/rules_glossary/R/ranger_cards"
+              }
             }
           ]
         },
@@ -190,9 +206,11 @@
               "text": "timing"
             }
           ],
-          "id": "rules_glossary/t/timing",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/timing"
+          "link": {
+            "id": "rules_glossary/t/timing",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/timing"
+          }
         },
         {
           "type": "text",

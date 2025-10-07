@@ -48,9 +48,11 @@
                       "text": "61.1"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_1"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_1"
+                  }
                 }
               ]
             },
@@ -69,9 +71,11 @@
                       "text": "61.2"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_2"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_2"
+                  }
                 }
               ]
             }
@@ -120,9 +124,11 @@
                       "text": "61.3"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_3"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_3"
+                  }
                 }
               ]
             },
@@ -141,9 +147,11 @@
                       "text": "61.4"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_4"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_4"
+                  }
                 }
               ]
             },
@@ -176,9 +184,11 @@
                       "text": "61.5"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_5",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_5"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_5",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_5"
+                  }
                 }
               ]
             },
@@ -197,9 +207,11 @@
                       "text": "61.6"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_6",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_6"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_6",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_6"
+                  }
                 }
               ]
             }
@@ -236,9 +248,11 @@
               "text": "61.7"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_7",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_7"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_7",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_7"
+          }
         }
       ],
       "highlight_color": "blue"

@@ -19,9 +19,11 @@
               "text": "campaign guide"
             }
           ],
-          "id": "rules_glossary/c/campaign_guide",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_guide"
+          "link": {
+            "id": "rules_glossary/c/campaign_guide",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_guide"
+          }
         },
         {
           "type": "text",

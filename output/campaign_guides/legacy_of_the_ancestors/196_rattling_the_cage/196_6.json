@@ -22,9 +22,11 @@
                   "text": "196.7"
                 }
               ],
-              "id": "campaign_guides/legacy_of_the_ancestors/196_rattling_the_cage/196_7",
-              "anchor": "",
-              "url": "/docs/campaign_guides/legacy_of_the_ancestors/rattling_the_cage/196_7"
+              "link": {
+                "id": "campaign_guides/legacy_of_the_ancestors/196_rattling_the_cage/196_7",
+                "anchor": "",
+                "url": "/docs/campaign_guides/legacy_of_the_ancestors/rattling_the_cage/196_7"
+              }
             },
             {
               "type": "text",
@@ -77,9 +79,11 @@
               "text": "107.2"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_2"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_2"
+          }
         }
       ]
     }

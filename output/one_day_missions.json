@@ -41,9 +41,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "getting-started",
-          "url": "#getting-started"
+          "link": {
+            "id": null,
+            "anchor": "getting-started",
+            "url": "#getting-started"
+          }
         }
       ],
       "anchor": "getting-started"
@@ -63,9 +65,11 @@
               "text": "premade Ranger decks"
             }
           ],
-          "id": "https://earthbornegames.com/resources/ranger-decks",
-          "anchor": "",
-          "url": "https://earthbornegames.com/resources/ranger-decks"
+          "link": {
+            "id": "https://earthbornegames.com/resources/ranger-decks",
+            "anchor": "",
+            "url": "https://earthbornegames.com/resources/ranger-decks"
+          }
         }
       ]
     },
@@ -88,9 +92,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "animal-rescue",
-          "url": "#animal-rescue"
+          "link": {
+            "id": null,
+            "anchor": "animal-rescue",
+            "url": "#animal-rescue"
+          }
         }
       ],
       "anchor": "animal-rescue"
@@ -112,9 +118,11 @@
           "text": "Start Animal Rescue Mission"
         }
       ],
-      "id": "one_day_missions/animal_rescue",
-      "anchor": "",
-      "url": "/docs/one_day_missions/animal_rescue"
+      "link": {
+        "id": "one_day_missions/animal_rescue",
+        "anchor": "",
+        "url": "/docs/one_day_missions/animal_rescue"
+      }
     },
     {
       "type": "h2",
@@ -126,9 +134,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "missing-person",
-          "url": "#missing-person"
+          "link": {
+            "id": null,
+            "anchor": "missing-person",
+            "url": "#missing-person"
+          }
         }
       ],
       "anchor": "missing-person"
@@ -150,9 +160,11 @@
           "text": "Start Missing Person Mission"
         }
       ],
-      "id": "one_day_missions/missing_person",
-      "anchor": "",
-      "url": "/docs/one_day_missions/missing_person"
+      "link": {
+        "id": "one_day_missions/missing_person",
+        "anchor": "",
+        "url": "/docs/one_day_missions/missing_person"
+      }
     },
     {
       "type": "h2",
@@ -164,9 +176,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "predatory-instincts",
-          "url": "#predatory-instincts"
+          "link": {
+            "id": null,
+            "anchor": "predatory-instincts",
+            "url": "#predatory-instincts"
+          }
         }
       ],
       "anchor": "predatory-instincts"
@@ -188,9 +202,11 @@
           "text": "Start Predatory Instincts Mission"
         }
       ],
-      "id": "one_day_missions/predatory_instincts",
-      "anchor": "",
-      "url": "/docs/one_day_missions/predatory_instincts"
+      "link": {
+        "id": "one_day_missions/predatory_instincts",
+        "anchor": "",
+        "url": "/docs/one_day_missions/predatory_instincts"
+      }
     }
   ],
   "items": [

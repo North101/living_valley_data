@@ -19,9 +19,11 @@
               "text": "keyword"
             }
           ],
-          "id": "rules_glossary/k/keywords",
-          "anchor": "",
-          "url": "/docs/rules_glossary/K/keywords"
+          "link": {
+            "id": "rules_glossary/k/keywords",
+            "anchor": "",
+            "url": "/docs/rules_glossary/K/keywords"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "discarded"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         }
       ]
     }

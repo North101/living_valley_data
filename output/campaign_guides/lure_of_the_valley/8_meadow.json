@@ -19,9 +19,11 @@
               "text": "84.10"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_10",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/tala_the_red_exile/84_10"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_10",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/tala_the_red_exile/84_10"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -55,9 +57,11 @@
               "text": "8.1"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/8_meadow/8_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/meadow/8_1"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/8_meadow/8_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/meadow/8_1"
+          }
         }
       ]
     },
@@ -76,9 +80,11 @@
               "text": "8.2"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/8_meadow/8_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/meadow/8_2"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/8_meadow/8_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/meadow/8_2"
+          }
         }
       ],
       "highlight_color": "blue"

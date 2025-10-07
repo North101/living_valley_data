@@ -19,9 +19,11 @@
               "text": "end the day"
             }
           ],
-          "id": "rules_glossary/e/end_the_day",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/end_the_day"
+          "link": {
+            "id": "rules_glossary/e/end_the_day",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/end_the_day"
+          }
         },
         {
           "type": "text",
@@ -52,9 +54,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "ranger-deck-discard-and-fatigue-stack",
-          "url": "#ranger-deck-discard-and-fatigue-stack"
+          "link": {
+            "id": null,
+            "anchor": "ranger-deck-discard-and-fatigue-stack",
+            "url": "#ranger-deck-discard-and-fatigue-stack"
+          }
         }
       ],
       "anchor": "ranger-deck-discard-and-fatigue-stack"
@@ -92,9 +96,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "fatigues-you",
-          "url": "#fatigues-you"
+          "link": {
+            "id": null,
+            "anchor": "fatigues-you",
+            "url": "#fatigues-you"
+          }
         }
       ],
       "anchor": "fatigues-you"
@@ -114,9 +120,11 @@
               "text": "presence"
             }
           ],
-          "id": "rules_glossary/p/presence",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/presence"
+          "link": {
+            "id": "rules_glossary/p/presence",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/presence"
+          }
         },
         {
           "type": "text",
@@ -130,9 +138,11 @@
               "text": "ready"
             }
           ],
-          "id": "rules_glossary/r/ready",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ready"
+          "link": {
+            "id": "rules_glossary/r/ready",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ready"
+          }
         },
         {
           "type": "text",
@@ -146,9 +156,11 @@
               "text": "presence"
             }
           ],
-          "id": "rules_glossary/p/presence",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/presence"
+          "link": {
+            "id": "rules_glossary/p/presence",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/presence"
+          }
         },
         {
           "type": "text",
@@ -162,9 +174,11 @@
               "text": "exhausted"
             }
           ],
-          "id": "rules_glossary/e/exhaust",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/exhaust"
+          "link": {
+            "id": "rules_glossary/e/exhaust",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/exhaust"
+          }
         },
         {
           "type": "text",
@@ -182,9 +196,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "soothing-fatigue",
-          "url": "#soothing-fatigue"
+          "link": {
+            "id": null,
+            "anchor": "soothing-fatigue",
+            "url": "#soothing-fatigue"
+          }
         }
       ],
       "anchor": "soothing-fatigue"
@@ -204,9 +220,11 @@
               "text": "soothe"
             }
           ],
-          "id": "rules_glossary/s/soothe",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/soothe"
+          "link": {
+            "id": "rules_glossary/s/soothe",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/soothe"
+          }
         },
         {
           "type": "text",
@@ -224,9 +242,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "fatigue-from-interacting",
-          "url": "#fatigue-from-interacting"
+          "link": {
+            "id": null,
+            "anchor": "fatigue-from-interacting",
+            "url": "#fatigue-from-interacting"
+          }
         }
       ],
       "anchor": "fatigue-from-interacting"
@@ -246,9 +266,11 @@
               "text": "interact"
             }
           ],
-          "id": "rules_glossary/i/interact",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/interact"
+          "link": {
+            "id": "rules_glossary/i/interact",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/interact"
+          }
         },
         {
           "type": "text",
@@ -262,9 +284,11 @@
               "text": "interacting"
             }
           ],
-          "id": "rules_glossary/i/interact",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/interact"
+          "link": {
+            "id": "rules_glossary/i/interact",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/interact"
+          }
         },
         {
           "type": "text",

@@ -19,9 +19,11 @@
               "text": "Ranger cards"
             }
           ],
-          "id": "rules_glossary/r/ranger_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ranger_cards"
+          "link": {
+            "id": "rules_glossary/r/ranger_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ranger_cards"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "a",
@@ -47,9 +51,11 @@
               "text": "attached"
             }
           ],
-          "id": "rules_glossary/a/attach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/attach"
+          "link": {
+            "id": "rules_glossary/a/attach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/attach"
+          }
         },
         {
           "type": "text",
@@ -63,9 +69,11 @@
               "text": "discard"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -94,9 +102,11 @@
                       "text": "Energy"
                     }
                   ],
-                  "id": "rules_glossary/e/energy",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/E/energy"
+                  "link": {
+                    "id": "rules_glossary/e/energy",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/E/energy"
+                  }
                 },
                 {
                   "type": "text",
@@ -146,9 +156,11 @@
                       "text": "Trait"
                     }
                   ],
-                  "id": "rules_glossary/t/traits",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/T/traits"
+                  "link": {
+                    "id": "rules_glossary/t/traits",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/T/traits"
+                  }
                 }
               ]
             },
@@ -172,9 +184,11 @@
                       "text": "Equip Value"
                     }
                   ],
-                  "id": "rules_glossary/e/equip_value",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/E/equip_value"
+                  "link": {
+                    "id": "rules_glossary/e/equip_value",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/E/equip_value"
+                  }
                 }
               ]
             },
@@ -190,9 +204,11 @@
                   "text": "player area"
                 }
               ],
-              "id": "rules_glossary/p/player_area",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/player_area"
+              "link": {
+                "id": "rules_glossary/p/player_area",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/player_area"
+              }
             },
             {
               "type": "text",
@@ -206,9 +222,11 @@
                   "text": "discard"
                 }
               ],
-              "id": "rules_glossary/d/discard",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/discard"
+              "link": {
+                "id": "rules_glossary/d/discard",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/discard"
+              }
             },
             {
               "type": "text",
@@ -240,9 +258,11 @@
                   "text": "general tokens"
                 }
               ],
-              "id": "rules_glossary/g/general_tokens",
-              "anchor": "",
-              "url": "/docs/rules_glossary/G/general_tokens"
+              "link": {
+                "id": "rules_glossary/g/general_tokens",
+                "anchor": "",
+                "url": "/docs/rules_glossary/G/general_tokens"
+              }
             },
             {
               "type": "text",
@@ -264,9 +284,11 @@
                       "text": "Approach Icons"
                     }
                   ],
-                  "id": "rules_glossary/a/approach_icons",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/A/approach_icons"
+                  "link": {
+                    "id": "rules_glossary/a/approach_icons",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/A/approach_icons"
+                  }
                 }
               ]
             },
@@ -282,9 +304,11 @@
                   "text": "discarding"
                 }
               ],
-              "id": "rules_glossary/d/discard",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/discard"
+              "link": {
+                "id": "rules_glossary/d/discard",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/discard"
+              }
             },
             {
               "type": "text",
@@ -298,9 +322,11 @@
                   "text": "effort"
                 }
               ],
-              "id": "rules_glossary/e/effort",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/effort"
+              "link": {
+                "id": "rules_glossary/e/effort",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/effort"
+              }
             },
             {
               "type": "text",
@@ -332,9 +358,11 @@
                   "text": "tests"
                 }
               ],
-              "id": "rules_glossary/t/tests",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/tests"
+              "link": {
+                "id": "rules_glossary/t/tests",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/tests"
+              }
             },
             {
               "type": "text",
@@ -348,9 +376,11 @@
                   "text": "clears"
                 }
               ],
-              "id": "rules_glossary/c/clear",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/clear"
+              "link": {
+                "id": "rules_glossary/c/clear",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/clear"
+              }
             }
           ]
         },
@@ -368,9 +398,11 @@
                       "text": "Aspect"
                     }
                   ],
-                  "id": "rules_glossary/a/aspects",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/A/aspects"
+                  "link": {
+                    "id": "rules_glossary/a/aspects",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/A/aspects"
+                  }
                 },
                 {
                   "type": "text",
@@ -408,9 +440,11 @@
                   "text": "set"
                 }
               ],
-              "id": "rules_glossary/s/sets",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/sets"
+              "link": {
+                "id": "rules_glossary/s/sets",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/sets"
+              }
             },
             {
               "type": "text",

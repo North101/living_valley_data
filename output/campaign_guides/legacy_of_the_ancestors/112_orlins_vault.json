@@ -42,9 +42,11 @@
               "text": "158.2"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/locked_passage/158_2"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/locked_passage/158_2"
+          }
         }
       ]
     },
@@ -63,9 +65,11 @@
               "text": "158.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/locked_passage/158_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/locked_passage/158_1"
+          }
         }
       ]
     }

@@ -19,9 +19,11 @@
               "text": "keywords"
             }
           ],
-          "id": "rules_glossary/k/keywords",
-          "anchor": "",
-          "url": "/docs/rules_glossary/K/keywords"
+          "link": {
+            "id": "rules_glossary/k/keywords",
+            "anchor": "",
+            "url": "/docs/rules_glossary/K/keywords"
+          }
         },
         {
           "type": "text",
@@ -43,9 +45,11 @@
                   "text": "Active"
                 }
               ],
-              "id": "rules_glossary/a/active",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/active"
+              "link": {
+                "id": "rules_glossary/a/active",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/active"
+              }
             }
           ]
         },
@@ -60,9 +64,11 @@
                   "text": "Attach"
                 }
               ],
-              "id": "rules_glossary/a/attach",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/attach"
+              "link": {
+                "id": "rules_glossary/a/attach",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/attach"
+              }
             }
           ]
         },
@@ -77,9 +83,11 @@
                   "text": "Discard"
                 }
               ],
-              "id": "rules_glossary/d/discard",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/discard"
+              "link": {
+                "id": "rules_glossary/d/discard",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/discard"
+              }
             }
           ]
         },
@@ -94,9 +102,11 @@
                   "text": "Dodge"
                 }
               ],
-              "id": "rules_glossary/d/dodge",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/dodge"
+              "link": {
+                "id": "rules_glossary/d/dodge",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/dodge"
+              }
             }
           ]
         },
@@ -111,9 +121,11 @@
                   "text": "Exhaust"
                 }
               ],
-              "id": "rules_glossary/e/exhaust",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/exhaust"
+              "link": {
+                "id": "rules_glossary/e/exhaust",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/exhaust"
+              }
             }
           ]
         },
@@ -128,9 +140,11 @@
                   "text": "Injury"
                 }
               ],
-              "id": "rules_glossary/i/injury",
-              "anchor": "",
-              "url": "/docs/rules_glossary/I/injury"
+              "link": {
+                "id": "rules_glossary/i/injury",
+                "anchor": "",
+                "url": "/docs/rules_glossary/I/injury"
+              }
             }
           ]
         },
@@ -145,9 +159,11 @@
                   "text": "In Play"
                 }
               ],
-              "id": "rules_glossary/i/in_play",
-              "anchor": "",
-              "url": "/docs/rules_glossary/I/in_play"
+              "link": {
+                "id": "rules_glossary/i/in_play",
+                "anchor": "",
+                "url": "/docs/rules_glossary/I/in_play"
+              }
             }
           ]
         },
@@ -162,9 +178,11 @@
                   "text": "Move"
                 }
               ],
-              "id": "rules_glossary/m/move",
-              "anchor": "",
-              "url": "/docs/rules_glossary/M/move"
+              "link": {
+                "id": "rules_glossary/m/move",
+                "anchor": "",
+                "url": "/docs/rules_glossary/M/move"
+              }
             }
           ]
         },
@@ -179,9 +197,11 @@
                   "text": "Scout"
                 }
               ],
-              "id": "rules_glossary/s/scout",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/scout"
+              "link": {
+                "id": "rules_glossary/s/scout",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/scout"
+              }
             }
           ]
         },
@@ -196,9 +216,11 @@
                   "text": "Search"
                 }
               ],
-              "id": "rules_glossary/s/search",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/search"
+              "link": {
+                "id": "rules_glossary/s/search",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/search"
+              }
             }
           ]
         }

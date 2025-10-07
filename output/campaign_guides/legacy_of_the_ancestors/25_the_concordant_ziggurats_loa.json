@@ -33,9 +33,11 @@
               "text": "25.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/25_the_concordant_ziggurats_loa/25_1_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_concordant_ziggurats/25_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/25_the_concordant_ziggurats_loa/25_1_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_concordant_ziggurats/25_1"
+          }
         }
       ],
       "highlight_color": "blue"

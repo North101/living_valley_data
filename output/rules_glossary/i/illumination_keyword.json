@@ -19,9 +19,11 @@
               "text": "area"
             }
           ],
-          "id": "rules_glossary/a/area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/area"
+          "link": {
+            "id": "rules_glossary/a/area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/area"
+          }
         },
         {
           "type": "text",
@@ -47,9 +49,11 @@
                   "text": "area"
                 }
               ],
-              "id": "rules_glossary/a/area",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/area"
+              "link": {
+                "id": "rules_glossary/a/area",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/area"
+              }
             },
             {
               "type": "text",
@@ -72,9 +76,11 @@
                   "text": "area"
                 }
               ],
-              "id": "rules_glossary/a/area",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/area"
+              "link": {
+                "id": "rules_glossary/a/area",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/area"
+              }
             }
           ]
         }

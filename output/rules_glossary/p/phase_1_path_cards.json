@@ -19,9 +19,11 @@
               "text": "round"
             }
           ],
-          "id": "rules_glossary/r/round",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/round"
+          "link": {
+            "id": "rules_glossary/r/round",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/round"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "location"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "round"
             }
           ],
-          "id": "rules_glossary/r/round",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/round"
+          "link": {
+            "id": "rules_glossary/r/round",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/round"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "path card"
             }
           ],
-          "id": "rules_glossary/p/path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/path_cards"
+          "link": {
+            "id": "rules_glossary/p/path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/path_cards"
+          }
         },
         {
           "type": "text",
@@ -92,9 +100,11 @@
               "text": "campaign guide"
             }
           ],
-          "id": "rules_glossary/c/campaign_guide",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_guide"
+          "link": {
+            "id": "rules_glossary/c/campaign_guide",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_guide"
+          }
         },
         {
           "type": "text",
@@ -129,9 +139,11 @@
                   "text": "area"
                 }
               ],
-              "id": "rules_glossary/a/area",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/area"
+              "link": {
+                "id": "rules_glossary/a/area",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/area"
+              }
             },
             {
               "type": "text",
@@ -145,9 +157,11 @@
                   "text": "along the way"
                 }
               ],
-              "id": "rules_glossary/a/along_the_way",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/along_the_way"
+              "link": {
+                "id": "rules_glossary/a/along_the_way",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/along_the_way"
+              }
             },
             {
               "type": "text",
@@ -161,9 +175,11 @@
                   "text": "within reach"
                 }
               ],
-              "id": "rules_glossary/w/within_reach",
-              "anchor": "",
-              "url": "/docs/rules_glossary/W/within_reach"
+              "link": {
+                "id": "rules_glossary/w/within_reach",
+                "anchor": "",
+                "url": "/docs/rules_glossary/W/within_reach"
+              }
             },
             {
               "type": "text",

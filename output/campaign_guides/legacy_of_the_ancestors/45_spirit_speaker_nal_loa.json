@@ -48,9 +48,11 @@
                       "text": "45.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_1_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_1_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_1"
+                  }
                 }
               ]
             },
@@ -69,9 +71,11 @@
                       "text": "45.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_2_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_2_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_2"
+                  }
                 }
               ]
             }
@@ -120,9 +124,11 @@
                       "text": "45.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_3_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_3_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_3"
+                  }
                 }
               ]
             },
@@ -155,9 +161,11 @@
                       "text": "45.4"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_4_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_4"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_4_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_4"
+                  }
                 }
               ]
             },
@@ -176,9 +184,11 @@
                       "text": "45.5"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_5_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_5"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_5_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_5"
+                  }
                 }
               ]
             }
@@ -216,9 +226,11 @@
               "text": "45.6"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_6_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_6"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_6_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_6"
+          }
         }
       ]
     }

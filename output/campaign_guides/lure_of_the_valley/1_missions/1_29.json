@@ -14,9 +14,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "read-the-entry-corresponding-to-your-progress-on-spire-under-attack",
-          "url": "#read-the-entry-corresponding-to-your-progress-on-spire-under-attack"
+          "link": {
+            "id": null,
+            "anchor": "read-the-entry-corresponding-to-your-progress-on-spire-under-attack",
+            "url": "#read-the-entry-corresponding-to-your-progress-on-spire-under-attack"
+          }
         }
       ],
       "anchor": "read-the-entry-corresponding-to-your-progress-on-spire-under-attack"
@@ -116,9 +118,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose",
-          "url": "#rangers-choose"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose",
+            "url": "#rangers-choose"
+          }
         }
       ],
       "anchor": "rangers-choose"
@@ -235,9 +239,11 @@
               "text": "1.29B"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_29",
-          "anchor": "129b",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_29#129b"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_29",
+            "anchor": "129b",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_29#129b"
+          }
         }
       ]
     },
@@ -251,9 +257,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "129a",
-          "url": "#129a"
+          "link": {
+            "id": null,
+            "anchor": "129a",
+            "url": "#129a"
+          }
         }
       ],
       "anchor": "129a"
@@ -287,9 +295,11 @@
               "text": "1.29B"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_29",
-          "anchor": "129b",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_29#129b"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_29",
+            "anchor": "129b",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_29#129b"
+          }
         }
       ]
     },
@@ -303,9 +313,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "129b",
-          "url": "#129b"
+          "link": {
+            "id": null,
+            "anchor": "129b",
+            "url": "#129b"
+          }
         }
       ],
       "anchor": "129b"

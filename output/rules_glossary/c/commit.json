@@ -19,9 +19,11 @@
               "text": "test"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "effort"
             }
           ],
-          "id": "rules_glossary/e/effort",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/effort"
+          "link": {
+            "id": "rules_glossary/e/effort",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/effort"
+          }
         },
         {
           "type": "text",
@@ -59,9 +63,11 @@
                   "text": "Energy"
                 }
               ],
-              "id": "rules_glossary/e/energy",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/energy"
+              "link": {
+                "id": "rules_glossary/e/energy",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/energy"
+              }
             }
           ]
         },
@@ -77,9 +83,11 @@
               "text": "aspect"
             }
           ],
-          "id": "rules_glossary/a/aspects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/aspects"
+          "link": {
+            "id": "rules_glossary/a/aspects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/aspects"
+          }
         },
         {
           "type": "text",
@@ -101,9 +109,11 @@
                   "text": "Approach Icons"
                 }
               ],
-              "id": "rules_glossary/a/approach_icons",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/approach_icons"
+              "link": {
+                "id": "rules_glossary/a/approach_icons",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/approach_icons"
+              }
             }
           ]
         },
@@ -119,9 +129,11 @@
               "text": "discard"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -153,9 +165,11 @@
               "text": "gear"
             }
           ],
-          "id": "rules_glossary/g/gear",
-          "anchor": "",
-          "url": "/docs/rules_glossary/G/gear"
+          "link": {
+            "id": "rules_glossary/g/gear",
+            "anchor": "",
+            "url": "/docs/rules_glossary/G/gear"
+          }
         },
         {
           "type": "text",
@@ -169,9 +183,11 @@
               "text": "Ranger tokens"
             }
           ],
-          "id": "rules_glossary/r/ranger_token",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ranger_token"
+          "link": {
+            "id": "rules_glossary/r/ranger_token",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ranger_token"
+          }
         },
         {
           "type": "text",
@@ -185,9 +201,11 @@
               "text": "approach icons"
             }
           ],
-          "id": "rules_glossary/a/approach_icons",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/approach_icons"
+          "link": {
+            "id": "rules_glossary/a/approach_icons",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/approach_icons"
+          }
         },
         {
           "type": "text",
@@ -209,9 +227,11 @@
                   "text": "Energy"
                 }
               ],
-              "id": "rules_glossary/e/energy",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/energy"
+              "link": {
+                "id": "rules_glossary/e/energy",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/energy"
+              }
             },
             {
               "type": "text",
@@ -234,9 +254,11 @@
                   "text": "resolved"
                 }
               ],
-              "id": "rules_glossary/r/resolve",
-              "anchor": "",
-              "url": "/docs/rules_glossary/R/resolve"
+              "link": {
+                "id": "rules_glossary/r/resolve",
+                "anchor": "",
+                "url": "/docs/rules_glossary/R/resolve"
+              }
             },
             {
               "type": "text",

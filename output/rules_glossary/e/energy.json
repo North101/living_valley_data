@@ -23,9 +23,11 @@
               "text": "aspect"
             }
           ],
-          "id": "rules_glossary/a/aspects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/aspects"
+          "link": {
+            "id": "rules_glossary/a/aspects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/aspects"
+          }
         },
         {
           "type": "text",
@@ -39,9 +41,11 @@
               "text": "round"
             }
           ],
-          "id": "rules_glossary/r/round",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/round"
+          "link": {
+            "id": "rules_glossary/r/round",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/round"
+          }
         },
         {
           "type": "text",
@@ -64,9 +68,11 @@
               "text": "committed"
             }
           ],
-          "id": "rules_glossary/c/commit",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/commit"
+          "link": {
+            "id": "rules_glossary/c/commit",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/commit"
+          }
         },
         {
           "type": "text",

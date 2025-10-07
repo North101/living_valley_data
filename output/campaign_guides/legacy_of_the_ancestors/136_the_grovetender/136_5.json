@@ -80,9 +80,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose",
-          "url": "#rangers-choose"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose",
+            "url": "#rangers-choose"
+          }
         }
       ],
       "anchor": "rangers-choose"
@@ -117,9 +119,11 @@
               "text": "198.10"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_10",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_10"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_10",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_10"
+          }
         }
       ]
     },
@@ -153,9 +157,11 @@
               "text": "198.11"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_11",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_11"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_11",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_11"
+          }
         }
       ]
     },
@@ -189,9 +195,11 @@
               "text": "198.12"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_12",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_12"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_12",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_12"
+          }
         }
       ]
     },
@@ -225,9 +233,11 @@
               "text": "198.13"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_13",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_13"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_13",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_13"
+          }
         }
       ]
     },
@@ -261,9 +271,11 @@
               "text": "198.14"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_14",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_14"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_14",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_14"
+          }
         }
       ]
     }

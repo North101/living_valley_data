@@ -113,9 +113,11 @@
               "text": "129.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/129_wild_scuttlebus/129_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/wild_scuttlebus/129_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/129_wild_scuttlebus/129_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/wild_scuttlebus/129_1"
+          }
         }
       ]
     }

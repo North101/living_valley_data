@@ -36,9 +36,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "read-the-entry-corresponding-to-your-progress-on-secret-invasion",
-          "url": "#read-the-entry-corresponding-to-your-progress-on-secret-invasion"
+          "link": {
+            "id": null,
+            "anchor": "read-the-entry-corresponding-to-your-progress-on-secret-invasion",
+            "url": "#read-the-entry-corresponding-to-your-progress-on-secret-invasion"
+          }
         }
       ],
       "anchor": "read-the-entry-corresponding-to-your-progress-on-secret-invasion"

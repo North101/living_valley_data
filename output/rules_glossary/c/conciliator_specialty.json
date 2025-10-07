@@ -19,9 +19,11 @@
               "text": "sets"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -48,9 +50,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "life-as-a-conciliator",
-          "url": "#life-as-a-conciliator"
+          "link": {
+            "id": null,
+            "anchor": "life-as-a-conciliator",
+            "url": "#life-as-a-conciliator"
+          }
         }
       ],
       "anchor": "life-as-a-conciliator"

@@ -34,9 +34,11 @@
                       "text": "60.1"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/elder_mora_orlin/60_1"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/elder_mora_orlin/60_1"
+                  }
                 }
               ]
             },
@@ -55,9 +57,11 @@
                       "text": "60.2"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/elder_mora_orlin/60_2"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/elder_mora_orlin/60_2"
+                  }
                 }
               ]
             }
@@ -106,9 +110,11 @@
                       "text": "60.3"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/elder_mora_orlin/60_3"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/elder_mora_orlin/60_3"
+                  }
                 }
               ]
             },
@@ -127,9 +133,11 @@
                       "text": "60.4"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/elder_mora_orlin/60_4"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/elder_mora_orlin/60_4"
+                  }
                 }
               ]
             }
@@ -166,9 +174,11 @@
               "text": "60.5"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_5",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/elder_mora_orlin/60_5"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_5",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/elder_mora_orlin/60_5"
+          }
         }
       ],
       "highlight_color": "blue"

@@ -28,9 +28,11 @@
               "text": "campaign"
             }
           ],
-          "id": "rules_glossary/c/campaign",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign"
+          "link": {
+            "id": "rules_glossary/c/campaign",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign"
+          }
         },
         {
           "type": "text",
@@ -52,9 +54,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1-set-up-player-areas",
-          "url": "#1-set-up-player-areas"
+          "link": {
+            "id": null,
+            "anchor": "1-set-up-player-areas",
+            "url": "#1-set-up-player-areas"
+          }
         }
       ],
       "anchor": "1-set-up-player-areas"
@@ -74,9 +78,11 @@
               "text": "aspect"
             }
           ],
-          "id": "rules_glossary/a/aspects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/aspects"
+          "link": {
+            "id": "rules_glossary/a/aspects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/aspects"
+          }
         },
         {
           "type": "text",
@@ -90,9 +96,11 @@
               "text": "role"
             }
           ],
-          "id": "rules_glossary/r/role",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/role"
+          "link": {
+            "id": "rules_glossary/r/role",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/role"
+          }
         },
         {
           "type": "text",
@@ -106,9 +114,11 @@
               "text": "common test"
             }
           ],
-          "id": "rules_glossary/c/common_test",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/common_tests"
+          "link": {
+            "id": "rules_glossary/c/common_test",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/common_tests"
+          }
         },
         {
           "type": "text",
@@ -122,9 +132,11 @@
               "text": "player area"
             }
           ],
-          "id": "rules_glossary/p/player_area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/player_area"
+          "link": {
+            "id": "rules_glossary/p/player_area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/player_area"
+          }
         },
         {
           "type": "text",
@@ -138,9 +150,11 @@
               "text": "energy"
             }
           ],
-          "id": "rules_glossary/e/energy",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/energy"
+          "link": {
+            "id": "rules_glossary/e/energy",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/energy"
+          }
         },
         {
           "type": "text",
@@ -166,9 +180,11 @@
                   "text": "search"
                 }
               ],
-              "id": "rules_glossary/s/search",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/search"
+              "link": {
+                "id": "rules_glossary/s/search",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/search"
+              }
             },
             {
               "type": "text",
@@ -182,9 +198,11 @@
                   "text": "keyword"
                 }
               ],
-              "id": "rules_glossary/k/keywords",
-              "anchor": "",
-              "url": "/docs/rules_glossary/K/keywords"
+              "link": {
+                "id": "rules_glossary/k/keywords",
+                "anchor": "",
+                "url": "/docs/rules_glossary/K/keywords"
+              }
             },
             {
               "type": "text",
@@ -204,9 +222,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "2-draw-starting-hand",
-          "url": "#2-draw-starting-hand"
+          "link": {
+            "id": null,
+            "anchor": "2-draw-starting-hand",
+            "url": "#2-draw-starting-hand"
+          }
         }
       ],
       "anchor": "2-draw-starting-hand"
@@ -226,9 +246,11 @@
               "text": "mulligan"
             }
           ],
-          "id": "rules_glossary/m/mulligan",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/mulligan"
+          "link": {
+            "id": "rules_glossary/m/mulligan",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/mulligan"
+          }
         },
         {
           "type": "text",
@@ -246,9 +268,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "3-elect-the-lead-ranger",
-          "url": "#3-elect-the-lead-ranger"
+          "link": {
+            "id": null,
+            "anchor": "3-elect-the-lead-ranger",
+            "url": "#3-elect-the-lead-ranger"
+          }
         }
       ],
       "anchor": "3-elect-the-lead-ranger"
@@ -268,9 +292,11 @@
               "text": "path card"
             }
           ],
-          "id": "rules_glossary/p/path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/path_cards"
+          "link": {
+            "id": "rules_glossary/p/path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/path_cards"
+          }
         },
         {
           "type": "text",
@@ -284,9 +310,11 @@
               "text": "round"
             }
           ],
-          "id": "rules_glossary/r/round",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/round"
+          "link": {
+            "id": "rules_glossary/r/round",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/round"
+          }
         },
         {
           "type": "text",
@@ -304,9 +332,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "4-shuffle-the-challenge-deck",
-          "url": "#4-shuffle-the-challenge-deck"
+          "link": {
+            "id": null,
+            "anchor": "4-shuffle-the-challenge-deck",
+            "url": "#4-shuffle-the-challenge-deck"
+          }
         }
       ],
       "anchor": "4-shuffle-the-challenge-deck"
@@ -326,9 +356,11 @@
               "text": "surroundings"
             }
           ],
-          "id": "rules_glossary/s/surroundings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/surroundings"
+          "link": {
+            "id": "rules_glossary/s/surroundings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/surroundings"
+          }
         }
       ]
     },
@@ -342,9 +374,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "5-set-up-the-starting-location",
-          "url": "#5-set-up-the-starting-location"
+          "link": {
+            "id": null,
+            "anchor": "5-set-up-the-starting-location",
+            "url": "#5-set-up-the-starting-location"
+          }
         }
       ],
       "anchor": "5-set-up-the-starting-location"
@@ -364,9 +398,11 @@
               "text": "location"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -380,9 +416,11 @@
               "text": "surroundings"
             }
           ],
-          "id": "rules_glossary/s/surroundings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/surroundings"
+          "link": {
+            "id": "rules_glossary/s/surroundings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/surroundings"
+          }
         },
         {
           "type": "text",
@@ -396,9 +434,11 @@
               "text": "campaign tracker"
             }
           ],
-          "id": "rules_glossary/c/campaign_tracker",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_tracker"
+          "link": {
+            "id": "rules_glossary/c/campaign_tracker",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_tracker"
+          }
         }
       ]
     },
@@ -412,9 +452,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "6-set-up-the-weather-card",
-          "url": "#6-set-up-the-weather-card"
+          "link": {
+            "id": null,
+            "anchor": "6-set-up-the-weather-card",
+            "url": "#6-set-up-the-weather-card"
+          }
         }
       ],
       "anchor": "6-set-up-the-weather-card"
@@ -434,9 +476,11 @@
               "text": "weather"
             }
           ],
-          "id": "rules_glossary/w/weather",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/weather"
+          "link": {
+            "id": "rules_glossary/w/weather",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/weather"
+          }
         },
         {
           "type": "text",
@@ -450,9 +494,11 @@
               "text": "campaign tracker"
             }
           ],
-          "id": "rules_glossary/c/campaign_tracker",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_tracker"
+          "link": {
+            "id": "rules_glossary/c/campaign_tracker",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_tracker"
+          }
         },
         {
           "type": "text",
@@ -466,9 +512,11 @@
               "text": "surroundings"
             }
           ],
-          "id": "rules_glossary/s/surroundings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/surroundings"
+          "link": {
+            "id": "rules_glossary/s/surroundings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/surroundings"
+          }
         },
         {
           "type": "text",
@@ -482,9 +530,11 @@
               "text": "campaign tracker"
             }
           ],
-          "id": "rules_glossary/c/campaign_tracker",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_tracker"
+          "link": {
+            "id": "rules_glossary/c/campaign_tracker",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_tracker"
+          }
         },
         {
           "type": "text",
@@ -498,9 +548,11 @@
               "text": "campaign guide"
             }
           ],
-          "id": "rules_glossary/c/campaign_guide",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_guide"
+          "link": {
+            "id": "rules_glossary/c/campaign_guide",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_guide"
+          }
         },
         {
           "type": "text",
@@ -514,9 +566,11 @@
               "text": "day track"
             }
           ],
-          "id": "rules_glossary/d/day_track",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/day_track"
+          "link": {
+            "id": "rules_glossary/d/day_track",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/day_track"
+          }
         }
       ]
     },
@@ -530,9 +584,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "7-set-up-mission-cards",
-          "url": "#7-set-up-mission-cards"
+          "link": {
+            "id": null,
+            "anchor": "7-set-up-mission-cards",
+            "url": "#7-set-up-mission-cards"
+          }
         }
       ],
       "anchor": "7-set-up-mission-cards"
@@ -552,9 +608,11 @@
               "text": "mission"
             }
           ],
-          "id": "rules_glossary/m/missions",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/missions"
+          "link": {
+            "id": "rules_glossary/m/missions",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/missions"
+          }
         },
         {
           "type": "text",
@@ -568,9 +626,11 @@
               "text": "campaign tracker"
             }
           ],
-          "id": "rules_glossary/c/campaign_tracker",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_tracker"
+          "link": {
+            "id": "rules_glossary/c/campaign_tracker",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_tracker"
+          }
         },
         {
           "type": "text",
@@ -584,9 +644,11 @@
               "text": "surroundings"
             }
           ],
-          "id": "rules_glossary/s/surroundings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/surroundings"
+          "link": {
+            "id": "rules_glossary/s/surroundings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/surroundings"
+          }
         },
         {
           "type": "text",
@@ -604,9 +666,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "8-build-and-shuffle-the-path-deck",
-          "url": "#8-build-and-shuffle-the-path-deck"
+          "link": {
+            "id": null,
+            "anchor": "8-build-and-shuffle-the-path-deck",
+            "url": "#8-build-and-shuffle-the-path-deck"
+          }
         }
       ],
       "anchor": "8-build-and-shuffle-the-path-deck"
@@ -626,9 +690,11 @@
               "text": "path cards"
             }
           ],
-          "id": "rules_glossary/p/path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/path_cards"
+          "link": {
+            "id": "rules_glossary/p/path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/path_cards"
+          }
         },
         {
           "type": "text",
@@ -642,9 +708,11 @@
               "text": "set"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -658,9 +726,11 @@
               "text": "campaign tracker"
             }
           ],
-          "id": "rules_glossary/c/campaign_tracker",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_tracker"
+          "link": {
+            "id": "rules_glossary/c/campaign_tracker",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_tracker"
+          }
         },
         {
           "type": "text",
@@ -674,9 +744,11 @@
               "text": "path cards"
             }
           ],
-          "id": "rules_glossary/p/path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/path_cards"
+          "link": {
+            "id": "rules_glossary/p/path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/path_cards"
+          }
         },
         {
           "type": "text",
@@ -690,9 +762,11 @@
               "text": "set"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -706,9 +780,11 @@
               "text": "weather"
             }
           ],
-          "id": "rules_glossary/w/weather",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/weather"
+          "link": {
+            "id": "rules_glossary/w/weather",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/weather"
+          }
         },
         {
           "type": "a",
@@ -718,9 +794,11 @@
               "text": "missions"
             }
           ],
-          "id": "rules_glossary/m/missions",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/missions"
+          "link": {
+            "id": "rules_glossary/m/missions",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/missions"
+          }
         },
         {
           "type": "text",
@@ -734,9 +812,11 @@
               "text": "location"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -750,9 +830,11 @@
               "text": "surroundings"
             }
           ],
-          "id": "rules_glossary/s/surroundings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/surroundings"
+          "link": {
+            "id": "rules_glossary/s/surroundings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/surroundings"
+          }
         }
       ]
     },
@@ -780,9 +862,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "9-resolve-arrival-setup",
-          "url": "#9-resolve-arrival-setup"
+          "link": {
+            "id": null,
+            "anchor": "9-resolve-arrival-setup",
+            "url": "#9-resolve-arrival-setup"
+          }
         }
       ],
       "anchor": "9-resolve-arrival-setup"
@@ -806,9 +890,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "10-finishing-touches",
-          "url": "#10-finishing-touches"
+          "link": {
+            "id": null,
+            "anchor": "10-finishing-touches",
+            "url": "#10-finishing-touches"
+          }
         }
       ],
       "anchor": "10-finishing-touches"
@@ -828,9 +914,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -844,9 +932,11 @@
               "text": "missions"
             }
           ],
-          "id": "rules_glossary/m/missions",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/missions"
+          "link": {
+            "id": "rules_glossary/m/missions",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/missions"
+          }
         },
         {
           "type": "text",

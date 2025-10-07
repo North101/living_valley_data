@@ -19,9 +19,11 @@
               "text": "missions"
             }
           ],
-          "id": "rules_glossary/m/missions",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/missions"
+          "link": {
+            "id": "rules_glossary/m/missions",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/missions"
+          }
         },
         {
           "type": "text",
@@ -56,9 +58,11 @@
                   "text": "creating ranger decks"
                 }
               ],
-              "id": "rules_glossary/c/creating_ranger_decks",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/creating_ranger_decks"
+              "link": {
+                "id": "rules_glossary/c/creating_ranger_decks",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/creating_ranger_decks"
+              }
             },
             {
               "type": "text",
@@ -72,9 +76,11 @@
                   "text": "campaign guide"
                 }
               ],
-              "id": "rules_glossary/c/campaign_guide",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign_guide"
+              "link": {
+                "id": "rules_glossary/c/campaign_guide",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign_guide"
+              }
             },
             {
               "type": "text",
@@ -97,9 +103,11 @@
                   "text": "Prologue"
                 }
               ],
-              "id": "rules_glossary/p/prologue",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/prologue"
+              "link": {
+                "id": "rules_glossary/p/prologue",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/prologue"
+              }
             },
             {
               "type": "text",
@@ -113,9 +121,11 @@
                   "text": "campaign guide"
                 }
               ],
-              "id": "rules_glossary/c/campaign_guide",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign_guide"
+              "link": {
+                "id": "rules_glossary/c/campaign_guide",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign_guide"
+              }
             },
             {
               "type": "text",
@@ -140,9 +150,11 @@
               "text": "setup"
             }
           ],
-          "id": "rules_glossary/s/setup",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/setup"
+          "link": {
+            "id": "rules_glossary/s/setup",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/setup"
+          }
         },
         {
           "type": "text",
@@ -174,9 +186,11 @@
               "text": "campaign tracker"
             }
           ],
-          "id": "rules_glossary/c/campaign_tracker",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_tracker"
+          "link": {
+            "id": "rules_glossary/c/campaign_tracker",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_tracker"
+          }
         },
         {
           "type": "text",

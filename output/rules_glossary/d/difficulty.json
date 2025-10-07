@@ -19,9 +19,11 @@
               "text": "test"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "effort"
             }
           ],
-          "id": "rules_glossary/e/effort",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/effort"
+          "link": {
+            "id": "rules_glossary/e/effort",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/effort"
+          }
         },
         {
           "type": "text",

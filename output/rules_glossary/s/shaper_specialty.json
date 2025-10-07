@@ -19,9 +19,11 @@
               "text": "sets"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "conduit"
             }
           ],
-          "id": "rules_glossary/c/conduit_keyword",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/conduit"
+          "link": {
+            "id": "rules_glossary/c/conduit_keyword",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/conduit"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "gear"
             }
           ],
-          "id": "rules_glossary/g/gear",
-          "anchor": "",
-          "url": "/docs/rules_glossary/G/gear"
+          "link": {
+            "id": "rules_glossary/g/gear",
+            "anchor": "",
+            "url": "/docs/rules_glossary/G/gear"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "conduit"
             }
           ],
-          "id": "rules_glossary/c/conduit_keyword",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/conduit"
+          "link": {
+            "id": "rules_glossary/c/conduit_keyword",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/conduit"
+          }
         },
         {
           "type": "text",
@@ -96,9 +104,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "life-as-a-shaper",
-          "url": "#life-as-a-shaper"
+          "link": {
+            "id": null,
+            "anchor": "life-as-a-shaper",
+            "url": "#life-as-a-shaper"
+          }
         }
       ],
       "anchor": "life-as-a-shaper"

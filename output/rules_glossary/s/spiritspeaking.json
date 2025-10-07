@@ -15,9 +15,11 @@
               "text": "Spirit Speakers"
             }
           ],
-          "id": "rules_glossary/s/spirit_speaker_specialty",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/spirit_speaker"
+          "link": {
+            "id": "rules_glossary/s/spirit_speaker_specialty",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/spirit_speaker"
+          }
         },
         {
           "type": "text",
@@ -40,9 +42,11 @@
               "text": "exhaust"
             }
           ],
-          "id": "rules_glossary/e/exhaust",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/exhaust"
+          "link": {
+            "id": "rules_glossary/e/exhaust",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/exhaust"
+          }
         },
         {
           "type": "text",
@@ -56,9 +60,11 @@
               "text": "role"
             }
           ],
-          "id": "rules_glossary/r/role",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/role"
+          "link": {
+            "id": "rules_glossary/r/role",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/role"
+          }
         },
         {
           "type": "text",
@@ -72,9 +78,11 @@
               "text": "Common Tests"
             }
           ],
-          "id": "rules_glossary/c/common_test",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/common_tests"
+          "link": {
+            "id": "rules_glossary/c/common_test",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/common_tests"
+          }
         },
         {
           "type": "text",
@@ -100,9 +108,11 @@
                   "text": "common tests"
                 }
               ],
-              "id": "rules_glossary/c/common_test",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/common_tests"
+              "link": {
+                "id": "rules_glossary/c/common_test",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/common_tests"
+              }
             }
           ]
         },
@@ -121,9 +131,11 @@
                   "text": "tests"
                 }
               ],
-              "id": "rules_glossary/t/tests",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/tests"
+              "link": {
+                "id": "rules_glossary/t/tests",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/tests"
+              }
             },
             {
               "type": "text",
@@ -146,9 +158,11 @@
                   "text": "tests"
                 }
               ],
-              "id": "rules_glossary/t/tests",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/tests"
+              "link": {
+                "id": "rules_glossary/t/tests",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/tests"
+              }
             },
             {
               "type": "text",
@@ -173,9 +187,11 @@
               "text": "ready"
             }
           ],
-          "id": "rules_glossary/r/ready",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ready"
+          "link": {
+            "id": "rules_glossary/r/ready",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ready"
+          }
         },
         {
           "type": "text",
@@ -189,9 +205,11 @@
               "text": "role"
             }
           ],
-          "id": "rules_glossary/r/role",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/role"
+          "link": {
+            "id": "rules_glossary/r/role",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/role"
+          }
         },
         {
           "type": "text",
@@ -205,9 +223,11 @@
               "text": "refresh phase"
             }
           ],
-          "id": "rules_glossary/p/phase_4_refresh",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/phase_4_refresh"
+          "link": {
+            "id": "rules_glossary/p/phase_4_refresh",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/phase_4_refresh"
+          }
         },
         {
           "type": "text",
@@ -221,9 +241,11 @@
               "text": "Common Tests"
             }
           ],
-          "id": "rules_glossary/c/common_test",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/common_tests"
+          "link": {
+            "id": "rules_glossary/c/common_test",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/common_tests"
+          }
         },
         {
           "type": "text",
@@ -249,9 +271,11 @@
                   "text": "role"
                 }
               ],
-              "id": "rules_glossary/r/role",
-              "anchor": "",
-              "url": "/docs/rules_glossary/R/role"
+              "link": {
+                "id": "rules_glossary/r/role",
+                "anchor": "",
+                "url": "/docs/rules_glossary/R/role"
+              }
             },
             {
               "type": "text",
@@ -265,9 +289,11 @@
                   "text": "exhausted"
                 }
               ],
-              "id": "rules_glossary/e/exhaust",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/exhaust"
+              "link": {
+                "id": "rules_glossary/e/exhaust",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/exhaust"
+              }
             },
             {
               "type": "text",
@@ -281,9 +307,11 @@
                   "text": "test"
                 }
               ],
-              "id": "rules_glossary/t/tests",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/tests"
+              "link": {
+                "id": "rules_glossary/t/tests",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/tests"
+              }
             },
             {
               "type": "text",

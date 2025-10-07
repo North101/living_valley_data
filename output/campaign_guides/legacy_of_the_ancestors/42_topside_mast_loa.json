@@ -19,9 +19,11 @@
               "text": "42.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa/42_1_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/topside_mast/42_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa/42_1_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/topside_mast/42_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -55,9 +57,11 @@
               "text": "42.2"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa/42_2_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/topside_mast/42_2"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa/42_2_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/topside_mast/42_2"
+          }
         }
       ]
     }

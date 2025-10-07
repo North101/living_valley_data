@@ -19,9 +19,11 @@
               "text": "play area"
             }
           ],
-          "id": "rules_glossary/p/the_play_area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/play_area"
+          "link": {
+            "id": "rules_glossary/p/the_play_area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/play_area"
+          }
         },
         {
           "type": "text",
@@ -39,9 +41,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "attached-facedown-cards",
-          "url": "#attached-facedown-cards"
+          "link": {
+            "id": null,
+            "anchor": "attached-facedown-cards",
+            "url": "#attached-facedown-cards"
+          }
         }
       ],
       "anchor": "attached-facedown-cards"
@@ -61,9 +65,11 @@
               "text": "attached"
             }
           ],
-          "id": "rules_glossary/a/attach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/attach"
+          "link": {
+            "id": "rules_glossary/a/attach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/attach"
+          }
         },
         {
           "type": "text",
@@ -77,9 +83,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -93,9 +101,11 @@
               "text": "discard"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -113,9 +123,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "in-play-facedown-cards",
-          "url": "#in-play-facedown-cards"
+          "link": {
+            "id": null,
+            "anchor": "in-play-facedown-cards",
+            "url": "#in-play-facedown-cards"
+          }
         }
       ],
       "anchor": "in-play-facedown-cards"
@@ -135,9 +147,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",

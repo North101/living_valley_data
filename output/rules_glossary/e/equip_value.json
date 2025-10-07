@@ -23,9 +23,11 @@
               "text": "gear"
             }
           ],
-          "id": "rules_glossary/g/gear",
-          "anchor": "",
-          "url": "/docs/rules_glossary/G/gear"
+          "link": {
+            "id": "rules_glossary/g/gear",
+            "anchor": "",
+            "url": "/docs/rules_glossary/G/gear"
+          }
         },
         {
           "type": "text",
@@ -39,9 +41,11 @@
               "text": "attachment"
             }
           ],
-          "id": "rules_glossary/a/attachments",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/attachment"
+          "link": {
+            "id": "rules_glossary/a/attachments",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/attachment"
+          }
         },
         {
           "type": "a",
@@ -51,9 +55,11 @@
               "text": "Ranger cards"
             }
           ],
-          "id": "rules_glossary/r/ranger_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ranger_cards"
+          "link": {
+            "id": "rules_glossary/r/ranger_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ranger_cards"
+          }
         },
         {
           "type": "text",
@@ -67,9 +73,11 @@
               "text": "player area"
             }
           ],
-          "id": "rules_glossary/p/player_area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/player_area"
+          "link": {
+            "id": "rules_glossary/p/player_area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/player_area"
+          }
         },
         {
           "type": "text",
@@ -83,9 +91,11 @@
               "text": "discard"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -111,9 +121,11 @@
                   "text": "turn"
                 }
               ],
-              "id": "rules_glossary/t/turns",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/turns"
+              "link": {
+                "id": "rules_glossary/t/turns",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/turns"
+              }
             },
             {
               "type": "text",
@@ -127,9 +139,11 @@
                   "text": "discard"
                 }
               ],
-              "id": "rules_glossary/d/discard",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/discard"
+              "link": {
+                "id": "rules_glossary/d/discard",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/discard"
+              }
             },
             {
               "type": "text",
@@ -143,9 +157,11 @@
                   "text": "equipped"
                 }
               ],
-              "id": "rules_glossary/e/equipped",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/equipped"
+              "link": {
+                "id": "rules_glossary/e/equipped",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/equipped"
+              }
             },
             {
               "type": "text",

@@ -19,9 +19,11 @@
               "text": "round"
             }
           ],
-          "id": "rules_glossary/r/round",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/round"
+          "link": {
+            "id": "rules_glossary/r/round",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/round"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "Phase 1: Path Cards"
             }
           ],
-          "id": "rules_glossary/p/phase_1_path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/phase_1_path_cards"
+          "link": {
+            "id": "rules_glossary/p/phase_1_path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/phase_1_path_cards"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "path card"
             }
           ],
-          "id": "rules_glossary/p/path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/path_cards"
+          "link": {
+            "id": "rules_glossary/p/path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/path_cards"
+          }
         }
       ]
     },
@@ -72,9 +78,11 @@
               "text": "path card"
             }
           ],
-          "id": "rules_glossary/p/path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/path_cards"
+          "link": {
+            "id": "rules_glossary/p/path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/path_cards"
+          }
         },
         {
           "type": "text",
@@ -96,9 +104,11 @@
                   "text": "Beings"
                 }
               ],
-              "id": "rules_glossary/b/beings",
-              "anchor": "",
-              "url": "/docs/rules_glossary/B/being"
+              "link": {
+                "id": "rules_glossary/b/beings",
+                "anchor": "",
+                "url": "/docs/rules_glossary/B/being"
+              }
             }
           ]
         },
@@ -113,9 +123,11 @@
                   "text": "Features"
                 }
               ],
-              "id": "rules_glossary/f/features",
-              "anchor": "",
-              "url": "/docs/rules_glossary/F/features"
+              "link": {
+                "id": "rules_glossary/f/features",
+                "anchor": "",
+                "url": "/docs/rules_glossary/F/features"
+              }
             }
           ]
         },
@@ -130,9 +142,11 @@
                   "text": "Moments"
                 }
               ],
-              "id": "rules_glossary/p/path_moments",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/path_moments"
+              "link": {
+                "id": "rules_glossary/p/path_moments",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/path_moments"
+              }
             },
             {
               "type": "text",
@@ -146,9 +160,11 @@
                   "text": "Moments on the Path"
                 }
               ],
-              "id": "rules_glossary/m/moments_on_the_path_expansion",
-              "anchor": "",
-              "url": "/docs/rules_glossary/M/moments_on_the_path"
+              "link": {
+                "id": "rules_glossary/m/moments_on_the_path_expansion",
+                "anchor": "",
+                "url": "/docs/rules_glossary/M/moments_on_the_path"
+              }
             },
             {
               "type": "text",
@@ -167,9 +183,11 @@
                   "text": "Attachments"
                 }
               ],
-              "id": "rules_glossary/p/path_attachments",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/path_attachments"
+              "link": {
+                "id": "rules_glossary/p/path_attachments",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/path_attachments"
+              }
             },
             {
               "type": "text",
@@ -183,9 +201,11 @@
                   "text": "Legacy of the Ancestors"
                 }
               ],
-              "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
-              "anchor": "",
-              "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
+              "link": {
+                "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
+                "anchor": "",
+                "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
+              }
             },
             {
               "type": "text",
@@ -210,9 +230,11 @@
               "text": "Ranger cards"
             }
           ],
-          "id": "rules_glossary/r/ranger_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ranger_cards"
+          "link": {
+            "id": "rules_glossary/r/ranger_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ranger_cards"
+          }
         },
         {
           "type": "text",
@@ -238,9 +260,11 @@
                   "text": "campaign guide"
                 }
               ],
-              "id": "rules_glossary/c/campaign_guide",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign_guide"
+              "link": {
+                "id": "rules_glossary/c/campaign_guide",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign_guide"
+              }
             },
             {
               "type": "text",
@@ -272,9 +296,11 @@
                   "text": "area"
                 }
               ],
-              "id": "rules_glossary/a/area",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/area"
+              "link": {
+                "id": "rules_glossary/a/area",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/area"
+              }
             },
             {
               "type": "text",
@@ -288,9 +314,11 @@
                   "text": "along the way"
                 }
               ],
-              "id": "rules_glossary/a/along_the_way",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/along_the_way"
+              "link": {
+                "id": "rules_glossary/a/along_the_way",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/along_the_way"
+              }
             },
             {
               "type": "text",
@@ -304,9 +332,11 @@
                   "text": "within reach"
                 }
               ],
-              "id": "rules_glossary/w/within_reach",
-              "anchor": "",
-              "url": "/docs/rules_glossary/W/within_reach"
+              "link": {
+                "id": "rules_glossary/w/within_reach",
+                "anchor": "",
+                "url": "/docs/rules_glossary/W/within_reach"
+              }
             },
             {
               "type": "text",

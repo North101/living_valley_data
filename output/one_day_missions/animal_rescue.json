@@ -68,9 +68,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "based-on-which-challenge-symbol-was-drawn",
-          "url": "#based-on-which-challenge-symbol-was-drawn"
+          "link": {
+            "id": null,
+            "anchor": "based-on-which-challenge-symbol-was-drawn",
+            "url": "#based-on-which-challenge-symbol-was-drawn"
+          }
         }
       ],
       "anchor": "based-on-which-challenge-symbol-was-drawn"
@@ -164,9 +166,11 @@
               "text": "find this card here."
             }
           ],
-          "id": "/assets/files/AnimalRescue-7750d30025eafe03cab4779f3af22cf1.pdf",
-          "anchor": "",
-          "url": "/assets/files/AnimalRescue-7750d30025eafe03cab4779f3af22cf1.pdf"
+          "link": {
+            "id": "/assets/files/AnimalRescue-7750d30025eafe03cab4779f3af22cf1.pdf",
+            "anchor": "",
+            "url": "/assets/files/AnimalRescue-7750d30025eafe03cab4779f3af22cf1.pdf"
+          }
         }
       ]
     },
@@ -272,9 +276,11 @@
               "text": "find this card here."
             }
           ],
-          "id": "/assets/files/AnimalRescue-7750d30025eafe03cab4779f3af22cf1.pdf",
-          "anchor": "",
-          "url": "/assets/files/AnimalRescue-7750d30025eafe03cab4779f3af22cf1.pdf"
+          "link": {
+            "id": "/assets/files/AnimalRescue-7750d30025eafe03cab4779f3af22cf1.pdf",
+            "anchor": "",
+            "url": "/assets/files/AnimalRescue-7750d30025eafe03cab4779f3af22cf1.pdf"
+          }
         }
       ]
     },
@@ -367,9 +373,11 @@
               "text": "find this card here."
             }
           ],
-          "id": "/assets/files/AnimalRescue-7750d30025eafe03cab4779f3af22cf1.pdf",
-          "anchor": "",
-          "url": "/assets/files/AnimalRescue-7750d30025eafe03cab4779f3af22cf1.pdf"
+          "link": {
+            "id": "/assets/files/AnimalRescue-7750d30025eafe03cab4779f3af22cf1.pdf",
+            "anchor": "",
+            "url": "/assets/files/AnimalRescue-7750d30025eafe03cab4779f3af22cf1.pdf"
+          }
         }
       ]
     },

@@ -19,9 +19,11 @@
               "text": "campaign"
             }
           ],
-          "id": "rules_glossary/c/campaign",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign"
+          "link": {
+            "id": "rules_glossary/c/campaign",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign"
+          }
         },
         {
           "type": "text",
@@ -43,9 +45,11 @@
                   "text": "Phase 1: Path Cards"
                 }
               ],
-              "id": "rules_glossary/p/phase_1_path_cards",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/phase_1_path_cards"
+              "link": {
+                "id": "rules_glossary/p/phase_1_path_cards",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/phase_1_path_cards"
+              }
             }
           ]
         },
@@ -60,9 +64,11 @@
                   "text": "Phase 2: Ranger Turns"
                 }
               ],
-              "id": "rules_glossary/p/phase_2_ranger_turns",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/phase_2_ranger_turns"
+              "link": {
+                "id": "rules_glossary/p/phase_2_ranger_turns",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/phase_2_ranger_turns"
+              }
             }
           ]
         },
@@ -77,9 +83,11 @@
                   "text": "Phase 3: Travel"
                 }
               ],
-              "id": "rules_glossary/p/phase_3_travel",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/phase_3_travel"
+              "link": {
+                "id": "rules_glossary/p/phase_3_travel",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/phase_3_travel"
+              }
             }
           ]
         },
@@ -94,9 +102,11 @@
                   "text": "Phase 4: Refresh"
                 }
               ],
-              "id": "rules_glossary/p/phase_4_refresh",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/phase_4_refresh"
+              "link": {
+                "id": "rules_glossary/p/phase_4_refresh",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/phase_4_refresh"
+              }
             }
           ]
         }
@@ -117,9 +127,11 @@
               "text": "round"
             }
           ],
-          "id": "rules_glossary/r/round",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/round"
+          "link": {
+            "id": "rules_glossary/r/round",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/round"
+          }
         },
         {
           "type": "text",
@@ -137,9 +149,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "round-flowchart",
-          "url": "#round-flowchart"
+          "link": {
+            "id": null,
+            "anchor": "round-flowchart",
+            "url": "#round-flowchart"
+          }
         }
       ],
       "anchor": "round-flowchart"

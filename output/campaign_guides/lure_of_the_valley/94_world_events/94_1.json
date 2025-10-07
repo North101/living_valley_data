@@ -14,9 +14,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "read-one",
-          "url": "#read-one"
+          "link": {
+            "id": null,
+            "anchor": "read-one",
+            "url": "#read-one"
+          }
         }
       ],
       "anchor": "read-one"
@@ -138,9 +140,11 @@
               "text": "1.03"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_03",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_03"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_03",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_03"
+          }
         }
       ]
     }

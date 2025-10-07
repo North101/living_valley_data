@@ -23,9 +23,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -39,9 +41,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -55,9 +59,11 @@
               "text": "effort"
             }
           ],
-          "id": "rules_glossary/e/effort",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/effort"
+          "link": {
+            "id": "rules_glossary/e/effort",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/effort"
+          }
         },
         {
           "type": "text",
@@ -71,9 +77,11 @@
               "text": "interacting"
             }
           ],
-          "id": "rules_glossary/i/interact",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/interact"
+          "link": {
+            "id": "rules_glossary/i/interact",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/interact"
+          }
         },
         {
           "type": "text",
@@ -99,9 +107,11 @@
                   "text": "progress threshold"
                 }
               ],
-              "id": "rules_glossary/p/progress_threshold",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/progress_threshold"
+              "link": {
+                "id": "rules_glossary/p/progress_threshold",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/progress_threshold"
+              }
             },
             {
               "type": "text",
@@ -115,9 +125,11 @@
                   "text": "cleared"
                 }
               ],
-              "id": "rules_glossary/c/clear",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/clear"
+              "link": {
+                "id": "rules_glossary/c/clear",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/clear"
+              }
             },
             {
               "type": "text",
@@ -140,9 +152,11 @@
                   "text": "discarded"
                 }
               ],
-              "id": "rules_glossary/d/discard",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/discard"
+              "link": {
+                "id": "rules_glossary/d/discard",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/discard"
+              }
             },
             {
               "type": "text",
@@ -156,9 +170,11 @@
                   "text": "role"
                 }
               ],
-              "id": "rules_glossary/r/role",
-              "anchor": "",
-              "url": "/docs/rules_glossary/R/role"
+              "link": {
+                "id": "rules_glossary/r/role",
+                "anchor": "",
+                "url": "/docs/rules_glossary/R/role"
+              }
             },
             {
               "type": "text",

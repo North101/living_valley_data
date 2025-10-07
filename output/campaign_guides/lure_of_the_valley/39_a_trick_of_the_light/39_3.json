@@ -14,9 +14,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "read-one",
-          "url": "#read-one"
+          "link": {
+            "id": null,
+            "anchor": "read-one",
+            "url": "#read-one"
+          }
         }
       ],
       "anchor": "read-one"

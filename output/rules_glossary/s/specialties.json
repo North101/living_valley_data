@@ -19,9 +19,11 @@
               "text": "sets"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -43,9 +45,11 @@
                   "text": "Artificer"
                 }
               ],
-              "id": "rules_glossary/a/artificer_specialty",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/artificer"
+              "link": {
+                "id": "rules_glossary/a/artificer_specialty",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/artificer"
+              }
             }
           ]
         },
@@ -60,9 +64,11 @@
                   "text": "Conciliator"
                 }
               ],
-              "id": "rules_glossary/c/conciliator_specialty",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/conciliator"
+              "link": {
+                "id": "rules_glossary/c/conciliator_specialty",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/conciliator"
+              }
             }
           ]
         },
@@ -77,9 +83,11 @@
                   "text": "Explorer"
                 }
               ],
-              "id": "rules_glossary/e/explorer_specialty",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/explorer"
+              "link": {
+                "id": "rules_glossary/e/explorer_specialty",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/explorer"
+              }
             }
           ]
         },
@@ -94,9 +102,11 @@
                   "text": "Shaper"
                 }
               ],
-              "id": "rules_glossary/s/shaper_specialty",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/shaper"
+              "link": {
+                "id": "rules_glossary/s/shaper_specialty",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/shaper"
+              }
             }
           ]
         },
@@ -111,9 +121,11 @@
                   "text": "Spirit Speaker"
                 }
               ],
-              "id": "rules_glossary/s/spirit_speaker_specialty",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/spirit_speaker"
+              "link": {
+                "id": "rules_glossary/s/spirit_speaker_specialty",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/spirit_speaker"
+              }
             },
             {
               "type": "text",

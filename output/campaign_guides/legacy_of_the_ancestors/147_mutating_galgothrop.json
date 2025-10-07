@@ -48,9 +48,11 @@
                       "text": "147.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mutating_galgothrop/147_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/mutating_galgothrop/147_1"
+                  }
                 }
               ]
             },
@@ -69,9 +71,11 @@
                       "text": "147.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mutating_galgothrop/147_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/mutating_galgothrop/147_2"
+                  }
                 }
               ]
             }
@@ -134,9 +138,11 @@
                       "text": "147.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mutating_galgothrop/147_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/mutating_galgothrop/147_3"
+                  }
                 }
               ]
             },

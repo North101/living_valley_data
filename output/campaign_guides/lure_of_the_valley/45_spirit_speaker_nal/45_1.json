@@ -42,9 +42,11 @@
               "text": "45.4"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_4",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/spirit_speaker_nal/45_4"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_4",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/spirit_speaker_nal/45_4"
+          }
         }
       ]
     }

@@ -37,9 +37,11 @@
               "text": "tests"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",
@@ -53,9 +55,11 @@
               "text": "location"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -69,9 +73,11 @@
               "text": "beings"
             }
           ],
-          "id": "rules_glossary/b/beings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/B/being"
+          "link": {
+            "id": "rules_glossary/b/beings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/B/being"
+          }
         },
         {
           "type": "text",
@@ -85,9 +91,11 @@
               "text": "progress threshold"
             }
           ],
-          "id": "rules_glossary/p/progress_threshold",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/progress_threshold"
+          "link": {
+            "id": "rules_glossary/p/progress_threshold",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/progress_threshold"
+          }
         },
         {
           "type": "text",

@@ -19,9 +19,11 @@
               "text": "sets"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "progress"
             }
           ],
-          "id": "rules_glossary/p/progress",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/progress"
+          "link": {
+            "id": "rules_glossary/p/progress",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/progress"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "features"
             }
           ],
-          "id": "rules_glossary/f/features",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/features"
+          "link": {
+            "id": "rules_glossary/f/features",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/features"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "locations"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "a",
@@ -88,9 +96,11 @@
               "text": "scouting"
             }
           ],
-          "id": "rules_glossary/s/scout",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/scout"
+          "link": {
+            "id": "rules_glossary/s/scout",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/scout"
+          }
         },
         {
           "type": "text",
@@ -104,9 +114,11 @@
               "text": "Valley map"
             }
           ],
-          "id": "rules_glossary/v/the_valley_map",
-          "anchor": "",
-          "url": "/docs/rules_glossary/V/valley_map"
+          "link": {
+            "id": "rules_glossary/v/the_valley_map",
+            "anchor": "",
+            "url": "/docs/rules_glossary/V/valley_map"
+          }
         }
       ]
     },
@@ -120,9 +132,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "life-as-an-explorer",
-          "url": "#life-as-an-explorer"
+          "link": {
+            "id": null,
+            "anchor": "life-as-an-explorer",
+            "url": "#life-as-an-explorer"
+          }
         }
       ],
       "anchor": "life-as-an-explorer"

@@ -199,9 +199,11 @@
               "text": "107.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_1"
+          }
         },
         {
           "type": "text",
@@ -239,9 +241,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1120a",
-          "url": "#1120a"
+          "link": {
+            "id": null,
+            "anchor": "1120a",
+            "url": "#1120a"
+          }
         }
       ],
       "anchor": "1120a"

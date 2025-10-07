@@ -19,9 +19,11 @@
               "text": "19.1"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/19_the_plummet/19_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/the_plummet/19_1"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/19_the_plummet/19_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/the_plummet/19_1"
+          }
         }
       ],
       "highlight_color": "blue"

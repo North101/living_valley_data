@@ -28,9 +28,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose",
-          "url": "#rangers-choose"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose",
+            "url": "#rangers-choose"
+          }
         }
       ],
       "anchor": "rangers-choose"
@@ -79,9 +81,11 @@
               "text": "61.3"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_3_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_3"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_3_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_3"
+          }
         }
       ]
     },

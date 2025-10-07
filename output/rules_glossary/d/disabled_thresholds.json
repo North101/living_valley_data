@@ -19,9 +19,11 @@
               "text": "progress threshold"
             }
           ],
-          "id": "rules_glossary/p/progress_threshold",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/progress_threshold"
+          "link": {
+            "id": "rules_glossary/p/progress_threshold",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/progress_threshold"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "harm threshold"
             }
           ],
-          "id": "rules_glossary/h/harm_threshold",
-          "anchor": "",
-          "url": "/docs/rules_glossary/H/harm_threshold"
+          "link": {
+            "id": "rules_glossary/h/harm_threshold",
+            "anchor": "",
+            "url": "/docs/rules_glossary/H/harm_threshold"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "progress"
             }
           ],
-          "id": "rules_glossary/p/progress",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/progress"
+          "link": {
+            "id": "rules_glossary/p/progress",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/progress"
+          }
         },
         {
           "type": "text",
@@ -67,9 +73,11 @@
               "text": "harm"
             }
           ],
-          "id": "rules_glossary/h/harm",
-          "anchor": "",
-          "url": "/docs/rules_glossary/H/harm"
+          "link": {
+            "id": "rules_glossary/h/harm",
+            "anchor": "",
+            "url": "/docs/rules_glossary/H/harm"
+          }
         },
         {
           "type": "text",
@@ -83,9 +91,11 @@
               "text": "progress"
             }
           ],
-          "id": "rules_glossary/p/progress",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/progress"
+          "link": {
+            "id": "rules_glossary/p/progress",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/progress"
+          }
         },
         {
           "type": "text",
@@ -99,9 +109,11 @@
               "text": "harm"
             }
           ],
-          "id": "rules_glossary/h/harm",
-          "anchor": "",
-          "url": "/docs/rules_glossary/H/harm"
+          "link": {
+            "id": "rules_glossary/h/harm",
+            "anchor": "",
+            "url": "/docs/rules_glossary/H/harm"
+          }
         },
         {
           "type": "text",

@@ -19,9 +19,11 @@
               "text": "features"
             }
           ],
-          "id": "rules_glossary/f/features",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/features"
+          "link": {
+            "id": "rules_glossary/f/features",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/features"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "beings"
             }
           ],
-          "id": "rules_glossary/b/beings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/B/being"
+          "link": {
+            "id": "rules_glossary/b/beings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/B/being"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "Legacy of the Ancestors"
             }
           ],
-          "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
+          "link": {
+            "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
+          }
         },
         {
           "type": "text",
@@ -67,9 +73,11 @@
               "text": "path card"
             }
           ],
-          "id": "rules_glossary/p/path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/path_cards"
+          "link": {
+            "id": "rules_glossary/p/path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/path_cards"
+          }
         },
         {
           "type": "text",
@@ -92,9 +100,11 @@
               "text": "attached"
             }
           ],
-          "id": "rules_glossary/a/attach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/attach"
+          "link": {
+            "id": "rules_glossary/a/attach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/attach"
+          }
         },
         {
           "type": "text",
@@ -108,9 +118,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -124,9 +136,11 @@
               "text": "attached"
             }
           ],
-          "id": "rules_glossary/a/attach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/attach"
+          "link": {
+            "id": "rules_glossary/a/attach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/attach"
+          }
         },
         {
           "type": "text",
@@ -140,9 +154,11 @@
               "text": "discard"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",

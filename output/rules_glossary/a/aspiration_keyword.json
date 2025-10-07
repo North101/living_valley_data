@@ -19,9 +19,11 @@
               "text": "mission"
             }
           ],
-          "id": "rules_glossary/m/missions",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/missions"
+          "link": {
+            "id": "rules_glossary/m/missions",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/missions"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "reward"
             }
           ],
-          "id": "rules_glossary/r/rewards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/rewards"
+          "link": {
+            "id": "rules_glossary/r/rewards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/rewards"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "campaign tracker"
             }
           ],
-          "id": "rules_glossary/c/campaign_tracker",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_tracker"
+          "link": {
+            "id": "rules_glossary/c/campaign_tracker",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_tracker"
+          }
         },
         {
           "type": "text",
@@ -91,9 +97,11 @@
                       "text": "gear"
                     }
                   ],
-                  "id": "rules_glossary/g/gear",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/G/gear"
+                  "link": {
+                    "id": "rules_glossary/g/gear",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/G/gear"
+                  }
                 },
                 {
                   "type": "text",
@@ -107,9 +115,11 @@
                       "text": "campaign tracker"
                     }
                   ],
-                  "id": "rules_glossary/c/campaign_tracker",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/C/campaign_tracker"
+                  "link": {
+                    "id": "rules_glossary/c/campaign_tracker",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/C/campaign_tracker"
+                  }
                 },
                 {
                   "type": "text",
@@ -137,9 +147,11 @@
                       "text": "campaign tracker"
                     }
                   ],
-                  "id": "rules_glossary/c/campaign_tracker",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/C/campaign_tracker"
+                  "link": {
+                    "id": "rules_glossary/c/campaign_tracker",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/C/campaign_tracker"
+                  }
                 },
                 {
                   "type": "text",
@@ -166,9 +178,11 @@
               "text": "reward"
             }
           ],
-          "id": "rules_glossary/r/rewards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/rewards"
+          "link": {
+            "id": "rules_glossary/r/rewards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/rewards"
+          }
         },
         {
           "type": "text",
@@ -182,9 +196,11 @@
               "text": "reward"
             }
           ],
-          "id": "rules_glossary/r/rewards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/rewards"
+          "link": {
+            "id": "rules_glossary/r/rewards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/rewards"
+          }
         },
         {
           "type": "text",
@@ -198,9 +214,11 @@
               "text": "reward"
             }
           ],
-          "id": "rules_glossary/r/rewards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/rewards"
+          "link": {
+            "id": "rules_glossary/r/rewards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/rewards"
+          }
         },
         {
           "type": "text",

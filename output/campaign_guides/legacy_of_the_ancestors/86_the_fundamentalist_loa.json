@@ -19,9 +19,11 @@
               "text": "86.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_1_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_fundamentalist/86_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_1_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_fundamentalist/86_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -55,9 +57,11 @@
               "text": "86.2"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_2_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_fundamentalist/86_2"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_2_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_fundamentalist/86_2"
+          }
         }
       ]
     },
@@ -91,9 +95,11 @@
               "text": "86.3"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_3_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_fundamentalist/86_3"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_3_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_fundamentalist/86_3"
+          }
         }
       ],
       "highlight_color": "blue"

@@ -22,9 +22,11 @@
                   "text": "47.5"
                 }
               ],
-              "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_5_loa",
-              "anchor": "",
-              "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_5"
+              "link": {
+                "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_5_loa",
+                "anchor": "",
+                "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_5"
+              }
             }
           ]
         }

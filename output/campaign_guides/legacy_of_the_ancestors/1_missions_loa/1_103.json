@@ -36,9 +36,11 @@
                   "text": "1.103a"
                 }
               ],
-              "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_103",
-              "anchor": "1103a",
-              "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_103#1103a"
+              "link": {
+                "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_103",
+                "anchor": "1103a",
+                "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_103#1103a"
+              }
             },
             {
               "type": "text",
@@ -278,9 +280,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1103a",
-          "url": "#1103a"
+          "link": {
+            "id": null,
+            "anchor": "1103a",
+            "url": "#1103a"
+          }
         }
       ],
       "anchor": "1103a"

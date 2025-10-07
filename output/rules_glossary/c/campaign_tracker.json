@@ -19,9 +19,11 @@
               "text": "campaign guide"
             }
           ],
-          "id": "rules_glossary/c/campaign_guide",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_guide"
+          "link": {
+            "id": "rules_glossary/c/campaign_guide",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_guide"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "campaign"
             }
           ],
-          "id": "rules_glossary/c/campaign",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign"
+          "link": {
+            "id": "rules_glossary/c/campaign",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign"
+          }
         },
         {
           "type": "text",
@@ -76,9 +80,11 @@
                   "text": "location"
                 }
               ],
-              "id": "rules_glossary/l/locations",
-              "anchor": "",
-              "url": "/docs/rules_glossary/L/locations"
+              "link": {
+                "id": "rules_glossary/l/locations",
+                "anchor": "",
+                "url": "/docs/rules_glossary/L/locations"
+              }
             },
             {
               "type": "text",
@@ -100,9 +106,11 @@
                       "text": "Day Track"
                     }
                   ],
-                  "id": "rules_glossary/d/day_track",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/D/day_track"
+                  "link": {
+                    "id": "rules_glossary/d/day_track",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/D/day_track"
+                  }
                 }
               ]
             },
@@ -118,9 +126,11 @@
                   "text": "campaign"
                 }
               ],
-              "id": "rules_glossary/c/campaign",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign"
+              "link": {
+                "id": "rules_glossary/c/campaign",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign"
+              }
             },
             {
               "type": "text",
@@ -134,9 +144,11 @@
                   "text": "weather"
                 }
               ],
-              "id": "rules_glossary/w/weather",
-              "anchor": "",
-              "url": "/docs/rules_glossary/W/weather"
+              "link": {
+                "id": "rules_glossary/w/weather",
+                "anchor": "",
+                "url": "/docs/rules_glossary/W/weather"
+              }
             },
             {
               "type": "text",
@@ -150,9 +162,11 @@
                   "text": "surroundings"
                 }
               ],
-              "id": "rules_glossary/s/surroundings",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/surroundings"
+              "link": {
+                "id": "rules_glossary/s/surroundings",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/surroundings"
+              }
             },
             {
               "type": "text",
@@ -166,9 +180,11 @@
                   "text": "setup"
                 }
               ],
-              "id": "rules_glossary/s/setup",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/setup"
+              "link": {
+                "id": "rules_glossary/s/setup",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/setup"
+              }
             },
             {
               "type": "text",
@@ -182,9 +198,11 @@
                   "text": "campaign guide icon"
                 }
               ],
-              "id": "rules_glossary/c/campaign_guide_icon",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign_guide_icon"
+              "link": {
+                "id": "rules_glossary/c/campaign_guide_icon",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign_guide_icon"
+              }
             },
             {
               "type": "text",
@@ -216,9 +234,11 @@
                   "text": "campaign guide"
                 }
               ],
-              "id": "rules_glossary/c/campaign_guide",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign_guide"
+              "link": {
+                "id": "rules_glossary/c/campaign_guide",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign_guide"
+              }
             },
             {
               "type": "text",
@@ -232,9 +252,11 @@
                   "text": "mission"
                 }
               ],
-              "id": "rules_glossary/m/missions",
-              "anchor": "",
-              "url": "/docs/rules_glossary/M/missions"
+              "link": {
+                "id": "rules_glossary/m/missions",
+                "anchor": "",
+                "url": "/docs/rules_glossary/M/missions"
+              }
             },
             {
               "type": "text",
@@ -280,9 +302,11 @@
                   "text": "campaign guide"
                 }
               ],
-              "id": "rules_glossary/c/campaign_guide",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign_guide"
+              "link": {
+                "id": "rules_glossary/c/campaign_guide",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign_guide"
+              }
             },
             {
               "type": "text",
@@ -296,9 +320,11 @@
                   "text": "collection"
                 }
               ],
-              "id": "rules_glossary/c/the_collection",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/collection"
+              "link": {
+                "id": "rules_glossary/c/the_collection",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/collection"
+              }
             },
             {
               "type": "text",

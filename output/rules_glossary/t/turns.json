@@ -19,9 +19,11 @@
               "text": "Phase 2: Ranger Turns"
             }
           ],
-          "id": "rules_glossary/p/phase_2_ranger_turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/phase_2_ranger_turns"
+          "link": {
+            "id": "rules_glossary/p/phase_2_ranger_turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/phase_2_ranger_turns"
+          }
         }
       ]
     }

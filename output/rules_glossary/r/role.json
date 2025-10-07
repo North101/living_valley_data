@@ -19,9 +19,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -96,9 +98,11 @@
                   "text": "exhaust"
                 }
               ],
-              "id": "rules_glossary/e/exhaust",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/exhaust"
+              "link": {
+                "id": "rules_glossary/e/exhaust",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/exhaust"
+              }
             },
             {
               "type": "text",
@@ -130,9 +134,11 @@
                   "text": "set"
                 }
               ],
-              "id": "rules_glossary/s/sets",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/sets"
+              "link": {
+                "id": "rules_glossary/s/sets",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/sets"
+              }
             },
             {
               "type": "text",

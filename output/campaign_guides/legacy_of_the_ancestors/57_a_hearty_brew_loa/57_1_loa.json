@@ -60,9 +60,11 @@
               "text": "1.105"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_105",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_105"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_105",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_105"
+          }
         }
       ]
     }

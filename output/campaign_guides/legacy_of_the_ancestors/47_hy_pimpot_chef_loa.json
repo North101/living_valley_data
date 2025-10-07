@@ -48,9 +48,11 @@
                       "text": "47.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_1_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_1_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_1"
+                  }
                 }
               ]
             },
@@ -69,9 +71,11 @@
                       "text": "47.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_2_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_2_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_2"
+                  }
                 }
               ]
             }
@@ -120,9 +124,11 @@
                       "text": "47.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_3_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_3_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_3"
+                  }
                 }
               ]
             },
@@ -155,9 +161,11 @@
                       "text": "47.6"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_6_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_6"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_6_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_6"
+                  }
                 }
               ]
             },
@@ -176,9 +184,11 @@
                       "text": "47.7"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_7_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_7"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_7_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_7"
+                  }
                 }
               ]
             }
@@ -216,9 +226,11 @@
               "text": "47.8"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_8_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_8"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_8_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_8"
+          }
         }
       ],
       "highlight_color": "blue"

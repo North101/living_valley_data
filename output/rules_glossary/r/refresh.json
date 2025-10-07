@@ -19,9 +19,11 @@
               "text": "Phase 4: Refresh"
             }
           ],
-          "id": "rules_glossary/p/phase_4_refresh",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/phase_4_refresh"
+          "link": {
+            "id": "rules_glossary/p/phase_4_refresh",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/phase_4_refresh"
+          }
         }
       ]
     }

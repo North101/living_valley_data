@@ -19,9 +19,11 @@
               "text": "test"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "challenge cards"
             }
           ],
-          "id": "rules_glossary/c/challenge_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/challenge_cards"
+          "link": {
+            "id": "rules_glossary/c/challenge_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/challenge_cards"
+          }
         }
       ]
     },
@@ -56,9 +60,11 @@
               "text": "challenge card"
             }
           ],
-          "id": "rules_glossary/c/challenge_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/challenge_cards"
+          "link": {
+            "id": "rules_glossary/c/challenge_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/challenge_cards"
+          }
         },
         {
           "type": "text",
@@ -72,9 +78,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         }
       ]
     },
@@ -93,9 +101,11 @@
               "text": "test"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",
@@ -109,9 +119,11 @@
               "text": "resolve"
             }
           ],
-          "id": "rules_glossary/r/resolve",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/resolve"
+          "link": {
+            "id": "rules_glossary/r/resolve",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/resolve"
+          }
         },
         {
           "type": "text",
@@ -125,9 +137,11 @@
               "text": "active"
             }
           ],
-          "id": "rules_glossary/a/active",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/active"
+          "link": {
+            "id": "rules_glossary/a/active",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/active"
+          }
         },
         {
           "type": "text",
@@ -150,9 +164,11 @@
               "text": "cleared"
             }
           ],
-          "id": "rules_glossary/c/clear",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/clear"
+          "link": {
+            "id": "rules_glossary/c/clear",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/clear"
+          }
         },
         {
           "type": "text",
@@ -166,9 +182,11 @@
               "text": "exhausted"
             }
           ],
-          "id": "rules_glossary/e/exhaust",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/exhaust"
+          "link": {
+            "id": "rules_glossary/e/exhaust",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/exhaust"
+          }
         },
         {
           "type": "text",
@@ -191,9 +209,11 @@
               "text": "harm"
             }
           ],
-          "id": "rules_glossary/h/harm",
-          "anchor": "",
-          "url": "/docs/rules_glossary/H/harm"
+          "link": {
+            "id": "rules_glossary/h/harm",
+            "anchor": "",
+            "url": "/docs/rules_glossary/H/harm"
+          }
         },
         {
           "type": "text",
@@ -207,9 +227,11 @@
               "text": "progress"
             }
           ],
-          "id": "rules_glossary/p/progress",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/progress"
+          "link": {
+            "id": "rules_glossary/p/progress",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/progress"
+          }
         },
         {
           "type": "text",
@@ -223,9 +245,11 @@
               "text": "turn"
             }
           ],
-          "id": "rules_glossary/t/turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/turns"
+          "link": {
+            "id": "rules_glossary/t/turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/turns"
+          }
         },
         {
           "type": "text",
@@ -256,9 +280,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "challenge-effect-order",
-          "url": "#challenge-effect-order"
+          "link": {
+            "id": null,
+            "anchor": "challenge-effect-order",
+            "url": "#challenge-effect-order"
+          }
         }
       ],
       "anchor": "challenge-effect-order"
@@ -286,9 +312,11 @@
                   "text": "Weather"
                 }
               ],
-              "id": "rules_glossary/w/weather",
-              "anchor": "",
-              "url": "/docs/rules_glossary/W/weather"
+              "link": {
+                "id": "rules_glossary/w/weather",
+                "anchor": "",
+                "url": "/docs/rules_glossary/W/weather"
+              }
             },
             {
               "type": "text",
@@ -307,9 +335,11 @@
                   "text": "Location"
                 }
               ],
-              "id": "rules_glossary/l/locations",
-              "anchor": "",
-              "url": "/docs/rules_glossary/L/locations"
+              "link": {
+                "id": "rules_glossary/l/locations",
+                "anchor": "",
+                "url": "/docs/rules_glossary/L/locations"
+              }
             },
             {
               "type": "text",
@@ -328,9 +358,11 @@
                   "text": "Mission"
                 }
               ],
-              "id": "rules_glossary/m/missions",
-              "anchor": "",
-              "url": "/docs/rules_glossary/M/missions"
+              "link": {
+                "id": "rules_glossary/m/missions",
+                "anchor": "",
+                "url": "/docs/rules_glossary/M/missions"
+              }
             },
             {
               "type": "text",
@@ -353,9 +385,11 @@
                   "text": "along the way"
                 }
               ],
-              "id": "rules_glossary/a/along_the_way",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/along_the_way"
+              "link": {
+                "id": "rules_glossary/a/along_the_way",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/along_the_way"
+              }
             }
           ]
         },
@@ -374,9 +408,11 @@
                   "text": "within reach"
                 }
               ],
-              "id": "rules_glossary/w/within_reach",
-              "anchor": "",
-              "url": "/docs/rules_glossary/W/within_reach"
+              "link": {
+                "id": "rules_glossary/w/within_reach",
+                "anchor": "",
+                "url": "/docs/rules_glossary/W/within_reach"
+              }
             }
           ]
         },
@@ -406,9 +442,11 @@
               "text": "resolves"
             }
           ],
-          "id": "rules_glossary/r/resolve",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/resolve"
+          "link": {
+            "id": "rules_glossary/r/resolve",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/resolve"
+          }
         },
         {
           "type": "text",
@@ -431,9 +469,11 @@
               "text": "moves"
             }
           ],
-          "id": "rules_glossary/m/move",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/move"
+          "link": {
+            "id": "rules_glossary/m/move",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/move"
+          }
         },
         {
           "type": "text",
@@ -447,9 +487,11 @@
               "text": "within reach"
             }
           ],
-          "id": "rules_glossary/w/within_reach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/within_reach"
+          "link": {
+            "id": "rules_glossary/w/within_reach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/within_reach"
+          }
         },
         {
           "type": "text",
@@ -463,9 +505,11 @@
               "text": "moved"
             }
           ],
-          "id": "rules_glossary/m/move",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/move"
+          "link": {
+            "id": "rules_glossary/m/move",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/move"
+          }
         },
         {
           "type": "text",
@@ -479,9 +523,11 @@
               "text": "along the way"
             }
           ],
-          "id": "rules_glossary/a/along_the_way",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/along_the_way"
+          "link": {
+            "id": "rules_glossary/a/along_the_way",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/along_the_way"
+          }
         },
         {
           "type": "text",
@@ -504,9 +550,11 @@
               "text": "within reach"
             }
           ],
-          "id": "rules_glossary/w/within_reach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/within_reach"
+          "link": {
+            "id": "rules_glossary/w/within_reach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/within_reach"
+          }
         },
         {
           "type": "text",
@@ -524,9 +572,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "conditional-challenge-effects",
-          "url": "#conditional-challenge-effects"
+          "link": {
+            "id": null,
+            "anchor": "conditional-challenge-effects",
+            "url": "#conditional-challenge-effects"
+          }
         }
       ],
       "anchor": "conditional-challenge-effects"
@@ -588,9 +638,11 @@
               "text": "resolving"
             }
           ],
-          "id": "rules_glossary/r/resolve",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/resolve"
+          "link": {
+            "id": "rules_glossary/r/resolve",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/resolve"
+          }
         },
         {
           "type": "text",

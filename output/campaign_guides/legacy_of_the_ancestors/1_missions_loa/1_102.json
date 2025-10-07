@@ -22,9 +22,11 @@
                   "text": "1.102a"
                 }
               ],
-              "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_102",
-              "anchor": "1102a",
-              "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_102#1102a"
+              "link": {
+                "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_102",
+                "anchor": "1102a",
+                "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_102#1102a"
+              }
             }
           ]
         }
@@ -130,9 +132,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1102a",
-          "url": "#1102a"
+          "link": {
+            "id": null,
+            "anchor": "1102a",
+            "url": "#1102a"
+          }
         }
       ],
       "anchor": "1102a"
@@ -214,9 +218,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1102b",
-          "url": "#1102b"
+          "link": {
+            "id": null,
+            "anchor": "1102b",
+            "url": "#1102b"
+          }
         }
       ],
       "anchor": "1102b"
@@ -295,9 +301,11 @@
               "text": "1.101a"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_101",
-          "anchor": "1101a",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_101#1101a"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_101",
+            "anchor": "1101a",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_101#1101a"
+          }
         }
       ]
     },
@@ -311,9 +319,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1102c",
-          "url": "#1102c"
+          "link": {
+            "id": null,
+            "anchor": "1102c",
+            "url": "#1102c"
+          }
         }
       ],
       "anchor": "1102c"
@@ -371,9 +381,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1102d",
-          "url": "#1102d"
+          "link": {
+            "id": null,
+            "anchor": "1102d",
+            "url": "#1102d"
+          }
         }
       ],
       "anchor": "1102d"

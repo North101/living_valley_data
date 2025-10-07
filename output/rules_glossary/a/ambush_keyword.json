@@ -19,9 +19,11 @@
               "text": "ready"
             }
           ],
-          "id": "rules_glossary/r/ready",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ready"
+          "link": {
+            "id": "rules_glossary/r/ready",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ready"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "keyword"
             }
           ],
-          "id": "rules_glossary/k/keywords",
-          "anchor": "",
-          "url": "/docs/rules_glossary/K/keywords"
+          "link": {
+            "id": "rules_glossary/k/keywords",
+            "anchor": "",
+            "url": "/docs/rules_glossary/K/keywords"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "within reach"
             }
           ],
-          "id": "rules_glossary/w/within_reach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/within_reach"
+          "link": {
+            "id": "rules_glossary/w/within_reach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/within_reach"
+          }
         },
         {
           "type": "text",
@@ -67,9 +73,11 @@
               "text": "fatigues"
             }
           ],
-          "id": "rules_glossary/f/fatigue",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/fatigue"
+          "link": {
+            "id": "rules_glossary/f/fatigue",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/fatigue"
+          }
         },
         {
           "type": "text",
@@ -92,9 +100,11 @@
               "text": "ready"
             }
           ],
-          "id": "rules_glossary/r/ready",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ready"
+          "link": {
+            "id": "rules_glossary/r/ready",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ready"
+          }
         },
         {
           "type": "text",
@@ -108,9 +118,11 @@
               "text": "moves"
             }
           ],
-          "id": "rules_glossary/m/move",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/move"
+          "link": {
+            "id": "rules_glossary/m/move",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/move"
+          }
         },
         {
           "type": "a",
@@ -120,9 +132,11 @@
               "text": "within reach"
             }
           ],
-          "id": "rules_glossary/w/within_reach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/within_reach"
+          "link": {
+            "id": "rules_glossary/w/within_reach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/within_reach"
+          }
         },
         {
           "type": "text",
@@ -136,9 +150,11 @@
               "text": "Fatigues"
             }
           ],
-          "id": "rules_glossary/f/fatigue",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/fatigue"
+          "link": {
+            "id": "rules_glossary/f/fatigue",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/fatigue"
+          }
         },
         {
           "type": "text",

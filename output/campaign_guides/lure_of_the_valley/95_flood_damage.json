@@ -14,9 +14,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "read-the-entry-corresponding-to-your-current-location",
-          "url": "#read-the-entry-corresponding-to-your-current-location"
+          "link": {
+            "id": null,
+            "anchor": "read-the-entry-corresponding-to-your-current-location",
+            "url": "#read-the-entry-corresponding-to-your-current-location"
+          }
         }
       ],
       "anchor": "read-the-entry-corresponding-to-your-current-location"

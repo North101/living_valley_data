@@ -19,9 +19,11 @@
               "text": "play area"
             }
           ],
-          "id": "rules_glossary/p/the_play_area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/play_area"
+          "link": {
+            "id": "rules_glossary/p/the_play_area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/play_area"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "collection"
             }
           ],
-          "id": "rules_glossary/c/the_collection",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/collection"
+          "link": {
+            "id": "rules_glossary/c/the_collection",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/collection"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "collection"
             }
           ],
-          "id": "rules_glossary/c/the_collection",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/collection"
+          "link": {
+            "id": "rules_glossary/c/the_collection",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/collection"
+          }
         },
         {
           "type": "text",

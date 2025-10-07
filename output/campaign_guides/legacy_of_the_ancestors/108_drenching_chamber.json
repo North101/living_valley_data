@@ -39,9 +39,11 @@
                       "text": "108.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/108_drenching_chamber/108_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/drenching_chamber/108_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/108_drenching_chamber/108_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/drenching_chamber/108_1"
+                  }
                 }
               ],
               "highlight_color": "blue"
@@ -93,9 +95,11 @@
               "text": "156.2"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/156_flooded_passage/156_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/flooded_passage/156_2"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/156_flooded_passage/156_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/flooded_passage/156_2"
+          }
         }
       ]
     },
@@ -114,9 +118,11 @@
               "text": "156.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/156_flooded_passage/156_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/flooded_passage/156_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/156_flooded_passage/156_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/flooded_passage/156_1"
+          }
         }
       ]
     }

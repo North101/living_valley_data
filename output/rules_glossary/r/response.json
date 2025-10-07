@@ -19,9 +19,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "moment"
             }
           ],
-          "id": "rules_glossary/m/moments",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/moments"
+          "link": {
+            "id": "rules_glossary/m/moments",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/moments"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "turn"
             }
           ],
-          "id": "rules_glossary/t/turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/turns"
+          "link": {
+            "id": "rules_glossary/t/turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/turns"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "turns"
             }
           ],
-          "id": "rules_glossary/t/turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/turns"
+          "link": {
+            "id": "rules_glossary/t/turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/turns"
+          }
         },
         {
           "type": "text",
@@ -104,9 +112,11 @@
                   "text": "path card"
                 }
               ],
-              "id": "rules_glossary/p/path_cards",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/path_cards"
+              "link": {
+                "id": "rules_glossary/p/path_cards",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/path_cards"
+              }
             },
             {
               "type": "a",
@@ -116,9 +126,11 @@
                   "text": "in play"
                 }
               ],
-              "id": "rules_glossary/i/in_play",
-              "anchor": "",
-              "url": "/docs/rules_glossary/I/in_play"
+              "link": {
+                "id": "rules_glossary/i/in_play",
+                "anchor": "",
+                "url": "/docs/rules_glossary/I/in_play"
+              }
             },
             {
               "type": "text",
@@ -132,9 +144,11 @@
                   "text": "turn"
                 }
               ],
-              "id": "rules_glossary/t/turns",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/turns"
+              "link": {
+                "id": "rules_glossary/t/turns",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/turns"
+              }
             },
             {
               "type": "text",
@@ -157,9 +171,11 @@
                   "text": "moment"
                 }
               ],
-              "id": "rules_glossary/m/moments",
-              "anchor": "",
-              "url": "/docs/rules_glossary/M/moments"
+              "link": {
+                "id": "rules_glossary/m/moments",
+                "anchor": "",
+                "url": "/docs/rules_glossary/M/moments"
+              }
             },
             {
               "type": "text",

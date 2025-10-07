@@ -64,9 +64,11 @@
               "text": "152.6"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_6",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_shadow_in_the_darkness/152_6"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_6",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_shadow_in_the_darkness/152_6"
+          }
         }
       ]
     }

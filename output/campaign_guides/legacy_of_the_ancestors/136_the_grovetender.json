@@ -19,9 +19,11 @@
               "text": "136.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_grovetender/136_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_grovetender/136_1"
+          }
         }
       ],
       "highlight_color": "blue"

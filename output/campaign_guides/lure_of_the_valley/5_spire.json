@@ -19,9 +19,11 @@
               "text": "53.6"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_6",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/silaro_mako_archaelologist/53_6"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_6",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/silaro_mako_archaelologist/53_6"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -41,9 +43,11 @@
               "text": "84.8"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_8",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/tala_the_red_exile/84_8"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_8",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/tala_the_red_exile/84_8"
+          }
         }
       ]
     },

@@ -19,9 +19,11 @@
               "text": "turns"
             }
           ],
-          "id": "rules_glossary/t/turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/turns"
+          "link": {
+            "id": "rules_glossary/t/turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/turns"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "round"
             }
           ],
-          "id": "rules_glossary/r/round",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/round"
+          "link": {
+            "id": "rules_glossary/r/round",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/round"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "turn"
             }
           ],
-          "id": "rules_glossary/t/turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/turns"
+          "link": {
+            "id": "rules_glossary/t/turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/turns"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "Phase 3: Travel"
             }
           ],
-          "id": "rules_glossary/p/phase_3_travel",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/phase_3_travel"
+          "link": {
+            "id": "rules_glossary/p/phase_3_travel",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/phase_3_travel"
+          }
         }
       ]
     }

@@ -19,9 +19,11 @@
               "text": "47.1"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/hy_pimpot_chef/47_1"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/hy_pimpot_chef/47_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -66,9 +68,11 @@
                       "text": "47.2"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/hy_pimpot_chef/47_2"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/hy_pimpot_chef/47_2"
+                  }
                 }
               ]
             },
@@ -87,9 +91,11 @@
                       "text": "47.3"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/hy_pimpot_chef/47_3"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/hy_pimpot_chef/47_3"
+                  }
                 }
               ]
             }
@@ -126,9 +132,11 @@
               "text": "47.6"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_6",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/hy_pimpot_chef/47_6"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_6",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/hy_pimpot_chef/47_6"
+          }
         }
       ],
       "highlight_color": "blue"

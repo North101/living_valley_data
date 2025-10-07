@@ -19,9 +19,11 @@
               "text": "Moments on the Path"
             }
           ],
-          "id": "rules_glossary/m/moments_on_the_path_expansion",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/moments_on_the_path"
+          "link": {
+            "id": "rules_glossary/m/moments_on_the_path_expansion",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/moments_on_the_path"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "setup"
             }
           ],
-          "id": "rules_glossary/s/setup",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/setup"
+          "link": {
+            "id": "rules_glossary/s/setup",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/setup"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "travel"
             }
           ],
-          "id": "rules_glossary/t/travel",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/travel"
+          "link": {
+            "id": "rules_glossary/t/travel",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/travel"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "set"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -142,9 +150,11 @@
               "text": "discards"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -167,9 +177,11 @@
               "text": "presence"
             }
           ],
-          "id": "rules_glossary/p/presence",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/presence"
+          "link": {
+            "id": "rules_glossary/p/presence",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/presence"
+          }
         },
         {
           "type": "text",
@@ -183,9 +195,11 @@
               "text": "presence"
             }
           ],
-          "id": "rules_glossary/p/presence",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/presence"
+          "link": {
+            "id": "rules_glossary/p/presence",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/presence"
+          }
         },
         {
           "type": "text",

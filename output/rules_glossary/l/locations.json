@@ -19,9 +19,11 @@
               "text": "surroundings"
             }
           ],
-          "id": "rules_glossary/s/surroundings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/surroundings"
+          "link": {
+            "id": "rules_glossary/s/surroundings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/surroundings"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "Valley map"
             }
           ],
-          "id": "rules_glossary/v/the_valley_map",
-          "anchor": "",
-          "url": "/docs/rules_glossary/V/valley_map"
+          "link": {
+            "id": "rules_glossary/v/the_valley_map",
+            "anchor": "",
+            "url": "/docs/rules_glossary/V/valley_map"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "Valley map"
             }
           ],
-          "id": "rules_glossary/v/the_valley_map",
-          "anchor": "",
-          "url": "/docs/rules_glossary/V/valley_map"
+          "link": {
+            "id": "rules_glossary/v/the_valley_map",
+            "anchor": "",
+            "url": "/docs/rules_glossary/V/valley_map"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "path cards"
             }
           ],
-          "id": "rules_glossary/p/path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/path_cards"
+          "link": {
+            "id": "rules_glossary/p/path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/path_cards"
+          }
         },
         {
           "type": "text",
@@ -92,9 +100,11 @@
               "text": "travel"
             }
           ],
-          "id": "rules_glossary/t/travel",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/travel"
+          "link": {
+            "id": "rules_glossary/t/travel",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/travel"
+          }
         },
         {
           "type": "text",
@@ -117,9 +127,11 @@
               "text": "path cards"
             }
           ],
-          "id": "rules_glossary/p/path_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/path_cards"
+          "link": {
+            "id": "rules_glossary/p/path_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/path_cards"
+          }
         },
         {
           "type": "text",
@@ -133,9 +145,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -149,9 +163,11 @@
               "text": "progress"
             }
           ],
-          "id": "rules_glossary/p/progress",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/progress"
+          "link": {
+            "id": "rules_glossary/p/progress",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/progress"
+          }
         },
         {
           "type": "text",
@@ -165,9 +181,11 @@
               "text": "progress threshold"
             }
           ],
-          "id": "rules_glossary/p/progress_threshold",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/progress_threshold"
+          "link": {
+            "id": "rules_glossary/p/progress_threshold",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/progress_threshold"
+          }
         },
         {
           "type": "text",
@@ -181,9 +199,11 @@
               "text": "Phase 3: Travel"
             }
           ],
-          "id": "rules_glossary/p/phase_3_travel",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/phase_3_travel"
+          "link": {
+            "id": "rules_glossary/p/phase_3_travel",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/phase_3_travel"
+          }
         },
         {
           "type": "text",
@@ -197,9 +217,11 @@
               "text": "travel"
             }
           ],
-          "id": "rules_glossary/t/travel",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/travel"
+          "link": {
+            "id": "rules_glossary/t/travel",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/travel"
+          }
         }
       ]
     },
@@ -222,9 +244,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "location-front",
-          "url": "#location-front"
+          "link": {
+            "id": null,
+            "anchor": "location-front",
+            "url": "#location-front"
+          }
         }
       ],
       "anchor": "location-front"
@@ -272,9 +296,11 @@
                       "text": "Traits"
                     }
                   ],
-                  "id": "rules_glossary/t/traits",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/T/traits"
+                  "link": {
+                    "id": "rules_glossary/t/traits",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/T/traits"
+                  }
                 }
               ]
             },
@@ -298,9 +324,11 @@
                       "text": "Presence"
                     }
                   ],
-                  "id": "rules_glossary/p/presence",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/P/presence"
+                  "link": {
+                    "id": "rules_glossary/p/presence",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/P/presence"
+                  }
                 }
               ]
             },
@@ -316,9 +344,11 @@
                   "text": "fatigue"
                 }
               ],
-              "id": "rules_glossary/f/fatigue",
-              "anchor": "",
-              "url": "/docs/rules_glossary/F/fatigue"
+              "link": {
+                "id": "rules_glossary/f/fatigue",
+                "anchor": "",
+                "url": "/docs/rules_glossary/F/fatigue"
+              }
             },
             {
               "type": "text",
@@ -350,9 +380,11 @@
                   "text": "general tokens"
                 }
               ],
-              "id": "rules_glossary/g/general_tokens",
-              "anchor": "",
-              "url": "/docs/rules_glossary/G/general_tokens"
+              "link": {
+                "id": "rules_glossary/g/general_tokens",
+                "anchor": "",
+                "url": "/docs/rules_glossary/G/general_tokens"
+              }
             },
             {
               "type": "text",
@@ -374,9 +406,11 @@
                       "text": "Progress Threshold"
                     }
                   ],
-                  "id": "rules_glossary/p/progress_threshold",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/P/progress_threshold"
+                  "link": {
+                    "id": "rules_glossary/p/progress_threshold",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/P/progress_threshold"
+                  }
                 }
               ]
             },
@@ -392,9 +426,11 @@
                   "text": "progress"
                 }
               ],
-              "id": "rules_glossary/p/progress",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/progress"
+              "link": {
+                "id": "rules_glossary/p/progress",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/progress"
+              }
             },
             {
               "type": "text",
@@ -408,9 +444,11 @@
                   "text": "travel"
                 }
               ],
-              "id": "rules_glossary/t/travel",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/travel"
+              "link": {
+                "id": "rules_glossary/t/travel",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/travel"
+              }
             },
             {
               "type": "text",
@@ -424,9 +462,11 @@
                   "text": "Phase 3: Travel"
                 }
               ],
-              "id": "rules_glossary/p/phase_3_travel",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/phase_3_travel"
+              "link": {
+                "id": "rules_glossary/p/phase_3_travel",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/phase_3_travel"
+              }
             }
           ]
         },
@@ -454,9 +494,11 @@
                   "text": "tests"
                 }
               ],
-              "id": "rules_glossary/t/tests",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/tests"
+              "link": {
+                "id": "rules_glossary/t/tests",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/tests"
+              }
             },
             {
               "type": "text",
@@ -470,9 +512,11 @@
                   "text": "clears"
                 }
               ],
-              "id": "rules_glossary/c/clear",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/clear"
+              "link": {
+                "id": "rules_glossary/c/clear",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/clear"
+              }
             }
           ]
         },
@@ -500,9 +544,11 @@
                   "text": "challenge card"
                 }
               ],
-              "id": "rules_glossary/c/challenge_cards",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/challenge_cards"
+              "link": {
+                "id": "rules_glossary/c/challenge_cards",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/challenge_cards"
+              }
             }
           ]
         },
@@ -530,9 +576,11 @@
                   "text": "set"
                 }
               ],
-              "id": "rules_glossary/s/sets",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/sets"
+              "link": {
+                "id": "rules_glossary/s/sets",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/sets"
+              }
             },
             {
               "type": "text",
@@ -552,9 +600,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "location-back",
-          "url": "#location-back"
+          "link": {
+            "id": null,
+            "anchor": "location-back",
+            "url": "#location-back"
+          }
         }
       ],
       "anchor": "location-back"
@@ -590,9 +640,11 @@
                   "text": "Valley map"
                 }
               ],
-              "id": "rules_glossary/v/the_valley_map",
-              "anchor": "",
-              "url": "/docs/rules_glossary/V/valley_map"
+              "link": {
+                "id": "rules_glossary/v/the_valley_map",
+                "anchor": "",
+                "url": "/docs/rules_glossary/V/valley_map"
+              }
             },
             {
               "type": "text",
@@ -636,9 +688,11 @@
                       "text": "Traits"
                     }
                   ],
-                  "id": "rules_glossary/t/traits",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/T/traits"
+                  "link": {
+                    "id": "rules_glossary/t/traits",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/T/traits"
+                  }
                 }
               ]
             },
@@ -672,9 +726,11 @@
                   "text": "campaign guide"
                 }
               ],
-              "id": "rules_glossary/c/campaign_guide",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign_guide"
+              "link": {
+                "id": "rules_glossary/c/campaign_guide",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign_guide"
+              }
             },
             {
               "type": "text",

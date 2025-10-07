@@ -19,9 +19,11 @@
               "text": "gear"
             }
           ],
-          "id": "rules_glossary/g/gear",
-          "anchor": "",
-          "url": "/docs/rules_glossary/G/gear"
+          "link": {
+            "id": "rules_glossary/g/gear",
+            "anchor": "",
+            "url": "/docs/rules_glossary/G/gear"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "player area"
             }
           ],
-          "id": "rules_glossary/p/player_area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/player_area"
+          "link": {
+            "id": "rules_glossary/p/player_area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/player_area"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "equip value"
             }
           ],
-          "id": "rules_glossary/e/equip_value",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/equip_value"
+          "link": {
+            "id": "rules_glossary/e/equip_value",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/equip_value"
+          }
         },
         {
           "type": "text",

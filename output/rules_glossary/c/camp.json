@@ -19,9 +19,11 @@
               "text": "location"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "traveling"
             }
           ],
-          "id": "rules_glossary/t/travel",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/travel"
+          "link": {
+            "id": "rules_glossary/t/travel",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/travel"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "end the day"
             }
           ],
-          "id": "rules_glossary/e/end_the_day",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/end_the_day"
+          "link": {
+            "id": "rules_glossary/e/end_the_day",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/end_the_day"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "customizing ranger decks"
             }
           ],
-          "id": "rules_glossary/c/customizing_ranger_decks",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/customizing_ranger_decks"
+          "link": {
+            "id": "rules_glossary/c/customizing_ranger_decks",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/customizing_ranger_decks"
+          }
         },
         {
           "type": "text",

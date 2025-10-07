@@ -19,9 +19,11 @@
               "text": "progress"
             }
           ],
-          "id": "rules_glossary/p/progress",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/progress"
+          "link": {
+            "id": "rules_glossary/p/progress",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/progress"
+          }
         },
         {
           "type": "span",
@@ -45,9 +47,11 @@
               "text": "harm"
             }
           ],
-          "id": "rules_glossary/h/harm",
-          "anchor": "",
-          "url": "/docs/rules_glossary/H/harm"
+          "link": {
+            "id": "rules_glossary/h/harm",
+            "anchor": "",
+            "url": "/docs/rules_glossary/H/harm"
+          }
         },
         {
           "type": "span",
@@ -110,9 +114,11 @@
                   "text": "campaign guide"
                 }
               ],
-              "id": "rules_glossary/c/campaign_guide",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign_guide"
+              "link": {
+                "id": "rules_glossary/c/campaign_guide",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign_guide"
+              }
             },
             {
               "type": "text",
@@ -126,9 +132,11 @@
                   "text": "campaign guide"
                 }
               ],
-              "id": "rules_glossary/c/campaign_guide",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/campaign_guide"
+              "link": {
+                "id": "rules_glossary/c/campaign_guide",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/campaign_guide"
+              }
             },
             {
               "type": "text",
@@ -151,9 +159,11 @@
                   "text": "discard"
                 }
               ],
-              "id": "rules_glossary/d/discard",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/discard"
+              "link": {
+                "id": "rules_glossary/d/discard",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/discard"
+              }
             },
             {
               "type": "text",
@@ -190,9 +200,11 @@
                   "text": "timing"
                 }
               ],
-              "id": "rules_glossary/t/timing",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/timing"
+              "link": {
+                "id": "rules_glossary/t/timing",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/timing"
+              }
             },
             {
               "type": "text",
@@ -217,9 +229,11 @@
               "text": "rules step"
             }
           ],
-          "id": "rules_glossary/r/rules_step",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/rules_step"
+          "link": {
+            "id": "rules_glossary/r/rules_step",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/rules_step"
+          }
         },
         {
           "type": "text",
@@ -242,9 +256,11 @@
               "text": "harm"
             }
           ],
-          "id": "rules_glossary/h/harm",
-          "anchor": "",
-          "url": "/docs/rules_glossary/H/harm"
+          "link": {
+            "id": "rules_glossary/h/harm",
+            "anchor": "",
+            "url": "/docs/rules_glossary/H/harm"
+          }
         },
         {
           "type": "text",
@@ -279,9 +295,11 @@
                   "text": "path cards"
                 }
               ],
-              "id": "rules_glossary/p/path_cards",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/path_cards"
+              "link": {
+                "id": "rules_glossary/p/path_cards",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/path_cards"
+              }
             },
             {
               "type": "text",
@@ -295,9 +313,11 @@
                   "text": "harm"
                 }
               ],
-              "id": "rules_glossary/h/harm_threshold",
-              "anchor": "",
-              "url": "/docs/rules_glossary/H/harm_threshold"
+              "link": {
+                "id": "rules_glossary/h/harm_threshold",
+                "anchor": "",
+                "url": "/docs/rules_glossary/H/harm_threshold"
+              }
             },
             {
               "type": "text",
@@ -311,9 +331,11 @@
                   "text": "progress thresholds"
                 }
               ],
-              "id": "rules_glossary/p/progress_threshold",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/progress_threshold"
+              "link": {
+                "id": "rules_glossary/p/progress_threshold",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/progress_threshold"
+              }
             },
             {
               "type": "text",
@@ -336,9 +358,11 @@
                   "text": "cleared"
                 }
               ],
-              "id": "rules_glossary/c/clear",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/clear"
+              "link": {
+                "id": "rules_glossary/c/clear",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/clear"
+              }
             },
             {
               "type": "text",
@@ -352,9 +376,11 @@
                   "text": "turn"
                 }
               ],
-              "id": "rules_glossary/t/turns",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/turns"
+              "link": {
+                "id": "rules_glossary/t/turns",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/turns"
+              }
             },
             {
               "type": "text",
@@ -374,9 +400,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "clearing-flowchart",
-          "url": "#clearing-flowchart"
+          "link": {
+            "id": null,
+            "anchor": "clearing-flowchart",
+            "url": "#clearing-flowchart"
+          }
         }
       ],
       "anchor": "clearing-flowchart"
@@ -395,9 +423,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "clearing-and-locations",
-          "url": "#clearing-and-locations"
+          "link": {
+            "id": null,
+            "anchor": "clearing-and-locations",
+            "url": "#clearing-and-locations"
+          }
         }
       ],
       "anchor": "clearing-and-locations"
@@ -413,9 +443,11 @@
               "text": "Locations"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -429,9 +461,11 @@
               "text": "progress threshold"
             }
           ],
-          "id": "rules_glossary/p/progress_threshold",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/progress_threshold"
+          "link": {
+            "id": "rules_glossary/p/progress_threshold",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/progress_threshold"
+          }
         },
         {
           "type": "text",
@@ -445,9 +479,11 @@
               "text": "round"
             }
           ],
-          "id": "rules_glossary/r/round",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/round"
+          "link": {
+            "id": "rules_glossary/r/round",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/round"
+          }
         },
         {
           "type": "text",
@@ -461,9 +497,11 @@
               "text": "travel"
             }
           ],
-          "id": "rules_glossary/t/travel",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/travel"
+          "link": {
+            "id": "rules_glossary/t/travel",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/travel"
+          }
         }
       ]
     }

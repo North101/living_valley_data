@@ -19,9 +19,11 @@
               "text": "test"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "interacting"
             }
           ],
-          "id": "rules_glossary/i/interact",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/interact"
+          "link": {
+            "id": "rules_glossary/i/interact",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/interact"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "fatigue"
             }
           ],
-          "id": "rules_glossary/f/fatigue",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/fatigue"
+          "link": {
+            "id": "rules_glossary/f/fatigue",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/fatigue"
+          }
         },
         {
           "type": "text",
@@ -67,9 +73,11 @@
               "text": "obstacle"
             }
           ],
-          "id": "rules_glossary/o/obstacle_keyword",
-          "anchor": "",
-          "url": "/docs/rules_glossary/O/obstacle"
+          "link": {
+            "id": "rules_glossary/o/obstacle_keyword",
+            "anchor": "",
+            "url": "/docs/rules_glossary/O/obstacle"
+          }
         },
         {
           "type": "a",
@@ -79,9 +87,11 @@
               "text": "keyword"
             }
           ],
-          "id": "rules_glossary/k/keywords",
-          "anchor": "",
-          "url": "/docs/rules_glossary/K/keywords"
+          "link": {
+            "id": "rules_glossary/k/keywords",
+            "anchor": "",
+            "url": "/docs/rules_glossary/K/keywords"
+          }
         },
         {
           "type": "text",
@@ -95,9 +105,11 @@
               "text": "interacting"
             }
           ],
-          "id": "rules_glossary/i/interact",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/interact"
+          "link": {
+            "id": "rules_glossary/i/interact",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/interact"
+          }
         },
         {
           "type": "text",
@@ -111,9 +123,11 @@
               "text": "active"
             }
           ],
-          "id": "rules_glossary/a/active",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/active"
+          "link": {
+            "id": "rules_glossary/a/active",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/active"
+          }
         },
         {
           "type": "text",

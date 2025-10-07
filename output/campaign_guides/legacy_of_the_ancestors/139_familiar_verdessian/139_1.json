@@ -47,9 +47,11 @@
               "text": "139.2"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_02"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_02"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -83,9 +85,11 @@
               "text": "139.3"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_3",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_03"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_3",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_03"
+          }
         }
       ]
     },
@@ -118,9 +122,11 @@
               "text": "139.4"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_4",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_04"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_4",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_04"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -140,9 +146,11 @@
               "text": "139.5"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_5",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_05"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_5",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_05"
+          }
         }
       ]
     }

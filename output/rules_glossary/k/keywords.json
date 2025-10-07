@@ -36,9 +36,11 @@
                   "text": "Ambush"
                 }
               ],
-              "id": "rules_glossary/a/ambush_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/ambush"
+              "link": {
+                "id": "rules_glossary/a/ambush_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/ambush"
+              }
             }
           ]
         },
@@ -53,9 +55,11 @@
                   "text": "Aspiration"
                 }
               ],
-              "id": "rules_glossary/a/aspiration_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/aspiration"
+              "link": {
+                "id": "rules_glossary/a/aspiration_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/aspiration"
+              }
             }
           ]
         },
@@ -70,9 +74,11 @@
                   "text": "Conduit"
                 }
               ],
-              "id": "rules_glossary/c/conduit_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/conduit"
+              "link": {
+                "id": "rules_glossary/c/conduit_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/conduit"
+              }
             }
           ]
         },
@@ -87,9 +93,11 @@
                   "text": "Dangerous"
                 }
               ],
-              "id": "rules_glossary/d/dangerous_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/dangerous"
+              "link": {
+                "id": "rules_glossary/d/dangerous_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/dangerous"
+              }
             }
           ]
         },
@@ -104,9 +112,11 @@
                   "text": "Deployed"
                 }
               ],
-              "id": "rules_glossary/d/deployed_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/deployed"
+              "link": {
+                "id": "rules_glossary/d/deployed_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/deployed"
+              }
             }
           ]
         },
@@ -121,9 +131,11 @@
                   "text": "Disconnected"
                 }
               ],
-              "id": "rules_glossary/d/disconnected_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/disconnected"
+              "link": {
+                "id": "rules_glossary/d/disconnected_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/disconnected"
+              }
             }
           ]
         },
@@ -138,9 +150,11 @@
                   "text": "Fatiguing"
                 }
               ],
-              "id": "rules_glossary/f/fatiguing_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/F/fatiguing"
+              "link": {
+                "id": "rules_glossary/f/fatiguing_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/F/fatiguing"
+              }
             }
           ]
         },
@@ -155,9 +169,11 @@
                   "text": "Friendly"
                 }
               ],
-              "id": "rules_glossary/f/friendly_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/F/friendly"
+              "link": {
+                "id": "rules_glossary/f/friendly_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/F/friendly"
+              }
             }
           ]
         },
@@ -172,9 +188,11 @@
                   "text": "Illumination"
                 }
               ],
-              "id": "rules_glossary/i/illumination_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/I/illumination"
+              "link": {
+                "id": "rules_glossary/i/illumination_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/I/illumination"
+              }
             }
           ]
         },
@@ -189,9 +207,11 @@
                   "text": "Manifestation"
                 }
               ],
-              "id": "rules_glossary/m/manifestation_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/M/manifestation"
+              "link": {
+                "id": "rules_glossary/m/manifestation_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/M/manifestation"
+              }
             }
           ]
         },
@@ -206,9 +226,11 @@
                   "text": "Mycelial"
                 }
               ],
-              "id": "rules_glossary/m/mycelial_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/M/mycelial"
+              "link": {
+                "id": "rules_glossary/m/mycelial_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/M/mycelial"
+              }
             }
           ]
         },
@@ -223,9 +245,11 @@
                   "text": "Obstacle"
                 }
               ],
-              "id": "rules_glossary/o/obstacle_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/O/obstacle"
+              "link": {
+                "id": "rules_glossary/o/obstacle_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/O/obstacle"
+              }
             }
           ]
         },
@@ -240,9 +264,11 @@
                   "text": "Persistent"
                 }
               ],
-              "id": "rules_glossary/p/persistent_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/persistent"
+              "link": {
+                "id": "rules_glossary/p/persistent_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/persistent"
+              }
             }
           ]
         },
@@ -257,9 +283,11 @@
                   "text": "Setup"
                 }
               ],
-              "id": "rules_glossary/s/setup_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/setup_keyword"
+              "link": {
+                "id": "rules_glossary/s/setup_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/setup_keyword"
+              }
             }
           ]
         },
@@ -274,9 +302,11 @@
                   "text": "Spirit"
                 }
               ],
-              "id": "rules_glossary/s/spirit_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/spirit"
+              "link": {
+                "id": "rules_glossary/s/spirit_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/spirit"
+              }
             }
           ]
         },
@@ -291,9 +321,11 @@
                   "text": "Unique"
                 }
               ],
-              "id": "rules_glossary/u/unique_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/U/unique"
+              "link": {
+                "id": "rules_glossary/u/unique_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/U/unique"
+              }
             }
           ]
         },
@@ -308,9 +340,11 @@
                   "text": "Untraversable"
                 }
               ],
-              "id": "rules_glossary/u/untraversable_keyword",
-              "anchor": "",
-              "url": "/docs/rules_glossary/U/untraversable"
+              "link": {
+                "id": "rules_glossary/u/untraversable_keyword",
+                "anchor": "",
+                "url": "/docs/rules_glossary/U/untraversable"
+              }
             }
           ]
         }

@@ -28,9 +28,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose",
-          "url": "#rangers-choose"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose",
+            "url": "#rangers-choose"
+          }
         }
       ],
       "anchor": "rangers-choose"
@@ -65,9 +67,11 @@
               "text": "47.5a"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_5_loa",
-          "anchor": "475a",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_5#475a"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_5_loa",
+            "anchor": "475a",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_5#475a"
+          }
         }
       ]
     },
@@ -118,9 +122,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "475a",
-          "url": "#475a"
+          "link": {
+            "id": null,
+            "anchor": "475a",
+            "url": "#475a"
+          }
         }
       ],
       "anchor": "475a"

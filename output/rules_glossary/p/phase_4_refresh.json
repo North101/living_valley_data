@@ -19,9 +19,11 @@
               "text": "round"
             }
           ],
-          "id": "rules_glossary/r/round",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/round"
+          "link": {
+            "id": "rules_glossary/r/round",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/round"
+          }
         },
         {
           "type": "text",
@@ -56,9 +58,11 @@
                   "text": "fatigue"
                 }
               ],
-              "id": "rules_glossary/f/fatigue",
-              "anchor": "",
-              "url": "/docs/rules_glossary/F/fatigue"
+              "link": {
+                "id": "rules_glossary/f/fatigue",
+                "anchor": "",
+                "url": "/docs/rules_glossary/F/fatigue"
+              }
             },
             {
               "type": "text",
@@ -72,9 +76,11 @@
                   "text": "injury"
                 }
               ],
-              "id": "rules_glossary/i/injury",
-              "anchor": "",
-              "url": "/docs/rules_glossary/I/injury"
+              "link": {
+                "id": "rules_glossary/i/injury",
+                "anchor": "",
+                "url": "/docs/rules_glossary/I/injury"
+              }
             },
             {
               "type": "text",
@@ -106,9 +112,11 @@
                   "text": "end the day"
                 }
               ],
-              "id": "rules_glossary/e/end_the_day",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/end_the_day"
+              "link": {
+                "id": "rules_glossary/e/end_the_day",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/end_the_day"
+              }
             }
           ]
         },
@@ -136,9 +144,11 @@
                   "text": "energy"
                 }
               ],
-              "id": "rules_glossary/e/energy",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/energy"
+              "link": {
+                "id": "rules_glossary/e/energy",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/energy"
+              }
             },
             {
               "type": "text",
@@ -152,9 +162,11 @@
                   "text": "aspect"
                 }
               ],
-              "id": "rules_glossary/a/aspects",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/aspects"
+              "link": {
+                "id": "rules_glossary/a/aspects",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/aspects"
+              }
             },
             {
               "type": "text",
@@ -168,9 +180,11 @@
                   "text": "discard"
                 }
               ],
-              "id": "rules_glossary/d/discard",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/discard"
+              "link": {
+                "id": "rules_glossary/d/discard",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/discard"
+              }
             },
             {
               "type": "text",
@@ -216,9 +230,11 @@
                   "text": "Ready"
                 }
               ],
-              "id": "rules_glossary/r/ready",
-              "anchor": "",
-              "url": "/docs/rules_glossary/R/ready"
+              "link": {
+                "id": "rules_glossary/r/ready",
+                "anchor": "",
+                "url": "/docs/rules_glossary/R/ready"
+              }
             },
             {
               "type": "text",
@@ -232,9 +248,11 @@
                   "text": "exhausted"
                 }
               ],
-              "id": "rules_glossary/e/exhaust",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/exhaust"
+              "link": {
+                "id": "rules_glossary/e/exhaust",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/exhaust"
+              }
             },
             {
               "type": "text",
@@ -248,9 +266,11 @@
                   "text": "areas"
                 }
               ],
-              "id": "rules_glossary/a/area",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/area"
+              "link": {
+                "id": "rules_glossary/a/area",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/area"
+              }
             },
             {
               "type": "text",

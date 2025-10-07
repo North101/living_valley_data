@@ -68,9 +68,11 @@
               "text": "106.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/106_the_verdant_sphere/106_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_verdant_sphere/106_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/106_the_verdant_sphere/106_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_verdant_sphere/106_1"
+          }
         }
       ]
     }

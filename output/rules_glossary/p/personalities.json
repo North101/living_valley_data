@@ -28,9 +28,11 @@
               "text": "set"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "discarded"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "approach icons"
             }
           ],
-          "id": "rules_glossary/a/approach_icons",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/approach_icons"
+          "link": {
+            "id": "rules_glossary/a/approach_icons",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/approach_icons"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "tests"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",

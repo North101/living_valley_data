@@ -33,9 +33,11 @@
               "text": "57.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa/57_1_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_hearty_brew/57_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa/57_1_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_hearty_brew/57_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -55,9 +57,11 @@
               "text": "57.2"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa/57_2_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_hearty_brew/57_2"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa/57_2_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_hearty_brew/57_2"
+          }
         }
       ]
     }

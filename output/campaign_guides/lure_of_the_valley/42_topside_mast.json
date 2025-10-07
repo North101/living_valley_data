@@ -19,9 +19,11 @@
               "text": "42.1"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/42_topside_mast/42_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/topside_mast/42_1"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/42_topside_mast/42_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/topside_mast/42_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -55,9 +57,11 @@
               "text": "42.2"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/42_topside_mast/42_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/topside_mast/42_2"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/42_topside_mast/42_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/topside_mast/42_2"
+          }
         }
       ]
     }

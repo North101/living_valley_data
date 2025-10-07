@@ -34,9 +34,11 @@
                       "text": "44.1"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_1"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_1"
+                  }
                 }
               ]
             },
@@ -69,9 +71,11 @@
                       "text": "44.2"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_2"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_2"
+                  }
                 }
               ]
             },
@@ -90,9 +94,11 @@
                       "text": "44.3"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_3"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_3"
+                  }
                 }
               ]
             }
@@ -141,9 +147,11 @@
                       "text": "44.4"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_4"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_4"
+                  }
                 }
               ]
             },
@@ -176,9 +184,11 @@
                       "text": "44.5"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_5",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_5"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_5",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_5"
+                  }
                 }
               ]
             },
@@ -197,9 +207,11 @@
                       "text": "44.6"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_6",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_6"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_6",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_6"
+                  }
                 }
               ]
             }
@@ -236,9 +248,11 @@
               "text": "44.7"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_7",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_7"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_7",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_7"
+          }
         }
       ],
       "highlight_color": "blue"

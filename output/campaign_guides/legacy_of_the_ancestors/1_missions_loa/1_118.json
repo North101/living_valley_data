@@ -28,9 +28,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "rangers-choose",
-          "url": "#rangers-choose"
+          "link": {
+            "id": null,
+            "anchor": "rangers-choose",
+            "url": "#rangers-choose"
+          }
         }
       ],
       "anchor": "rangers-choose"
@@ -125,9 +127,11 @@
               "text": "1.118A"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_118",
-          "anchor": "1118a",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_118#1118a"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_118",
+            "anchor": "1118a",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_118#1118a"
+          }
         }
       ]
     },
@@ -141,9 +145,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1118a",
-          "url": "#1118a"
+          "link": {
+            "id": null,
+            "anchor": "1118a",
+            "url": "#1118a"
+          }
         }
       ],
       "anchor": "1118a"

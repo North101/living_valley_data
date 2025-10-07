@@ -19,9 +19,11 @@
               "text": "sets"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -48,9 +50,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "life-as-a-forager",
-          "url": "#life-as-a-forager"
+          "link": {
+            "id": null,
+            "anchor": "life-as-a-forager",
+            "url": "#life-as-a-forager"
+          }
         }
       ],
       "anchor": "life-as-a-forager"

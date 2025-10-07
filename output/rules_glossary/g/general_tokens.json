@@ -32,9 +32,11 @@
               "text": "discard"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -48,9 +50,11 @@
               "text": "use"
             }
           ],
-          "id": "rules_glossary/u/use",
-          "anchor": "",
-          "url": "/docs/rules_glossary/U/use"
+          "link": {
+            "id": "rules_glossary/u/use",
+            "anchor": "",
+            "url": "/docs/rules_glossary/U/use"
+          }
         },
         {
           "type": "text",
@@ -76,9 +80,11 @@
                   "text": "discarded"
                 }
               ],
-              "id": "rules_glossary/d/discard",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/discard"
+              "link": {
+                "id": "rules_glossary/d/discard",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/discard"
+              }
             },
             {
               "type": "text",
@@ -92,9 +98,11 @@
                   "text": "turn"
                 }
               ],
-              "id": "rules_glossary/t/turns",
-              "anchor": "",
-              "url": "/docs/rules_glossary/T/turns"
+              "link": {
+                "id": "rules_glossary/t/turns",
+                "anchor": "",
+                "url": "/docs/rules_glossary/T/turns"
+              }
             },
             {
               "type": "text",
@@ -108,9 +116,11 @@
                   "text": "equipped"
                 }
               ],
-              "id": "rules_glossary/e/equipped",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/equipped"
+              "link": {
+                "id": "rules_glossary/e/equipped",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/equipped"
+              }
             },
             {
               "type": "text",

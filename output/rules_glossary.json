@@ -32,9 +32,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "navigating-the-rules-glossary",
-          "url": "#navigating-the-rules-glossary"
+          "link": {
+            "id": null,
+            "anchor": "navigating-the-rules-glossary",
+            "url": "#navigating-the-rules-glossary"
+          }
         }
       ],
       "anchor": "navigating-the-rules-glossary"
@@ -112,9 +114,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "major-topics",
-          "url": "#major-topics"
+          "link": {
+            "id": null,
+            "anchor": "major-topics",
+            "url": "#major-topics"
+          }
         }
       ],
       "anchor": "major-topics"
@@ -130,9 +134,11 @@
               "text": "Creating Your Ranger"
             }
           ],
-          "id": "rules_glossary/c/creating_ranger_decks",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/creating_ranger_decks"
+          "link": {
+            "id": "rules_glossary/c/creating_ranger_decks",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/creating_ranger_decks"
+          }
         },
         {
           "type": "a",
@@ -142,9 +148,11 @@
               "text": "Game Setup"
             }
           ],
-          "id": "rules_glossary/s/setup",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/setup"
+          "link": {
+            "id": "rules_glossary/s/setup",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/setup"
+          }
         },
         {
           "type": "a",
@@ -154,9 +162,11 @@
               "text": "Game Round"
             }
           ],
-          "id": "rules_glossary/r/round",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/round"
+          "link": {
+            "id": "rules_glossary/r/round",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/round"
+          }
         },
         {
           "type": "a",
@@ -166,9 +176,11 @@
               "text": "Taking Tests"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "a",
@@ -178,9 +190,11 @@
               "text": "Challenge Effects"
             }
           ],
-          "id": "rules_glossary/c/challenge_effects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/challenge_effects"
+          "link": {
+            "id": "rules_glossary/c/challenge_effects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/challenge_effects"
+          }
         },
         {
           "type": "a",
@@ -190,9 +204,11 @@
               "text": "Traveling"
             }
           ],
-          "id": "rules_glossary/t/travel",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/travel"
+          "link": {
+            "id": "rules_glossary/t/travel",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/travel"
+          }
         },
         {
           "type": "a",
@@ -202,9 +218,11 @@
               "text": "Keywords"
             }
           ],
-          "id": "rules_glossary/k/keywords",
-          "anchor": "",
-          "url": "/docs/rules_glossary/K/keywords"
+          "link": {
+            "id": "rules_glossary/k/keywords",
+            "anchor": "",
+            "url": "/docs/rules_glossary/K/keywords"
+          }
         },
         {
           "type": "a",
@@ -214,9 +232,11 @@
               "text": "Terms"
             }
           ],
-          "id": "rules_glossary/t/terms",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/terms"
+          "link": {
+            "id": "rules_glossary/t/terms",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/terms"
+          }
         }
       ]
     },

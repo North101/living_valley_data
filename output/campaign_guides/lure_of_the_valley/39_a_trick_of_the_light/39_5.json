@@ -74,9 +74,11 @@
               "text": "39.6"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_6",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/a_trick_of_the_light/39_6"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_6",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/a_trick_of_the_light/39_6"
+          }
         }
       ],
       "highlight_color": "blue"

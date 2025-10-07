@@ -46,9 +46,11 @@
               "text": "58.2"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_2_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_threshold/58_2"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_2_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_threshold/58_2"
+          }
         },
         {
           "type": "text",
@@ -62,9 +64,11 @@
               "text": "58.3"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_3_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_threshold/58_3"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_3_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_threshold/58_3"
+          }
         }
       ]
     }

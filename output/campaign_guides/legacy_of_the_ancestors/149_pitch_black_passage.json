@@ -48,9 +48,11 @@
                       "text": "149.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/pitch_black_passage/149_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/pitch_black_passage/149_1"
+                  }
                 }
               ]
             },
@@ -69,9 +71,11 @@
                       "text": "149.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/pitch_black_passage/149_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/pitch_black_passage/149_2"
+                  }
                 }
               ]
             }
@@ -134,9 +138,11 @@
                       "text": "149.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/pitch_black_passage/149_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/pitch_black_passage/149_3"
+                  }
                 }
               ]
             },

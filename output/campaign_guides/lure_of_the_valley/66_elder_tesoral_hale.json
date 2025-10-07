@@ -34,9 +34,11 @@
                       "text": "66.1"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/elder_tesoral_hale/66_1"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/elder_tesoral_hale/66_1"
+                  }
                 }
               ]
             },
@@ -55,9 +57,11 @@
                       "text": "66.2"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/elder_tesoral_hale/66_2"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/elder_tesoral_hale/66_2"
+                  }
                 }
               ]
             }
@@ -106,9 +110,11 @@
                       "text": "66.3"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/elder_tesoral_hale/66_3"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/elder_tesoral_hale/66_3"
+                  }
                 }
               ]
             },
@@ -127,9 +133,11 @@
                       "text": "66.4"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/elder_tesoral_hale/66_4"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/elder_tesoral_hale/66_4"
+                  }
                 }
               ]
             }
@@ -166,9 +174,11 @@
               "text": "66.5"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_5",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/elder_tesoral_hale/66_5"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_5",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/elder_tesoral_hale/66_5"
+          }
         }
       ],
       "highlight_color": "blue"

@@ -19,9 +19,11 @@
               "text": "turn"
             }
           ],
-          "id": "rules_glossary/t/turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/turns"
+          "link": {
+            "id": "rules_glossary/t/turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/turns"
+          }
         }
       ]
     },
@@ -58,9 +60,11 @@
               "text": "resolves"
             }
           ],
-          "id": "rules_glossary/r/resolve",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/resolve"
+          "link": {
+            "id": "rules_glossary/r/resolve",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/resolve"
+          }
         },
         {
           "type": "text",
@@ -92,9 +96,11 @@
               "text": "resolves"
             }
           ],
-          "id": "rules_glossary/r/resolve",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/resolve"
+          "link": {
+            "id": "rules_glossary/r/resolve",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/resolve"
+          }
         },
         {
           "type": "text",
@@ -126,9 +132,11 @@
               "text": "resolves"
             }
           ],
-          "id": "rules_glossary/r/resolve",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/resolve"
+          "link": {
+            "id": "rules_glossary/r/resolve",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/resolve"
+          }
         },
         {
           "type": "text",
@@ -151,9 +159,11 @@
               "text": "Delightful Rule"
             }
           ],
-          "id": "rules_glossary/d/the_delightful_rule",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/delightful_rule"
+          "link": {
+            "id": "rules_glossary/d/the_delightful_rule",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/delightful_rule"
+          }
         }
       ]
     },
@@ -167,9 +177,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "triggered-effect-timing",
-          "url": "#triggered-effect-timing"
+          "link": {
+            "id": null,
+            "anchor": "triggered-effect-timing",
+            "url": "#triggered-effect-timing"
+          }
         }
       ],
       "anchor": "triggered-effect-timing"
@@ -189,9 +201,11 @@
               "text": "exhaust"
             }
           ],
-          "id": "rules_glossary/e/exhaust",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/exhaust"
+          "link": {
+            "id": "rules_glossary/e/exhaust",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/exhaust"
+          }
         },
         {
           "type": "text",
@@ -205,9 +219,11 @@
               "text": "Ranger cards"
             }
           ],
-          "id": "rules_glossary/r/ranger_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ranger_cards"
+          "link": {
+            "id": "rules_glossary/r/ranger_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ranger_cards"
+          }
         },
         {
           "type": "text",
@@ -221,9 +237,11 @@
               "text": "turn"
             }
           ],
-          "id": "rules_glossary/t/turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/turns"
+          "link": {
+            "id": "rules_glossary/t/turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/turns"
+          }
         },
         {
           "type": "text",
@@ -237,9 +255,11 @@
               "text": "resolving"
             }
           ],
-          "id": "rules_glossary/r/resolve",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/resolve"
+          "link": {
+            "id": "rules_glossary/r/resolve",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/resolve"
+          }
         }
       ]
     }

@@ -19,9 +19,11 @@
               "text": "16.1"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/16_kobos_market/16_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/kobos_market/16_1"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/16_kobos_market/16_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/kobos_market/16_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -55,9 +57,11 @@
               "text": "16.2"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/16_kobos_market/16_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/kobos_market/16_2"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/16_kobos_market/16_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/kobos_market/16_2"
+          }
         }
       ]
     },

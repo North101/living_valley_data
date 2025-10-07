@@ -41,9 +41,11 @@
               "text": "Phase 4"
             }
           ],
-          "id": "rules_glossary/p/phase_4_refresh",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/phase_4_refresh"
+          "link": {
+            "id": "rules_glossary/p/phase_4_refresh",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/phase_4_refresh"
+          }
         },
         {
           "type": "text",
@@ -57,9 +59,11 @@
               "text": "round"
             }
           ],
-          "id": "rules_glossary/r/round",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/round"
+          "link": {
+            "id": "rules_glossary/r/round",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/round"
+          }
         },
         {
           "type": "text",
@@ -73,9 +77,11 @@
               "text": "energy"
             }
           ],
-          "id": "rules_glossary/e/energy",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/energy"
+          "link": {
+            "id": "rules_glossary/e/energy",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/energy"
+          }
         },
         {
           "type": "text",
@@ -89,9 +95,11 @@
               "text": "energy"
             }
           ],
-          "id": "rules_glossary/e/energy",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/energy"
+          "link": {
+            "id": "rules_glossary/e/energy",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/energy"
+          }
         },
         {
           "type": "text",
@@ -105,9 +113,11 @@
               "text": "discard"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -130,9 +140,11 @@
               "text": "Phase 2"
             }
           ],
-          "id": "rules_glossary/p/phase_2_ranger_turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/phase_2_ranger_turns"
+          "link": {
+            "id": "rules_glossary/p/phase_2_ranger_turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/phase_2_ranger_turns"
+          }
         },
         {
           "type": "text",
@@ -155,9 +167,11 @@
               "text": "Ranger card"
             }
           ],
-          "id": "rules_glossary/r/ranger_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ranger_cards"
+          "link": {
+            "id": "rules_glossary/r/ranger_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ranger_cards"
+          }
         },
         {
           "type": "text",

@@ -19,9 +19,11 @@
               "text": "59.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_1_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_1_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -66,9 +68,11 @@
                       "text": "59.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_2_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_2_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_2"
+                  }
                 }
               ]
             },
@@ -115,9 +119,11 @@
                       "text": "59.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_3_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_3_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_3"
+                  }
                 }
               ]
             },
@@ -150,9 +156,11 @@
                       "text": "59.4"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_4_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_4"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_4_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_4"
+                  }
                 }
               ]
             },
@@ -199,9 +207,11 @@
                       "text": "59.5"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_5_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_5"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_5_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_5"
+                  }
                 }
               ]
             },
@@ -220,9 +230,11 @@
                       "text": "59.6"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_6_loa",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_6"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_6_loa",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_6"
+                  }
                 }
               ]
             }
@@ -260,9 +272,11 @@
               "text": "59.7"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_7_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_7"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_7_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_7"
+          }
         }
       ],
       "highlight_color": "blue"

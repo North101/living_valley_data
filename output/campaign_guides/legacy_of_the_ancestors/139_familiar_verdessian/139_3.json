@@ -33,9 +33,11 @@
               "text": "139.10"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_10",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_10"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_10",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_10"
+          }
         }
       ]
     }

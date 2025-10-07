@@ -19,9 +19,11 @@
               "text": "setup"
             }
           ],
-          "id": "rules_glossary/s/setup",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/setup"
+          "link": {
+            "id": "rules_glossary/s/setup",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/setup"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "search"
             }
           ],
-          "id": "rules_glossary/s/search",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/search"
+          "link": {
+            "id": "rules_glossary/s/search",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/search"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "keyword"
             }
           ],
-          "id": "rules_glossary/k/keywords",
-          "anchor": "",
-          "url": "/docs/rules_glossary/K/keywords"
+          "link": {
+            "id": "rules_glossary/k/keywords",
+            "anchor": "",
+            "url": "/docs/rules_glossary/K/keywords"
+          }
         },
         {
           "type": "text",

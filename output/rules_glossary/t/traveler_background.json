@@ -19,9 +19,11 @@
               "text": "sets"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "moment"
             }
           ],
-          "id": "rules_glossary/m/moments",
-          "anchor": "",
-          "url": "/docs/rules_glossary/M/moments"
+          "link": {
+            "id": "rules_glossary/m/moments",
+            "anchor": "",
+            "url": "/docs/rules_glossary/M/moments"
+          }
         },
         {
           "type": "text",
@@ -64,9 +68,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "life-as-a-traveler",
-          "url": "#life-as-a-traveler"
+          "link": {
+            "id": null,
+            "anchor": "life-as-a-traveler",
+            "url": "#life-as-a-traveler"
+          }
         }
       ],
       "anchor": "life-as-a-traveler"

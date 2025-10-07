@@ -19,9 +19,11 @@
               "text": "location"
             }
           ],
-          "id": "rules_glossary/l/locations",
-          "anchor": "",
-          "url": "/docs/rules_glossary/L/locations"
+          "link": {
+            "id": "rules_glossary/l/locations",
+            "anchor": "",
+            "url": "/docs/rules_glossary/L/locations"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "map"
             }
           ],
-          "id": "rules_glossary/v/the_valley_map",
-          "anchor": "",
-          "url": "/docs/rules_glossary/V/valley_map"
+          "link": {
+            "id": "rules_glossary/v/the_valley_map",
+            "anchor": "",
+            "url": "/docs/rules_glossary/V/valley_map"
+          }
         },
         {
           "type": "text",

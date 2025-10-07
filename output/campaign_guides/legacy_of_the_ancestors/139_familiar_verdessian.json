@@ -19,9 +19,11 @@
               "text": "139.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_01"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_01"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -66,9 +68,11 @@
                       "text": "139.6"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_6",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_06"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_6",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_06"
+                  }
                 }
               ]
             },
@@ -87,9 +91,11 @@
                       "text": "139.7"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_7",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_07"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_7",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_07"
+                  }
                 }
               ]
             },
@@ -108,9 +114,11 @@
                       "text": "139.8"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_8",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_08"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_8",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_08"
+                  }
                 }
               ]
             }
@@ -148,9 +156,11 @@
               "text": "139.9"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_9",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_09"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_9",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_09"
+          }
         }
       ],
       "highlight_color": "blue"

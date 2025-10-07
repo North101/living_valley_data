@@ -19,9 +19,11 @@
               "text": "specialty"
             }
           ],
-          "id": "rules_glossary/s/specialties",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/specialties"
+          "link": {
+            "id": "rules_glossary/s/specialties",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/specialties"
+          }
         },
         {
           "type": "a",
@@ -31,9 +33,11 @@
               "text": "sets"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -56,9 +60,11 @@
               "text": "spirit"
             }
           ],
-          "id": "rules_glossary/s/spirit_keyword",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/spirit"
+          "link": {
+            "id": "rules_glossary/s/spirit_keyword",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/spirit"
+          }
         },
         {
           "type": "a",
@@ -68,9 +74,11 @@
               "text": "beings"
             }
           ],
-          "id": "rules_glossary/b/beings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/B/being"
+          "link": {
+            "id": "rules_glossary/b/beings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/B/being"
+          }
         },
         {
           "type": "text",
@@ -88,9 +96,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "life-as-a-spirit-speaker",
-          "url": "#life-as-a-spirit-speaker"
+          "link": {
+            "id": null,
+            "anchor": "life-as-a-spirit-speaker",
+            "url": "#life-as-a-spirit-speaker"
+          }
         }
       ],
       "anchor": "life-as-a-spirit-speaker"

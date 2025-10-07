@@ -25,9 +25,11 @@
                       "text": "109.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/109_oasis_of_sunlight/109_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/oasis_of_sunlight/109_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/109_oasis_of_sunlight/109_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/oasis_of_sunlight/109_1"
+                  }
                 }
               ],
               "highlight_color": "blue"

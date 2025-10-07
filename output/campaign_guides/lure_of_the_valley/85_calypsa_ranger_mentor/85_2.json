@@ -28,9 +28,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "count-the-total-fatigue-between-all-rangers-and-read-the-corresponding-entry",
-          "url": "#count-the-total-fatigue-between-all-rangers-and-read-the-corresponding-entry"
+          "link": {
+            "id": null,
+            "anchor": "count-the-total-fatigue-between-all-rangers-and-read-the-corresponding-entry",
+            "url": "#count-the-total-fatigue-between-all-rangers-and-read-the-corresponding-entry"
+          }
         }
       ],
       "anchor": "count-the-total-fatigue-between-all-rangers-and-read-the-corresponding-entry"

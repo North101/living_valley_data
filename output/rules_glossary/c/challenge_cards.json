@@ -19,9 +19,11 @@
               "text": "surroundings"
             }
           ],
-          "id": "rules_glossary/s/surroundings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/surroundings"
+          "link": {
+            "id": "rules_glossary/s/surroundings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/surroundings"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "aspects"
             }
           ],
-          "id": "rules_glossary/a/aspects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/aspects"
+          "link": {
+            "id": "rules_glossary/a/aspects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/aspects"
+          }
         },
         {
           "type": "text",
@@ -102,9 +106,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         }
       ]
     },
@@ -133,9 +139,11 @@
                       "text": "reshuffle icon"
                     }
                   ],
-                  "id": "rules_glossary/r/reshuffle_icon",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/R/reshuffle_icon"
+                  "link": {
+                    "id": "rules_glossary/r/reshuffle_icon",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/R/reshuffle_icon"
+                  }
                 },
                 {
                   "type": "span",
@@ -173,9 +181,11 @@
                       "text": "reshuffle icon"
                     }
                   ],
-                  "id": "rules_glossary/r/reshuffle_icon",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/R/reshuffle_icon"
+                  "link": {
+                    "id": "rules_glossary/r/reshuffle_icon",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/R/reshuffle_icon"
+                  }
                 },
                 {
                   "type": "span",
@@ -199,9 +209,11 @@
                       "text": "discarded"
                     }
                   ],
-                  "id": "rules_glossary/d/discard",
-                  "anchor": "",
-                  "url": "/docs/rules_glossary/D/discard"
+                  "link": {
+                    "id": "rules_glossary/d/discard",
+                    "anchor": "",
+                    "url": "/docs/rules_glossary/D/discard"
+                  }
                 },
                 {
                   "type": "text",

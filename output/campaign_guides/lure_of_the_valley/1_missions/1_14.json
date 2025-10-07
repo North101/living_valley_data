@@ -118,9 +118,11 @@
               "text": "1.14A"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/1_missions/1_14",
-          "anchor": "114a",
-          "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_14#114a"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/1_missions/1_14",
+            "anchor": "114a",
+            "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_14#114a"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -229,9 +231,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "114a",
-          "url": "#114a"
+          "link": {
+            "id": null,
+            "anchor": "114a",
+            "url": "#114a"
+          }
         }
       ],
       "anchor": "114a"

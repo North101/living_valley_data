@@ -33,9 +33,11 @@
               "text": "61.4"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_4_loa",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_4"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_4_loa",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor/61_4"
+          }
         }
       ]
     },

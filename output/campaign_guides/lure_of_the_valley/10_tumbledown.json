@@ -19,9 +19,11 @@
               "text": "84.11"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_11",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/tala_the_red_exile/84_11"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_11",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/tala_the_red_exile/84_11"
+          }
         }
       ],
       "highlight_color": "blue"

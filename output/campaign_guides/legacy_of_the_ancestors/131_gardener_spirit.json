@@ -19,9 +19,11 @@
               "text": "131.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/gardener_spirit/131_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/gardener_spirit/131_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -66,9 +68,11 @@
                       "text": "131.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/gardener_spirit/131_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/gardener_spirit/131_2"
+                  }
                 }
               ]
             },
@@ -87,9 +91,11 @@
                       "text": "131.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/gardener_spirit/131_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/gardener_spirit/131_3"
+                  }
                 }
               ]
             },
@@ -108,9 +114,11 @@
                       "text": "131.4"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/gardener_spirit/131_4"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/gardener_spirit/131_4"
+                  }
                 }
               ]
             }

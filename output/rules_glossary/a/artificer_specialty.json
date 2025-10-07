@@ -19,9 +19,11 @@
               "text": "sets"
             }
           ],
-          "id": "rules_glossary/s/sets",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/sets"
+          "link": {
+            "id": "rules_glossary/s/sets",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/sets"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "gear"
             }
           ],
-          "id": "rules_glossary/g/gear",
-          "anchor": "",
-          "url": "/docs/rules_glossary/G/gear"
+          "link": {
+            "id": "rules_glossary/g/gear",
+            "anchor": "",
+            "url": "/docs/rules_glossary/G/gear"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "attachments"
             }
           ],
-          "id": "rules_glossary/a/attachments",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/attachment"
+          "link": {
+            "id": "rules_glossary/a/attachments",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/attachment"
+          }
         },
         {
           "type": "text",
@@ -80,9 +86,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "life-as-an-artificer",
-          "url": "#life-as-an-artificer"
+          "link": {
+            "id": null,
+            "anchor": "life-as-an-artificer",
+            "url": "#life-as-an-artificer"
+          }
         }
       ],
       "anchor": "life-as-an-artificer"

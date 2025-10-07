@@ -19,9 +19,11 @@
               "text": "151.1"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/wanderer_spirit/151_1"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/wanderer_spirit/151_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -66,9 +68,11 @@
                       "text": "151.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/wanderer_spirit/151_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/wanderer_spirit/151_2"
+                  }
                 }
               ]
             },
@@ -87,9 +91,11 @@
                       "text": "151.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/wanderer_spirit/151_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/wanderer_spirit/151_3"
+                  }
                 }
               ]
             },
@@ -108,9 +114,11 @@
                       "text": "151.4"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/wanderer_spirit/151_4"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/wanderer_spirit/151_4"
+                  }
                 }
               ]
             }

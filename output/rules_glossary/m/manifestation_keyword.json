@@ -19,9 +19,11 @@
               "text": "keyword"
             }
           ],
-          "id": "rules_glossary/k/keywords",
-          "anchor": "",
-          "url": "/docs/rules_glossary/K/keywords"
+          "link": {
+            "id": "rules_glossary/k/keywords",
+            "anchor": "",
+            "url": "/docs/rules_glossary/K/keywords"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "discard"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "equipped"
             }
           ],
-          "id": "rules_glossary/e/equipped",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/equipped"
+          "link": {
+            "id": "rules_glossary/e/equipped",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/equipped"
+          }
         },
         {
           "type": "text",
@@ -67,9 +73,11 @@
               "text": "conduit"
             }
           ],
-          "id": "rules_glossary/c/conduit_keyword",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/conduit"
+          "link": {
+            "id": "rules_glossary/c/conduit_keyword",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/conduit"
+          }
         },
         {
           "type": "text",
@@ -87,9 +95,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "manifestation-on-attributes",
-          "url": "#manifestation-on-attributes"
+          "link": {
+            "id": null,
+            "anchor": "manifestation-on-attributes",
+            "url": "#manifestation-on-attributes"
+          }
         }
       ],
       "anchor": "manifestation-on-attributes"
@@ -109,9 +119,11 @@
               "text": "attribute"
             }
           ],
-          "id": "rules_glossary/a/attributes",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/attributes"
+          "link": {
+            "id": "rules_glossary/a/attributes",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/attributes"
+          }
         },
         {
           "type": "text",
@@ -125,9 +137,11 @@
               "text": "discard"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -141,9 +155,11 @@
               "text": "equipped"
             }
           ],
-          "id": "rules_glossary/e/equipped",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/equipped"
+          "link": {
+            "id": "rules_glossary/e/equipped",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/equipped"
+          }
         },
         {
           "type": "text",
@@ -157,9 +173,11 @@
               "text": "conduit"
             }
           ],
-          "id": "rules_glossary/c/conduit_keyword",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/conduit"
+          "link": {
+            "id": "rules_glossary/c/conduit_keyword",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/conduit"
+          }
         },
         {
           "type": "text",

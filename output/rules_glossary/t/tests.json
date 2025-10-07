@@ -19,9 +19,11 @@
               "text": "aspect"
             }
           ],
-          "id": "rules_glossary/a/aspects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/aspects"
+          "link": {
+            "id": "rules_glossary/a/aspects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/aspects"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "common tests"
             }
           ],
-          "id": "rules_glossary/c/common_test",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/common_tests"
+          "link": {
+            "id": "rules_glossary/c/common_test",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/common_tests"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "turn"
             }
           ],
-          "id": "rules_glossary/t/turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/turns"
+          "link": {
+            "id": "rules_glossary/t/turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/turns"
+          }
         },
         {
           "type": "text",
@@ -92,9 +100,11 @@
               "text": "player areas"
             }
           ],
-          "id": "rules_glossary/p/player_area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/player_area"
+          "link": {
+            "id": "rules_glossary/p/player_area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/player_area"
+          }
         },
         {
           "type": "text",
@@ -117,9 +127,11 @@
               "text": "interact"
             }
           ],
-          "id": "rules_glossary/i/interact",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/interact"
+          "link": {
+            "id": "rules_glossary/i/interact",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/interact"
+          }
         },
         {
           "type": "text",
@@ -133,9 +145,11 @@
               "text": "in play"
             }
           ],
-          "id": "rules_glossary/i/in_play",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/in_play"
+          "link": {
+            "id": "rules_glossary/i/in_play",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/in_play"
+          }
         },
         {
           "type": "text",
@@ -149,9 +163,11 @@
               "text": "interacting"
             }
           ],
-          "id": "rules_glossary/i/interact",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/interact"
+          "link": {
+            "id": "rules_glossary/i/interact",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/interact"
+          }
         },
         {
           "type": "text",
@@ -165,9 +181,11 @@
               "text": "fatigue"
             }
           ],
-          "id": "rules_glossary/f/fatigue",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/fatigue"
+          "link": {
+            "id": "rules_glossary/f/fatigue",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/fatigue"
+          }
         }
       ]
     },
@@ -190,9 +208,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "1-choose-test",
-          "url": "#1-choose-test"
+          "link": {
+            "id": null,
+            "anchor": "1-choose-test",
+            "url": "#1-choose-test"
+          }
         }
       ],
       "anchor": "1-choose-test"
@@ -221,9 +241,11 @@
               "text": "ready"
             }
           ],
-          "id": "rules_glossary/r/ready",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ready"
+          "link": {
+            "id": "rules_glossary/r/ready",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ready"
+          }
         },
         {
           "type": "text",
@@ -237,9 +259,11 @@
               "text": "Fatigues"
             }
           ],
-          "id": "rules_glossary/f/fatigue",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/fatigue"
+          "link": {
+            "id": "rules_glossary/f/fatigue",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/fatigue"
+          }
         },
         {
           "type": "text",
@@ -257,9 +281,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "2-commit-effort",
-          "url": "#2-commit-effort"
+          "link": {
+            "id": null,
+            "anchor": "2-commit-effort",
+            "url": "#2-commit-effort"
+          }
         }
       ],
       "anchor": "2-commit-effort"
@@ -275,9 +301,11 @@
               "text": "Effort"
             }
           ],
-          "id": "rules_glossary/e/effort",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/effort"
+          "link": {
+            "id": "rules_glossary/e/effort",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/effort"
+          }
         },
         {
           "type": "text",
@@ -291,9 +319,11 @@
               "text": "committed"
             }
           ],
-          "id": "rules_glossary/c/commit",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/commit"
+          "link": {
+            "id": "rules_glossary/c/commit",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/commit"
+          }
         },
         {
           "type": "text",
@@ -307,9 +337,11 @@
               "text": "play area"
             }
           ],
-          "id": "rules_glossary/p/the_play_area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/play_area"
+          "link": {
+            "id": "rules_glossary/p/the_play_area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/play_area"
+          }
         },
         {
           "type": "text",
@@ -323,9 +355,11 @@
               "text": "discard"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -351,9 +385,11 @@
                   "text": "Energy"
                 }
               ],
-              "id": "rules_glossary/e/energy",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/energy"
+              "link": {
+                "id": "rules_glossary/e/energy",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/energy"
+              }
             }
           ]
         },
@@ -381,9 +417,11 @@
                   "text": "Approach Icons"
                 }
               ],
-              "id": "rules_glossary/a/approach_icons",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/approach_icons"
+              "link": {
+                "id": "rules_glossary/a/approach_icons",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/approach_icons"
+              }
             }
           ]
         },
@@ -399,9 +437,11 @@
               "text": "discard"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -433,9 +473,11 @@
               "text": "gear"
             }
           ],
-          "id": "rules_glossary/g/gear",
-          "anchor": "",
-          "url": "/docs/rules_glossary/G/gear"
+          "link": {
+            "id": "rules_glossary/g/gear",
+            "anchor": "",
+            "url": "/docs/rules_glossary/G/gear"
+          }
         },
         {
           "type": "text",
@@ -449,9 +491,11 @@
               "text": "Ranger tokens"
             }
           ],
-          "id": "rules_glossary/r/ranger_token",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ranger_token"
+          "link": {
+            "id": "rules_glossary/r/ranger_token",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ranger_token"
+          }
         },
         {
           "type": "text",
@@ -465,9 +509,11 @@
               "text": "approach icons"
             }
           ],
-          "id": "rules_glossary/a/approach_icons",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/approach_icons"
+          "link": {
+            "id": "rules_glossary/a/approach_icons",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/approach_icons"
+          }
         },
         {
           "type": "text",
@@ -481,9 +527,11 @@
               "text": "effort"
             }
           ],
-          "id": "rules_glossary/e/effort",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/effort"
+          "link": {
+            "id": "rules_glossary/e/effort",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/effort"
+          }
         }
       ]
     },
@@ -497,9 +545,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "3-apply-modifiers",
-          "url": "#3-apply-modifiers"
+          "link": {
+            "id": null,
+            "anchor": "3-apply-modifiers",
+            "url": "#3-apply-modifiers"
+          }
         }
       ],
       "anchor": "3-apply-modifiers"
@@ -519,9 +569,11 @@
               "text": "challenge card"
             }
           ],
-          "id": "rules_glossary/c/challenge_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/challenge_cards"
+          "link": {
+            "id": "rules_glossary/c/challenge_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/challenge_cards"
+          }
         },
         {
           "type": "text",
@@ -535,9 +587,11 @@
               "text": "aspects"
             }
           ],
-          "id": "rules_glossary/a/aspects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/aspects"
+          "link": {
+            "id": "rules_glossary/a/aspects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/aspects"
+          }
         },
         {
           "type": "text",
@@ -551,9 +605,11 @@
               "text": "effort"
             }
           ],
-          "id": "rules_glossary/e/effort",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/effort"
+          "link": {
+            "id": "rules_glossary/e/effort",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/effort"
+          }
         }
       ]
     },
@@ -567,9 +623,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "4-success-or-failure",
-          "url": "#4-success-or-failure"
+          "link": {
+            "id": null,
+            "anchor": "4-success-or-failure",
+            "url": "#4-success-or-failure"
+          }
         }
       ],
       "anchor": "4-success-or-failure"
@@ -589,9 +647,11 @@
               "text": "difficulty"
             }
           ],
-          "id": "rules_glossary/d/difficulty",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/difficulty"
+          "link": {
+            "id": "rules_glossary/d/difficulty",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/difficulty"
+          }
         },
         {
           "type": "text",
@@ -605,9 +665,11 @@
               "text": "difficulty"
             }
           ],
-          "id": "rules_glossary/d/difficulty",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/difficulty"
+          "link": {
+            "id": "rules_glossary/d/difficulty",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/difficulty"
+          }
         },
         {
           "type": "text",
@@ -653,9 +715,11 @@
               "text": "injury"
             }
           ],
-          "id": "rules_glossary/i/injury",
-          "anchor": "",
-          "url": "/docs/rules_glossary/I/injury"
+          "link": {
+            "id": "rules_glossary/i/injury",
+            "anchor": "",
+            "url": "/docs/rules_glossary/I/injury"
+          }
         }
       ]
     },
@@ -678,9 +742,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "5-resolve-challenge-effects",
-          "url": "#5-resolve-challenge-effects"
+          "link": {
+            "id": null,
+            "anchor": "5-resolve-challenge-effects",
+            "url": "#5-resolve-challenge-effects"
+          }
         }
       ],
       "anchor": "5-resolve-challenge-effects"
@@ -700,9 +766,11 @@
               "text": "challenge card"
             }
           ],
-          "id": "rules_glossary/c/challenge_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/challenge_cards"
+          "link": {
+            "id": "rules_glossary/c/challenge_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/challenge_cards"
+          }
         },
         {
           "type": "text",
@@ -725,9 +793,11 @@
               "text": "active"
             }
           ],
-          "id": "rules_glossary/a/active",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/active"
+          "link": {
+            "id": "rules_glossary/a/active",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/active"
+          }
         },
         {
           "type": "text",
@@ -741,9 +811,11 @@
               "text": "ready"
             }
           ],
-          "id": "rules_glossary/r/ready",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ready"
+          "link": {
+            "id": "rules_glossary/r/ready",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ready"
+          }
         },
         {
           "type": "text",
@@ -757,9 +829,11 @@
               "text": "surroundings"
             }
           ],
-          "id": "rules_glossary/s/surroundings",
-          "anchor": "",
-          "url": "/docs/rules_glossary/S/surroundings"
+          "link": {
+            "id": "rules_glossary/s/surroundings",
+            "anchor": "",
+            "url": "/docs/rules_glossary/S/surroundings"
+          }
         },
         {
           "type": "a",
@@ -769,9 +843,11 @@
               "text": "along the way"
             }
           ],
-          "id": "rules_glossary/a/along_the_way",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/along_the_way"
+          "link": {
+            "id": "rules_glossary/a/along_the_way",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/along_the_way"
+          }
         },
         {
           "type": "a",
@@ -781,9 +857,11 @@
               "text": "within reach"
             }
           ],
-          "id": "rules_glossary/w/within_reach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/within_reach"
+          "link": {
+            "id": "rules_glossary/w/within_reach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/within_reach"
+          }
         },
         {
           "type": "text",
@@ -797,9 +875,11 @@
               "text": "exhausted"
             }
           ],
-          "id": "rules_glossary/e/exhaust",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/exhaust"
+          "link": {
+            "id": "rules_glossary/e/exhaust",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/exhaust"
+          }
         },
         {
           "type": "text",
@@ -813,9 +893,11 @@
               "text": "within reach"
             }
           ],
-          "id": "rules_glossary/w/within_reach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/within_reach"
+          "link": {
+            "id": "rules_glossary/w/within_reach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/within_reach"
+          }
         },
         {
           "type": "text",
@@ -829,9 +911,11 @@
               "text": "within reach"
             }
           ],
-          "id": "rules_glossary/w/within_reach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/within_reach"
+          "link": {
+            "id": "rules_glossary/w/within_reach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/within_reach"
+          }
         },
         {
           "type": "text",
@@ -845,9 +929,11 @@
               "text": "active"
             }
           ],
-          "id": "rules_glossary/a/active",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/active"
+          "link": {
+            "id": "rules_glossary/a/active",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/active"
+          }
         },
         {
           "type": "text",
@@ -870,9 +956,11 @@
               "text": "challenge effects"
             }
           ],
-          "id": "rules_glossary/c/challenge_effects",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/challenge_effects"
+          "link": {
+            "id": "rules_glossary/c/challenge_effects",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/challenge_effects"
+          }
         },
         {
           "type": "text",
@@ -898,9 +986,11 @@
                   "text": "challenge cards"
                 }
               ],
-              "id": "rules_glossary/c/challenge_cards",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/challenge_cards"
+              "link": {
+                "id": "rules_glossary/c/challenge_cards",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/challenge_cards"
+              }
             },
             {
               "type": "text",
@@ -914,9 +1004,11 @@
                   "text": "reshuffle icon"
                 }
               ],
-              "id": "rules_glossary/r/reshuffle_icon",
-              "anchor": "",
-              "url": "/docs/rules_glossary/R/reshuffle_icon"
+              "link": {
+                "id": "rules_glossary/r/reshuffle_icon",
+                "anchor": "",
+                "url": "/docs/rules_glossary/R/reshuffle_icon"
+              }
             },
             {
               "type": "span",
@@ -954,9 +1046,11 @@
                   "text": "cleared"
                 }
               ],
-              "id": "rules_glossary/c/clear",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/clear"
+              "link": {
+                "id": "rules_glossary/c/clear",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/clear"
+              }
             },
             {
               "type": "text",
@@ -970,9 +1064,11 @@
                   "text": "exhausted"
                 }
               ],
-              "id": "rules_glossary/e/exhaust",
-              "anchor": "",
-              "url": "/docs/rules_glossary/E/exhaust"
+              "link": {
+                "id": "rules_glossary/e/exhaust",
+                "anchor": "",
+                "url": "/docs/rules_glossary/E/exhaust"
+              }
             },
             {
               "type": "text",
@@ -992,9 +1088,11 @@
         {
           "type": "a",
           "items": [],
-          "id": null,
-          "anchor": "test-flowchart",
-          "url": "#test-flowchart"
+          "link": {
+            "id": null,
+            "anchor": "test-flowchart",
+            "url": "#test-flowchart"
+          }
         }
       ],
       "anchor": "test-flowchart"

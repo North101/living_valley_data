@@ -28,9 +28,11 @@
               "text": "harm"
             }
           ],
-          "id": "rules_glossary/h/harm",
-          "anchor": "",
-          "url": "/docs/rules_glossary/H/harm"
+          "link": {
+            "id": "rules_glossary/h/harm",
+            "anchor": "",
+            "url": "/docs/rules_glossary/H/harm"
+          }
         },
         {
           "type": "text",
@@ -44,9 +46,11 @@
               "text": "role"
             }
           ],
-          "id": "rules_glossary/r/role",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/role"
+          "link": {
+            "id": "rules_glossary/r/role",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/role"
+          }
         },
         {
           "type": "text",
@@ -60,9 +64,11 @@
               "text": "discard"
             }
           ],
-          "id": "rules_glossary/d/discard",
-          "anchor": "",
-          "url": "/docs/rules_glossary/D/discard"
+          "link": {
+            "id": "rules_glossary/d/discard",
+            "anchor": "",
+            "url": "/docs/rules_glossary/D/discard"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "fatigue"
             }
           ],
-          "id": "rules_glossary/f/fatigue",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/fatigue"
+          "link": {
+            "id": "rules_glossary/f/fatigue",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/fatigue"
+          }
         },
         {
           "type": "text",
@@ -101,9 +109,11 @@
               "text": "fatigue"
             }
           ],
-          "id": "rules_glossary/f/fatigue",
-          "anchor": "",
-          "url": "/docs/rules_glossary/F/fatigue"
+          "link": {
+            "id": "rules_glossary/f/fatigue",
+            "anchor": "",
+            "url": "/docs/rules_glossary/F/fatigue"
+          }
         },
         {
           "type": "text",
@@ -117,9 +127,11 @@
               "text": "refresh"
             }
           ],
-          "id": "rules_glossary/p/phase_4_refresh",
-          "anchor": "",
-          "url": "/docs/rules_glossary/P/phase_4_refresh"
+          "link": {
+            "id": "rules_glossary/p/phase_4_refresh",
+            "anchor": "",
+            "url": "/docs/rules_glossary/P/phase_4_refresh"
+          }
         },
         {
           "type": "text",
@@ -133,9 +145,11 @@
               "text": "round"
             }
           ],
-          "id": "rules_glossary/r/round",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/round"
+          "link": {
+            "id": "rules_glossary/r/round",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/round"
+          }
         }
       ]
     },
@@ -154,9 +168,11 @@
               "text": "harm"
             }
           ],
-          "id": "rules_glossary/h/harm",
-          "anchor": "",
-          "url": "/docs/rules_glossary/H/harm"
+          "link": {
+            "id": "rules_glossary/h/harm",
+            "anchor": "",
+            "url": "/docs/rules_glossary/H/harm"
+          }
         },
         {
           "type": "text",
@@ -179,9 +195,11 @@
               "text": "end the day"
             }
           ],
-          "id": "rules_glossary/e/end_the_day",
-          "anchor": "",
-          "url": "/docs/rules_glossary/E/end_the_day"
+          "link": {
+            "id": "rules_glossary/e/end_the_day",
+            "anchor": "",
+            "url": "/docs/rules_glossary/E/end_the_day"
+          }
         },
         {
           "type": "text",
@@ -195,9 +213,11 @@
               "text": "turn"
             }
           ],
-          "id": "rules_glossary/t/turns",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/turns"
+          "link": {
+            "id": "rules_glossary/t/turns",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/turns"
+          }
         },
         {
           "type": "text",
@@ -211,9 +231,11 @@
               "text": "collection"
             }
           ],
-          "id": "rules_glossary/c/the_collection",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/collection"
+          "link": {
+            "id": "rules_glossary/c/the_collection",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/collection"
+          }
         }
       ]
     },
@@ -235,9 +257,11 @@
                   "text": "collection"
                 }
               ],
-              "id": "rules_glossary/c/the_collection",
-              "anchor": "",
-              "url": "/docs/rules_glossary/C/collection"
+              "link": {
+                "id": "rules_glossary/c/the_collection",
+                "anchor": "",
+                "url": "/docs/rules_glossary/C/collection"
+              }
             },
             {
               "type": "text",

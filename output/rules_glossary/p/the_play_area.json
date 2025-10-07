@@ -19,9 +19,11 @@
               "text": "areas"
             }
           ],
-          "id": "rules_glossary/a/area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/area"
+          "link": {
+            "id": "rules_glossary/a/area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/area"
+          }
         }
       ]
     },
@@ -39,9 +41,11 @@
                   "text": "Surroundings"
                 }
               ],
-              "id": "rules_glossary/s/surroundings",
-              "anchor": "",
-              "url": "/docs/rules_glossary/S/surroundings"
+              "link": {
+                "id": "rules_glossary/s/surroundings",
+                "anchor": "",
+                "url": "/docs/rules_glossary/S/surroundings"
+              }
             }
           ]
         },
@@ -56,9 +60,11 @@
                   "text": "Along the Way"
                 }
               ],
-              "id": "rules_glossary/a/along_the_way",
-              "anchor": "",
-              "url": "/docs/rules_glossary/A/along_the_way"
+              "link": {
+                "id": "rules_glossary/a/along_the_way",
+                "anchor": "",
+                "url": "/docs/rules_glossary/A/along_the_way"
+              }
             }
           ]
         },
@@ -73,9 +79,11 @@
                   "text": "Within Reach"
                 }
               ],
-              "id": "rules_glossary/w/within_reach",
-              "anchor": "",
-              "url": "/docs/rules_glossary/W/within_reach"
+              "link": {
+                "id": "rules_glossary/w/within_reach",
+                "anchor": "",
+                "url": "/docs/rules_glossary/W/within_reach"
+              }
             }
           ]
         },
@@ -90,9 +98,11 @@
                   "text": "Player Area"
                 }
               ],
-              "id": "rules_glossary/p/player_area",
-              "anchor": "",
-              "url": "/docs/rules_glossary/P/player_area"
+              "link": {
+                "id": "rules_glossary/p/player_area",
+                "anchor": "",
+                "url": "/docs/rules_glossary/P/player_area"
+              }
             }
           ]
         }

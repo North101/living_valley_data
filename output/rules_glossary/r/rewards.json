@@ -19,9 +19,11 @@
               "text": "Ranger cards"
             }
           ],
-          "id": "rules_glossary/r/ranger_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/R/ranger_cards"
+          "link": {
+            "id": "rules_glossary/r/ranger_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/R/ranger_cards"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "campaign"
             }
           ],
-          "id": "rules_glossary/c/campaign",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign"
+          "link": {
+            "id": "rules_glossary/c/campaign",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "campaign tracker"
             }
           ],
-          "id": "rules_glossary/c/campaign_tracker",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/campaign_tracker"
+          "link": {
+            "id": "rules_glossary/c/campaign_tracker",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/campaign_tracker"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "Customizing Ranger Decks"
             }
           ],
-          "id": "rules_glossary/c/customizing_ranger_decks",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/customizing_ranger_decks"
+          "link": {
+            "id": "rules_glossary/c/customizing_ranger_decks",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/customizing_ranger_decks"
+          }
         },
         {
           "type": "text",

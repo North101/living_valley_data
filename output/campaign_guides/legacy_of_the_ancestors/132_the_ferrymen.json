@@ -34,9 +34,11 @@
                       "text": "132.1"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_1"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_1"
+                  }
                 }
               ]
             },
@@ -55,9 +57,11 @@
                       "text": "132.2"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_2"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_2"
+                  }
                 }
               ]
             },
@@ -76,9 +80,11 @@
                       "text": "132.3"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_3",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_3"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_3",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_3"
+                  }
                 }
               ]
             }
@@ -127,9 +133,11 @@
                       "text": "132.4"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_4",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_4"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_4",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_4"
+                  }
                 }
               ]
             },
@@ -148,9 +156,11 @@
                       "text": "132.5"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_5",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_5"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_5",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_5"
+                  }
                 }
               ]
             },
@@ -169,9 +179,11 @@
                       "text": "132.6"
                     }
                   ],
-                  "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_6",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_6"
+                  "link": {
+                    "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_6",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_6"
+                  }
                 }
               ]
             }
@@ -209,9 +221,11 @@
               "text": "132.7"
             }
           ],
-          "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_7",
-          "anchor": "",
-          "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_7"
+          "link": {
+            "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_7",
+            "anchor": "",
+            "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_7"
+          }
         }
       ],
       "highlight_color": "blue"

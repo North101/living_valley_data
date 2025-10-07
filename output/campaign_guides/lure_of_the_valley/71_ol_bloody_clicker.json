@@ -34,9 +34,11 @@
                       "text": "71.1"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_1",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/ol_bloody_clicker/71_1"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_1",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/ol_bloody_clicker/71_1"
+                  }
                 }
               ]
             },
@@ -55,9 +57,11 @@
                       "text": "71.2"
                     }
                   ],
-                  "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_2",
-                  "anchor": "",
-                  "url": "/docs/campaign_guides/lure_of_the_valley/ol_bloody_clicker/71_2"
+                  "link": {
+                    "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_2",
+                    "anchor": "",
+                    "url": "/docs/campaign_guides/lure_of_the_valley/ol_bloody_clicker/71_2"
+                  }
                 }
               ]
             }

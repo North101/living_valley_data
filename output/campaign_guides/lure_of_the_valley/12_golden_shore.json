@@ -19,9 +19,11 @@
               "text": "12.1"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/12_golden_shore/12_1",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/golden_shore/12_1"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/12_golden_shore/12_1",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/golden_shore/12_1"
+          }
         }
       ],
       "highlight_color": "blue"
@@ -55,9 +57,11 @@
               "text": "12.2"
             }
           ],
-          "id": "campaign_guides/lure_of_the_valley/12_golden_shore/12_2",
-          "anchor": "",
-          "url": "/docs/campaign_guides/lure_of_the_valley/golden_shore/12_2"
+          "link": {
+            "id": "campaign_guides/lure_of_the_valley/12_golden_shore/12_2",
+            "anchor": "",
+            "url": "/docs/campaign_guides/lure_of_the_valley/golden_shore/12_2"
+          }
         }
       ]
     },

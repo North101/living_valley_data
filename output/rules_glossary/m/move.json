@@ -19,9 +19,11 @@
               "text": "area"
             }
           ],
-          "id": "rules_glossary/a/area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/area"
+          "link": {
+            "id": "rules_glossary/a/area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/area"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "along the way"
             }
           ],
-          "id": "rules_glossary/a/along_the_way",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/along_the_way"
+          "link": {
+            "id": "rules_glossary/a/along_the_way",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/along_the_way"
+          }
         },
         {
           "type": "text",
@@ -51,9 +55,11 @@
               "text": "within reach"
             }
           ],
-          "id": "rules_glossary/w/within_reach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/W/within_reach"
+          "link": {
+            "id": "rules_glossary/w/within_reach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/W/within_reach"
+          }
         },
         {
           "type": "text",
@@ -76,9 +82,11 @@
               "text": "area"
             }
           ],
-          "id": "rules_glossary/a/area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/area"
+          "link": {
+            "id": "rules_glossary/a/area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/area"
+          }
         },
         {
           "type": "text",
@@ -92,9 +100,11 @@
               "text": "attached"
             }
           ],
-          "id": "rules_glossary/a/attach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/attach"
+          "link": {
+            "id": "rules_glossary/a/attach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/attach"
+          }
         },
         {
           "type": "text",
@@ -108,9 +118,11 @@
               "text": "attached"
             }
           ],
-          "id": "rules_glossary/a/attach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/attach"
+          "link": {
+            "id": "rules_glossary/a/attach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/attach"
+          }
         },
         {
           "type": "text",
@@ -124,9 +136,11 @@
               "text": "area"
             }
           ],
-          "id": "rules_glossary/a/area",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/area"
+          "link": {
+            "id": "rules_glossary/a/area",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/area"
+          }
         },
         {
           "type": "text",
@@ -140,9 +154,11 @@
               "text": "attached"
             }
           ],
-          "id": "rules_glossary/a/attach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/attach"
+          "link": {
+            "id": "rules_glossary/a/attach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/attach"
+          }
         },
         {
           "type": "text",
@@ -156,9 +172,11 @@
               "text": "attached"
             }
           ],
-          "id": "rules_glossary/a/attach",
-          "anchor": "",
-          "url": "/docs/rules_glossary/A/attach"
+          "link": {
+            "id": "rules_glossary/a/attach",
+            "anchor": "",
+            "url": "/docs/rules_glossary/A/attach"
+          }
         },
         {
           "type": "text",

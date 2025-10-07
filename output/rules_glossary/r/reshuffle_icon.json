@@ -19,9 +19,11 @@
               "text": "test"
             }
           ],
-          "id": "rules_glossary/t/tests",
-          "anchor": "",
-          "url": "/docs/rules_glossary/T/tests"
+          "link": {
+            "id": "rules_glossary/t/tests",
+            "anchor": "",
+            "url": "/docs/rules_glossary/T/tests"
+          }
         },
         {
           "type": "text",
@@ -35,9 +37,11 @@
               "text": "challenge cards"
             }
           ],
-          "id": "rules_glossary/c/challenge_cards",
-          "anchor": "",
-          "url": "/docs/rules_glossary/C/challenge_cards"
+          "link": {
+            "id": "rules_glossary/c/challenge_cards",
+            "anchor": "",
+            "url": "/docs/rules_glossary/C/challenge_cards"
+          }
         },
         {
           "type": "text",
@@ -77,9 +81,11 @@
                   "text": "reshuffle icon"
                 }
               ],
-              "id": "rules_glossary/r/reshuffle_icon",
-              "anchor": "",
-              "url": "/docs/rules_glossary/R/reshuffle_icon"
+              "link": {
+                "id": "rules_glossary/r/reshuffle_icon",
+                "anchor": "",
+                "url": "/docs/rules_glossary/R/reshuffle_icon"
+              }
             },
             {
               "type": "span",
@@ -103,9 +109,11 @@
                   "text": "discarded"
                 }
               ],
-              "id": "rules_glossary/d/discard",
-              "anchor": "",
-              "url": "/docs/rules_glossary/D/discard"
+              "link": {
+                "id": "rules_glossary/d/discard",
+                "anchor": "",
+                "url": "/docs/rules_glossary/D/discard"
+              }
             },
             {
               "type": "text",
