@@ -71,11 +71,14 @@ def parse_element(e: Any, urls: dict[str, str], icon_color: str | None):
   tag: str = e.tag
   classes = list(e.classes)
   TAG_CLASSES.setdefault(tag, set()).update(classes)
+  
+  if tag == 'a' and 'button' in classes:
+    tag = 'button'
 
   resource_id: str | None = None
   anchor: str | None = None
   url: str | None = None
-  if tag == 'a':
+  if tag in ('a', 'button'):
     url = clean_url(e.get('href'))
     TAG_URLS.add(url)
     resource_id, anchor = rewrite_url(url, urls)
@@ -108,7 +111,7 @@ def parse_element(e: Any, urls: dict[str, str], icon_color: str | None):
       'type': tag,
       'items': items,
   }
-  if tag == 'a':
+  if tag in ('a', 'button'):
     data.update({
         'link': {
           'id': resource_id,
@@ -130,11 +133,6 @@ def parse_element(e: Any, urls: dict[str, str], icon_color: str | None):
     data.update({
         'highlight_color': highlight_color,
     })
-  
-  # if 'button' in classes:
-  #   data.update({
-  #     'button': True,
-  #   })
 
   return data
 
