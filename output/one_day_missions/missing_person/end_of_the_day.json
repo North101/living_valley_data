@@ -163,10 +163,10 @@
               "items": [
                 {
                   "type": "icon",
-                  "icon": "harm"
+                  "icon": "harm",
+                  "color": "black"
                 }
-              ],
-              "icon_color": "black"
+              ]
             }
           ]
         }
@@ -327,10 +327,10 @@
               "items": [
                 {
                   "type": "icon",
-                  "icon": "harm"
+                  "icon": "harm",
+                  "color": "black"
                 }
-              ],
-              "icon_color": "black"
+              ]
             }
           ]
         }

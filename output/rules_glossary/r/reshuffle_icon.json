@@ -48,10 +48,10 @@
           "items": [
             {
               "type": "icon",
-              "icon": "reshuffle"
+              "icon": "reshuffle",
+              "color": "black"
             }
-          ],
-          "icon_color": "black"
+          ]
         },
         {
           "type": "text",
@@ -86,10 +86,10 @@
               "items": [
                 {
                   "type": "icon",
-                  "icon": "reshuffle"
+                  "icon": "reshuffle",
+                  "color": "black"
                 }
-              ],
-              "icon_color": "black"
+              ]
             },
             {
               "type": "text",

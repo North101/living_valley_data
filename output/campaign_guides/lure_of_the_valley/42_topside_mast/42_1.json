@@ -63,10 +63,10 @@
                   "items": [
                     {
                       "type": "icon",
-                      "icon": "ranger_token"
+                      "icon": "ranger_token",
+                      "color": "black"
                     }
-                  ],
-                  "icon_color": "black"
+                  ]
                 },
                 {
                   "type": "text",

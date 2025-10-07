@@ -117,10 +117,10 @@
               "items": [
                 {
                   "type": "icon",
-                  "icon": "conflict"
+                  "icon": "conflict",
+                  "color": "black"
                 }
-              ],
-              "icon_color": "black"
+              ]
             },
             {
               "type": "text",
@@ -136,10 +136,10 @@
               "items": [
                 {
                   "type": "icon",
-                  "icon": "reason"
+                  "icon": "reason",
+                  "color": "black"
                 }
-              ],
-              "icon_color": "black"
+              ]
             },
             {
               "type": "text",
@@ -155,10 +155,10 @@
               "items": [
                 {
                   "type": "icon",
-                  "icon": "exploration"
+                  "icon": "exploration",
+                  "color": "black"
                 }
-              ],
-              "icon_color": "black"
+              ]
             },
             {
               "type": "text",
@@ -174,10 +174,10 @@
               "items": [
                 {
                   "type": "icon",
-                  "icon": "connection"
+                  "icon": "connection",
+                  "color": "black"
                 }
-              ],
-              "icon_color": "black"
+              ]
             },
             {
               "type": "text",

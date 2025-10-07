@@ -61,10 +61,10 @@
                   "items": [
                     {
                       "type": "icon",
-                      "icon": "conditional"
+                      "icon": "conditional",
+                      "color": "black"
                     }
-                  ],
-                  "icon_color": "black"
+                  ]
                 },
                 {
                   "type": "text",
@@ -75,10 +75,10 @@
                   "items": [
                     {
                       "type": "icon",
-                      "icon": "conditional"
+                      "icon": "conditional",
+                      "color": "black"
                     }
-                  ],
-                  "icon_color": "black"
+                  ]
                 },
                 {
                   "type": "text",

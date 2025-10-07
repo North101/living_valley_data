@@ -57,10 +57,10 @@
           "items": [
             {
               "type": "icon",
-              "icon": "crest"
+              "icon": "crest",
+              "color": "black"
             }
-          ],
-          "icon_color": "black"
+          ]
         },
         {
           "type": "text",
@@ -71,10 +71,10 @@
           "items": [
             {
               "type": "icon",
-              "icon": "mountain"
+              "icon": "mountain",
+              "color": "black"
             }
-          ],
-          "icon_color": "black"
+          ]
         },
         {
           "type": "text",
@@ -85,10 +85,10 @@
           "items": [
             {
               "type": "icon",
-              "icon": "sun"
+              "icon": "sun",
+              "color": "black"
             }
-          ],
-          "icon_color": "black"
+          ]
         },
         {
           "type": "text",
@@ -142,10 +142,10 @@
                   "items": [
                     {
                       "type": "icon",
-                      "icon": "reshuffle"
+                      "icon": "reshuffle",
+                      "color": "black"
                     }
-                  ],
-                  "icon_color": "black"
+                  ]
                 },
                 {
                   "type": "text",
@@ -182,10 +182,10 @@
                   "items": [
                     {
                       "type": "icon",
-                      "icon": "reshuffle"
+                      "icon": "reshuffle",
+                      "color": "black"
                     }
-                  ],
-                  "icon_color": "black"
+                  ]
                 },
                 {
                   "type": "text",

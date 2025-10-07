@@ -27,12 +27,11 @@ def to_id(title: str):
 def get_content(session: requests.Session, base_url: str, url: str):
   file = pathlib.Path(f'./cache/{url.rstrip('/')}.html')
   if file.exists():
-    return file.read_text()
+    return file.read_text('utf8')
 
   content = session.get(urljoin(base_url, url), timeout=30).text
   file.parent.mkdir(exist_ok=True, parents=True)
-  with file.open('w') as f:
-    file.write_text(content)
+  file.write_text(content, 'utf8')
 
   return content
 
@@ -52,3 +51,11 @@ def get_guide_entry(title: str) -> str | None:
   if sub:
     return f'{main}.{sub}'
   return main
+
+
+def get_color_for_class(classes: list[str], colors: dict[str, str]):
+  return next((
+      color
+      for css_class, color in colors.items()
+      if css_class in classes
+  ), None)

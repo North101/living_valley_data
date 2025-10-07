@@ -39,10 +39,10 @@
           "items": [
             {
               "type": "icon",
-              "icon": "harm"
+              "icon": "harm",
+              "color": "black"
             }
           ],
-          "icon_color": "black",
           "color": "red"
         },
         {

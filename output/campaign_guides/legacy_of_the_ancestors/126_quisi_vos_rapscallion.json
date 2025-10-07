@@ -137,10 +137,10 @@
               "items": [
                 {
                   "type": "icon",
-                  "icon": "progress"
+                  "icon": "progress",
+                  "color": "black"
                 }
-              ],
-              "icon_color": "black"
+              ]
             }
           ]
         },
@@ -240,10 +240,10 @@
           "items": [
             {
               "type": "icon",
-              "icon": "harm"
+              "icon": "harm",
+              "color": "black"
             }
           ],
-          "icon_color": "black",
           "color": "red"
         },
         {

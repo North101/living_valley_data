@@ -93,10 +93,10 @@
           "items": [
             {
               "type": "icon",
-              "icon": "per_ranger"
+              "icon": "per_ranger",
+              "color": "black"
             }
-          ],
-          "icon_color": "black"
+          ]
         },
         {
           "type": "text",
@@ -153,10 +153,10 @@
           "items": [
             {
               "type": "icon",
-              "icon": "per_ranger"
+              "icon": "per_ranger",
+              "color": "black"
             }
-          ],
-          "icon_color": "black"
+          ]
         },
         {
           "type": "text",

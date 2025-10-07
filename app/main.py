@@ -68,75 +68,83 @@ def scrape_page(session: requests.Session, base_url: str, url: str):
     yield from scrape_page(session, base_url, item_url)
 
 
-def parse_section(parent: Any, urls: dict[str, str]):
-  return [
-      parse_element(child, urls)
-      for child in parent
-  ]
-
-
-def parse_element(e: Any, urls: dict[str, str]):
+def parse_element(e: Any, urls: dict[str, str], icon_color: str | None):
   tag: str = e.tag
   classes = list(e.classes)
-
   TAG_CLASSES.setdefault(tag, set()).update(classes)
+
+  resource_id: str | None = None
+  anchor: str | None = None
+  url: str | None = None
+  if tag == 'a':
+    url = clean_url(e.get('href'))
+    TAG_URLS.add(url)
+    resource_id, anchor = rewrite_url(url, urls)
+  elif tag in ('h1', 'h2', 'h3', 'h4', 'h5', 'h6'):
+    anchor = (
+        e.get('id')
+        if CLASS_ANCHOR in classes else
+        None
+    )
+
+  color = get_color_for_class(
+      classes,
+      colors=CSS_TEXT_COLORS,
+  )
+  highlight_color = get_color_for_class(
+      classes,
+      CSS_HIGHLIGHT_COLORS,
+  )
+
+  items = list(parse_element_items(
+      e,
+      urls,
+      get_color_for_class(
+          classes,
+          CSS_ICON_COLORS,
+      ) or icon_color,
+  ))
+
   data = {
       'type': tag,
-      'items': list(parse_element_items(e, urls)),
+      'items': items,
   }
   if tag == 'a':
-    url: str = clean_url(e.get('href'))
-    TAG_URLS.add(url)
-    page_id, anchor = rewrite_url(url, urls)
     data.update({
-        'id': page_id,
+        'id': resource_id,
         'anchor': anchor,
         'url': url,
     })
-  elif tag == 'span':
-    for css_class, color in CSS_ICON_COLORS.items():
-      if css_class in classes:
-        TAG_ICONS.update((
-            i
-            for i in e.text
-            if not i.isascii()
-        ))
-        data.update({
-            'icon_color': color,
-        })
-
-  for css_class, color in CSS_TEXT_COLORS.items():
-    if css_class in classes:
-      data.update({
-          'color': color,
-      })
-
-  for css_class, color in CSS_HIGHLIGHT_COLORS.items():
-    if css_class in classes:
-      data.update({
-          'highlight_color': color,
-      })
-
-  if CLASS_ANCHOR in classes:
+  elif anchor:
     data.update({
-        'anchor': e.get('id'),
+        'anchor': anchor,
+    })
+
+  if color:
+    data.update({
+        'color': color,
+    })
+
+  if highlight_color:
+    data.update({
+        'highlight_color': highlight_color,
     })
 
   return data
 
 
-def parse_element_items(parent: Any, urls: dict[str, str]):
+def parse_element_items(parent: Any, urls: dict[str, str], icon_color: str | None):
   if parent.text and parent.text.strip():
-    yield from process_text(parent.text.strip())
+    yield from process_text(parent.text.strip(), icon_color)
 
   for child in parent:
-    yield parse_element(child, urls)
+    yield parse_element(child, urls, icon_color)
 
     if child.tail and child.tail.strip():
-      yield from process_text(child.tail.strip())
+      yield from process_text(child.tail.strip(), icon_color)
 
 
-def process_text(text: str):
+def process_text(text: str, icon_color: str | None):
   start = 0
   i = 0
   for i, c in enumerate(iterable=text):
@@ -149,6 +157,7 @@ def process_text(text: str):
       yield {
           'type': 'icon',
           'icon': RANGER_ICON_NAMES[c],
+          'color': icon_color,
       }
       start = i + 1
 
@@ -211,7 +220,7 @@ def main(base_url: str, page_urls: list[str]):
       for title, url, page_id, items, data in sections:
         file = output_dir / f'{page_id}.json'
         content = (
-            remove_content_title(parse_section(data, urls))
+            remove_content_title(list(parse_element_items(data, urls, None)))
             if data is not None else
             None
         )

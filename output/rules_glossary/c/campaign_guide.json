@@ -25,10 +25,10 @@
           "items": [
             {
               "type": "icon",
-              "icon": "guide_entry"
+              "icon": "guide_entry",
+              "color": "black"
             }
-          ],
-          "icon_color": "black"
+          ]
         },
         {
           "type": "text",

@@ -71,10 +71,10 @@
           "items": [
             {
               "type": "icon",
-              "icon": "progress"
+              "icon": "progress",
+              "color": "black"
             }
-          ],
-          "icon_color": "black"
+          ]
         },
         {
           "type": "text",
@@ -108,10 +108,10 @@
                   "items": [
                     {
                       "type": "icon",
-                      "icon": "progress"
+                      "icon": "progress",
+                      "color": "black"
                     }
-                  ],
-                  "icon_color": "black"
+                  ]
                 },
                 {
                   "type": "text",

@@ -83,10 +83,10 @@
           "items": [
             {
               "type": "icon",
-              "icon": "sun"
+              "icon": "sun",
+              "color": "black"
             }
-          ],
-          "icon_color": "black"
+          ]
         }
       ],
       "color": "red"
@@ -178,10 +178,10 @@
           "items": [
             {
               "type": "icon",
-              "icon": "mountain"
+              "icon": "mountain",
+              "color": "black"
             }
-          ],
-          "icon_color": "black"
+          ]
         }
       ],
       "color": "red"
@@ -286,10 +286,10 @@
           "items": [
             {
               "type": "icon",
-              "icon": "crest"
+              "icon": "crest",
+              "color": "black"
             }
-          ],
-          "icon_color": "black"
+          ]
         }
       ],
       "color": "red"
