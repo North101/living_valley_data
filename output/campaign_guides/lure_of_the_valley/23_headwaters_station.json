@@ -20,7 +20,10 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/23_headwaters_station/23_1"
+    {
+      "id": "campaign_guides/lure_of_the_valley/23_headwaters_station/23_1",
+      "title": "23.1"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/headwaters_station"
 }

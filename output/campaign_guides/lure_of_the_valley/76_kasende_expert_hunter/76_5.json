@@ -35,7 +35,7 @@
           "text": "Discard one Hydraworm. Gain The Kasende Technique reward card. Discard Kasende, and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

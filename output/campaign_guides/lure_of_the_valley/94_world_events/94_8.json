@@ -37,7 +37,7 @@
           "color": "red"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -84,7 +84,7 @@
           "color": "red"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -125,7 +125,7 @@
           "text": "Complete"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -190,7 +190,7 @@
           "text": "If you have"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

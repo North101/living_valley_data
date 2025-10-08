@@ -143,10 +143,22 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_1",
-    "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_2",
-    "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_3",
-    "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_4"
+    {
+      "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_1",
+      "title": "85.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_2",
+      "title": "85.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_3",
+      "title": "85.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_4",
+      "title": "85.4"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/calypsa_ranger_mentor"
 }

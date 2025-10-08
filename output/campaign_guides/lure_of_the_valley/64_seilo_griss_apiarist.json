@@ -259,13 +259,34 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_1",
-    "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_2",
-    "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_3",
-    "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_4",
-    "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_5",
-    "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_6",
-    "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_7"
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_1",
+      "title": "64.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_2",
+      "title": "64.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_3",
+      "title": "64.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_4",
+      "title": "64.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_5",
+      "title": "64.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_6",
+      "title": "64.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_7",
+      "title": "64.7"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist"
 }

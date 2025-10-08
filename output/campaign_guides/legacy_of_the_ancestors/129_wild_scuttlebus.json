@@ -99,7 +99,7 @@
           "text": ". Otherwise, if you are on"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -129,8 +129,14 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/129_wild_scuttlebus/129_1",
-    "campaign_guides/legacy_of_the_ancestors/129_wild_scuttlebus/129_2"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/129_wild_scuttlebus/129_1",
+      "title": "129.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/129_wild_scuttlebus/129_2",
+      "title": "129.2"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/wild_scuttlebus"
 }

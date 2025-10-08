@@ -158,10 +158,22 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_1_loa",
-    "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_2_loa",
-    "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_3_loa",
-    "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_4_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_1_loa",
+      "title": "60.1 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_2_loa",
+      "title": "60.2 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_3_loa",
+      "title": "60.3 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_4_loa",
+      "title": "60.4 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin"
 }

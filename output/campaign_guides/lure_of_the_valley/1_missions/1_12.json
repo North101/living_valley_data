@@ -17,7 +17,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -44,7 +44,7 @@
           }
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -75,7 +75,7 @@
           "items": []
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -102,7 +102,7 @@
           }
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -606,7 +606,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -721,7 +721,7 @@
           "text": "Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -808,7 +808,7 @@
           "text": "Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -904,7 +904,7 @@
           "text": "Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

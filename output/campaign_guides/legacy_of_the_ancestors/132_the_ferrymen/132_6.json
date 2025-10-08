@@ -59,7 +59,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "span",
@@ -78,7 +78,7 @@
           "text": "Discard the Ferrymen. Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -96,7 +96,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "span",

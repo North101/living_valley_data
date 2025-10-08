@@ -131,12 +131,30 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_1",
-    "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_2",
-    "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_3",
-    "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_4",
-    "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_5",
-    "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_6"
+    {
+      "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_1",
+      "title": "39.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_2",
+      "title": "39.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_3",
+      "title": "39.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_4",
+      "title": "39.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_5",
+      "title": "39.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_6",
+      "title": "39.6"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/a_trick_of_the_light"
 }

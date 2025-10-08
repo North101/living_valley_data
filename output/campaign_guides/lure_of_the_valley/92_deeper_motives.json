@@ -129,9 +129,18 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/92_deeper_motives/92_1",
-    "campaign_guides/lure_of_the_valley/92_deeper_motives/92_2",
-    "campaign_guides/lure_of_the_valley/92_deeper_motives/92_3"
+    {
+      "id": "campaign_guides/lure_of_the_valley/92_deeper_motives/92_1",
+      "title": "92.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/92_deeper_motives/92_2",
+      "title": "92.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/92_deeper_motives/92_3",
+      "title": "92.3"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/deeper_motives"
 }

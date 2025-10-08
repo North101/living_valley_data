@@ -259,14 +259,38 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_1",
-    "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_2",
-    "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_3",
-    "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_4",
-    "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_5",
-    "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_6",
-    "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_7",
-    "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_8"
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_1",
+      "title": "45.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_2",
+      "title": "45.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_3",
+      "title": "45.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_4",
+      "title": "45.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_5",
+      "title": "45.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_6",
+      "title": "45.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_7",
+      "title": "45.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_8",
+      "title": "45.8"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/spirit_speaker_nal"
 }

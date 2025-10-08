@@ -62,7 +62,7 @@
           "text": "Gain the Audacity of the Estians reward card. Return Kordo, Ranger Veteran and"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

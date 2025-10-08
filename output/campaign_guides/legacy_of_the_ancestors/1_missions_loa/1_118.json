@@ -248,7 +248,7 @@
           "text": "Flip"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -261,7 +261,7 @@
           "text": "over to the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -274,7 +274,7 @@
           "text": "side, but don\u2019t alter the mission log. If you don\u2019t complete"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

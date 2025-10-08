@@ -105,9 +105,18 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_1_loa",
-    "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_2_loa",
-    "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_3_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_1_loa",
+      "title": "78.1 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_2_loa",
+      "title": "78.2 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_3_loa",
+      "title": "78.3 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_sinkhole"
 }

@@ -25,7 +25,7 @@ def to_id(title: str):
 
 
 def get_content(session: requests.Session, base_url: str, url: str):
-  file = pathlib.Path(f'./cache/{url.rstrip('/')}.html')
+  file = pathlib.Path(f'./cache/{clean_url(url)}.html')
   if file.exists():
     return file.read_text('utf8')
 

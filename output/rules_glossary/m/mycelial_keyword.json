@@ -12,7 +12,7 @@
           "text": "A card with the Mycelial keyword gains the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -21,7 +21,7 @@
           ]
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -34,7 +34,7 @@
           "text": ", and"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

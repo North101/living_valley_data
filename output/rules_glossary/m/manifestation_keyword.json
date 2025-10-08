@@ -184,7 +184,7 @@
           "text": "keyword to commit that attribute to a test."
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

@@ -263,14 +263,38 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_1",
-    "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_2",
-    "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_3",
-    "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_4",
-    "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_5",
-    "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_6",
-    "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_7",
-    "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_8"
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_1",
+      "title": "91.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_2",
+      "title": "91.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_3",
+      "title": "91.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_4",
+      "title": "91.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_5",
+      "title": "91.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_6",
+      "title": "91.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_7",
+      "title": "91.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_8",
+      "title": "91.8"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/biscuit_delivery"
 }

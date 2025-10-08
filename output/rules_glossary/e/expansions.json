@@ -23,7 +23,7 @@
               "type": "a",
               "items": [
                 {
-                  "type": "strong",
+                  "type": "b",
                   "items": [
                     {
                       "type": "text",
@@ -165,7 +165,7 @@
               "type": "a",
               "items": [
                 {
-                  "type": "strong",
+                  "type": "b",
                   "items": [
                     {
                       "type": "text",
@@ -355,7 +355,7 @@
               "type": "a",
               "items": [
                 {
-                  "type": "strong",
+                  "type": "b",
                   "items": [
                     {
                       "type": "text",

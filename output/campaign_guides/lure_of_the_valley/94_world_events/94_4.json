@@ -8,7 +8,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -49,7 +49,7 @@
           "text": "Complete"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -62,7 +62,7 @@
           "text": ", and gain"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

@@ -5,7 +5,10 @@
   "title": "K",
   "content": null,
   "items": [
-    "rules_glossary/k/keywords"
+    {
+      "id": "rules_glossary/k/keywords",
+      "title": "Keywords"
+    }
   ],
   "url": "/docs/category/k"
 }

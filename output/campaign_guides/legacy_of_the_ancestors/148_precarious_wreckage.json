@@ -161,9 +161,18 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_1",
-    "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_2",
-    "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_3"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_1",
+      "title": "148.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_2",
+      "title": "148.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_3",
+      "title": "148.3"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/precarious_wreckage"
 }

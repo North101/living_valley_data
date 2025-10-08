@@ -26,7 +26,7 @@
           "text": "Ignore the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

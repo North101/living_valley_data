@@ -283,14 +283,38 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_1",
-    "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_2",
-    "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_3",
-    "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_4",
-    "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_5",
-    "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_6",
-    "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_7",
-    "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_8"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_1",
+      "title": "126.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_2",
+      "title": "126.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_3",
+      "title": "126.3"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_4",
+      "title": "126.4"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_5",
+      "title": "126.5"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_6",
+      "title": "126.6"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_7",
+      "title": "126.7"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_8",
+      "title": "126.8"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/quisi_vos_rapscallion"
 }

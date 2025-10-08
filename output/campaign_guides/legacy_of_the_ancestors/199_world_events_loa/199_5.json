@@ -8,7 +8,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -112,7 +112,7 @@
           "text": "on the campaign tracker. Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -204,7 +204,7 @@
           "text": "on the campaign tracker. Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -217,7 +217,7 @@
           "text": "mission. Gain"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -230,7 +230,7 @@
           "text": "and"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

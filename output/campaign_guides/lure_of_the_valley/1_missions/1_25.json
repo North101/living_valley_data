@@ -87,7 +87,7 @@
           "text": "Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -100,7 +100,7 @@
           "text": "mission, and\ngain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -132,7 +132,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -174,7 +174,7 @@
           "text": "Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -187,7 +187,7 @@
           "text": "mission, and\ngain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

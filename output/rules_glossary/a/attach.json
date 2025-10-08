@@ -12,7 +12,7 @@
           "text": "Some cards instruct you to"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

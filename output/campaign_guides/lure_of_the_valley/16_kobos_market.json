@@ -95,8 +95,14 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/16_kobos_market/16_1",
-    "campaign_guides/lure_of_the_valley/16_kobos_market/16_2"
+    {
+      "id": "campaign_guides/lure_of_the_valley/16_kobos_market/16_1",
+      "title": "16.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/16_kobos_market/16_2",
+      "title": "16.2"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/kobos_market"
 }

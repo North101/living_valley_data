@@ -161,9 +161,18 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_1",
-    "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_2",
-    "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_3"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_1",
+      "title": "149.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_2",
+      "title": "149.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_3",
+      "title": "149.3"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/pitch_black_passage"
 }

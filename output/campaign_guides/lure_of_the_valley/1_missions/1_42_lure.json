@@ -125,7 +125,7 @@
           "text": "Flip the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -138,7 +138,7 @@
           "text": "card over to its"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -248,7 +248,7 @@
           "text": "Flip the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -261,7 +261,7 @@
           "text": "card over to its"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -371,7 +371,7 @@
           "text": "Flip the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -384,7 +384,7 @@
           "text": "card over to its"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

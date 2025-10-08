@@ -8,7 +8,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -37,7 +37,7 @@
           ]
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -82,8 +82,14 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/125_rift_in_the_artery/125_1",
-    "campaign_guides/legacy_of_the_ancestors/125_rift_in_the_artery/125_2"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/125_rift_in_the_artery/125_1",
+      "title": "125.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/125_rift_in_the_artery/125_2",
+      "title": "125.2"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/rift_in_the_artery"
 }

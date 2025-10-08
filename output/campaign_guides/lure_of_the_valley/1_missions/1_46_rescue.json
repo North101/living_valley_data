@@ -125,7 +125,7 @@
           "text": "Return Lunn, Outpost Tender to the collection, complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -203,7 +203,7 @@
           "text": "Return Vira, Lake Guide to the collection, complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -290,7 +290,7 @@
           "text": "Return Kasende, Expert Hunter to the collection, complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -326,7 +326,7 @@
           "text": "Then, if you are on"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

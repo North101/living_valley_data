@@ -72,8 +72,14 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_1",
-    "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_2"
+    {
+      "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_1",
+      "title": "71.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_2",
+      "title": "71.2"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/ol_bloody_clicker"
 }

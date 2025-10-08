@@ -75,7 +75,7 @@
           "text": "matching the number shown only when you are instructed to do so. For example, if you see text that reads \""
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -94,7 +94,7 @@
           ]
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

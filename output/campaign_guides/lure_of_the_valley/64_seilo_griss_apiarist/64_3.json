@@ -35,7 +35,7 @@
           "text": "Gain the Philosopher\u2019s Honey reward card. Discard Seilo, and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

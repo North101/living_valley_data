@@ -49,7 +49,7 @@
           "text": "If you are on the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -62,7 +62,7 @@
           "text": "or"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

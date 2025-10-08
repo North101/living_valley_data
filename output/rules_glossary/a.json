@@ -5,20 +5,62 @@
   "title": "A",
   "content": null,
   "items": [
-    "rules_glossary/a/active",
-    "rules_glossary/a/along_the_way",
-    "rules_glossary/a/ambush_keyword",
-    "rules_glossary/a/approach_icons",
-    "rules_glossary/a/the_arcology_map",
-    "rules_glossary/a/area",
-    "rules_glossary/a/arrival",
-    "rules_glossary/a/artificer_specialty",
-    "rules_glossary/a/artisan_background",
-    "rules_glossary/a/aspects",
-    "rules_glossary/a/aspiration_keyword",
-    "rules_glossary/a/attach",
-    "rules_glossary/a/attachments",
-    "rules_glossary/a/attributes"
+    {
+      "id": "rules_glossary/a/active",
+      "title": "Active"
+    },
+    {
+      "id": "rules_glossary/a/along_the_way",
+      "title": "Along the Way"
+    },
+    {
+      "id": "rules_glossary/a/ambush_keyword",
+      "title": "Ambush (Keyword)"
+    },
+    {
+      "id": "rules_glossary/a/approach_icons",
+      "title": "Approach Icons"
+    },
+    {
+      "id": "rules_glossary/a/the_arcology_map",
+      "title": "The Arcology Map"
+    },
+    {
+      "id": "rules_glossary/a/area",
+      "title": "Area"
+    },
+    {
+      "id": "rules_glossary/a/arrival",
+      "title": "Arrival"
+    },
+    {
+      "id": "rules_glossary/a/artificer_specialty",
+      "title": "Artificer (Specialty)"
+    },
+    {
+      "id": "rules_glossary/a/artisan_background",
+      "title": "Artisan (Background)"
+    },
+    {
+      "id": "rules_glossary/a/aspects",
+      "title": "Aspects"
+    },
+    {
+      "id": "rules_glossary/a/aspiration_keyword",
+      "title": "Aspiration (Keyword)"
+    },
+    {
+      "id": "rules_glossary/a/attach",
+      "title": "Attach"
+    },
+    {
+      "id": "rules_glossary/a/attachments",
+      "title": "Attachments"
+    },
+    {
+      "id": "rules_glossary/a/attributes",
+      "title": "Attributes"
+    }
   ],
   "url": "/docs/category/a"
 }

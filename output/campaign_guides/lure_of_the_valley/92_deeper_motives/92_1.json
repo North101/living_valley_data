@@ -71,7 +71,7 @@
           "text": "If you haven\u2019t gained or completed the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

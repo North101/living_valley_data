@@ -301,14 +301,38 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_1",
-    "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_2",
-    "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_3",
-    "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_4",
-    "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_5",
-    "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_6",
-    "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_7",
-    "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_8"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_1",
+      "title": "145.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_2",
+      "title": "145.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_3",
+      "title": "145.3"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_4",
+      "title": "145.4"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_5",
+      "title": "145.5"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_6",
+      "title": "145.6"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_7",
+      "title": "145.7"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_8",
+      "title": "145.8"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_slumbering_foreman"
 }

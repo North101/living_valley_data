@@ -58,7 +58,7 @@
           "text": "Check off the middle bubble next to"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

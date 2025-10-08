@@ -35,7 +35,7 @@
           "text": "Put the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -115,7 +115,7 @@
           "text": "Put the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -146,7 +146,7 @@
           "text": "Search the path deck for a Sitka Doe and put it into play within reach of the lead ranger. Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -212,7 +212,7 @@
           "text": "Put"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -234,7 +234,7 @@
           "text": "Create the path deck by shuffling together the Lakeshore set and The Fractured Wall set. Place it above the surroundings. Search the path deck for"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -256,7 +256,7 @@
           "text": "Search the path deck for a Romping Lutrinal and put it into play within reach of the lead ranger. Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -322,7 +322,7 @@
           "text": "Put the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -353,7 +353,7 @@
           "text": "Search the Swamp set for an Intrepid Marmot and put it into play within reach of the lead ranger. Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -389,7 +389,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -424,10 +424,22 @@
     }
   ],
   "items": [
-    "one_day_missions/animal_rescue/ar1",
-    "one_day_missions/animal_rescue/ar2",
-    "one_day_missions/animal_rescue/ar3",
-    "one_day_missions/animal_rescue/end_of_the_day"
+    {
+      "id": "one_day_missions/animal_rescue/ar1",
+      "title": "AR1"
+    },
+    {
+      "id": "one_day_missions/animal_rescue/ar2",
+      "title": "AR2"
+    },
+    {
+      "id": "one_day_missions/animal_rescue/ar3",
+      "title": "AR3"
+    },
+    {
+      "id": "one_day_missions/animal_rescue/end_of_the_day",
+      "title": "End of the Day"
+    }
   ],
   "url": "/docs/one_day_missions/animal_rescue"
 }

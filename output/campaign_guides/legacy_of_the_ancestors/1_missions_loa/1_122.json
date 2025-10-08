@@ -62,7 +62,7 @@
           "text": "Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -75,7 +75,7 @@
           "text": "mission and gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

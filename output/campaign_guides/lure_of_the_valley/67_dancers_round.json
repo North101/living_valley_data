@@ -553,7 +553,10 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/67_dancers_round/67_1"
+    {
+      "id": "campaign_guides/lure_of_the_valley/67_dancers_round/67_1",
+      "title": "67.1"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/dancers_round"
 }

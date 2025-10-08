@@ -106,9 +106,18 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_1_loa",
-    "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_2_loa",
-    "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_3_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_1_loa",
+      "title": "86.1 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_2_loa",
+      "title": "86.2 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_3_loa",
+      "title": "86.3 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_fundamentalist"
 }

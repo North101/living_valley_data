@@ -69,7 +69,7 @@
           "text": "Discard Calypsa and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -129,7 +129,7 @@
           "text": "Discard Calypsa and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -189,7 +189,7 @@
           "text": "Gain the Ranger Badge reward card. Discard Calypsa and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

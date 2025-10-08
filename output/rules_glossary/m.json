@@ -5,14 +5,38 @@
   "title": "M",
   "content": null,
   "items": [
-    "rules_glossary/m/maladies",
-    "rules_glossary/m/manifestation_keyword",
-    "rules_glossary/m/missions",
-    "rules_glossary/m/moments",
-    "rules_glossary/m/moments_on_the_path_expansion",
-    "rules_glossary/m/move",
-    "rules_glossary/m/mulligan",
-    "rules_glossary/m/mycelial_keyword"
+    {
+      "id": "rules_glossary/m/maladies",
+      "title": "Maladies"
+    },
+    {
+      "id": "rules_glossary/m/manifestation_keyword",
+      "title": "Manifestation (Keyword)"
+    },
+    {
+      "id": "rules_glossary/m/missions",
+      "title": "Missions"
+    },
+    {
+      "id": "rules_glossary/m/moments",
+      "title": "Moments"
+    },
+    {
+      "id": "rules_glossary/m/moments_on_the_path_expansion",
+      "title": "Moments on the Path (Expansion)"
+    },
+    {
+      "id": "rules_glossary/m/move",
+      "title": "Move"
+    },
+    {
+      "id": "rules_glossary/m/mulligan",
+      "title": "Mulligan"
+    },
+    {
+      "id": "rules_glossary/m/mycelial_keyword",
+      "title": "Mycelial (Keyword)"
+    }
   ],
   "url": "/docs/category/m"
 }

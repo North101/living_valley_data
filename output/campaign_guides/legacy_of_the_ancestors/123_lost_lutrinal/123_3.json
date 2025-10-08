@@ -49,7 +49,7 @@
           "text": "Gain the Stripe, Loyal Lutrinal reward card. Return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

@@ -59,7 +59,7 @@
           "text": "If you are on"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

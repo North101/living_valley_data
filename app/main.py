@@ -60,7 +60,7 @@ def scrape_page(session: requests.Session, base_url: str, url: str):
     content = None
   resource_id = '/'.join(get_nav_parents(tree))
   items = list(list_nav_items(tree))
-  yield title, url, resource_id, items, content
+  yield resource_id, title, url, items, content
 
   for item in items:
     item_url = item[2]
@@ -70,10 +70,12 @@ def scrape_page(session: requests.Session, base_url: str, url: str):
 def parse_element(e: Any, urls: dict[str, str], icon_color: str | None):
   tag: str = e.tag
   classes = list(e.classes)
-  TAG_CLASSES.setdefault(tag, set()).update(classes)
-  
+
   if tag == 'a' and 'button' in classes:
     tag = 'button'
+  elif tag == 'strong':
+    tag = 'b'
+  TAG_CLASSES.setdefault(tag, set()).update(classes)
 
   resource_id: str | None = None
   anchor: str | None = None
@@ -114,9 +116,9 @@ def parse_element(e: Any, urls: dict[str, str], icon_color: str | None):
   if tag in ('a', 'button'):
     data.update({
         'link': {
-          'id': resource_id,
-          'anchor': anchor,
-          'url': url,
+            'id': resource_id,
+            'anchor': anchor,
+            'url': url,
         },
     })
   elif anchor:
@@ -221,7 +223,7 @@ def main(base_url: str, page_urls: list[str]):
     }
     for page_url in page_urls:
       sections = scrape_page(session, base_url, page_url)
-      for title, url, resource_id, items, data in sections:
+      for resource_id, title, url, items, data in sections:
         file = output_dir / f'{resource_id}.json'
         content = (
             remove_content_title(list(parse_element_items(data, urls, None)))
@@ -239,10 +241,13 @@ def main(base_url: str, page_urls: list[str]):
               'title': title,
               'content': content,
               'items': [
-                  '/'.join((resource_id, item_id))
-                  for item_id, _, _ in items
+                  {
+                    'id': '/'.join((resource_id, item_id)),
+                    'title': item_title,
+                  }
+                  for item_id, item_title, _ in items
               ],
-              'url': url,
+              'url': clean_url(url),
           }, f, indent=2)
 
   log_dir = pathlib.Path('.', 'log')

@@ -87,7 +87,7 @@
           "text": "Search the Valley set for"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -160,7 +160,7 @@
           "text": "Then, search the Valley set for"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -178,7 +178,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -196,7 +196,7 @@
           "text": "Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -209,7 +209,7 @@
           "text": "mission, and gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -222,7 +222,7 @@
           "text": "mission. Put"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -235,7 +235,7 @@
           "text": "into play within reach of a Ranger of your choice. Attach the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

@@ -5,14 +5,38 @@
   "title": "E",
   "content": null,
   "items": [
-    "rules_glossary/e/effort",
-    "rules_glossary/e/end_the_day",
-    "rules_glossary/e/energy",
-    "rules_glossary/e/equip_value",
-    "rules_glossary/e/equipped",
-    "rules_glossary/e/exhaust",
-    "rules_glossary/e/expansions",
-    "rules_glossary/e/explorer_specialty"
+    {
+      "id": "rules_glossary/e/effort",
+      "title": "Effort"
+    },
+    {
+      "id": "rules_glossary/e/end_the_day",
+      "title": "End the Day"
+    },
+    {
+      "id": "rules_glossary/e/energy",
+      "title": "Energy"
+    },
+    {
+      "id": "rules_glossary/e/equip_value",
+      "title": "Equip Value"
+    },
+    {
+      "id": "rules_glossary/e/equipped",
+      "title": "Equipped"
+    },
+    {
+      "id": "rules_glossary/e/exhaust",
+      "title": "Exhaust"
+    },
+    {
+      "id": "rules_glossary/e/expansions",
+      "title": "Expansions"
+    },
+    {
+      "id": "rules_glossary/e/explorer_specialty",
+      "title": "Explorer (Specialty)"
+    }
   ],
   "url": "/docs/category/e"
 }

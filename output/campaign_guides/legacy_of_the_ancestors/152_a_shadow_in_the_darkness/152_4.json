@@ -59,7 +59,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "span",
@@ -78,7 +78,7 @@
           "text": "Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -96,7 +96,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "span",
@@ -124,7 +124,7 @@
           "text": "If you are on"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

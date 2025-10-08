@@ -185,11 +185,26 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_1",
-    "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_2",
-    "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_3",
-    "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_4",
-    "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_5"
+    {
+      "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_1",
+      "title": "77.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_2",
+      "title": "77.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_3",
+      "title": "77.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_4",
+      "title": "77.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_5",
+      "title": "77.5"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/elder_cormak_wellers"
 }

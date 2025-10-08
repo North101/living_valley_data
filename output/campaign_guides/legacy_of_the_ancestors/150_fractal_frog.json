@@ -162,11 +162,26 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_1",
-    "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_2",
-    "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_3",
-    "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_4",
-    "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_5"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_1",
+      "title": "150.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_2",
+      "title": "150.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_3",
+      "title": "150.3"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_4",
+      "title": "150.4"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_5",
+      "title": "150.5"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/fractal_frog"
 }

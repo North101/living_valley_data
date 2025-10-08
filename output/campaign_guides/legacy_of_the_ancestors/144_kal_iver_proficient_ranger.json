@@ -237,13 +237,34 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_1",
-    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_2",
-    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_3",
-    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_4",
-    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_5",
-    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_6",
-    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_7"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_1",
+      "title": "144.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_2",
+      "title": "144.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_3",
+      "title": "144.3"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_4",
+      "title": "144.4"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_5",
+      "title": "144.5"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_6",
+      "title": "144.6"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_7",
+      "title": "144.7"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger"
 }

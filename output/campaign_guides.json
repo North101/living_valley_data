@@ -5,8 +5,14 @@
   "title": "Campaign Guides",
   "content": null,
   "items": [
-    "campaign_guides/lure_of_the_valley",
-    "campaign_guides/legacy_of_the_ancestors"
+    {
+      "id": "campaign_guides/lure_of_the_valley",
+      "title": "Lure of the Valley"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors",
+      "title": "Legacy of the Ancestors"
+    }
   ],
-  "url": "/docs/category/campaign-guides/"
+  "url": "/docs/category/campaign-guides"
 }

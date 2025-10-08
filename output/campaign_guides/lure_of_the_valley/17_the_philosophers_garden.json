@@ -57,7 +57,10 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/17_the_philosophers_garden/17_1"
+    {
+      "id": "campaign_guides/lure_of_the_valley/17_the_philosophers_garden/17_1",
+      "title": "17.1"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/the_philosophers_garden"
 }

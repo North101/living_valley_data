@@ -52,7 +52,10 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/24_greenbriar_knoll_loa/24_1_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/24_greenbriar_knoll_loa/24_1_loa",
+      "title": "24.1 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/greenbriar_knoll"
 }

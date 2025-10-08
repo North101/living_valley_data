@@ -42,7 +42,7 @@
           "type": "li",
           "items": [
             {
-              "type": "strong",
+              "type": "b",
               "items": [
                 {
                   "type": "text",
@@ -60,7 +60,7 @@
           "type": "li",
           "items": [
             {
-              "type": "strong",
+              "type": "b",
               "items": [
                 {
                   "type": "text",
@@ -78,7 +78,7 @@
           "type": "li",
           "items": [
             {
-              "type": "strong",
+              "type": "b",
               "items": [
                 {
                   "type": "text",
@@ -114,7 +114,7 @@
           "type": "li",
           "items": [
             {
-              "type": "strong",
+              "type": "b",
               "items": [
                 {
                   "type": "text",

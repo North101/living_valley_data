@@ -232,13 +232,34 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_1",
-    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_2",
-    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_3",
-    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_4",
-    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_5",
-    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_6",
-    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_7"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_1",
+      "title": "124.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_2",
+      "title": "124.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_3",
+      "title": "124.3"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_4",
+      "title": "124.4"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_5",
+      "title": "124.5"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_6",
+      "title": "124.6"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_7",
+      "title": "124.7"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/silaro_mako_spelunker"
 }

@@ -15,7 +15,7 @@
               "text": "Before discarding the cleared flora, move the voice token to another flora. Then check off a bubble next to"
             },
             {
-              "type": "strong",
+              "type": "b",
               "items": [
                 {
                   "type": "text",
@@ -82,7 +82,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -114,7 +114,7 @@
           "text": "Check off the middle bubble next to"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -220,7 +220,7 @@
           "text": "Gain the Mycelial Incense reward card. Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

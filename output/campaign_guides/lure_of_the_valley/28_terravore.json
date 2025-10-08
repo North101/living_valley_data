@@ -29,7 +29,10 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/28_terravore/28_1"
+    {
+      "id": "campaign_guides/lure_of_the_valley/28_terravore/28_1",
+      "title": "28.1"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/terravore"
 }

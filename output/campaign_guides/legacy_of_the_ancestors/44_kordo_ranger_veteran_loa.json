@@ -305,15 +305,42 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_1_loa",
-    "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_2_loa",
-    "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_3_loa",
-    "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_4_loa",
-    "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_5_loa",
-    "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_6_loa",
-    "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_7_loa",
-    "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_8_loa",
-    "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_9_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_1_loa",
+      "title": "44.1 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_2_loa",
+      "title": "44.2 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_3_loa",
+      "title": "44.3 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_4_loa",
+      "title": "44.4 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_5_loa",
+      "title": "44.5 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_6_loa",
+      "title": "44.6 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_7_loa",
+      "title": "44.7 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_8_loa",
+      "title": "44.8 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_9_loa",
+      "title": "44.9 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/kordo_ranger_veteran"
 }

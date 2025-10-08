@@ -44,7 +44,7 @@
           "text": ". Otherwise, if you don't have the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -163,7 +163,7 @@
           "text": "Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -335,7 +335,7 @@
           "text": "Complete"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -348,7 +348,7 @@
           "text": "mission. Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

@@ -5,8 +5,14 @@
   "title": "W",
   "content": null,
   "items": [
-    "rules_glossary/w/weather",
-    "rules_glossary/w/within_reach"
+    {
+      "id": "rules_glossary/w/weather",
+      "title": "Weather"
+    },
+    {
+      "id": "rules_glossary/w/within_reach",
+      "title": "Within Reach"
+    }
   ],
   "url": "/docs/category/w"
 }

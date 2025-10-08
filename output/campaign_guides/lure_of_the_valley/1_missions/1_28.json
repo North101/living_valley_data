@@ -58,7 +58,7 @@
           "text": "on the campaign tracker, and complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -71,7 +71,7 @@
           "text": "and"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -157,7 +157,7 @@
           "text": "Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -170,7 +170,7 @@
           "text": "mission. Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

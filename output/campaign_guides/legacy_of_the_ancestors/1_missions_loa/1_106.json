@@ -50,7 +50,7 @@
           "text": "Discard all surveys from the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -63,7 +63,7 @@
           "text": "mission card. Check off the bubble matching your current location next to"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -143,7 +143,7 @@
           "text": "Discard all surveys from the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -156,7 +156,7 @@
           "text": "mission card. Check off the bubble matching your current location next to"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -236,7 +236,7 @@
           "text": "Discard all surveys from the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -249,7 +249,7 @@
           "text": "mission card. Check off the bubble matching your current location next to"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -383,7 +383,7 @@
           "text": "Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -396,7 +396,7 @@
           "text": "mission and gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -409,7 +409,7 @@
           "text": "mission. Each Ranger soothes up to 2 fatigue. Write the name of the unchecked location from"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

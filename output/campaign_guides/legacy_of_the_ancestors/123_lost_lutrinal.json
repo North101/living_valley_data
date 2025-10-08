@@ -223,12 +223,30 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_1",
-    "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_2",
-    "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_3",
-    "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_4",
-    "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_5",
-    "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_6"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_1",
+      "title": "123.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_2",
+      "title": "123.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_3",
+      "title": "123.3"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_4",
+      "title": "123.4"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_5",
+      "title": "123.5"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_6",
+      "title": "123.6"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/lost_lutrinal"
 }

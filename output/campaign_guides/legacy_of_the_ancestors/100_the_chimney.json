@@ -40,7 +40,7 @@
           "text": ", or if you are on the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

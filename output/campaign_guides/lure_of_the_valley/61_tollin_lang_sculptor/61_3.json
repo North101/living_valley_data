@@ -44,7 +44,7 @@
           "text": "Gain the Kinetic Glass Sculpture reward card. Discard Tollin, and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

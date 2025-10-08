@@ -5,7 +5,10 @@
   "title": "Y",
   "content": null,
   "items": [
-    "rules_glossary/y/you"
+    {
+      "id": "rules_glossary/y/you",
+      "title": "You"
+    }
   ],
   "url": "/docs/category/y"
 }

@@ -67,8 +67,14 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/72_the_roiling/72_1",
-    "campaign_guides/lure_of_the_valley/72_the_roiling/72_2"
+    {
+      "id": "campaign_guides/lure_of_the_valley/72_the_roiling/72_1",
+      "title": "72.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/72_the_roiling/72_2",
+      "title": "72.2"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/the_roiling"
 }

@@ -44,7 +44,7 @@
           "text": "Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -57,7 +57,7 @@
           "text": "and"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -139,7 +139,7 @@
           "text": "If Aell, Ambitious Shaper is in play, return him to the collection. Gain\nthe"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -152,7 +152,7 @@
           "text": "mission. Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

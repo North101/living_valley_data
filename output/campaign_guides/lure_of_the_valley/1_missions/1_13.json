@@ -168,7 +168,7 @@
           "text": "Keep the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

@@ -210,9 +210,18 @@
     }
   ],
   "items": [
-    "one_day_missions/animal_rescue",
-    "one_day_missions/missing_person",
-    "one_day_missions/predatory_instincts"
+    {
+      "id": "one_day_missions/animal_rescue",
+      "title": "Animal Rescue"
+    },
+    {
+      "id": "one_day_missions/missing_person",
+      "title": "Missing Person"
+    },
+    {
+      "id": "one_day_missions/predatory_instincts",
+      "title": "Predatory Instincts"
+    }
   ],
   "url": "/docs/one_day_missions"
 }

@@ -105,9 +105,18 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/83_ren_kobo_merchant/83_1",
-    "campaign_guides/lure_of_the_valley/83_ren_kobo_merchant/83_2",
-    "campaign_guides/lure_of_the_valley/83_ren_kobo_merchant/83_3"
+    {
+      "id": "campaign_guides/lure_of_the_valley/83_ren_kobo_merchant/83_1",
+      "title": "83.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/83_ren_kobo_merchant/83_2",
+      "title": "83.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/83_ren_kobo_merchant/83_3",
+      "title": "83.3"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/ren_kobo_merchant"
 }

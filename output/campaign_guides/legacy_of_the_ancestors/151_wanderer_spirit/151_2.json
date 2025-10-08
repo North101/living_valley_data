@@ -53,7 +53,7 @@
           "text": "Discard the Wanderer Spirit and permanently remove it from the Arcology set. Return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

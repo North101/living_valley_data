@@ -49,7 +49,7 @@
           "text": "on the campaign tracker. Discard Sil and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

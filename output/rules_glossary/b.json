@@ -5,8 +5,14 @@
   "title": "B",
   "content": null,
   "items": [
-    "rules_glossary/b/backgrounds",
-    "rules_glossary/b/beings"
+    {
+      "id": "rules_glossary/b/backgrounds",
+      "title": "Backgrounds"
+    },
+    {
+      "id": "rules_glossary/b/beings",
+      "title": "Beings"
+    }
   ],
   "url": "/docs/category/b"
 }

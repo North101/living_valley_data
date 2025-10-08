@@ -259,13 +259,34 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_1",
-    "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_2",
-    "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_3",
-    "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_4",
-    "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_5",
-    "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_6",
-    "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_7"
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_1",
+      "title": "53.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_2",
+      "title": "53.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_3",
+      "title": "53.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_4",
+      "title": "53.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_5",
+      "title": "53.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_6",
+      "title": "53.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_7",
+      "title": "53.7"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/silaro_mako_archaelologist"
 }

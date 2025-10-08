@@ -62,7 +62,7 @@
           "text": "If you have already completed the first campaign,"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "em",
@@ -103,7 +103,7 @@
           "text": "If you have"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -116,7 +116,7 @@
           "text": "completed"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "em",
@@ -134,7 +134,7 @@
           "text": ", or if you\u2019d like to start fresh with"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "em",
@@ -420,7 +420,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -608,7 +608,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -824,7 +824,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

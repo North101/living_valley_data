@@ -12,7 +12,7 @@
           "text": "The play space for Earthborne Rangers is divided of into distinct"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

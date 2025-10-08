@@ -41,7 +41,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "span",
@@ -79,7 +79,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "span",
@@ -98,7 +98,7 @@
           "text": "Discard each flora attached to Hy Pimpot. Discard Hy Pimpot and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -162,7 +162,7 @@
           "text": "Discard each flora attached to Hy Pimpot. Each Ranger may choose to return their role card and/or their aspect card to the collection and choose a new role from their specialty and a new aspect card. This alteration is permanent."
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -194,7 +194,7 @@
           "text": "on the campaign tracker. Discard Hy Pimpot and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

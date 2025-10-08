@@ -5,7 +5,10 @@
   "title": "N",
   "content": null,
   "items": [
-    "rules_glossary/n/nearby"
+    {
+      "id": "rules_glossary/n/nearby",
+      "title": "Nearby"
+    }
   ],
   "url": "/docs/category/n"
 }

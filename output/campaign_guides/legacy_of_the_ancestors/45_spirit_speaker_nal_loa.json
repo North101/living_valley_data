@@ -236,12 +236,30 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_1_loa",
-    "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_2_loa",
-    "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_3_loa",
-    "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_4_loa",
-    "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_5_loa",
-    "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_6_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_1_loa",
+      "title": "45.1 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_2_loa",
+      "title": "45.2 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_3_loa",
+      "title": "45.3 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_4_loa",
+      "title": "45.4 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_5_loa",
+      "title": "45.5 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_6_loa",
+      "title": "45.6 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal"
 }

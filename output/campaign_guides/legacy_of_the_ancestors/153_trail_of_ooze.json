@@ -221,14 +221,38 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_1",
-    "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_2",
-    "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_3",
-    "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_4",
-    "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_5",
-    "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_6",
-    "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_7",
-    "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_8"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_1",
+      "title": "153.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_2",
+      "title": "153.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_3",
+      "title": "153.3"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_4",
+      "title": "153.4"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_5",
+      "title": "153.5"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_6",
+      "title": "153.6"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_7",
+      "title": "153.7"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_8",
+      "title": "153.8"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/trail_of_ooze"
 }

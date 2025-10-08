@@ -259,13 +259,34 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_1",
-    "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_2",
-    "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_3",
-    "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_4",
-    "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_5",
-    "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_6",
-    "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_7"
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_1",
+      "title": "82.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_2",
+      "title": "82.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_3",
+      "title": "82.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_4",
+      "title": "82.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_5",
+      "title": "82.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_6",
+      "title": "82.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_7",
+      "title": "82.7"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/sil_belai_artist"
 }

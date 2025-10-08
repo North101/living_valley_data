@@ -26,7 +26,7 @@
           "text": "Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -39,7 +39,7 @@
           "text": "and"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -194,7 +194,7 @@
           "text": "Proceed to the travel phase, and select Tumbledown as your new\nlocation (even if there are ready cards with the obstacle keyword in play). Use the Mountain Pass terrain set. Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -207,7 +207,7 @@
           "text": "mission. Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

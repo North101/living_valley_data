@@ -8,7 +8,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -65,7 +65,7 @@
           ]
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -107,7 +107,7 @@
           ]
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -150,7 +150,7 @@
           ]
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -187,7 +187,7 @@
           "text": "Complete all story and interlude missions except for"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -200,7 +200,7 @@
           "text": ". Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -255,7 +255,7 @@
           "text": "Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -268,7 +268,7 @@
           "text": "and"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -412,7 +412,7 @@
           "text": "Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -425,7 +425,7 @@
           "text": "and"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -569,7 +569,7 @@
           "text": "Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -582,7 +582,7 @@
           "text": "and"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

@@ -127,9 +127,18 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_1",
-    "campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_2",
-    "campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_3"
+    {
+      "id": "campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_1",
+      "title": "68.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_2",
+      "title": "68.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_3",
+      "title": "68.3"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/trained_stilt_horse"
 }

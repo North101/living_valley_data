@@ -37,7 +37,7 @@
           "color": "red"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -116,7 +116,7 @@
           "text": "For each location not marked off next to"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -143,7 +143,7 @@
           "text": "on the campaign tracker. Complete"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

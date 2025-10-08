@@ -44,7 +44,7 @@
           "text": "Flip"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -57,7 +57,7 @@
           "text": "over to its"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

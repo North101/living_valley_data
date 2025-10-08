@@ -288,13 +288,34 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa/81_1_loa",
-    "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa/81_2_loa",
-    "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa/81_3_loa",
-    "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa/81_4_loa",
-    "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa/81_5_loa",
-    "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa/81_6_loa",
-    "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa/81_7_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa/81_1_loa",
+      "title": "81.1 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa/81_2_loa",
+      "title": "81.2 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa/81_3_loa",
+      "title": "81.3 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa/81_4_loa",
+      "title": "81.4 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa/81_5_loa",
+      "title": "81.5 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa/81_6_loa",
+      "title": "81.6 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa/81_7_loa",
+      "title": "81.7 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/oura_vos_traveler"
 }

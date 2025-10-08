@@ -71,7 +71,7 @@
           "text": "Discard Quisi and Harlan Vos and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

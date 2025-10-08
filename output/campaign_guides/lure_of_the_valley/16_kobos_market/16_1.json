@@ -71,7 +71,7 @@
           "text": "Gain the Nal's Understanding reward card. Discard Nal. Return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

@@ -8,7 +8,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -37,7 +37,7 @@
           ]
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -79,7 +79,7 @@
           ]
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -126,9 +126,18 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_1",
-    "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_2",
-    "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_3"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_1",
+      "title": "130.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_2",
+      "title": "130.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_3",
+      "title": "130.3"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/progenitor_mushroom"
 }

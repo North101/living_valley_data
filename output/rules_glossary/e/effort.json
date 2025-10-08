@@ -57,7 +57,7 @@
           "text": "Your"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -97,7 +97,7 @@
           "text": "Your"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

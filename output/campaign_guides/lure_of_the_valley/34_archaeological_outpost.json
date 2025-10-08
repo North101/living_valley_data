@@ -20,7 +20,10 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/34_archaeological_outpost/34_1"
+    {
+      "id": "campaign_guides/lure_of_the_valley/34_archaeological_outpost/34_1",
+      "title": "34.1"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/archaeological_outpost"
 }

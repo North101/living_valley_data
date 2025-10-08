@@ -44,7 +44,7 @@
           "text": "Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -71,7 +71,7 @@
           "text": "on the campaign tracker. You can no longer travel to the Stratum 3 map. Gain"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

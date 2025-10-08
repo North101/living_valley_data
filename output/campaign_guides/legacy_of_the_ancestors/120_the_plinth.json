@@ -161,9 +161,18 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_1",
-    "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_2",
-    "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_3"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_1",
+      "title": "120.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_2",
+      "title": "120.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_3",
+      "title": "120.3"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_plinth"
 }

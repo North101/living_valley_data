@@ -57,8 +57,14 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_1",
-    "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_2"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_1",
+      "title": "158.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage/158_2",
+      "title": "158.2"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/locked_passage"
 }

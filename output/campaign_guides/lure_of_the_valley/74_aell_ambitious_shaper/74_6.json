@@ -40,7 +40,7 @@
           "text": "on the campaign tracking sheet. Permanently remove Aell from the Marsh of Rebirth set."
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

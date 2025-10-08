@@ -35,7 +35,7 @@
           "text": "Gain the Silaro\u2019s Insight reward card. Discard Silaro, and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

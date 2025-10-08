@@ -30,7 +30,7 @@
           "text": "to another, you"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

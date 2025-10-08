@@ -5,9 +5,18 @@
   "title": "L",
   "content": null,
   "items": [
-    "rules_glossary/l/lead_ranger",
-    "rules_glossary/l/legacy_of_the_ancestors_expansion",
-    "rules_glossary/l/locations"
+    {
+      "id": "rules_glossary/l/lead_ranger",
+      "title": "Lead Ranger"
+    },
+    {
+      "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
+      "title": "Legacy of the Ancestors (Expansion)"
+    },
+    {
+      "id": "rules_glossary/l/locations",
+      "title": "Locations"
+    }
   ],
   "url": "/docs/category/l"
 }

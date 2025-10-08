@@ -67,8 +67,14 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa/56_1_loa",
-    "campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa/56_2_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa/56_1_loa",
+      "title": "56.1 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa/56_2_loa",
+      "title": "56.2 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_carbon_forge"
 }

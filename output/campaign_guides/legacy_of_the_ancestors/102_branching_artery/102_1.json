@@ -35,7 +35,7 @@
           "text": "Gain the Memlev Hammock reward card. Each Ranger soothes 2 fatigue. Discard Kal Iver and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

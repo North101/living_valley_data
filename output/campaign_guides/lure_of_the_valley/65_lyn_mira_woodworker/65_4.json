@@ -97,7 +97,7 @@
           "text": "Discard Lyn and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

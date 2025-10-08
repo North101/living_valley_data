@@ -35,7 +35,7 @@
           "text": "Gain the Fate of the Reclaimers reward card. Discard Calypsa and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

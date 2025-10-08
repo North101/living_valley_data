@@ -35,7 +35,7 @@
           "text": "Flip the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -48,7 +48,7 @@
           "text": "card over to the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -70,7 +70,7 @@
           "text": "Put the Wild Scuttlebus into play within reach of a Ranger of your choice and attach"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

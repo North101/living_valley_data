@@ -128,10 +128,22 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/50_the_bubble/50_1",
-    "campaign_guides/lure_of_the_valley/50_the_bubble/50_2",
-    "campaign_guides/lure_of_the_valley/50_the_bubble/50_3",
-    "campaign_guides/lure_of_the_valley/50_the_bubble/50_4"
+    {
+      "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_1",
+      "title": "50.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_2",
+      "title": "50.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_3",
+      "title": "50.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_4",
+      "title": "50.4"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/the_bubble"
 }

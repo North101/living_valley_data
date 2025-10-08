@@ -30,7 +30,7 @@
           "text": "to a card with the untraversable keyword using the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

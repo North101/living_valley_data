@@ -260,13 +260,34 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_1_loa",
-    "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_2_loa",
-    "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_3_loa",
-    "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_4_loa",
-    "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_5_loa",
-    "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_6_loa",
-    "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_7_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_1_loa",
+      "title": "85.1 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_2_loa",
+      "title": "85.2 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_3_loa",
+      "title": "85.3 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_4_loa",
+      "title": "85.4 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_5_loa",
+      "title": "85.5 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_6_loa",
+      "title": "85.6 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_7_loa",
+      "title": "85.7 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/calypsa_ranger_mentor"
 }

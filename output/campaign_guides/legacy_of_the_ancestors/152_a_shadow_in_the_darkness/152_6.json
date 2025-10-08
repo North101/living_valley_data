@@ -26,7 +26,7 @@
           "text": "Check off the left bubble next to"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

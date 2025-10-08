@@ -53,7 +53,7 @@
           "text": "Discard the Archivist Spirit and permanently remove it from the Arboretum of Memory set. Return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

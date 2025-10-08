@@ -35,7 +35,7 @@
           "text": "If you are on"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -48,7 +48,7 @@
           "text": "and haven\u2019t received or completed the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -78,7 +78,10 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/106_the_verdant_sphere/106_1"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/106_the_verdant_sphere/106_1",
+      "title": "106.1"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_verdant_sphere"
 }

@@ -63,7 +63,7 @@
           "text": "If you haven't gained or completed the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

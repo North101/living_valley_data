@@ -5,9 +5,18 @@
   "title": "U",
   "content": null,
   "items": [
-    "rules_glossary/u/unique_keyword",
-    "rules_glossary/u/untraversable_keyword",
-    "rules_glossary/u/use"
+    {
+      "id": "rules_glossary/u/unique_keyword",
+      "title": "Unique (Keyword)"
+    },
+    {
+      "id": "rules_glossary/u/untraversable_keyword",
+      "title": "Untraversable (Keyword)"
+    },
+    {
+      "id": "rules_glossary/u/use",
+      "title": "Use"
+    }
   ],
   "url": "/docs/category/u"
 }

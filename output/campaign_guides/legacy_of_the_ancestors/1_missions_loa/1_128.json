@@ -76,7 +76,7 @@
           "text": "on the campaign tracker. Permanently remove the Crimson Guardian from the Arcology set. Gain"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -94,7 +94,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

@@ -5,25 +5,82 @@
   "title": "P",
   "content": null,
   "items": [
-    "rules_glossary/p/path_attachments",
-    "rules_glossary/p/path_cards",
-    "rules_glossary/p/path_moments",
-    "rules_glossary/p/per_ranger",
-    "rules_glossary/p/persistent_keyword",
-    "rules_glossary/p/personalities",
-    "rules_glossary/p/phase_1_path_cards",
-    "rules_glossary/p/phase_2_ranger_turns",
-    "rules_glossary/p/phase_3_travel",
-    "rules_glossary/p/phase_4_refresh",
-    "rules_glossary/p/pivotal",
-    "rules_glossary/p/play",
-    "rules_glossary/p/the_play_area",
-    "rules_glossary/p/player_area",
-    "rules_glossary/p/powered_x",
-    "rules_glossary/p/presence",
-    "rules_glossary/p/progress",
-    "rules_glossary/p/progress_threshold",
-    "rules_glossary/p/prologue"
+    {
+      "id": "rules_glossary/p/path_attachments",
+      "title": "Path Attachments"
+    },
+    {
+      "id": "rules_glossary/p/path_cards",
+      "title": "Path Cards"
+    },
+    {
+      "id": "rules_glossary/p/path_moments",
+      "title": "Path Moments"
+    },
+    {
+      "id": "rules_glossary/p/per_ranger",
+      "title": "Per Ranger"
+    },
+    {
+      "id": "rules_glossary/p/persistent_keyword",
+      "title": "Persistent (Keyword)"
+    },
+    {
+      "id": "rules_glossary/p/personalities",
+      "title": "Personalities"
+    },
+    {
+      "id": "rules_glossary/p/phase_1_path_cards",
+      "title": "Phase 1: Path Cards"
+    },
+    {
+      "id": "rules_glossary/p/phase_2_ranger_turns",
+      "title": "Phase 2: Ranger Turns"
+    },
+    {
+      "id": "rules_glossary/p/phase_3_travel",
+      "title": "Phase 3: Travel"
+    },
+    {
+      "id": "rules_glossary/p/phase_4_refresh",
+      "title": "Phase 4: Refresh"
+    },
+    {
+      "id": "rules_glossary/p/pivotal",
+      "title": "Pivotal"
+    },
+    {
+      "id": "rules_glossary/p/play",
+      "title": "Play"
+    },
+    {
+      "id": "rules_glossary/p/the_play_area",
+      "title": "The Play Area"
+    },
+    {
+      "id": "rules_glossary/p/player_area",
+      "title": "Player Area"
+    },
+    {
+      "id": "rules_glossary/p/powered_x",
+      "title": "Powered [X]"
+    },
+    {
+      "id": "rules_glossary/p/presence",
+      "title": "Presence"
+    },
+    {
+      "id": "rules_glossary/p/progress",
+      "title": "Progress"
+    },
+    {
+      "id": "rules_glossary/p/progress_threshold",
+      "title": "Progress Threshold"
+    },
+    {
+      "id": "rules_glossary/p/prologue",
+      "title": "Prologue"
+    }
   ],
   "url": "/docs/category/p"
 }

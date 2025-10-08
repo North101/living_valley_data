@@ -218,14 +218,38 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_1_loa",
-    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_2_loa",
-    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_3_loa",
-    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_4_loa",
-    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_5_loa",
-    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_6_loa",
-    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_7_loa",
-    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_8_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_1_loa",
+      "title": "61.1 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_2_loa",
+      "title": "61.2 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_3_loa",
+      "title": "61.3 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_4_loa",
+      "title": "61.4 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_5_loa",
+      "title": "61.5 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_6_loa",
+      "title": "61.6 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_7_loa",
+      "title": "61.7 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa/61_8_loa",
+      "title": "61.8 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/tollin_lang_sculptor"
 }

@@ -88,7 +88,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -133,9 +133,18 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_1",
-    "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_2",
-    "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_3"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_1",
+      "title": "121.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_2",
+      "title": "121.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_3",
+      "title": "121.3"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/thespiral_stairway"
 }

@@ -63,7 +63,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -109,7 +109,7 @@
           "text": "Search the General set for 2 Reclaimer Seekers and shuffle them into the path deck. Flip the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -122,7 +122,7 @@
           "text": "card over to its"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

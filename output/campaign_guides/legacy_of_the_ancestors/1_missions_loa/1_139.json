@@ -26,7 +26,7 @@
           "text": "If"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -39,7 +39,7 @@
           "text": "is in play, flip it back to its"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -52,7 +52,7 @@
           "text": "side. Check off the bubble corresponding to your current location next to"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -70,7 +70,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -152,7 +152,7 @@
           "text": "on the campaign tracker. Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

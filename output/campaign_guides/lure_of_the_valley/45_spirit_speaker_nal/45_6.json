@@ -69,7 +69,7 @@
           "text": "and attach the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

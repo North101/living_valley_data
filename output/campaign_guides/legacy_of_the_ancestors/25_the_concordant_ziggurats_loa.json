@@ -71,7 +71,10 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/25_the_concordant_ziggurats_loa/25_1_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/25_the_concordant_ziggurats_loa/25_1_loa",
+      "title": "25.1 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_concordant_ziggurats"
 }

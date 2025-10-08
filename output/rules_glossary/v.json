@@ -5,7 +5,10 @@
   "title": "V",
   "content": null,
   "items": [
-    "rules_glossary/v/the_valley_map"
+    {
+      "id": "rules_glossary/v/the_valley_map",
+      "title": "The Valley Map"
+    }
   ],
   "url": "/docs/category/v"
 }

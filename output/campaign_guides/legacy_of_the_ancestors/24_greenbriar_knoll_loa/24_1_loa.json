@@ -62,7 +62,7 @@
           "text": "Gain Echoes of the Estians reward card. Discard Nal and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

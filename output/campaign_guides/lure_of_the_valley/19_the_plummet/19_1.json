@@ -44,7 +44,7 @@
           "text": "Gain the Light as a Feather reward card. Discard Dace. Return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

@@ -8,7 +8,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -51,7 +51,7 @@
           ]
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -128,7 +128,10 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/108_drenching_chamber/108_1"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/108_drenching_chamber/108_1",
+      "title": "108.1"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/drenching_chamber"
 }

@@ -26,7 +26,7 @@
           "text": "If you\u2019ve received"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

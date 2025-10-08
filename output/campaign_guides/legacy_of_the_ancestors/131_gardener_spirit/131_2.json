@@ -62,7 +62,7 @@
           "text": "Discard the Gardener Spirit and permanently remove her from the Mycelial Conclave set. Return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

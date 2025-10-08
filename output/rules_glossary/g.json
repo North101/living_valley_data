@@ -5,10 +5,22 @@
   "title": "G",
   "content": null,
   "items": [
-    "rules_glossary/g/gear",
-    "rules_glossary/g/general_tokens",
-    "rules_glossary/g/the_golden_rule",
-    "rules_glossary/g/group_tests"
+    {
+      "id": "rules_glossary/g/gear",
+      "title": "Gear"
+    },
+    {
+      "id": "rules_glossary/g/general_tokens",
+      "title": "General Tokens"
+    },
+    {
+      "id": "rules_glossary/g/the_golden_rule",
+      "title": "The Golden Rule"
+    },
+    {
+      "id": "rules_glossary/g/group_tests",
+      "title": "Group Tests"
+    }
   ],
   "url": "/docs/category/g"
 }

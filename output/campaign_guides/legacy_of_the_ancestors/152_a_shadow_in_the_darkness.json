@@ -184,12 +184,30 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_1",
-    "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_2",
-    "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_3",
-    "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_4",
-    "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_5",
-    "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_6"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_1",
+      "title": "152.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_2",
+      "title": "152.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_3",
+      "title": "152.3"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_4",
+      "title": "152.4"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_5",
+      "title": "152.5"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_6",
+      "title": "152.6"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_shadow_in_the_darkness"
 }

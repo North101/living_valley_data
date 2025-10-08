@@ -105,8 +105,14 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/15_ancestors_grove/15_1",
-    "campaign_guides/legacy_of_the_ancestors/15_ancestors_grove/15_2"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/15_ancestors_grove/15_1",
+      "title": "15.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/15_ancestors_grove/15_2",
+      "title": "15.2"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/ancestors_grove"
 }

@@ -5,10 +5,22 @@
   "title": "I",
   "content": null,
   "items": [
-    "rules_glossary/i/illumination_keyword",
-    "rules_glossary/i/in_play",
-    "rules_glossary/i/injury",
-    "rules_glossary/i/interact"
+    {
+      "id": "rules_glossary/i/illumination_keyword",
+      "title": "Illumination (Keyword)"
+    },
+    {
+      "id": "rules_glossary/i/in_play",
+      "title": "In Play"
+    },
+    {
+      "id": "rules_glossary/i/injury",
+      "title": "Injury"
+    },
+    {
+      "id": "rules_glossary/i/interact",
+      "title": "Interact"
+    }
   ],
   "url": "/docs/category/i"
 }

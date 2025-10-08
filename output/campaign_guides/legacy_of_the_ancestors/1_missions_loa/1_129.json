@@ -35,7 +35,7 @@
           "text": "Do not put the Heart into play at the Cage as usual. Instead, gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

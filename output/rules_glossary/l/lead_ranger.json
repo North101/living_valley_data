@@ -30,7 +30,7 @@
           "text": ", the group chooses one Ranger to be the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

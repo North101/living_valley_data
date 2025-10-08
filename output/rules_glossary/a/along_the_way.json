@@ -12,7 +12,7 @@
           "text": "Along the way is an"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "a",
@@ -63,7 +63,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "a",

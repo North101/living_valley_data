@@ -35,7 +35,7 @@
           "text": "Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -132,7 +132,7 @@
           "text": "Put the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -145,7 +145,7 @@
           "text": "location card and the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -209,7 +209,7 @@
           "text": "Put the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -222,7 +222,7 @@
           "text": "location card and the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -277,7 +277,7 @@
           "text": "Put the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -290,7 +290,7 @@
           "text": "location card and the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -308,7 +308,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -326,7 +326,7 @@
           "text": "Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -360,10 +360,22 @@
     }
   ],
   "items": [
-    "one_day_missions/missing_person/1_45_search",
-    "one_day_missions/missing_person/1_46_rescue",
-    "one_day_missions/missing_person/1_48_rescue_",
-    "one_day_missions/missing_person/end_of_the_day"
+    {
+      "id": "one_day_missions/missing_person/1_45_search",
+      "title": "1.45 SEARCH"
+    },
+    {
+      "id": "one_day_missions/missing_person/1_46_rescue",
+      "title": "1.46 RESCUE"
+    },
+    {
+      "id": "one_day_missions/missing_person/1_48_rescue_",
+      "title": "1.48 RESCUE \u2731"
+    },
+    {
+      "id": "one_day_missions/missing_person/end_of_the_day",
+      "title": "End of the Day"
+    }
   ],
   "url": "/docs/one_day_missions/missing_person"
 }

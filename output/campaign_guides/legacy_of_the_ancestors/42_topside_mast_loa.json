@@ -67,8 +67,14 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa/42_1_loa",
-    "campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa/42_2_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa/42_1_loa",
+      "title": "42.1 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa/42_2_loa",
+      "title": "42.2 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/topside_mast"
 }

@@ -8,7 +8,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -37,7 +37,7 @@
           ]
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -68,7 +68,10 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/109_oasis_of_sunlight/109_1"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/109_oasis_of_sunlight/109_1",
+      "title": "109.1"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/oasis_of_sunlight"
 }

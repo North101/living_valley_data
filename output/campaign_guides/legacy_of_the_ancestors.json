@@ -5,106 +5,406 @@
   "title": "Legacy of the Ancestors",
   "content": null,
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/the_story_so_far",
-    "campaign_guides/legacy_of_the_ancestors/1_missions_loa",
-    "campaign_guides/legacy_of_the_ancestors/2_lone_tree_station_loa",
-    "campaign_guides/legacy_of_the_ancestors/5_spire_loa",
-    "campaign_guides/legacy_of_the_ancestors/14_boulder_field_loa",
-    "campaign_guides/legacy_of_the_ancestors/15_ancestors_grove",
-    "campaign_guides/legacy_of_the_ancestors/16_kobos_market_loa",
-    "campaign_guides/legacy_of_the_ancestors/19_the_plummet",
-    "campaign_guides/legacy_of_the_ancestors/23_headwaters_station_loa",
-    "campaign_guides/legacy_of_the_ancestors/24_greenbriar_knoll_loa",
-    "campaign_guides/legacy_of_the_ancestors/25_the_concordant_ziggurats_loa",
-    "campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa",
-    "campaign_guides/legacy_of_the_ancestors/43_hanging_gardens_loa",
-    "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa",
-    "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa",
-    "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa",
-    "campaign_guides/legacy_of_the_ancestors/52_quiet_loa",
-    "campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa",
-    "campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa",
-    "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa",
-    "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa",
-    "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa",
-    "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa",
-    "campaign_guides/legacy_of_the_ancestors/71_ol_bloody_clicker_loa",
-    "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa",
-    "campaign_guides/legacy_of_the_ancestors/79_ranger_cache_loa",
-    "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa",
-    "campaign_guides/legacy_of_the_ancestors/83_ren_kobo_merchant_loa",
-    "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa",
-    "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa",
-    "campaign_guides/legacy_of_the_ancestors/88_the_tenebrae_loa",
-    "campaign_guides/legacy_of_the_ancestors/89_umbra_loa",
-    "campaign_guides/legacy_of_the_ancestors/100_the_chimney",
-    "campaign_guides/legacy_of_the_ancestors/101_severed_artery",
-    "campaign_guides/legacy_of_the_ancestors/102_branching_artery",
-    "campaign_guides/legacy_of_the_ancestors/103_terminal_artery",
-    "campaign_guides/legacy_of_the_ancestors/104_mycelial_conclave",
-    "campaign_guides/legacy_of_the_ancestors/105_arboretum_of_memory",
-    "campaign_guides/legacy_of_the_ancestors/106_the_verdant_sphere",
-    "campaign_guides/legacy_of_the_ancestors/107_the_cage",
-    "campaign_guides/legacy_of_the_ancestors/108_drenching_chamber",
-    "campaign_guides/legacy_of_the_ancestors/109_oasis_of_sunlight",
-    "campaign_guides/legacy_of_the_ancestors/110_desert_of_endless_night",
-    "campaign_guides/legacy_of_the_ancestors/111_cerulean_curtain",
-    "campaign_guides/legacy_of_the_ancestors/112_orlins_vault",
-    "campaign_guides/legacy_of_the_ancestors/113_scuttler_network",
-    "campaign_guides/legacy_of_the_ancestors/114_the_cistern",
-    "campaign_guides/legacy_of_the_ancestors/115_silent_dormitories",
-    "campaign_guides/legacy_of_the_ancestors/116_carbonforged_maze",
-    "campaign_guides/legacy_of_the_ancestors/117_inverted_forest",
-    "campaign_guides/legacy_of_the_ancestors/118_the_rootway",
-    "campaign_guides/legacy_of_the_ancestors/119_talpids_squeeze",
-    "campaign_guides/legacy_of_the_ancestors/120_the_plinth",
-    "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase",
-    "campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder",
-    "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal",
-    "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker",
-    "campaign_guides/legacy_of_the_ancestors/125_rift_in_the_artery",
-    "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion",
-    "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer",
-    "campaign_guides/legacy_of_the_ancestors/128_decrepit_station_platform",
-    "campaign_guides/legacy_of_the_ancestors/129_wild_scuttlebus",
-    "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom",
-    "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit",
-    "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen",
-    "campaign_guides/legacy_of_the_ancestors/133_petrified_giant_petrified_colossus_petrified_behemoth",
-    "campaign_guides/legacy_of_the_ancestors/134_new_growth",
-    "campaign_guides/legacy_of_the_ancestors/135_archivist_spirit",
-    "campaign_guides/legacy_of_the_ancestors/136_the_grovetender",
-    "campaign_guides/legacy_of_the_ancestors/137_sap_applicator",
-    "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed",
-    "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian",
-    "campaign_guides/legacy_of_the_ancestors/140_the_heart",
-    "campaign_guides/legacy_of_the_ancestors/141_beat_regulator",
-    "campaign_guides/legacy_of_the_ancestors/142_nutrient_injector",
-    "campaign_guides/legacy_of_the_ancestors/143_vagus_capacitor",
-    "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger",
-    "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman",
-    "campaign_guides/legacy_of_the_ancestors/146_flowsteel_control",
-    "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop",
-    "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage",
-    "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage",
-    "campaign_guides/legacy_of_the_ancestors/150_fractal_frog",
-    "campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit",
-    "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness",
-    "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze",
-    "campaign_guides/legacy_of_the_ancestors/154_crimson_guardian",
-    "campaign_guides/legacy_of_the_ancestors/155_elevated_passage",
-    "campaign_guides/legacy_of_the_ancestors/156_flooded_passage",
-    "campaign_guides/legacy_of_the_ancestors/157_overgrown_passage",
-    "campaign_guides/legacy_of_the_ancestors/158_locked_passage",
-    "campaign_guides/legacy_of_the_ancestors/159_lunn_curious_scavenger",
-    "campaign_guides/legacy_of_the_ancestors/160_the_hearts_confusion",
-    "campaign_guides/legacy_of_the_ancestors/161_the_hearts_anger",
-    "campaign_guides/legacy_of_the_ancestors/162_the_hearts_sorrow",
-    "campaign_guides/legacy_of_the_ancestors/163_the_hearts_fear",
-    "campaign_guides/legacy_of_the_ancestors/196_rattling_the_cage",
-    "campaign_guides/legacy_of_the_ancestors/197_expedition_logbook",
-    "campaign_guides/legacy_of_the_ancestors/198_data_repository",
-    "campaign_guides/legacy_of_the_ancestors/199_world_events_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/the_story_so_far",
+      "title": "The Story So Far"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa",
+      "title": "1. Missions (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/2_lone_tree_station_loa",
+      "title": "2. Lone Tree Station (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/5_spire_loa",
+      "title": "5. Spire (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/14_boulder_field_loa",
+      "title": "14. Boulder Field (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/15_ancestors_grove",
+      "title": "15. Ancestor's Grove"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/16_kobos_market_loa",
+      "title": "16. Kobo's Market (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/19_the_plummet",
+      "title": "19. The Plummet"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/23_headwaters_station_loa",
+      "title": "23. Headwaters Station (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/24_greenbriar_knoll_loa",
+      "title": "24. Greenbriar Knoll (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/25_the_concordant_ziggurats_loa",
+      "title": "25. The Concordant Ziggurats (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa",
+      "title": "42. Topside Mast (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/43_hanging_gardens_loa",
+      "title": "43. Hanging Gardens (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa",
+      "title": "44. Kordo, Ranger Veteran (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa",
+      "title": "45. Spirit Speaker Nal (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa",
+      "title": "47. Hy Pimpot, Chef (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/52_quiet_loa",
+      "title": "52. Quiet (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa",
+      "title": "56. The Carbon Forge (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa",
+      "title": "57. A Hearty Brew (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa",
+      "title": "58. Arcology Threshold (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa",
+      "title": "59. Dace, Ambitious Shaper (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa",
+      "title": "60. Elder Mora Orlin (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/61_tollin_lang_sculptor_loa",
+      "title": "61. Tollin Lang, Sculptor (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/71_ol_bloody_clicker_loa",
+      "title": "71. Ol' Bloody Clicker (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa",
+      "title": "78. Arcology Sinkhole (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/79_ranger_cache_loa",
+      "title": "79. Ranger Cache (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/81_oura_vos_traveler_loa",
+      "title": "81. Oura Vos, Traveler (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/83_ren_kobo_merchant_loa",
+      "title": "83. Ren Kobo, Merchant (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa",
+      "title": "85. Calypsa, Ranger Mentor (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa",
+      "title": "86. The Fundamentalist (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/88_the_tenebrae_loa",
+      "title": "88. The Tenebrae (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/89_umbra_loa",
+      "title": "89. Umbra (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/100_the_chimney",
+      "title": "100. The Chimney"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/101_severed_artery",
+      "title": "101. Severed Artery"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/102_branching_artery",
+      "title": "102. Branching Artery"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/103_terminal_artery",
+      "title": "103. Terminal Artery"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/104_mycelial_conclave",
+      "title": "104. Mycelial Conclave"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/105_arboretum_of_memory",
+      "title": "105. Arboretum of Memory"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/106_the_verdant_sphere",
+      "title": "106. The Verdant Sphere"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage",
+      "title": "107. The Cage"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/108_drenching_chamber",
+      "title": "108. Drenching Chamber"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/109_oasis_of_sunlight",
+      "title": "109. Oasis of Sunlight"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/110_desert_of_endless_night",
+      "title": "110. Desert of Endless Night"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/111_cerulean_curtain",
+      "title": "111. Cerulean Curtain"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/112_orlins_vault",
+      "title": "112. Orlin's Vault"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/113_scuttler_network",
+      "title": "113. Scuttler Network"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/114_the_cistern",
+      "title": "114. The Cistern"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/115_silent_dormitories",
+      "title": "115. Silent Dormitories"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/116_carbonforged_maze",
+      "title": "116. Carbonforged Maze"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/117_inverted_forest",
+      "title": "117. Inverted Forest"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/118_the_rootway",
+      "title": "118. The Rootway"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/119_talpids_squeeze",
+      "title": "119. Talpid's Squeeze"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/120_the_plinth",
+      "title": "120. The Plinth"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase",
+      "title": "121. The Spiral Staircase"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder",
+      "title": "122. Cryptic Wayfinder"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal",
+      "title": "123. Lost Lutrinal"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker",
+      "title": "124. Silaro Mako, Spelunker"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/125_rift_in_the_artery",
+      "title": "125. Rift in the Artery"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion",
+      "title": "126. Quisi Vos, Rapscallion"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer",
+      "title": "127. Harlan Vos, Explorer"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/128_decrepit_station_platform",
+      "title": "128. Decrepit Station Platform"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/129_wild_scuttlebus",
+      "title": "129. Wild Scuttlebus"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom",
+      "title": "130. Progenitor Mushroom"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit",
+      "title": "131. Gardener Spirit"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen",
+      "title": "132. The Ferrymen"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/133_petrified_giant_petrified_colossus_petrified_behemoth",
+      "title": "133. Petrified Giant, Petrified Colossus, Petrified Behemoth"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/134_new_growth",
+      "title": "134. New Growth"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/135_archivist_spirit",
+      "title": "135. Archivist Spirit"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/136_the_grovetender",
+      "title": "136. The Grovetender"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/137_sap_applicator",
+      "title": "137. Sap Applicator"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed",
+      "title": "138. Mysterious Seed"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian",
+      "title": "139. Familiar Verdessian"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/140_the_heart",
+      "title": "140. The Heart"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/141_beat_regulator",
+      "title": "141. Beat Regulator"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/142_nutrient_injector",
+      "title": "142. Nutrient Injector"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/143_vagus_capacitor",
+      "title": "143. Vagus Capacitor"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger",
+      "title": "144. Kal Iver, Proficient Ranger"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman",
+      "title": "145. The Slumbering Foreman"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/146_flowsteel_control",
+      "title": "146. Flowsteel Control"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop",
+      "title": "147. Mutating Galgothrop"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage",
+      "title": "148. Precarious Wreckage"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage",
+      "title": "149. Pitch Black Passage"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog",
+      "title": "150. Fractal Frog"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit",
+      "title": "151. Wanderer Spirit"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness",
+      "title": "152. A Shadow in the Darkness"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze",
+      "title": "153. Trail of Ooze"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/154_crimson_guardian",
+      "title": "154. Crimson Guardian"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/155_elevated_passage",
+      "title": "155. Elevated Passage"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/156_flooded_passage",
+      "title": "156. Flooded Passage"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/157_overgrown_passage",
+      "title": "157. Overgrown Passage"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage",
+      "title": "158. Locked Passage"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/159_lunn_curious_scavenger",
+      "title": "159. Lunn, Curious Scavenger"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/160_the_hearts_confusion",
+      "title": "160. The Heart's Confusion"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/161_the_hearts_anger",
+      "title": "161. The Heart's Anger"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/162_the_hearts_sorrow",
+      "title": "162. The Heart's Sorrow"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/163_the_hearts_fear",
+      "title": "163. The Heart's Fear"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/196_rattling_the_cage",
+      "title": "196. Rattling the Cage"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/197_expedition_logbook",
+      "title": "197. Expedition Logbook"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository",
+      "title": "198. Data Repository"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/199_world_events_loa",
+      "title": "199. World Events (LOA)"
+    }
   ],
   "url": "/docs/category/legacy-of-the-ancestors"
 }

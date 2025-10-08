@@ -5,16 +5,46 @@
   "title": "T",
   "content": null,
   "items": [
-    "rules_glossary/t/talespinner_background",
-    "rules_glossary/t/terms",
-    "rules_glossary/t/terrain",
-    "rules_glossary/t/tests",
-    "rules_glossary/t/timing",
-    "rules_glossary/t/tokens",
-    "rules_glossary/t/traits",
-    "rules_glossary/t/travel",
-    "rules_glossary/t/traveler_background",
-    "rules_glossary/t/turns"
+    {
+      "id": "rules_glossary/t/talespinner_background",
+      "title": "Talespinner (Background)"
+    },
+    {
+      "id": "rules_glossary/t/terms",
+      "title": "Terms"
+    },
+    {
+      "id": "rules_glossary/t/terrain",
+      "title": "Terrain"
+    },
+    {
+      "id": "rules_glossary/t/tests",
+      "title": "Tests"
+    },
+    {
+      "id": "rules_glossary/t/timing",
+      "title": "Timing"
+    },
+    {
+      "id": "rules_glossary/t/tokens",
+      "title": "Tokens"
+    },
+    {
+      "id": "rules_glossary/t/traits",
+      "title": "Traits"
+    },
+    {
+      "id": "rules_glossary/t/travel",
+      "title": "Travel"
+    },
+    {
+      "id": "rules_glossary/t/traveler_background",
+      "title": "Traveler (Background)"
+    },
+    {
+      "id": "rules_glossary/t/turns",
+      "title": "Turns"
+    }
   ],
   "url": "/docs/category/t"
 }

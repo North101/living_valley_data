@@ -8,7 +8,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -37,7 +37,7 @@
           ]
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -82,8 +82,14 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/146_flowsteel_control/146_1",
-    "campaign_guides/legacy_of_the_ancestors/146_flowsteel_control/146_2"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/146_flowsteel_control/146_1",
+      "title": "146.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/146_flowsteel_control/146_2",
+      "title": "146.2"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/flowsteel_controls"
 }

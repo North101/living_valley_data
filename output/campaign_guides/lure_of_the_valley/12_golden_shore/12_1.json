@@ -35,7 +35,7 @@
           "text": "Gain the Ar Tel\u2019s Vaulting Rod reward card. Discard Ar Tel. Return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

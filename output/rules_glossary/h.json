@@ -5,8 +5,14 @@
   "title": "H",
   "content": null,
   "items": [
-    "rules_glossary/h/harm",
-    "rules_glossary/h/harm_threshold"
+    {
+      "id": "rules_glossary/h/harm",
+      "title": "Harm"
+    },
+    {
+      "id": "rules_glossary/h/harm_threshold",
+      "title": "Harm Threshold"
+    }
   ],
   "url": "/docs/category/h"
 }

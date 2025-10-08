@@ -35,7 +35,7 @@
           "text": "Gain the Bursting with Life reward. Discard the Mysterious Seed and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

@@ -161,9 +161,18 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_1",
-    "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_2",
-    "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_3"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_1",
+      "title": "147.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_2",
+      "title": "147.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_3",
+      "title": "147.3"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/mutating_galgothrop"
 }

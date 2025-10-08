@@ -71,7 +71,7 @@
           "text": "Gain the Expedition Logbook reward card and"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

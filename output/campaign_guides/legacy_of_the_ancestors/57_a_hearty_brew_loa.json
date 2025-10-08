@@ -67,8 +67,14 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa/57_1_loa",
-    "campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa/57_2_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa/57_1_loa",
+      "title": "57.1 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa/57_2_loa",
+      "title": "57.2 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_hearty_brew"
 }

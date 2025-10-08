@@ -5,7 +5,10 @@
   "title": "O",
   "content": null,
   "items": [
-    "rules_glossary/o/obstacle_keyword"
+    {
+      "id": "rules_glossary/o/obstacle_keyword",
+      "title": "Obstacle (Keyword)"
+    }
   ],
   "url": "/docs/category/o"
 }

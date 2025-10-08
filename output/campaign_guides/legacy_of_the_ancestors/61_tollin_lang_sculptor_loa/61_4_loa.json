@@ -53,7 +53,7 @@
           "text": "Gain the Flowsteel Lithophone reward card. Discard Tollin and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

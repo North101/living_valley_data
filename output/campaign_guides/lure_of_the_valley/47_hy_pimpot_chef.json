@@ -143,12 +143,30 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_1",
-    "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_2",
-    "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_3",
-    "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_4",
-    "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_5",
-    "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_6"
+    {
+      "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_1",
+      "title": "47.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_2",
+      "title": "47.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_3",
+      "title": "47.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_4",
+      "title": "47.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_5",
+      "title": "47.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_6",
+      "title": "47.6"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/hy_pimpot_chef"
 }

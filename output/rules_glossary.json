@@ -54,7 +54,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -72,7 +72,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -90,7 +90,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -256,28 +256,94 @@
     }
   ],
   "items": [
-    "rules_glossary/a",
-    "rules_glossary/b",
-    "rules_glossary/c",
-    "rules_glossary/d",
-    "rules_glossary/e",
-    "rules_glossary/f",
-    "rules_glossary/g",
-    "rules_glossary/h",
-    "rules_glossary/i",
-    "rules_glossary/k",
-    "rules_glossary/l",
-    "rules_glossary/m",
-    "rules_glossary/n",
-    "rules_glossary/o",
-    "rules_glossary/p",
-    "rules_glossary/r",
-    "rules_glossary/s",
-    "rules_glossary/t",
-    "rules_glossary/u",
-    "rules_glossary/v",
-    "rules_glossary/w",
-    "rules_glossary/y"
+    {
+      "id": "rules_glossary/a",
+      "title": "A"
+    },
+    {
+      "id": "rules_glossary/b",
+      "title": "B"
+    },
+    {
+      "id": "rules_glossary/c",
+      "title": "C"
+    },
+    {
+      "id": "rules_glossary/d",
+      "title": "D"
+    },
+    {
+      "id": "rules_glossary/e",
+      "title": "E"
+    },
+    {
+      "id": "rules_glossary/f",
+      "title": "F"
+    },
+    {
+      "id": "rules_glossary/g",
+      "title": "G"
+    },
+    {
+      "id": "rules_glossary/h",
+      "title": "H"
+    },
+    {
+      "id": "rules_glossary/i",
+      "title": "I"
+    },
+    {
+      "id": "rules_glossary/k",
+      "title": "K"
+    },
+    {
+      "id": "rules_glossary/l",
+      "title": "L"
+    },
+    {
+      "id": "rules_glossary/m",
+      "title": "M"
+    },
+    {
+      "id": "rules_glossary/n",
+      "title": "N"
+    },
+    {
+      "id": "rules_glossary/o",
+      "title": "O"
+    },
+    {
+      "id": "rules_glossary/p",
+      "title": "P"
+    },
+    {
+      "id": "rules_glossary/r",
+      "title": "R"
+    },
+    {
+      "id": "rules_glossary/s",
+      "title": "S"
+    },
+    {
+      "id": "rules_glossary/t",
+      "title": "T"
+    },
+    {
+      "id": "rules_glossary/u",
+      "title": "U"
+    },
+    {
+      "id": "rules_glossary/v",
+      "title": "V"
+    },
+    {
+      "id": "rules_glossary/w",
+      "title": "W"
+    },
+    {
+      "id": "rules_glossary/y",
+      "title": "Y"
+    }
   ],
   "url": "/docs/rules_glossary"
 }

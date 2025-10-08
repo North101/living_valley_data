@@ -26,7 +26,7 @@
           "text": "Gain the Tala\u2019s Perseverance reward card. Discard Tala, and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

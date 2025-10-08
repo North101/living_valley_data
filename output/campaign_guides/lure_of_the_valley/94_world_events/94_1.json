@@ -37,7 +37,7 @@
           "color": "red"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -107,7 +107,7 @@
           "text": "Return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -120,7 +120,7 @@
           "text": "to the Mission set. Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

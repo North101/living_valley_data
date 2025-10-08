@@ -71,7 +71,7 @@
           "text": "Discard each flora attached to Hy. Each Ranger soothes 4 fatigue. Gain\nthe Hy Pimpot\u2019s Secret Recipe reward card. Discard Hy Pimpot and\nreturn"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

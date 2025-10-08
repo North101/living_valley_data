@@ -53,7 +53,7 @@
           "text": "Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -66,7 +66,7 @@
           "text": "mission. For this mission, you can set aside predators and prey (not just prey as described on the mission card). (Put the Lure mission card into play in the surroundings with the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -141,10 +141,22 @@
     }
   ],
   "items": [
-    "one_day_missions/predatory_instincts/1_42",
-    "one_day_missions/predatory_instincts/1_43_confront_",
-    "one_day_missions/predatory_instincts/1_44_confront_",
-    "one_day_missions/predatory_instincts/end_of_the_day"
+    {
+      "id": "one_day_missions/predatory_instincts/1_42",
+      "title": "1.42"
+    },
+    {
+      "id": "one_day_missions/predatory_instincts/1_43_confront_",
+      "title": "1.43 CONFRONT \u25b2"
+    },
+    {
+      "id": "one_day_missions/predatory_instincts/1_44_confront_",
+      "title": "1.44 CONFRONT \u2731"
+    },
+    {
+      "id": "one_day_missions/predatory_instincts/end_of_the_day",
+      "title": "End of the Day"
+    }
   ],
   "url": "/docs/one_day_missions/predatory_instincts"
 }

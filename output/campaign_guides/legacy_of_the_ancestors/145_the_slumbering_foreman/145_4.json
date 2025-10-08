@@ -35,7 +35,7 @@
           "text": "Gain the Portable Generator reward card. Discard the Slumbering Foreman. Return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

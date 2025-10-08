@@ -145,8 +145,14 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/8_meadow/8_1",
-    "campaign_guides/lure_of_the_valley/8_meadow/8_2"
+    {
+      "id": "campaign_guides/lure_of_the_valley/8_meadow/8_1",
+      "title": "8.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/8_meadow/8_2",
+      "title": "8.2"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/meadow"
 }

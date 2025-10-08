@@ -26,7 +26,7 @@
           "text": "Each Ranger may soothe 1 fatigue. If you are on"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -39,7 +39,7 @@
           "text": "and have not gained or completed"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -93,7 +93,7 @@
           "text": "Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

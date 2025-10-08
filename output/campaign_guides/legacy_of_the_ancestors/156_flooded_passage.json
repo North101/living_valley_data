@@ -57,8 +57,14 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/156_flooded_passage/156_1",
-    "campaign_guides/legacy_of_the_ancestors/156_flooded_passage/156_2"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/156_flooded_passage/156_1",
+      "title": "156.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/156_flooded_passage/156_2",
+      "title": "156.2"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/flooded_passage"
 }

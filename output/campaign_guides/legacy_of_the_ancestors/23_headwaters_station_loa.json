@@ -20,7 +20,10 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/23_headwaters_station_loa/23_1_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/23_headwaters_station_loa/23_1_loa",
+      "title": "23.1 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/headwaters_station"
 }

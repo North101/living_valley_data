@@ -8,7 +8,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "p",
@@ -42,7 +42,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -68,8 +68,14 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_1",
-    "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_1",
+      "title": "107.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2",
+      "title": "107.2"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage"
 }

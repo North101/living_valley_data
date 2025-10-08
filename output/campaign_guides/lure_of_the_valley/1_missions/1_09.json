@@ -40,7 +40,7 @@
           "text": "from"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -53,7 +53,7 @@
           "text": "and check off the bubble matching the current location next to"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -112,7 +112,7 @@
           "text": "Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -125,7 +125,7 @@
           "text": "mission. Each Ranger soothes 2 fatigue. Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -152,7 +152,7 @@
           "text": "seven days from now on the campaign tracker. Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

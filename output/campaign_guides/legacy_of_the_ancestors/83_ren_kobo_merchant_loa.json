@@ -171,11 +171,26 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/83_ren_kobo_merchant_loa/83_1_loa",
-    "campaign_guides/legacy_of_the_ancestors/83_ren_kobo_merchant_loa/83_2_loa",
-    "campaign_guides/legacy_of_the_ancestors/83_ren_kobo_merchant_loa/83_3_loa",
-    "campaign_guides/legacy_of_the_ancestors/83_ren_kobo_merchant_loa/83_4_loa",
-    "campaign_guides/legacy_of_the_ancestors/83_ren_kobo_merchant_loa/83_5_loa"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/83_ren_kobo_merchant_loa/83_1_loa",
+      "title": "83.1 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/83_ren_kobo_merchant_loa/83_2_loa",
+      "title": "83.2 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/83_ren_kobo_merchant_loa/83_3_loa",
+      "title": "83.3 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/83_ren_kobo_merchant_loa/83_4_loa",
+      "title": "83.4 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/83_ren_kobo_merchant_loa/83_5_loa",
+      "title": "83.5 (LOA)"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/ren_kobo_merchant"
 }

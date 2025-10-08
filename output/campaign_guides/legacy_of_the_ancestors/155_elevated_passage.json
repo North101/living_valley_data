@@ -44,8 +44,14 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/155_elevated_passage/155_1",
-    "campaign_guides/legacy_of_the_ancestors/155_elevated_passage/155_2"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/155_elevated_passage/155_1",
+      "title": "155.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/155_elevated_passage/155_2",
+      "title": "155.2"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/elevated_passage"
 }

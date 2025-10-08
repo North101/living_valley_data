@@ -102,7 +102,7 @@
           "text": "Read one entry based on how many days have passed since starting\nthe"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -123,7 +123,7 @@
           "type": "p",
           "items": [
             {
-              "type": "strong",
+              "type": "b",
               "items": [
                 {
                   "type": "text",
@@ -141,7 +141,7 @@
           "type": "p",
           "items": [
             {
-              "type": "strong",
+              "type": "b",
               "items": [
                 {
                   "type": "text",
@@ -161,7 +161,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -250,7 +250,7 @@
           "text": "Read one entry based on how many days have passed since starting\nthe"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -271,7 +271,7 @@
           "type": "p",
           "items": [
             {
-              "type": "strong",
+              "type": "b",
               "items": [
                 {
                   "type": "text",
@@ -289,7 +289,7 @@
           "type": "p",
           "items": [
             {
-              "type": "strong",
+              "type": "b",
               "items": [
                 {
                   "type": "text",
@@ -309,7 +309,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -350,7 +350,7 @@
           "text": "Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -363,7 +363,7 @@
           "text": "mission, and gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -376,7 +376,7 @@
           "text": "mission. Put Vira, Lake Guide into play within reach of a Ranger of your\nchoice. Attach the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -437,7 +437,7 @@
           "text": "Read one entry based on how many days have passed since starting\nthe"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -458,7 +458,7 @@
           "type": "p",
           "items": [
             {
-              "type": "strong",
+              "type": "b",
               "items": [
                 {
                   "type": "text",
@@ -476,7 +476,7 @@
           "type": "p",
           "items": [
             {
-              "type": "strong",
+              "type": "b",
               "items": [
                 {
                   "type": "text",
@@ -496,7 +496,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -546,7 +546,7 @@
           "text": "Complete the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -559,7 +559,7 @@
           "text": "mission, and gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -572,7 +572,7 @@
           "text": "mission. Put Kasende, Expert Hunter into play within reach\nof a Ranger of your choice. Attach the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

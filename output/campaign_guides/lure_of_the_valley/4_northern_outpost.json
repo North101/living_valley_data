@@ -135,7 +135,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -149,7 +149,7 @@
       "type": "p",
       "items": [
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -224,7 +224,7 @@
           "text": "Gain the"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",
@@ -292,7 +292,10 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/4_northern_outpost/4_1"
+    {
+      "id": "campaign_guides/lure_of_the_valley/4_northern_outpost/4_1",
+      "title": "4.1"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/northern_outpost"
 }

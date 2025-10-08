@@ -35,7 +35,7 @@
           "text": "Gain the Dolewood Canoe reward card. Discard Lyn, and return"
         },
         {
-          "type": "strong",
+          "type": "b",
           "items": [
             {
               "type": "text",

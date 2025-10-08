@@ -259,13 +259,34 @@
     }
   ],
   "items": [
-    "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_1",
-    "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_2",
-    "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_3",
-    "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_4",
-    "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_5",
-    "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_6",
-    "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_7"
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_1",
+      "title": "48.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_2",
+      "title": "48.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_3",
+      "title": "48.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_4",
+      "title": "48.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_5",
+      "title": "48.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_6",
+      "title": "48.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_7",
+      "title": "48.7"
+    }
   ],
   "url": "/docs/campaign_guides/lure_of_the_valley/ar_tel_angler"
 }

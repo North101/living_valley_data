@@ -128,10 +128,22 @@
     }
   ],
   "items": [
-    "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_1",
-    "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_2",
-    "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_3",
-    "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_4"
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_1",
+      "title": "131.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_2",
+      "title": "131.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_3",
+      "title": "131.3"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_4",
+      "title": "131.4"
+    }
   ],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/gardener_spirit"
 }
