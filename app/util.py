@@ -38,8 +38,8 @@ def get_content(session: requests.Session, base_url: str, url: str):
 
 def rewrite_url(url: str, urls: dict[str, str]):
   url, fragment = urldefrag(url)
-  url = urls.get(url, url)
-  return url if url else None, fragment
+  url = urls.get(url, '')
+  return url if url else None, fragment if fragment else None
 
 
 def get_guide_entry(title: str) -> str | None:

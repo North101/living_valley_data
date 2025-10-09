@@ -1,0 +1,21 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa",
+  "title": "86. The Fundamentalist (LOA)",
+  "content": "<p class=\"highlight highlight_blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_1_loa\">86.1</a></p><p class=\"highlight highlight_clear\">CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_2_loa\">86.2</a></p><p class=\"highlight highlight_blue\">CLEAR <span class=\"text text_red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_3_loa\">86.3</a></p>",
+  "links": [
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_1_loa",
+      "title": "86.1 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_2_loa",
+      "title": "86.2 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_3_loa",
+      "title": "86.3 (LOA)"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_fundamentalist"
+}

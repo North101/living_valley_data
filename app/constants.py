@@ -11,13 +11,25 @@ CSS_TEXT_COLORS = {
     'green_text': 'green',
 }
 CSS_ICON_COLORS = {
-    'ranger_icons': 'black',
     'ranger_icons_red': 'red',
 }
 CSS_HIGHLIGHT_COLORS = {
     'blue_highlight': 'blue',
+    'clear_highlight': 'clear',
 }
 CLASS_ANCHOR = 'anchor'
+
+
+REPLACE_TAG = {
+  'h1': 'title',
+  'h2': 'h1',
+  'h3': 'h2',
+  'h4': 'choice',
+  'h5': 'branch',
+  'h6': 'imgfooter',
+  'strong': 'b',
+  'em': 'i',
+}
 
 
 RANGER_ICON_NAMES = {

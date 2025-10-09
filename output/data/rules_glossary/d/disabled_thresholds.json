@@ -1,0 +1,8 @@
+{
+  "id": "rules_glossary/d/disabled_thresholds",
+  "title": "Disabled Thresholds",
+  "content": "<p>If a path card\u2019s <a href=\"rules_glossary/p/progress_threshold\">progress threshold</a> or <a href=\"rules_glossary/h/harm_threshold\">harm threshold</a> shows a slash, the corresponding type of token cannot be added or moved to that card. If an effect requires you to add or move <a href=\"rules_glossary/p/progress\">progress</a> or <a href=\"rules_glossary/h/harm\">harm</a> to a card with a disabled threshold to resolve the remainder of the effect (such as if you must add <a href=\"rules_glossary/p/progress\">progress</a> or <a href=\"rules_glossary/h/harm\">harm</a> \u201cto\u201d resolve an effect), the effect does not resolve.</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/rules_glossary/D/disabled_thresholds"
+}

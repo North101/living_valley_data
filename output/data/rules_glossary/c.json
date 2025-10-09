@@ -1,0 +1,69 @@
+{
+  "id": "rules_glossary/c",
+  "title": "C",
+  "content": null,
+  "links": [
+    {
+      "id": "rules_glossary/c/camp",
+      "title": "Camp"
+    },
+    {
+      "id": "rules_glossary/c/campaign",
+      "title": "Campaign"
+    },
+    {
+      "id": "rules_glossary/c/campaign_guide",
+      "title": "Campaign Guide"
+    },
+    {
+      "id": "rules_glossary/c/campaign_guide_icon",
+      "title": "Campaign Guide Icon"
+    },
+    {
+      "id": "rules_glossary/c/campaign_tracker",
+      "title": "Campaign Tracker"
+    },
+    {
+      "id": "rules_glossary/c/challenge_cards",
+      "title": "Challenge Cards"
+    },
+    {
+      "id": "rules_glossary/c/challenge_effects",
+      "title": "Challenge Effects"
+    },
+    {
+      "id": "rules_glossary/c/clear",
+      "title": "Clear"
+    },
+    {
+      "id": "rules_glossary/c/the_collection",
+      "title": "The Collection"
+    },
+    {
+      "id": "rules_glossary/c/commit",
+      "title": "Commit"
+    },
+    {
+      "id": "rules_glossary/c/common_test",
+      "title": "Common Test"
+    },
+    {
+      "id": "rules_glossary/c/conciliator_specialty",
+      "title": "Conciliator (Specialty)"
+    },
+    {
+      "id": "rules_glossary/c/conduit_keyword",
+      "title": "Conduit (Keyword)"
+    },
+    {
+      "id": "rules_glossary/c/creating_ranger_decks",
+      "title": "Creating Ranger Decks"
+    },
+    {
+      "id": "rules_glossary/c/customizing_ranger_decks",
+      "title": "Customizing Ranger Decks"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/category/c"
+}

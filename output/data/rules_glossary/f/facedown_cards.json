@@ -1,0 +1,8 @@
+{
+  "id": "rules_glossary/f/facedown_cards",
+  "title": "Facedown Cards",
+  "content": "<p>Cards can be put into the <a href=\"rules_glossary/p/the_play_area\">play area</a> facedown. None of the text on facedown cards is in effect while it remains facedown. How these cards are brought into the play area changes how they are handled:</p><h1 id=\"attached-facedown-cards\">Attached Facedown Cards</h1><p>Cards that were brought into the play area facedown <a href=\"rules_glossary/a/attach\">attached</a>  to other cards do not count as \"<a href=\"rules_glossary/i/in_play\">in play</a>.\" If a card in play is flipped facedown and attached to another card, <a href=\"rules_glossary/d/discard\">discard</a> any tokens from it. </p><h1 id=\"in-play-facedown-cards\">In Play Facedown Cards</h1><p>Some components put cards into play facedown or flip cards facedown that were already <a href=\"rules_glossary/i/in_play\">in play</a> (such as the Philosopher's Garden). Rules for how to treat these facedown cards are specified on the component that put them into play or flipped them facedown. If that component ever leaves play, flip all cards it put into play facedown back faceup.</p><ul><li>When a card is flipped facedown, it maintains all of its tokens and attachments.</li></ul>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/rules_glossary/F/facedown_cards"
+}

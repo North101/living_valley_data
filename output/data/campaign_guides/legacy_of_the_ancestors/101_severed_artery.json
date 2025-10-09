@@ -1,0 +1,8 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/101_severed_artery",
+  "title": "101. Severed Artery",
+  "content": "<blockquote><p>You come to an excavated chamber. In one direction, it recedes into complete darkness; in the other, it ends abruptly. Judging by the tumbled boulders and the state of the Estian transit line, there was a cave-in here long ago, causing the line to twist and rip like the green branches of a sapling.</p></blockquote><p>If Kal Iver is in play and you have not <span class=\"text text_blue\">BESTED KAL</span>, go to <a href=\"campaign_guides/legacy_of_the_ancestors/102_branching_artery/102_1\">102.1</a>.</p><p>If Kal Iver is in play and you have <span class=\"text text_blue\">BESTED KAL</span>, go to <a href=\"campaign_guides/legacy_of_the_ancestors/102_branching_artery/102_2\">102.2</a>.</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/severed_artery"
+}

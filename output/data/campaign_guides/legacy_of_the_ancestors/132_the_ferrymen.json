@@ -1,0 +1,37 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen",
+  "title": "132. The Ferrymen",
+  "content": "<div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU HAVE COMPLETED MYCELIAL NETWORKING, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_1\">132.1</a></li><li>IF YOU ARE CURRENTLY ON MYCELIAL NETWORKING, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_2\">132.2</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_3\">132.3</a></li></ul></div><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF YOU HAVE COMPLETED MYCELIAL NETWORKING, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_4\">132.4</a></li><li>IF YOU ARE CURRENTLY ON MYCELIAL NETWORKING, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_5\">132.5</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_6\">132.6</a></li></ul></div><p class=\"highlight highlight_blue\">CLEAR <span class=\"text text_red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_7\">132.7</a></p>",
+  "links": [
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_1",
+      "title": "132.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_2",
+      "title": "132.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_3",
+      "title": "132.3"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_4",
+      "title": "132.4"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_5",
+      "title": "132.5"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_6",
+      "title": "132.6"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_7",
+      "title": "132.7"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran",
+  "title": "44. Kordo, Ranger Veteran",
+  "content": "<div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU HAVEN'T RECEIVED EITHER THE ACCOMMODATION OR INTERVENTION MISSION, GO TO <a href=\"campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_1\">44.1</a></li><li>IF YOU\u2019VE <span class=\"text text_blue\">FOUND KORDO'S QUARRY</span>, GO TO <a href=\"campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_2\">44.2</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_3\">44.3</a></li></ul></div><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon>:</span></p><ul><li>IF HELPING HAND IS ATTACHED, GO TO <a href=\"campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_4\">44.4</a></li><li>IF YOU\u2019VE <span class=\"text text_blue\">FOUND KORDO'S QUARRY</span>, GO TO <a href=\"campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_5\">44.5</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_6\">44.6</a></li></ul></div><p class=\"highlight highlight_blue\">CLEAR <span><icon icon=\"harm\" class=\"text text_red\">&nbsp;</icon>:</span> GO TO <a href=\"campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_7\">44.7</a></p>",
+  "links": [
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_1",
+      "title": "44.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_2",
+      "title": "44.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_3",
+      "title": "44.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_4",
+      "title": "44.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_5",
+      "title": "44.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_6",
+      "title": "44.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_7",
+      "title": "44.7"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran"
+}

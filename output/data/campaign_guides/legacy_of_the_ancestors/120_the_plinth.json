@@ -1,0 +1,21 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/120_the_plinth",
+  "title": "120. The Plinth",
+  "content": "<div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>IF THE <span class=\"text text_blue\">CHIMNEY IS SETTLED</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_1\">120.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_2\">120.2</a></li></ul></div><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF AT LEAST ONE <span><icon icon=\"ranger_token\">&nbsp;</icon></span> IS ON THIS FEATURE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_3\">120.3</a></li><li>OTHERWISE, DISCARD THE PLINTH.</li></ul></div>",
+  "links": [
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_1",
+      "title": "120.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_2",
+      "title": "120.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_3",
+      "title": "120.3"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_plinth"
+}

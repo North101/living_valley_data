@@ -1,0 +1,761 @@
+{
+  "id": "rules_glossary",
+  "title": "Rules Glossary",
+  "content": "<p>This Rules Glossary is a living document containing all rules for Earthborne Rangers and its expansions. These rules are designed for reference during play and are not intended to teach you the game. If you are new to Rangers and interested in learning, we recommend reading through the rulebook or watching the learn to play videos.</p><p>All errata has been integrated into this document. If you'd like to reference specific changes made to the printed rulebook, you can do so by reading the matching entry in the Errata section of this site.</p><h1 id=\"navigating-the-rules-glossary\">Navigating the Rules Glossary</h1><p>There are a few different ways to navigate this Glossary:</p><p><b>Navigation Bar:</b> You can look up any topic or piece of terminology by name using the navigation bar at the left-hand side of the screen.</p><p><b>Search:</b> You can access a search function by clicking on the magnifying glass in the upper-right corner of the screen.</p><p><b>Major Topics:</b> Below are links to several topics that are core to the game system. These are larger topics that contain a large number of hyperlinks out to other topics and terminology, and so can be a good place to start when reading</p><h1 id=\"major-topics\">Major Topics</h1><div><button href=\"rules_glossary/c/creating_ranger_decks\">Creating Your Ranger</button><button href=\"rules_glossary/s/setup\">Game Setup</button><button href=\"rules_glossary/r/round\">Game Round</button><button href=\"rules_glossary/t/tests\">Taking Tests</button><button href=\"rules_glossary/c/challenge_effects\">Challenge Effects</button><button href=\"rules_glossary/t/travel\">Traveling</button><button href=\"rules_glossary/k/keywords\">Keywords</button><button href=\"rules_glossary/t/terms\">Terms</button></div><p><i>Special thanks to ChubFrog from the Earthborne Rangers Discord for all of his hard work in giving feedback to improve this resource!</i></p>",
+  "links": [
+    {
+      "id": "rules_glossary/a",
+      "title": "A"
+    },
+    {
+      "id": "rules_glossary/b",
+      "title": "B"
+    },
+    {
+      "id": "rules_glossary/c",
+      "title": "C"
+    },
+    {
+      "id": "rules_glossary/d",
+      "title": "D"
+    },
+    {
+      "id": "rules_glossary/e",
+      "title": "E"
+    },
+    {
+      "id": "rules_glossary/f",
+      "title": "F"
+    },
+    {
+      "id": "rules_glossary/g",
+      "title": "G"
+    },
+    {
+      "id": "rules_glossary/h",
+      "title": "H"
+    },
+    {
+      "id": "rules_glossary/i",
+      "title": "I"
+    },
+    {
+      "id": "rules_glossary/k",
+      "title": "K"
+    },
+    {
+      "id": "rules_glossary/l",
+      "title": "L"
+    },
+    {
+      "id": "rules_glossary/m",
+      "title": "M"
+    },
+    {
+      "id": "rules_glossary/n",
+      "title": "N"
+    },
+    {
+      "id": "rules_glossary/o",
+      "title": "O"
+    },
+    {
+      "id": "rules_glossary/p",
+      "title": "P"
+    },
+    {
+      "id": "rules_glossary/r",
+      "title": "R"
+    },
+    {
+      "id": "rules_glossary/s",
+      "title": "S"
+    },
+    {
+      "id": "rules_glossary/t",
+      "title": "T"
+    },
+    {
+      "id": "rules_glossary/u",
+      "title": "U"
+    },
+    {
+      "id": "rules_glossary/v",
+      "title": "V"
+    },
+    {
+      "id": "rules_glossary/w",
+      "title": "W"
+    },
+    {
+      "id": "rules_glossary/y",
+      "title": "Y"
+    }
+  ],
+  "lookup": {
+    "title": "Rules Glossary",
+    "links": [
+      {
+        "id": "rules_glossary/a",
+        "title": "A"
+      },
+      {
+        "id": "rules_glossary/a/active",
+        "title": "Active"
+      },
+      {
+        "id": "rules_glossary/a/along_the_way",
+        "title": "Along the Way"
+      },
+      {
+        "id": "rules_glossary/a/ambush_keyword",
+        "title": "Ambush (Keyword)"
+      },
+      {
+        "id": "rules_glossary/a/approach_icons",
+        "title": "Approach Icons"
+      },
+      {
+        "id": "rules_glossary/a/the_arcology_map",
+        "title": "The Arcology Map"
+      },
+      {
+        "id": "rules_glossary/a/area",
+        "title": "Area"
+      },
+      {
+        "id": "rules_glossary/a/arrival",
+        "title": "Arrival"
+      },
+      {
+        "id": "rules_glossary/a/artificer_specialty",
+        "title": "Artificer (Specialty)"
+      },
+      {
+        "id": "rules_glossary/a/artisan_background",
+        "title": "Artisan (Background)"
+      },
+      {
+        "id": "rules_glossary/a/aspects",
+        "title": "Aspects"
+      },
+      {
+        "id": "rules_glossary/a/aspiration_keyword",
+        "title": "Aspiration (Keyword)"
+      },
+      {
+        "id": "rules_glossary/a/attach",
+        "title": "Attach"
+      },
+      {
+        "id": "rules_glossary/a/attachments",
+        "title": "Attachments"
+      },
+      {
+        "id": "rules_glossary/a/attributes",
+        "title": "Attributes"
+      },
+      {
+        "id": "rules_glossary/b",
+        "title": "B"
+      },
+      {
+        "id": "rules_glossary/b/backgrounds",
+        "title": "Backgrounds"
+      },
+      {
+        "id": "rules_glossary/b/beings",
+        "title": "Beings"
+      },
+      {
+        "id": "rules_glossary/c",
+        "title": "C"
+      },
+      {
+        "id": "rules_glossary/c/camp",
+        "title": "Camp"
+      },
+      {
+        "id": "rules_glossary/c/campaign",
+        "title": "Campaign"
+      },
+      {
+        "id": "rules_glossary/c/campaign_guide",
+        "title": "Campaign Guide"
+      },
+      {
+        "id": "rules_glossary/c/campaign_guide_icon",
+        "title": "Campaign Guide Icon"
+      },
+      {
+        "id": "rules_glossary/c/campaign_tracker",
+        "title": "Campaign Tracker"
+      },
+      {
+        "id": "rules_glossary/c/challenge_cards",
+        "title": "Challenge Cards"
+      },
+      {
+        "id": "rules_glossary/c/challenge_effects",
+        "title": "Challenge Effects"
+      },
+      {
+        "id": "rules_glossary/c/clear",
+        "title": "Clear"
+      },
+      {
+        "id": "rules_glossary/c/the_collection",
+        "title": "The Collection"
+      },
+      {
+        "id": "rules_glossary/c/commit",
+        "title": "Commit"
+      },
+      {
+        "id": "rules_glossary/c/common_test",
+        "title": "Common Test"
+      },
+      {
+        "id": "rules_glossary/c/conciliator_specialty",
+        "title": "Conciliator (Specialty)"
+      },
+      {
+        "id": "rules_glossary/c/conduit_keyword",
+        "title": "Conduit (Keyword)"
+      },
+      {
+        "id": "rules_glossary/c/creating_ranger_decks",
+        "title": "Creating Ranger Decks"
+      },
+      {
+        "id": "rules_glossary/c/customizing_ranger_decks",
+        "title": "Customizing Ranger Decks"
+      },
+      {
+        "id": "rules_glossary/d",
+        "title": "D"
+      },
+      {
+        "id": "rules_glossary/d/dangerous_keyword",
+        "title": "Dangerous (Keyword)"
+      },
+      {
+        "id": "rules_glossary/d/day_track",
+        "title": "Day Track"
+      },
+      {
+        "id": "rules_glossary/d/the_delightful_rule",
+        "title": "The Delightful Rule"
+      },
+      {
+        "id": "rules_glossary/d/deployed_keyword",
+        "title": "Deployed (Keyword)"
+      },
+      {
+        "id": "rules_glossary/d/difficulty",
+        "title": "Difficulty"
+      },
+      {
+        "id": "rules_glossary/d/disabled_thresholds",
+        "title": "Disabled Thresholds"
+      },
+      {
+        "id": "rules_glossary/d/discard",
+        "title": "Discard"
+      },
+      {
+        "id": "rules_glossary/d/disconnected_keyword",
+        "title": "Disconnected (Keyword)"
+      },
+      {
+        "id": "rules_glossary/d/dodge",
+        "title": "Dodge"
+      },
+      {
+        "id": "rules_glossary/e",
+        "title": "E"
+      },
+      {
+        "id": "rules_glossary/e/effort",
+        "title": "Effort"
+      },
+      {
+        "id": "rules_glossary/e/end_the_day",
+        "title": "End the Day"
+      },
+      {
+        "id": "rules_glossary/e/energy",
+        "title": "Energy"
+      },
+      {
+        "id": "rules_glossary/e/equip_value",
+        "title": "Equip Value"
+      },
+      {
+        "id": "rules_glossary/e/equipped",
+        "title": "Equipped"
+      },
+      {
+        "id": "rules_glossary/e/exhaust",
+        "title": "Exhaust"
+      },
+      {
+        "id": "rules_glossary/e/expansions",
+        "title": "Expansions"
+      },
+      {
+        "id": "rules_glossary/e/explorer_specialty",
+        "title": "Explorer (Specialty)"
+      },
+      {
+        "id": "rules_glossary/f",
+        "title": "F"
+      },
+      {
+        "id": "rules_glossary/f/facedown_cards",
+        "title": "Facedown Cards"
+      },
+      {
+        "id": "rules_glossary/f/fatigue",
+        "title": "Fatigue"
+      },
+      {
+        "id": "rules_glossary/f/fatiguing_keyword",
+        "title": "Fatiguing (Keyword)"
+      },
+      {
+        "id": "rules_glossary/f/features",
+        "title": "Features"
+      },
+      {
+        "id": "rules_glossary/f/forager_background",
+        "title": "Forager (Background)"
+      },
+      {
+        "id": "rules_glossary/f/friendly_keyword",
+        "title": "Friendly (Keyword)"
+      },
+      {
+        "id": "rules_glossary/g",
+        "title": "G"
+      },
+      {
+        "id": "rules_glossary/g/gear",
+        "title": "Gear"
+      },
+      {
+        "id": "rules_glossary/g/general_tokens",
+        "title": "General Tokens"
+      },
+      {
+        "id": "rules_glossary/g/the_golden_rule",
+        "title": "The Golden Rule"
+      },
+      {
+        "id": "rules_glossary/g/group_tests",
+        "title": "Group Tests"
+      },
+      {
+        "id": "rules_glossary/h",
+        "title": "H"
+      },
+      {
+        "id": "rules_glossary/h/harm",
+        "title": "Harm"
+      },
+      {
+        "id": "rules_glossary/h/harm_threshold",
+        "title": "Harm Threshold"
+      },
+      {
+        "id": "rules_glossary/i",
+        "title": "I"
+      },
+      {
+        "id": "rules_glossary/i/illumination_keyword",
+        "title": "Illumination (Keyword)"
+      },
+      {
+        "id": "rules_glossary/i/in_play",
+        "title": "In Play"
+      },
+      {
+        "id": "rules_glossary/i/injury",
+        "title": "Injury"
+      },
+      {
+        "id": "rules_glossary/i/interact",
+        "title": "Interact"
+      },
+      {
+        "id": "rules_glossary/k",
+        "title": "K"
+      },
+      {
+        "id": "rules_glossary/k/keywords",
+        "title": "Keywords"
+      },
+      {
+        "id": "rules_glossary/l",
+        "title": "L"
+      },
+      {
+        "id": "rules_glossary/l/lead_ranger",
+        "title": "Lead Ranger"
+      },
+      {
+        "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
+        "title": "Legacy of the Ancestors (Expansion)"
+      },
+      {
+        "id": "rules_glossary/l/locations",
+        "title": "Locations"
+      },
+      {
+        "id": "rules_glossary/m",
+        "title": "M"
+      },
+      {
+        "id": "rules_glossary/m/maladies",
+        "title": "Maladies"
+      },
+      {
+        "id": "rules_glossary/m/manifestation_keyword",
+        "title": "Manifestation (Keyword)"
+      },
+      {
+        "id": "rules_glossary/m/missions",
+        "title": "Missions"
+      },
+      {
+        "id": "rules_glossary/m/moments",
+        "title": "Moments"
+      },
+      {
+        "id": "rules_glossary/m/moments_on_the_path_expansion",
+        "title": "Moments on the Path (Expansion)"
+      },
+      {
+        "id": "rules_glossary/m/move",
+        "title": "Move"
+      },
+      {
+        "id": "rules_glossary/m/mulligan",
+        "title": "Mulligan"
+      },
+      {
+        "id": "rules_glossary/m/mycelial_keyword",
+        "title": "Mycelial (Keyword)"
+      },
+      {
+        "id": "rules_glossary/n",
+        "title": "N"
+      },
+      {
+        "id": "rules_glossary/n/nearby",
+        "title": "Nearby"
+      },
+      {
+        "id": "rules_glossary/o",
+        "title": "O"
+      },
+      {
+        "id": "rules_glossary/o/obstacle_keyword",
+        "title": "Obstacle (Keyword)"
+      },
+      {
+        "id": "rules_glossary/p",
+        "title": "P"
+      },
+      {
+        "id": "rules_glossary/p/path_attachments",
+        "title": "Path Attachments"
+      },
+      {
+        "id": "rules_glossary/p/path_cards",
+        "title": "Path Cards"
+      },
+      {
+        "id": "rules_glossary/p/path_moments",
+        "title": "Path Moments"
+      },
+      {
+        "id": "rules_glossary/p/per_ranger",
+        "title": "Per Ranger"
+      },
+      {
+        "id": "rules_glossary/p/persistent_keyword",
+        "title": "Persistent (Keyword)"
+      },
+      {
+        "id": "rules_glossary/p/personalities",
+        "title": "Personalities"
+      },
+      {
+        "id": "rules_glossary/p/phase_1_path_cards",
+        "title": "Phase 1: Path Cards"
+      },
+      {
+        "id": "rules_glossary/p/phase_2_ranger_turns",
+        "title": "Phase 2: Ranger Turns"
+      },
+      {
+        "id": "rules_glossary/p/phase_3_travel",
+        "title": "Phase 3: Travel"
+      },
+      {
+        "id": "rules_glossary/p/phase_4_refresh",
+        "title": "Phase 4: Refresh"
+      },
+      {
+        "id": "rules_glossary/p/pivotal",
+        "title": "Pivotal"
+      },
+      {
+        "id": "rules_glossary/p/play",
+        "title": "Play"
+      },
+      {
+        "id": "rules_glossary/p/the_play_area",
+        "title": "The Play Area"
+      },
+      {
+        "id": "rules_glossary/p/player_area",
+        "title": "Player Area"
+      },
+      {
+        "id": "rules_glossary/p/powered_x",
+        "title": "Powered [X]"
+      },
+      {
+        "id": "rules_glossary/p/presence",
+        "title": "Presence"
+      },
+      {
+        "id": "rules_glossary/p/progress",
+        "title": "Progress"
+      },
+      {
+        "id": "rules_glossary/p/progress_threshold",
+        "title": "Progress Threshold"
+      },
+      {
+        "id": "rules_glossary/p/prologue",
+        "title": "Prologue"
+      },
+      {
+        "id": "rules_glossary/r",
+        "title": "R"
+      },
+      {
+        "id": "rules_glossary/r/ranger_cards",
+        "title": "Ranger Cards"
+      },
+      {
+        "id": "rules_glossary/r/ranger_token",
+        "title": "Ranger Token"
+      },
+      {
+        "id": "rules_glossary/r/ready",
+        "title": "Ready"
+      },
+      {
+        "id": "rules_glossary/r/refresh",
+        "title": "Refresh"
+      },
+      {
+        "id": "rules_glossary/r/reshuffle_icon",
+        "title": "Reshuffle Icon"
+      },
+      {
+        "id": "rules_glossary/r/resolve",
+        "title": "Resolve"
+      },
+      {
+        "id": "rules_glossary/r/response",
+        "title": "Response"
+      },
+      {
+        "id": "rules_glossary/r/rest",
+        "title": "Rest"
+      },
+      {
+        "id": "rules_glossary/r/rewards",
+        "title": "Rewards"
+      },
+      {
+        "id": "rules_glossary/r/role",
+        "title": "Role"
+      },
+      {
+        "id": "rules_glossary/r/round",
+        "title": "Round"
+      },
+      {
+        "id": "rules_glossary/r/rules_step",
+        "title": "Rules Step"
+      },
+      {
+        "id": "rules_glossary/s",
+        "title": "S"
+      },
+      {
+        "id": "rules_glossary/s/scout",
+        "title": "Scout"
+      },
+      {
+        "id": "rules_glossary/s/search",
+        "title": "Search"
+      },
+      {
+        "id": "rules_glossary/s/set_aside",
+        "title": "Set Aside"
+      },
+      {
+        "id": "rules_glossary/s/sets",
+        "title": "Sets"
+      },
+      {
+        "id": "rules_glossary/s/setup",
+        "title": "Setup"
+      },
+      {
+        "id": "rules_glossary/s/setup_keyword",
+        "title": "Setup (Keyword)"
+      },
+      {
+        "id": "rules_glossary/s/shaper_specialty",
+        "title": "Shaper (Specialty)"
+      },
+      {
+        "id": "rules_glossary/s/shepherd_background",
+        "title": "Shepherd (Background)"
+      },
+      {
+        "id": "rules_glossary/s/soothe",
+        "title": "Soothe"
+      },
+      {
+        "id": "rules_glossary/s/specialties",
+        "title": "Specialties"
+      },
+      {
+        "id": "rules_glossary/s/spirit_keyword",
+        "title": "Spirit (Keyword)"
+      },
+      {
+        "id": "rules_glossary/s/spirit_speaker_specialty",
+        "title": "Spirit Speaker (Specialty)"
+      },
+      {
+        "id": "rules_glossary/s/spiritspeaking",
+        "title": "Spiritspeaking"
+      },
+      {
+        "id": "rules_glossary/s/start_of_day",
+        "title": "Start of Day"
+      },
+      {
+        "id": "rules_glossary/s/starting_cards",
+        "title": "Starting Cards"
+      },
+      {
+        "id": "rules_glossary/s/stewards_of_the_valley_expansion",
+        "title": "Stewards of the Valley (Expansion)"
+      },
+      {
+        "id": "rules_glossary/s/surroundings",
+        "title": "Surroundings"
+      },
+      {
+        "id": "rules_glossary/t",
+        "title": "T"
+      },
+      {
+        "id": "rules_glossary/t/talespinner_background",
+        "title": "Talespinner (Background)"
+      },
+      {
+        "id": "rules_glossary/t/terms",
+        "title": "Terms"
+      },
+      {
+        "id": "rules_glossary/t/terrain",
+        "title": "Terrain"
+      },
+      {
+        "id": "rules_glossary/t/tests",
+        "title": "Tests"
+      },
+      {
+        "id": "rules_glossary/t/timing",
+        "title": "Timing"
+      },
+      {
+        "id": "rules_glossary/t/tokens",
+        "title": "Tokens"
+      },
+      {
+        "id": "rules_glossary/t/traits",
+        "title": "Traits"
+      },
+      {
+        "id": "rules_glossary/t/travel",
+        "title": "Travel"
+      },
+      {
+        "id": "rules_glossary/t/traveler_background",
+        "title": "Traveler (Background)"
+      },
+      {
+        "id": "rules_glossary/t/turns",
+        "title": "Turns"
+      },
+      {
+        "id": "rules_glossary/u",
+        "title": "U"
+      },
+      {
+        "id": "rules_glossary/u/unique_keyword",
+        "title": "Unique (Keyword)"
+      },
+      {
+        "id": "rules_glossary/u/untraversable_keyword",
+        "title": "Untraversable (Keyword)"
+      },
+      {
+        "id": "rules_glossary/u/use",
+        "title": "Use"
+      },
+      {
+        "id": "rules_glossary/v",
+        "title": "V"
+      },
+      {
+        "id": "rules_glossary/v/the_valley_map",
+        "title": "The Valley Map"
+      },
+      {
+        "id": "rules_glossary/w",
+        "title": "W"
+      },
+      {
+        "id": "rules_glossary/w/weather",
+        "title": "Weather"
+      },
+      {
+        "id": "rules_glossary/w/within_reach",
+        "title": "Within Reach"
+      },
+      {
+        "id": "rules_glossary/y",
+        "title": "Y"
+      },
+      {
+        "id": "rules_glossary/y/you",
+        "title": "You"
+      }
+    ]
+  },
+  "url": "/docs/rules_glossary"
+}

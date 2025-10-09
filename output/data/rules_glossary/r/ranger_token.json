@@ -1,0 +1,8 @@
+{
+  "id": "rules_glossary/r/ranger_token",
+  "title": "Ranger Token",
+  "content": "<img src=\"https://thelivingvalley.earthbornegames.com/assets/images/RulesRenders_0026-a5d977cec0d479febfa2430b79fe40a7.png\" /><p>Each Ranger has a single Ranger token unique to them that can, when a game effect instructs you to, be moved to cards <a href=\"rules_glossary/i/in_play\">in play</a>. This represents that card requiring your Ranger\u2019s undivided attention or physical presence. When your Ranger token is on a card <a href=\"rules_glossary/i/in_play\">in play</a>, each other Ranger commits one additional <a href=\"rules_glossary/e/effort\">effort</a> to any tests they perform <a href=\"rules_glossary/i/interact\">interacting</a> with that card. This is cumulative for each Ranger token present.</p><ul><li>Some cards, instead of having a <a href=\"rules_glossary/p/progress_threshold\">progress threshold</a>, are marked with the Ranger symbol. These cards are <a href=\"rules_glossary/c/clear\">cleared</a>  when every Ranger's token is on the card.</li><li>When your Ranger token would be <a href=\"rules_glossary/d/discard\">discarded</a> or is not on a card, move it to your <a href=\"rules_glossary/r/role\">role</a> card.</li></ul>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/rules_glossary/R/ranger_token"
+}

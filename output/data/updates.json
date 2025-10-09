@@ -1,0 +1,29 @@
+{
+  "id": "updates",
+  "title": "Updates",
+  "content": null,
+  "links": [
+    {
+      "id": "updates/card_errata",
+      "title": "Card Errata"
+    },
+    {
+      "id": "updates/campaign_guide_errata",
+      "title": "Campaign Guide Errata"
+    },
+    {
+      "id": "updates/rulebook",
+      "title": "Rulebook"
+    },
+    {
+      "id": "updates/campaign_guide_errata__legacy_of_the_ancestors",
+      "title": "Campaign Guide Errata - Legacy of the Ancestors"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom",
+      "title": "The Elder's Book of Uncommon Wisdom"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/category/updates"
+}

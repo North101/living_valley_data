@@ -1,0 +1,8 @@
+{
+  "id": "rules_glossary/p/phase_4_refresh",
+  "title": "Phase 4: Refresh",
+  "content": "<p>At the end of the <a href=\"rules_glossary/r/round\">round</a>, the Rangers refresh themselves and prepare for the next round. Each Ranger performs the following steps in order:</p><ul><li><b>Suffer Fatigue from Injuries:</b> Suffer one <a href=\"rules_glossary/f/fatigue\">fatigue</a> for each <a href=\"rules_glossary/i/injury\">injury</a> you have.</li><li><b>Draw one Ranger card:</b> Draw one card from your Ranger deck. There is no limit to the number of cards you can have in your hand. If you cannot draw a card, you are too tired to continue and your group must <a href=\"rules_glossary/e/end_the_day\">end the day</a>.</li><li><b>Refill energy pools:</b> Add <a href=\"rules_glossary/e/energy\">energy</a> tokens to your energy pool until you have a number of each energy type equal to the corresponding <a href=\"rules_glossary/a/aspects\">aspect</a>  value. If you have energy in excess of one of your aspect values, you must <a href=\"rules_glossary/d/discard\">discard</a> tokens until you are down to that value.</li><li><b>Resolve Refresh effects:</b> Resolve any effects labeled with \"Refresh:\"</li><li><b>Ready all cards in play:</b> <a href=\"rules_glossary/r/ready\">Ready</a> all <a href=\"rules_glossary/e/exhaust\">exhausted</a> cards in all <a href=\"rules_glossary/a/area\">areas</a> . Then a new round begins!</li></ul>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/rules_glossary/P/phase_4_refresh"
+}

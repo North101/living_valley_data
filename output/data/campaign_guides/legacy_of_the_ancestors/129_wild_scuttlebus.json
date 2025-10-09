@@ -1,0 +1,17 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/129_wild_scuttlebus",
+  "title": "129. Wild Scuttlebus",
+  "content": "<blockquote><p>You hear a skittering, scuttling sound, as if hundreds of claws were scraping rock. You peer down the transit tunnel just in time to see a massive being burst out of the shadows and lunge at you! </p><p>At first you think it\u2019s some sort of gargantuan spindlescuttler, but as you duck out of the way, you see that what first appeared to be a single bulbous reflective eye is actually a rounded glass viewport embedded in the top of the creature's head. The smaller glass portals and hatchways embedded in its chitinous carapace confirm your suspicions: This being used to be some sort of living transit system for the Estians! </p><p>Now, of course, it just wants to eat you. </p></blockquote><p>Record <span class=\"text text_blue\">ENCOUNTERED THE SCUTTLEBUS</span> on the campaign tracker.</p><p>If you have <span class=\"text text_blue\">STAGED THE HUNT</span>, go to <a href=\"campaign_guides/legacy_of_the_ancestors/129_wild_scuttlebus/129_1\">129.1</a>. Otherwise, if you are on <b>THE EXPEDITION'S PATH</b>, go to <a href=\"campaign_guides/legacy_of_the_ancestors/129_wild_scuttlebus/129_2\">129.2</a></p>",
+  "links": [
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/129_wild_scuttlebus/129_1",
+      "title": "129.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/129_wild_scuttlebus/129_2",
+      "title": "129.2"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/wild_scuttlebus"
+}

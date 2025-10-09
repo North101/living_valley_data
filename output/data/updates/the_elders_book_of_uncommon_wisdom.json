@@ -1,0 +1,69 @@
+{
+  "id": "updates/the_elders_book_of_uncommon_wisdom",
+  "title": "The Elder's Book of Uncommon Wisdom",
+  "content": "<p>The Elder\u2019s Book of Uncommon Wisdom is an optional, variant mode of play for Earthborne Rangers that replaces a small selection of Ranger cards with alternate versions of those cards. Some have been changed significantly and are very different from their \u201cstandard\u201d counterparts. Others are almost identical to the original cards and feature only minor modifications like the addition of a new trait.</p><p>If you play using the Elder\u2019s Book of Uncommon Wisdom, you must do so in full. You cannot pick and choose which alternate cards to use and which to not.</p><p>Cards in the Elder's Book of Uncommon Wisdom can be identified by this book icon on the lower-right hand corner of the card: <img src=\"https://thelivingvalley.earthbornegames.com/assets/images/EBR_website_icon_call_out-b21a8b93ae0d5019ba7fcd27abe8b28e.png#errata_cards\" /></p><p>For clarifications and error fixes, see <a href=\"updates/card_errata\">Card Errata</a>.</p><h1 id=\"navigating-the-elders-book-of-uncommon-wisdom\">Navigating the Elder's Book of Uncommon Wisdom</h1><p>There are a few different ways to navigate this section:</p><p><b>Navigation Bar:</b> You can look up cards by name using the navigation bar at the left-hand side of the screen.</p><p><b>Search:</b> You can access a search function by clicking on the magnifying glass in the upper-right corner of the screen.</p><p><b>PDF:</b> Below is a link to a PDF containing all of the updated cards. You can use this PDF to view or print out the updated cards.</p><p><a href=\"https://earthbornegames.com/wp-content/uploads/Rebalanced-Ranger-Cards_eng_web.pdf\">The Elder's Book of Uncommon Wisdom Full PDF</a></p>",
+  "links": [
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/functional_replica__artisan_set_card_7_of_9",
+      "title": "Functional Replica - Artisan Set Card 7 of 9"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/safeguard__conciliator_set_card_10_of_14",
+      "title": "Safeguard - Conciliator Set Card 10 of 14"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/nidocyte_sentinel__conciliator_set_card_11_of_14",
+      "title": "Nidocyte Sentinel - Conciliator Set Card 11 of 14"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/pokodo_the_ferret__conciliator_set_card_13_of_14",
+      "title": "Pokodo the Ferret - Conciliator Set Card 13 of 14"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/guardian__conciliator_set_card_1_of_14",
+      "title": "Guardian - Conciliator Set Card 1 of 14"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/one_with_nature__conciliator_set_card_5_of_14",
+      "title": "One With Nature - Conciliator Set Card 5 of 14"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/share_in_the_valleys_secrets__explorer_set_card_5_of_14",
+      "title": "Share in the Valley's Secrets - Explorer Set Card 5 of 14"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/afforded_by_nature__traveler_set_card_2_of_9",
+      "title": "Afforded by Nature - Traveler Set Card 2 of 9"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/hy_pimpots_secret_recipe__reward_set_card_26_of_31",
+      "title": "Hy Pimpot's Secret Recipe - Reward Set Card 26 of 31"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/prodigy_of_the_floating_tower__shaper_set_card_2_of_14",
+      "title": "Prodigy of the Floating Tower - Shaper Set Card 2 of 14"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/what_should_never_be__shaper_set_card_6_of_14",
+      "title": "What Should Never Be - Shaper Set Card 6 of 14"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/a_gentle_nudge__shepherd_set_card_3_of_9",
+      "title": "A Gentle Nudge - Shepherd Set Card 3 of 9"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/oru_the_sheep_dog__shepherd_set_card_9_of_9",
+      "title": "Oru the Sheep Dog - Shepherd Set Card 9 of 9"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/paths_weve_roamed_before__traveler_set_card_2_of_9",
+      "title": "Paths We've Roamed Before - Traveler Set Card 2 of 9"
+    },
+    {
+      "id": "updates/the_elders_book_of_uncommon_wisdom/meditation_pillow__traveler_set_card_9_of_9",
+      "title": "Meditation Pillow - Traveler Set Card 9 of 9"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/updates/elders_book_of_uncommon_wisdom"
+}

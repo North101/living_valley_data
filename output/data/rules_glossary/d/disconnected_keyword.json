@@ -1,0 +1,8 @@
+{
+  "id": "rules_glossary/d/disconnected_keyword",
+  "title": "Disconnected (Keyword)",
+  "content": "<p>You cannot add <a href=\"rules_glossary/p/progress\">progress</a> to a card with the disconnected <a href=\"rules_glossary/k/keywords\">keyword</a> using the Connect <a href=\"rules_glossary/c/common_test\">common test</a> .</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/rules_glossary/D/disconnected"
+}

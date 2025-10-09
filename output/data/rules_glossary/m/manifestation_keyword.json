@@ -1,0 +1,8 @@
+{
+  "id": "rules_glossary/m/manifestation_keyword",
+  "title": "Manifestation (Keyword)",
+  "content": "<p>To play a card with the manifestation <a href=\"rules_glossary/k/keywords\">keyword</a>, use (<a href=\"rules_glossary/d/discard\">discard</a>) a token from one of your <a href=\"rules_glossary/e/equipped\">equipped</a> cards that has the <a href=\"rules_glossary/c/conduit_keyword\">conduit</a> keyword.</p><h1 id=\"manifestation-on-attributes\">Manifestation on Attributes</h1><p>When the Manifestation keyword appears on an <a href=\"rules_glossary/a/attributes\">attribute</a> card, you must <a href=\"rules_glossary/d/discard\">discard</a> a token from one of your <a href=\"rules_glossary/e/equipped\">equipped</a> cards with the <a href=\"rules_glossary/c/conduit_keyword\">conduit</a> keyword to commit that attribute to a test. <b>(Note: This is not true of non-attribute cards with the manifestation keyword. Those may be committed to tests as normal without spending a token from a conduit.)</b></p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/rules_glossary/M/manifestation"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rules_glossary/f",
+  "title": "F",
+  "content": null,
+  "links": [
+    {
+      "id": "rules_glossary/f/facedown_cards",
+      "title": "Facedown Cards"
+    },
+    {
+      "id": "rules_glossary/f/fatigue",
+      "title": "Fatigue"
+    },
+    {
+      "id": "rules_glossary/f/fatiguing_keyword",
+      "title": "Fatiguing (Keyword)"
+    },
+    {
+      "id": "rules_glossary/f/features",
+      "title": "Features"
+    },
+    {
+      "id": "rules_glossary/f/forager_background",
+      "title": "Forager (Background)"
+    },
+    {
+      "id": "rules_glossary/f/friendly_keyword",
+      "title": "Friendly (Keyword)"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/category/f"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "",
+  "title": "The Living Valley",
+  "content": null,
+  "links": [
+    {
+      "id": "campaign_guides",
+      "title": "Campaign Guides"
+    },
+    {
+      "id": "rules_glossary",
+      "title": "Rules Glossary"
+    },
+    {
+      "id": "one_day_missions",
+      "title": "One-Day Missions"
+    },
+    {
+      "id": "updates",
+      "title": "Updates"
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions"
+    }
+  ],
+  "lookup": null,
+  "url": ""
+}

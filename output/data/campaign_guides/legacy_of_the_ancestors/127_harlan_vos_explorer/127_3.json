@@ -1,0 +1,8 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_3",
+  "title": "127.3",
+  "content": "<blockquote><p>Harlan takes a sip from his canteen. \"Can you imagine what this place must have been like 1,500 years ago?\" he asks, somewhat rhetorically. \"Bustling with life, I'm sure! Shall we continue?\"</p></blockquote><choice id=\"rangers-choose\">Rangers Choose</choice><p><b><span class=\"text text_red\">A) Let's keep looking.</span></b> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span> from Harlan Vos. Each Ranger soothes 1 fatigue. <i><span class=\"text text_blue\">Help him track down his daughter, Quisi Vos.</span></i></p><p><b><span class=\"text text_red\">B) I'm sure Quisi will turn up.</span></b> Discard Harlan Vos. Each Ranger soothes 2 fatigue.</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_3"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_4",
+  "title": "131.4",
+  "content": "<blockquote><p>You watch quietly as the spirit goes about her work. With reverence, she takes mushrooms from the tray, one by one, and places them gently in the planter. It\u2019s as though you can see what she sees\u2014this chamber as it was over one thousand years ago\u2014while at the same time seeing it as it is now: disused, encrusted with sediment, and overgrown.</p><p>She speaks, but in a language that you do not understand. You're able to pick up familiar sounds and letter combinations, but are unable to make sense of any of it. She looks at you with pleading eyes, then abruptly touches her index finger to the center of your forehead.</p><p>In your mind's eye you see a vast chamber bathed in warm light. Massive white trees fill the space. You get a strong feeling that she wants you to accompany her there.</p></blockquote><choice id=\"rangers-choose\">Rangers Choose</choice><p><b><span class=\"text text_red\">A) Accompany the spirit.</span></b> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span> from the Gardener Spirit and attach the mission <b>HELPING HAND</b> to her. <i><span class=\"text text_blue\">Travel to the Arboretum of Memory and clear the Gardener Spirit with <span><icon icon=\"progress\">&nbsp;</icon></span> while New Growth is in play.</span></i></p><p><b><span class=\"text text_red\">B) Another time perhaps.</span></b> Discard the Gardener Spirit. Place 1 <span><icon icon=\"progress\">&nbsp;</icon></span> on each flora in play.</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/gardener_spirit/131_4"
+}

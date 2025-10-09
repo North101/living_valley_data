@@ -1,0 +1,8 @@
+{
+  "id": "updates/campaign_guide_errata/1_24",
+  "title": "1.24",
+  "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><blockquote><p>You plant one of Kasende\u2019s lure amplifiers and set it to standby. As you move away, you see a blue light blinking at its top.</p></blockquote><p>Discard all <span><icon icon=\"progress\">&nbsp;</icon></span> from <b>WORM FOOD</b> and check off the bubble matching the current location next to <b>WORM FOOD</b> on the campaign tracker. Then, if both are complete, read the following:</p><blockquote><p>The lure amplifiers are set. Now you need to meet Kasende in the Marsh of Rebirth and activate the lure itself.</p></blockquote><p><code>Complete the WORM FOOD mission</code> and gain the <b>JOURNEY (MARSH OF REBIRTH)</b> mission. If you are on <b>LOST BROTHER</b>, complete that mission as you settle on this approach to resolving the reclaimer threat.</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/updates/lure_of_the_valley_errata/1_24"
+}

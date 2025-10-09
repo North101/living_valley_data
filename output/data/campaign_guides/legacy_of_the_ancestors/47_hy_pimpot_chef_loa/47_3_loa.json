@@ -1,0 +1,8 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_3_loa",
+  "title": "47.3 (LOA)",
+  "content": "<blockquote><p>\u201cCome on!\u201d You\u2019ve only stopped for a few minutes, and already Hy is pacing around restlessly. \u201cWe\u2019ve still got plenty of mushrooms to find for my stew! If you\u2019re too tired to help, I\u2019ll head off on my own!\u201d </p></blockquote><choice id=\"rangers-choose\">Rangers Choose</choice><p><b><span class=\"text text_red\">A) Continue gathering mushrooms.</span></b> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span> from Hy. Make a stew using only cards with the Mycelial keyword to achieve Hy\u2019s goal.</p><p><b><span class=\"text text_red\">B) Some other time.</span></b> Discard Hy Pimpot. Each Ranger soothes 2 fatigue.</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_3"
+}

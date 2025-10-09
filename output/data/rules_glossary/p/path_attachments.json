@@ -1,0 +1,8 @@
+{
+  "id": "rules_glossary/p/path_attachments",
+  "title": "Path Attachments",
+  "content": "<p>In addition to <a href=\"rules_glossary/f/features\">features</a> and <a href=\"rules_glossary/b/beings\">beings</a>, the <a href=\"rules_glossary/l/legacy_of_the_ancestors_expansion\">Legacy of the Ancestors</a> expansion includes a new type of <a href=\"rules_glossary/p/path_cards\">path card</a>: attachments.</p><p>When a path attachment is drawn, it is <a href=\"rules_glossary/a/attach\">attached</a> to another card <a href=\"rules_glossary/i/in_play\">in play</a> following the instructions on the attachment. If the card it is <a href=\"rules_glossary/a/attach\">attached</a> to leaves play for any reason, or the attachment would become unattached (without additional instructions on where to move it), <a href=\"rules_glossary/d/discard\">discard</a> the attachment.</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/rules_glossary/P/path_attachments"
+}

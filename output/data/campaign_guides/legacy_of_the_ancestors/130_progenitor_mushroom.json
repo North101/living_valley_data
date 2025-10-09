@@ -1,0 +1,21 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom",
+  "title": "130. Progenitor Mushroom",
+  "content": "<p><b><span class=\"highlight highlight_blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_1\">130.1</a></span></b> <b><span class=\"highlight highlight_clear\">CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_2\">130.2</a></span></b> <b><span class=\"highlight highlight_blue\">CLEAR <span class=\"text text_red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_3\">130.3</a></span></b></p>",
+  "links": [
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_1",
+      "title": "130.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_2",
+      "title": "130.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_3",
+      "title": "130.3"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/progenitor_mushroom"
+}

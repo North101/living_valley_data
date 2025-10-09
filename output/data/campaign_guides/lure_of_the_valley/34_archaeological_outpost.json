@@ -1,0 +1,13 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/34_archaeological_outpost",
+  "title": "34. Archaeological Outpost",
+  "content": "<blockquote><p>Silaro Mako, the Valley's preeminent archaeologist, set up this outpost many years ago with the help of his father. Since then, he has spent precious little time here, instead using it as a storage facility for many of the most interesting artifacts he's recovered during his expeditions. Inside, you find tables covered with neatly catalogued and carefully arranged artifacts and several notebooks containing the observations of Silaro Mako and his colleagues.</p></blockquote>",
+  "links": [
+    {
+      "id": "campaign_guides/lure_of_the_valley/34_archaeological_outpost/34_1",
+      "title": "34.1"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/lure_of_the_valley/archaeological_outpost"
+}

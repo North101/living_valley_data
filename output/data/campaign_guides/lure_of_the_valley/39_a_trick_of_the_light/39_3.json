@@ -1,0 +1,8 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_3",
+  "title": "39.3",
+  "content": "<branch id=\"read-one\">READ ONE:</branch><p class=\"text text_red\">If Kordo is in play:</p><blockquote><p>Kordo\u2019s eyes light up, and he moves off toward the being. He pauses at the tree, then points to where a small branch has been half broken. Beyond that, some blades of grass have been bent over. Without a word, Kordo slinks off through the brush, beckoning you to follow.</p></blockquote><p>Add 5 <span><icon icon=\"progress\">&nbsp;</icon></span> to A Trick of the Light.</p><p class=\"text text_red\">Otherwise, read:</p><blockquote><p>You look for impressions in the ground or broken twigs, for something\u2014anything\u2014to give evidence of this strange being. This would really interest an experienced tracker like Kordo down at Lone Tree.</p></blockquote>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/campaign_guides/lure_of_the_valley/a_trick_of_the_light/39_3"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_4_loa",
+  "title": "44.4 (LOA)",
+  "content": "<blockquote><p>Kordo smiles at you. \u201cWell? What say we push off up that way? I think I remember a sinkhole past those hills; maybe it\u2019s deep enough to take us into the arcology?\u201d</p></blockquote><choice id=\"rangers-choose\">Rangers Choose</choice><p><span class=\"text text_red\">A) Continue helping Kordo search for a sinkhole.</span> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span> from Kordo.</p><p><span class=\"text text_red\">B) Say goodbye for now.</span> Discard Kordo. Each Ranger soothes 2 fatigue.</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/kordo_ranger_veteran/44_4"
+}

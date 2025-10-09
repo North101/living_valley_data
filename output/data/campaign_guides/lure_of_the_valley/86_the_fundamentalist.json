@@ -1,0 +1,29 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist",
+  "title": "86. The Fundamentalist",
+  "content": "<div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU\u2019RE AT THE BOWL OF THE SUN, GO TO <a href=\"campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_1\">86.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_2\">86.2</a></li></ul></div><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF YOU ARE ON INVASION (EITHER STAGE), GO TO <a href=\"campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_3\">86.3</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_4\">86.4</a></li></ul></div><p class=\"highlight highlight_blue\">CLEAR <span><icon icon=\"harm\" class=\"text text_red\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_5\">86.5</a></p>",
+  "links": [
+    {
+      "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_1",
+      "title": "86.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_2",
+      "title": "86.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_3",
+      "title": "86.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_4",
+      "title": "86.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_5",
+      "title": "86.5"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/lure_of_the_valley/the_fundamentalist"
+}

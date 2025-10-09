@@ -1,0 +1,8 @@
+{
+  "id": "rules_glossary/p/path_moments",
+  "title": "Path Moments",
+  "content": "<p>The <a href=\"rules_glossary/m/moments_on_the_path_expansion\">Moments on the Path</a> expansion adds a new type of card to the path deck: path moments. </p><p>After resolving Arrival Setup at a location (step 9 of <a href=\"rules_glossary/s/setup\">setup</a> or step 5 of <a href=\"rules_glossary/t/travel\">travel</a>), draw cards equal to the number of Rangers (players) from a Moments <a href=\"rules_glossary/s/sets\">set</a> and shuffle them into the path deck without looking at them. Which Moments set you use depends on your location:</p><ul><li><b>Valley:</b> Any location on the Valley map.</li><li><b>Arcology:</b> Any location on one of the Arcology maps from the Legacy of the Ancestors expansion.</li></ul><p>Path moments do not enter or leave play. Instead, when a Ranger draws a path moment, they resolve the text on the card. Once that effect is resolved, the Ranger <a href=\"rules_glossary/d/discard\">discards</a> the path moment unless instructed otherwise by the card's effect. \"You\" on the card refers to just the Ranger who drew it, but many cards will affect other Rangers.</p><p>If a path moment would enter play for any reason, the active Ranger must resolve its effect as if they had just drawn it from the path deck. Path moments also do not have <a href=\"rules_glossary/p/presence\">presence</a> values. Any effects that check for a card's <a href=\"rules_glossary/p/presence\">presence</a> value will fail when applied to a path moment.</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/rules_glossary/P/path_moments"
+}

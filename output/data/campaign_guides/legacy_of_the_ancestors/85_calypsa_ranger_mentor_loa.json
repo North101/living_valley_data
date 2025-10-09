@@ -1,0 +1,37 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa",
+  "title": "85. Calypsa, Ranger Mentor (LOA)",
+  "content": "<div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU'VE <span class=\"text text_blue\">CLOSED THE BOOK</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_1_loa\">85.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_2_loa\">85.2</a></li></ul></div><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF A RECLAIMER SEEKER IS IN THE PATH DISCARD, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_3_loa\">85.3</a></li><li>IF HELPING HAND IS ATTACHED, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_4_loa\">85.4</a></li><li>IF YOU'VE <span class=\"text text_blue\">CLOSED THE BOOK</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_5_loa\">85.5</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_6_loa\">85.6</a></li></ul></div><p class=\"highlight highlight_blue\">CLEAR <span class=\"text text_red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_7_loa\">85.7</a></p>",
+  "links": [
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_1_loa",
+      "title": "85.1 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_2_loa",
+      "title": "85.2 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_3_loa",
+      "title": "85.3 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_4_loa",
+      "title": "85.4 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_5_loa",
+      "title": "85.5 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_6_loa",
+      "title": "85.6 (LOA)"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_7_loa",
+      "title": "85.7 (LOA)"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/calypsa_ranger_mentor"
+}

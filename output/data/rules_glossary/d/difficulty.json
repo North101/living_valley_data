@@ -1,0 +1,8 @@
+{
+  "id": "rules_glossary/d/difficulty",
+  "title": "Difficulty",
+  "content": "<p>Each <a href=\"rules_glossary/t/tests\">test</a> has a difficulty\u2014the number in brackets following the bold thematic descriptor. If there is no number listed, the difficulty is one. If your resulting <a href=\"rules_glossary/e/effort\">effort</a> equals or exceeds the test difficulty, you succeed. If your resulting effort is lower than the test difficulty, you fail.</p><ul><li>Some tests show a difficulty of X. In these cases, the difficulty is dependent on circumstances unique to that test and will be explained elsewhere on that card.</li><li>The lowest possible test difficulty is 0 (though the minimum difficulty of the common tests is 1).</li></ul>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/rules_glossary/D/difficulty"
+}

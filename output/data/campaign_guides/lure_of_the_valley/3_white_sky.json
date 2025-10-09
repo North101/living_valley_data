@@ -1,0 +1,17 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/3_white_sky",
+  "title": "3. White Sky",
+  "content": "<p class=\"highlight highlight_blue\">IF SILARO MAKO IS IN PLAY, GO TO <a href=\"campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_6\">53.6</a></p><p class=\"highlight highlight_clear\">IF TALA THE RED IS IN PLAY, GO TO <a href=\"campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_7\">84.7</a></p><p class=\"highlight highlight_blue\">IF <span class=\"text text_blue\">WHITE SKY</span> IS FLOODED, GO TO <a href=\"campaign_guides/lure_of_the_valley/3_white_sky/3_1\">3.1</a></p><p class=\"highlight highlight_clear\">IF THE MOON IS IN WANING GIBBOUS (DAYS 15 \u2013 20), GO TO <a href=\"campaign_guides/lure_of_the_valley/3_white_sky/3_2\">3.2</a></p><br /><p><b>OTHERWISE, READ:</b></p><blockquote><p>From your vantage point you can see much of the southern shore of White Sky Lake, from the froth of rapids at the head of the Silverfin River to the mix of rocky promontories and pebble-strewn beaches that slowly curve around toward the opposite shore. There you see the village of White Sky and the tiny forms of villagers going about their business on the platforms and docks.</p></blockquote>",
+  "links": [
+    {
+      "id": "campaign_guides/lure_of_the_valley/3_white_sky/3_1",
+      "title": "3.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/3_white_sky/3_2",
+      "title": "3.2"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/lure_of_the_valley/white_sky"
+}

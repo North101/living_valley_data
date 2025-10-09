@@ -1,0 +1,8 @@
+{
+  "id": "rules_glossary/p/phase_2_ranger_turns",
+  "title": "Phase 2: Ranger Turns",
+  "content": "<p>Ranger <a href=\"rules_glossary/t/turns\">turns</a> are the bulk of the game. This is where you\u2019ll be equipping your gear, interacting with the environment around you, and using your abilities to accomplish your goals for the day.</p><p>During this phase, each Ranger takes separate turns. There is no limit to the number of turns a Ranger can take each <a href=\"rules_glossary/r/round\">round</a>. You decide as a group which Ranger takes the first turn, and following that, Rangers can take their turns in any order. Unless you are the only Ranger still taking turns, a different Ranger must go after you finish your turn. You can take a second turn in a row by <a href=\"rules_glossary/e/exhaust\">exhausting</a> your <a href=\"rules_glossary/r/role\">role</a> card.</p><p>On your <a href=\"rules_glossary/t/turns\">turn</a>, you can do one of the following:</p><ul><li>Perform a <a href=\"rules_glossary/t/tests\">Test</a></li><li><a href=\"rules_glossary/p/play\">Play</a> a <a href=\"rules_glossary/r/ranger_cards\">Ranger Card</a></li><li>Rest</li></ul><p>At the beginning or end of  any Ranger\u2019s turn, you can resolve any exhaust abilities that don't specify a <a href=\"rules_glossary/t/timing\">timing</a>, or any other abilities that can be triggered by you that don't have a specified timing (such as the discard effect on Dayhowler). At this time you can also discard any equipped gear you no longer want.</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/rules_glossary/P/phase_2_ranger_turns"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist",
+  "title": "64. Seilo Griss, Apiarist",
+  "content": "<div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU\u2019VE <span class=\"text text_blue\">DISCOVERED THE PHILOSOPHER\u2019S HONEY</span>, GO TO <a href=\"campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_1\">64.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_2\">64.2</a></li></ul></div><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF YOU ARE AT THE PHILOSOPHER\u2019S GARDEN, GO TO <a href=\"campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_3\">64.3</a></li><li>IF HELPING HAND IS ATTACHED, GO TO <a href=\"campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_4\">64.4</a></li><li>IF YOU\u2019VE <span class=\"text text_blue\">DISCOVERED THE PHILOSOPHER\u2019S HONEY</span>, GO TO <a href=\"campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_5\">64.5</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_6\">64.6</a></li></ul></div><p class=\"highlight highlight_blue\">CLEAR <span><icon icon=\"harm\" class=\"text text_red\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_7\">64.7</a></p>",
+  "links": [
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_1",
+      "title": "64.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_2",
+      "title": "64.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_3",
+      "title": "64.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_4",
+      "title": "64.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_5",
+      "title": "64.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_6",
+      "title": "64.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_7",
+      "title": "64.7"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist"
+}

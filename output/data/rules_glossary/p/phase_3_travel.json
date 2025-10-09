@@ -1,0 +1,8 @@
+{
+  "id": "rules_glossary/p/phase_3_travel",
+  "title": "Phase 3: Travel",
+  "content": "<p>After all Rangers have <a href=\"rules_glossary/r/rest\">rested</a>, you may decide as a group if you\u2019d like to travel.</p><p>Each <a href=\"rules_glossary/l/locations\">location</a> card has a <a href=\"rules_glossary/p/progress_threshold\">progress threshold</a> on the right-hand side of the card. If the card has a number of <a href=\"rules_glossary/p/progress\">progress</a> tokens equal to or greater than that threshold, you can choose to <a href=\"rules_glossary/t/travel\">travel</a>.</p><p><i>Note: <a href=\"rules_glossary/r/ready\">Ready</a> cards with the <a href=\"rules_glossary/o/obstacle_keyword\">obstacle</a> <a href=\"rules_glossary/k/keywords\">keyword</a> prevent you from traveling. You must either clear these cards, exhaust them, or deal with them some other way before you can travel.</i></p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/rules_glossary/P/phase_3_travel"
+}

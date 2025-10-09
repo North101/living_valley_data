@@ -1,0 +1,8 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_3",
+  "title": "151.3",
+  "content": "<blockquote><p>As you lead the spirit steadily away from the path that he has trodden for centuries, you find yourself wondering more and more about the nature of existence. How is this spirit visible to you? Is it something about the arcology that makes it possible? When you die, is there a possibility that you too will be tethered to the physcial plane? It's almost too much to contemplate.</p></blockquote><choice id=\"rangers-choose\">Rangers Choose</choice><p><b><span class=\"text text_red\">A) Continue leading the spirit.</span></b> Discard <span><icon icon=\"progress\">&nbsp;</icon></span> from the Wanderer Spirit. <i><span class=\"text text_blue\">Travel to a location three or more paths away from the noted location, then clear the Wanderer Spirit with <span><icon icon=\"progress\">&nbsp;</icon></span>.</span></i></p><p><b><span class=\"text text_red\">B) Let the spirit go on his way.</span></b> Discard the Wanderer Spirit. Each Ranger soothes 2 fatigue.</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/wanderer_spirit/151_3"
+}

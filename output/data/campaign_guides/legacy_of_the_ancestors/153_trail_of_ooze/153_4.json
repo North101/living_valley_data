@@ -1,0 +1,8 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_4",
+  "title": "153.4",
+  "content": "<blockquote><p>The trail of ooze is growing easier to track. However, it seems to be leading far away from your original destination. Given the chaotic nature of the arcology ruins around you, you\u2019re starting to worry about how long it will take to find your way back.</p></blockquote><choice id=\"rangers-choose\">Rangers Choose:</choice><p><b><span class=\"text text_red\">A) Resolve to track the being.</span></b> Move all <span><icon icon=\"progress\">&nbsp;</icon></span> from Trail of Ooze to the location. <i><span class=\"text text_blue\">Clear the Trail of Ooze with <span><icon icon=\"progress\">&nbsp;</icon></span> while at a cave location to discover what made it.</span></i></p><p><b><span class=\"text text_red\">B) This is leading us off course.</span></b> Discard the Trail of Ooze and return <b>FOLLOWING A LEAD</b> to the collection. Each Ranger soothes 2 fatigue.</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/trail_of_ooze/153_4"
+}

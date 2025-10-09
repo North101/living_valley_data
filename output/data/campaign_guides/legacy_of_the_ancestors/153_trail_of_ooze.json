@@ -1,0 +1,41 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze",
+  "title": "153. Trail of Ooze",
+  "content": "<div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU'VE <span class=\"text text_blue\">TRACKED DOWN THE OOZE</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_1\">153.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_2\">153.2</a></li></ul></div><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF YOU ARE AT A CAVE LOCATION, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_3\">153.3</a></li><li>IF FOLLOWING A LEAD IS ATTACHED, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_4\">153.4</a></li><li>IF YOU'VE <span class=\"text text_blue\">TRACKED DOWN THE OOZE</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_5\">153.5</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_6\">153.6</a></li></ul></div>",
+  "links": [
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_1",
+      "title": "153.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_2",
+      "title": "153.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_3",
+      "title": "153.3"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_4",
+      "title": "153.4"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_5",
+      "title": "153.5"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_6",
+      "title": "153.6"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_7",
+      "title": "153.7"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_8",
+      "title": "153.8"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/trail_of_ooze"
+}

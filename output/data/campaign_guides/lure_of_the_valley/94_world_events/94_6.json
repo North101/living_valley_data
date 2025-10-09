@@ -1,0 +1,8 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/94_world_events/94_6",
+  "title": "94.6",
+  "content": "<branch id=\"read-one\">READ ONE:</branch><p><span class=\"text text_red\">If you\u2019ve completed</span> <b>THE FALL OF SPIRE:</b></p><blockquote><p>You wake up, jolted out of sleep by visions of reclaimers overrunning Spire, spilling into the arcology, their strange voices crowing in victory. You take a deep breath, splash water on your face, and remind yourself that the danger has passed. All the same, you feel the need to be a bit more alert than usual today.</p></blockquote><p>Each Ranger gains one energy in an aspect of their choice for the first round.</p><p><span class=\"text text_red\">If you haven\u2019t:</span></p><blockquote><p>You're jolted out of sleep by a hand on your shoulder. It's Kal Iver. His cloak is torn, and he's covered in either dirt or soot.</p><p>\"Wake up,\" he says. \"I thought you might be dead, but here you are, sleeping peacefully while the village of Spire was destroyed and thousands of people were displaced. We could have used your help, you know. I hope whatever you were busy doing was of equal importance.\"</p><p>He looks with dismay at a rend in his cloak. \"You must travel to Lone Tree Station. Elder Thrush wants all Rangers to check in as soon as they are able.\" With that, Kal departs.</p></blockquote><p>Complete the <b>SPIRE UNDER ATTACK</b> mission, and gain <b>JOURNEY (LONE TREE STATION)</b>. Record <span class=\"text text_blue\">SPIRE FALLEN</span> and <span class=\"text text_blue\">MISSED IT</span> on the campaign tracker.</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/campaign_guides/lure_of_the_valley/mission_timers/94_6"
+}

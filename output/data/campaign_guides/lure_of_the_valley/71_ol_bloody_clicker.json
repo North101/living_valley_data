@@ -1,0 +1,17 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker",
+  "title": "71. Ol' Bloody Clicker",
+  "content": "<div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>IF DANCER\u2019S ROUND IS IN PLAY, GO TO <a href=\"campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_1\">71.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_2\">71.2</a></li></ul></div>",
+  "links": [
+    {
+      "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_1",
+      "title": "71.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_2",
+      "title": "71.2"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/lure_of_the_valley/ol_bloody_clicker"
+}

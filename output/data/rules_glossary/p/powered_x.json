@@ -1,0 +1,8 @@
+{
+  "id": "rules_glossary/p/powered_x",
+  "title": "Powered [X]",
+  "content": "<p>Cards with \u201cpower\u201d tokens may have effects preceded by \u201cPowered [X],\u201d where X is a number specified on the card. These effects resolve only if that card has power tokens greater than or equal to X.</p>",
+  "links": [],
+  "lookup": null,
+  "url": "/docs/rules_glossary/P/powered"
+}

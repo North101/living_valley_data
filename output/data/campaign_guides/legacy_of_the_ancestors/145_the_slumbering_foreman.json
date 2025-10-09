@@ -1,0 +1,41 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman",
+  "title": "145. The Slumbering Foreman",
+  "content": "<div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU'VE <span class=\"text text_blue\">SEEN THE LIGHT</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_1\">145.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_2\">145.2</a></li></ul></div><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span> POWERED [3]:</p><ul><li>IF YOU'VE <span class=\"text text_blue\">SEEN THE LIGHT</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_3\">145.3</a></li><li>IF YOU ARE AT ORLIN'S VAULT, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_4\">145.4</a></li><li>IF HELPING HAND IS ATTACHED, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_5\">145.5</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_6\">145.6</a></li></ul></div><p class=\"highlight highlight_blue\">CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_7\">145.7</a></p><p class=\"highlight highlight_clear\">CLEAR <span class=\"text text_red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_8\">145.8</a></p>",
+  "links": [
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_1",
+      "title": "145.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_2",
+      "title": "145.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_3",
+      "title": "145.3"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_4",
+      "title": "145.4"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_5",
+      "title": "145.5"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_6",
+      "title": "145.6"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_7",
+      "title": "145.7"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_8",
+      "title": "145.8"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_slumbering_foreman"
+}

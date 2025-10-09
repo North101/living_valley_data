@@ -1,0 +1,21 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage",
+  "title": "148. Precarious Wreckage",
+  "content": "<div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU'VE <span class=\"text text_blue\">MAPPED THE WRECKAGE</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_1\">148.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_2\">148.2</a></li></ul></div><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF EACH RANGER\u2019S <span><icon icon=\"ranger_token\">&nbsp;</icon></span> IS ON THIS CARD, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_3\">148.3</a></li><li>OTHERWISE, DISCARD PRECARIOUS WRECKAGE.</li></ul></div>",
+  "links": [
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_1",
+      "title": "148.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_2",
+      "title": "148.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_3",
+      "title": "148.3"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/precarious_wreckage"
+}

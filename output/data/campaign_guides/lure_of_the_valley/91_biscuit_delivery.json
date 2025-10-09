@@ -1,0 +1,41 @@
+{
+  "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery",
+  "title": "91. Biscuit Delivery",
+  "content": "<div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>KORDO, RANGER VETERAN, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_1\">91.1</a></li><li>SPIRIT SPEAKER NAL, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_2\">91.2</a></li><li>HY PIMPOT, CHEF, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_3\">91.3</a></li><li>QUISI VOS, RASCAL, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_4\">91.4</a></li></ul></div><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>KORDO, RANGER VETERAN, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_5\">91.5</a></li><li>SPIRIT SPEAKER NAL, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_6\">91.6</a></li><li>HY PIMPOT, CHEF, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_7\">91.7</a></li><li>QUISI VOS, RASCAL, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_8\">91.8</a></li></ul></div><p class=\"highlight highlight_blue\">CLEAR <span><icon icon=\"harm\" class=\"text text_red\">&nbsp;</icon></span>: GO TO THE NORMAL JOURNAL ENTRY FOR THAT CHARACTER</p>",
+  "links": [
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_1",
+      "title": "91.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_2",
+      "title": "91.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_3",
+      "title": "91.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_4",
+      "title": "91.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_5",
+      "title": "91.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_6",
+      "title": "91.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_7",
+      "title": "91.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_8",
+      "title": "91.8"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/lure_of_the_valley/biscuit_delivery"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/109_oasis_of_sunlight",
+  "title": "109. Oasis of Sunlight",
+  "content": "<p><b><span class=\"highlight highlight_blue\">IF YOU HAVEN\u2019T RECEIVED OR COMPLETED THE BREATHE EASIER MISSION, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/109_oasis_of_sunlight/109_1\">109.1</a></span></b> <b><span class=\"highlight highlight_clear\">OTHERWISE, READ:</span></b></p><blockquote><p>In the maze of broken stone west of the Fractured Wall lies a wide, overgrown sinkhole. From it, one can access the ancient tunnel network of the Estian Arcology in the form of yawning caves that lead far beneath the surface. You stand at the conjunction of two such passageways. A subterranean breeze stirs your cloak, urging you to explore the arcology\u2019s depths.</p></blockquote>",
+  "links": [
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/109_oasis_of_sunlight/109_1",
+      "title": "109.1"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/oasis_of_sunlight"
+}

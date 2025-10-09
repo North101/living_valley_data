@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal",
+  "title": "123. Lost Lutrinal",
+  "content": "<div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>IF THE <span class=\"text text_blue\">LUTRINAL FLED</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_1\">123.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_2\">123.2</a></li></ul></div><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF YOU ARE AT A LOCATION ON THE VALLEY MAP AND THERE IS A WATER FEATURE IN PLAY, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_3\">123.3</a></li><li>IF HELPING HAND IS ATTACHED, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_4\">123.4</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_5\">123.5</a></li></ul></div><p class=\"highlight highlight_blue\">CLEAR <span class=\"text text_red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_6\">123.6</a></p>",
+  "links": [
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_1",
+      "title": "123.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_2",
+      "title": "123.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_3",
+      "title": "123.3"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_4",
+      "title": "123.4"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_5",
+      "title": "123.5"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_6",
+      "title": "123.6"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/lost_lutrinal"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed",
+  "title": "138. Mysterious Seed",
+  "content": "<div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU <span class=\"text text_blue\">OBEYED THE SEED</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_1\">138.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_2\">138.2</a></li></ul></div><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF HELPING HAND IS ATTACHED, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_3\">138.3</a></li><li>IF YOU <span class=\"text text_blue\">OBEYED THE SEED</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_4\">138.4</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_5\">138.5</a></li></ul></div><p class=\"highlight highlight_blue\">CLEAR <span class=\"text text_red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_6\">138.6</a></p>",
+  "links": [
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_1",
+      "title": "138.1"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_2",
+      "title": "138.2"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_3",
+      "title": "138.3"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_4",
+      "title": "138.4"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_5",
+      "title": "138.5"
+    },
+    {
+      "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_6",
+      "title": "138.6"
+    }
+  ],
+  "lookup": null,
+  "url": "/docs/campaign_guides/legacy_of_the_ancestors/mysterious_seed"
+}
