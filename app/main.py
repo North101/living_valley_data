@@ -380,7 +380,7 @@ def main(base_url: str, page_urls: list[str]):
               for page_url in page_urls
           ],
           'lookup': None,
-          'url': "",
+          'url': base_url,
       }, f, indent=2)
 
   log_dir = pathlib.Path('.', 'log')
