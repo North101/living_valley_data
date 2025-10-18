@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/30_michaels_bog",
   "title": "30. Michael's Bog",
-  "content": "<p class=\"highlight highlight_blue\">IF KASENDE, EXPERT HUNTER IS IN PLAY GO TO <a href=\"campaign_guides/lure_of_the_valley/30_michaels_bog/30_1\">30.1</a></p><p class=\"highlight highlight_clear\">OTHERWISE, READ:</p><br /><blockquote><p>Amidst the swirling white mist, you can barely make out the shape of the ruin, nearly swallowed up by mounds of grass and half sunken into the murky water. Calypsa told you the whole bog was named after the first artifact an intrepid explorer found within, a red steel device of unknown purpose, inscribed with the characters: \u201c\u2014ty of Michael.\"</p></blockquote>",
+  "content": "<highlight highlight=\"blue\">IF KASENDE, EXPERT HUNTER IS IN PLAY GO TO <a href=\"campaign_guides/lure_of_the_valley/30_michaels_bog/30_1\">30.1</a></highlight><highlight highlight=\"clear\">OTHERWISE, READ:</highlight><br /><blockquote><p>Amidst the swirling white mist, you can barely make out the shape of the ruin, nearly swallowed up by mounds of grass and half sunken into the murky water. Calypsa told you the whole bog was named after the first artifact an intrepid explorer found within, a red steel device of unknown purpose, inscribed with the characters: \u201c\u2014ty of Michael.\"</p></blockquote>",
   "links": [
     {
       "id": "campaign_guides/lure_of_the_valley/30_michaels_bog/30_1",

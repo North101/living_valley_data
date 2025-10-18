@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_4",
   "title": "91.4",
-  "content": "<blockquote><p>You feel a tug on your backpack and turn to see a young girl suddenly walking beside you.</p><p>\u201cHi!\u201d she says. \u201cDo you smell something? Is Hy Pimpot baking his famous juniper biscuits? Can I have one? Which way to the kitchen?\u201d</p></blockquote><p><i><p class=\"text text_blue\">Clear Quisi with <span><icon icon=\"progress\">&nbsp;</icon></span> to help her find the kitchen.</p></i></p>",
+  "content": "<blockquote><p>You feel a tug on your backpack and turn to see a young girl suddenly walking beside you.</p><p>\u201cHi!\u201d she says. \u201cDo you smell something? Is Hy Pimpot baking his famous juniper biscuits? Can I have one? Which way to the kitchen?\u201d</p></blockquote><p><i><p color=\"blue\">Clear Quisi with <span><icon icon=\"progress\">&nbsp;</icon></span> to help her find the kitchen.</p></i></p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/lure_of_the_valley/biscuit_delivery/91_4"

@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/152_a_shadow_in_the_darkness/152_2",
   "title": "152.2",
-  "content": "<blockquote><p>You see \u2026 something flit across your peripheral vision. You turn your head, but see nothing but shadowed halls and gloom. However, a sense of unease stirs within you, and you stay on the alert. </p><p>Over the next hour, you think you see something twice more. Once, another shadow (or the same one?) moves among rubble piles at the edge of your light. And the second time, you spot a shadowy figure hunched on a balcony meters above your head. </p><p>Whatever it is, it\u2019s not behaving like any being you\u2019ve ever encountered in your travels. </p></blockquote><p><i><span class=\"text text_blue\">Clear the shadow with <span><icon icon=\"progress\">&nbsp;</icon></span> to attempt to follow the furtive figure.</span></i></p>",
+  "content": "<blockquote><p>You see \u2026 something flit across your peripheral vision. You turn your head, but see nothing but shadowed halls and gloom. However, a sense of unease stirs within you, and you stay on the alert. </p><p>Over the next hour, you think you see something twice more. Once, another shadow (or the same one?) moves among rubble piles at the edge of your light. And the second time, you spot a shadowy figure hunched on a balcony meters above your head. </p><p>Whatever it is, it\u2019s not behaving like any being you\u2019ve ever encountered in your travels. </p></blockquote><p><i><span color=\"blue\">Clear the shadow with <span><icon icon=\"progress\">&nbsp;</icon></span> to attempt to follow the furtive figure.</span></i></p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/a_shadow_in_the_darkness/152_2"

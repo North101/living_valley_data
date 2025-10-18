@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_5",
   "title": "126.5",
-  "content": "<blockquote><p>Quisi finishes her story \"... and just when I thought it was empty, I found the treasure! It wasn't in the box. The box was the treasure!\"</p></blockquote><choice id=\"rangers-choose\">Rangers Choose</choice><p><b><span class=\"text text_red\">A) Continue to help Quisi find her father.</span></b> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span> from Quisi. Each Ranger soothes 1 fatigue. <i><span class=\"text text_blue\">Help her track down her father, Harlan Vos.</span></i></p><p><b><span class=\"text text_red\">B) Good luck, kid!</span></b> Discard Quisi. Each Ranger soothes 2 fatigue.</p>",
+  "content": "<blockquote><p>Quisi finishes her story \"... and just when I thought it was empty, I found the treasure! It wasn't in the box. The box was the treasure!\"</p></blockquote><choice id=\"rangers-choose\">Rangers Choose</choice><p><b><span color=\"red\">A) Continue to help Quisi find her father.</span></b> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span> from Quisi. Each Ranger soothes 1 fatigue. <i><span color=\"blue\">Help her track down her father, Harlan Vos.</span></i></p><p><b><span color=\"red\">B) Good luck, kid!</span></b> Discard Quisi. Each Ranger soothes 2 fatigue.</p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/quisi_vos_rapscallion/126_5"

@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/16_kobos_market",
   "title": "16. Kobo's Market",
-  "content": "<p class=\"highlight highlight_blue\">IF SPIRIT SPEAKER NAL IS IN PLAY GO TO <a href=\"campaign_guides/lure_of_the_valley/16_kobos_market/16_1\">16.1</a></p><p class=\"highlight highlight_clear\">IF <span class=\"text text_blue\">KOBO\u2019S MARKET IS FLOODED</span> GO TO <a href=\"campaign_guides/lure_of_the_valley/16_kobos_market/16_2\">16.2</a></p><p class=\"highlight highlight_blue\">OTHERWISE, READ:</p><br /><blockquote><p>Given Ren Kobo\u2019s Messipian heritage, it\u2019s not surprising that he set up his market next to a clear, spring-fed lake. You see the market, bathed in sunlight, bursting with wares from both inside and outside the Valley. You hear the joyful chatter of bartering customers and merchants as you approach.</p></blockquote>",
+  "content": "<highlight highlight=\"blue\">IF SPIRIT SPEAKER NAL IS IN PLAY GO TO <a href=\"campaign_guides/lure_of_the_valley/16_kobos_market/16_1\">16.1</a></highlight><highlight highlight=\"clear\">IF <span color=\"blue\">KOBO\u2019S MARKET IS FLOODED</span> GO TO <a href=\"campaign_guides/lure_of_the_valley/16_kobos_market/16_2\">16.2</a></highlight><highlight highlight=\"blue\">OTHERWISE, READ:</highlight><br /><blockquote><p>Given Ren Kobo\u2019s Messipian heritage, it\u2019s not surprising that he set up his market next to a clear, spring-fed lake. You see the market, bathed in sunlight, bursting with wares from both inside and outside the Valley. You hear the joyful chatter of bartering customers and merchants as you approach.</p></blockquote>",
   "links": [
     {
       "id": "campaign_guides/lure_of_the_valley/16_kobos_market/16_1",

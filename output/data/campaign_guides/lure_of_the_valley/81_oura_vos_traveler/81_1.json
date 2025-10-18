@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_1",
   "title": "81.1",
-  "content": "<blockquote><p>\u201cGreetings!\u201d You hear a voice from up ahead and see Oura approaching. \u201cYou'lll never guess who's gone off on another one of her adventures. Can you help me find Quisi again?\u201d</p></blockquote><p><i><p class=\"text text_blue\">Clear Oura with <span><icon icon=\"progress\">&nbsp;</icon></span> to help Oura find Quisi once more.</p></i></p>",
+  "content": "<blockquote><p>\u201cGreetings!\u201d You hear a voice from up ahead and see Oura approaching. \u201cYou'lll never guess who's gone off on another one of her adventures. Can you help me find Quisi again?\u201d</p></blockquote><p><i><p color=\"blue\">Clear Oura with <span><icon icon=\"progress\">&nbsp;</icon></span> to help Oura find Quisi once more.</p></i></p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/lure_of_the_valley/oura_vos_traveler/81_1"

@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_4",
   "title": "59.4",
-  "content": "<blockquote><p>Dace looks seriously at you. \u201cDo you think you can keep helping me get to the Plummet?\u201d she asks. \u201cIf not, I think I should head back.\u201d</p></blockquote><choice id=\"rangers-choose\">Rangers Choose</choice><p><span class=\"text text_red\">A) Agree to keep helping.</span> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span> from Dace.</p><p><span class=\"text text_red\">B) Part ways.</span> Discard Dace and return <b>HELPING HAND</b> to your collection. Each Ranger soothes 2 fatigue.</p>",
+  "content": "<blockquote><p>Dace looks seriously at you. \u201cDo you think you can keep helping me get to the Plummet?\u201d she asks. \u201cIf not, I think I should head back.\u201d</p></blockquote><choice id=\"rangers-choose\">Rangers Choose</choice><p><span color=\"red\">A) Agree to keep helping.</span> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span> from Dace.</p><p><span color=\"red\">B) Part ways.</span> Discard Dace and return <b>HELPING HAND</b> to your collection. Each Ranger soothes 2 fatigue.</p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/lure_of_the_valley/dace_ambitious_shaper/59_4"

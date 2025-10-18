@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_1",
   "title": "132.1",
-  "content": "<blockquote><p>In the distance, you see the towering twin shapes of the Ferrymen. You focus your mind, and almost immediately you hear a familiar voice. \u201cHello, friendly voices from afar. It's good to hear you again.\u201d </p></blockquote><p><i><p class=\"text text_blue\">Clear the Ferrymen with <span><icon icon=\"progress\">&nbsp;</icon></span> to use your connection to more easily navigate the fungal forest.</p></i></p>",
+  "content": "<blockquote><p>In the distance, you see the towering twin shapes of the Ferrymen. You focus your mind, and almost immediately you hear a familiar voice. \u201cHello, friendly voices from afar. It's good to hear you again.\u201d </p></blockquote><p><i><p color=\"blue\">Clear the Ferrymen with <span><icon icon=\"progress\">&nbsp;</icon></span> to use your connection to more easily navigate the fungal forest.</p></i></p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_1"

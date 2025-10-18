@@ -44,24 +44,24 @@ Links to any direct descendants of this resource
 Page content. This is represented as html along with some custom tags
 
 ### Content Tags
-| Tag            | Description    | Attributes | Classes                                                                                                                                  |
-| -------------- | -------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| `<h1>`         | Big Header     | –          | –                                                                                                                                        |
-| `<h2>`         | Small Header   | –          | –                                                                                                                                        |
-| `<choice>`     | Choice Header  | –          | –                                                                                                                                        |
-| `<branch>`     | Branch Header  | –          | –                                                                                                                                        |
-| `<blockquote>` | Story Text     | –          | –                                                                                                                                        |
-| `<code>`       | Errata         | –          | –                                                                                                                                        |
-| `<div>`        | –              | –          | `highlight` <br> `highlight_blue` <br> `highlight_clear`                                                                                 |
-| `<ol>`         | Ordered List   | –          | –                                                                                                                                        |
-| `<ul>`         | Unordered List | –          | –                                                                                                                                        |
-| `<li>`         | List Item      | –          | –                                                                                                                                        |
-| `<a>`          | Link           | href       | –                                                                                                                                        |
-| `<p>`          | Paragraph      | –          | `highlight` <br> `highlight_blue` <br> `highlight_clear` <br> `text` <br> `text_red` <br> `text_blue` <br> `text_gold` <br> `text_green` |
-| `<span>`       | Text           | –          | `text` <br> `text_red` <br> `text_blue` <br> `text_gold` <br> `text_green`                                                               |
-| `<b>`          | Bold           | –          | –                                                                                                                                        |
-| `<i>`          | Italics        | –          | –                                                                                                                                        |
-| `<icon>`       | Icon           | icon       | `text` <br> `text_red` <br> `text_blue` <br> `text_gold` <br> `text_green`                                                               |
+| Tag            | Description     | Attributes                                                                    |
+| -------------- | --------------- | ----------------------------------------------------------------------------- |
+| `<h1>`         | Big Header      | —                                                                             |
+| `<h2>`         | Small Header    | —                                                                             |
+| `<choice>`     | Choice Header   | —                                                                             |
+| `<branch>`     | Branch Header   | —                                                                             |
+| `<highligh>`   | Highlight block | `highlight="blue"`<br>`highlight="clear"`                                     |
+| `<blockquote>` | Story Text      | —                                                                             |
+| `<code>`       | Errata          | —                                                                             |
+| `<ol>`         | Ordered List    | —                                                                             |
+| `<ul>`         | Unordered List  | —                                                                             |
+| `<li>`         | List Item       | —                                                                             |
+| `<a>`          | Link            | `href`                                                                        |
+| `<p>`          | Paragraph       | `color="red"`<br>`color="blue"`<br>`color="gold"`<br>`color="green"`              |
+| `<span>`       | Text            | `color="red"`<br>`color="blue"`<br>`color="gold"`<br>`color="green"`              |
+| `<b>`          | Bold            | —                                                                             |
+| `<i>`          | Italics         | —                                                                             |
+| `<icon>`       | Icon            | `icon="<icon>"`<br>`color="red"`<br>`color="blue"`<br>`color="gold"`<br>`color="green"` |
 
 ## lookup
 

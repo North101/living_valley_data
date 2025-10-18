@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop",
   "title": "147. Mutating Galgothrop",
-  "content": "<div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU'VE <span class=\"text text_blue\">COMPREHENDED THE GALGOTHROP</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_1\">147.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_2\">147.2</a></li></ul></div><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF EACH RANGER\u2019S <span><icon icon=\"ranger_token\">&nbsp;</icon></span> IS ON THIS CARD, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_3\">147.3</a></li><li>OTHERWISE, DISCARD MUTATING GALGOTHROP.</li></ul></div>",
+  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU'VE <span color=\"blue\">COMPREHENDED THE GALGOTHROP</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_1\">147.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_2\">147.2</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF EACH RANGER\u2019S <span><icon icon=\"ranger_token\">&nbsp;</icon></span> IS ON THIS CARD, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_3\">147.3</a></li><li>OTHERWISE, DISCARD MUTATING GALGOTHROP.</li></ul></highlight>",
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_1",

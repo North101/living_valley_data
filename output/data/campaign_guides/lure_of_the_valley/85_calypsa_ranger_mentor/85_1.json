@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_1",
   "title": "85.1",
-  "content": "<blockquote><p>You come across Calypsa in the middle of a field as she is teaching something to Kal Iver. She waves you over. \u201cI\u2019ve just been discussing some lessons with Kal,\u201d she says. \u201cCare to sit in?\u201d</p></blockquote><p><i><p class=\"text text_blue\">Clear Calypsa with <span><icon icon=\"progress\">&nbsp;</icon></span> to learn from the wise Ranger.</p></i></p>",
+  "content": "<blockquote><p>You come across Calypsa in the middle of a field as she is teaching something to Kal Iver. She waves you over. \u201cI\u2019ve just been discussing some lessons with Kal,\u201d she says. \u201cCare to sit in?\u201d</p></blockquote><p><i><p color=\"blue\">Clear Calypsa with <span><icon icon=\"progress\">&nbsp;</icon></span> to learn from the wise Ranger.</p></i></p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/lure_of_the_valley/calypsa_ranger_mentor/85_1"

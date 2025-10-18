@@ -29,6 +29,7 @@ REPLACE_TAG = {
   'h6': 'imgfooter',
   'strong': 'b',
   'em': 'i',
+  'div': 'p',
 }
 
 

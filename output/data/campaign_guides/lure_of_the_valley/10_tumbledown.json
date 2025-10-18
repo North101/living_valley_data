@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/10_tumbledown",
   "title": "10. Tumbledown",
-  "content": "<p class=\"highlight highlight_blue\">IF TALA THE RED IS IN PLAY, GO TO <a href=\"campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_11\">84.11</a></p><p class=\"highlight highlight_clear\">OTHERWISE, READ:</p><br /><blockquote><p>As you near the terminus of the Valley, the Silverfin rushes and churns between massive boulders on its way to the falls. Ahead of you, there is a constant, booming roar. Just beyond, the Silverfin rushes over the lip of the cliff and plummets hundreds of meters to the Verdessa far below.</p></blockquote><p>If you haven't gained or completed the <b>SEARCH (KASENDE)</b> mission, do not shuffle Kasende, Expert Hunter into the path deck.</p>",
+  "content": "<highlight highlight=\"blue\">IF TALA THE RED IS IN PLAY, GO TO <a href=\"campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_11\">84.11</a></highlight><highlight highlight=\"clear\">OTHERWISE, READ:</highlight><br /><blockquote><p>As you near the terminus of the Valley, the Silverfin rushes and churns between massive boulders on its way to the falls. Ahead of you, there is a constant, booming roar. Just beyond, the Silverfin rushes over the lip of the cliff and plummets hundreds of meters to the Verdessa far below.</p></blockquote><p>If you haven't gained or completed the <b>SEARCH (KASENDE)</b> mission, do not shuffle Kasende, Expert Hunter into the path deck.</p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/lure_of_the_valley/tumbledown"

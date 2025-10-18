@@ -248,18 +248,16 @@ def content_item_to_html(resource_id: str, content: dict[str, Any]):
         'type': 'text',
         'text': '&nbsp;',
     }]
-  classes = []
   attributes = {}
 
   highlight = content.get('highlight')
   if highlight:
-    classes.append('highlight')
-    classes.append(f'highlight_{highlight}')
+    tag = 'highlight'
+    attributes['highlight'] = highlight
 
   color = content.get('color')
   if color:
-    classes.append('text')
-    classes.append(f'text_{color}')
+    attributes['color'] = color
 
   anchor = content.get('anchor')
   if anchor:
@@ -286,9 +284,6 @@ def content_item_to_html(resource_id: str, content: dict[str, Any]):
 
   if tag == 'img':
     attributes['src'] = content.get('src')
-
-  if classes:
-    attributes['class'] = ' '.join(classes)
 
   if attributes:
     attributes = f' {' '.join(f'{k}="{v}"' for k, v in attributes.items())}'

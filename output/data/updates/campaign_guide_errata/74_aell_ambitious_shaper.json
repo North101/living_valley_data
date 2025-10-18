@@ -1,7 +1,7 @@
 {
   "id": "updates/campaign_guide_errata/74_aell_ambitious_shaper",
   "title": "74. Aell, Ambitious Shaper",
-  "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><div class=\"highlight highlight_blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU ARE ON GRUESOME FEAST, GO TO 74.1</li><li><code>IF YOU ARE ON REMOVE THE RECLAIMERS, GO TO 1.19</code></li><li>OTHERWISE, GO TO 74.3</li></ul></div><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF YOU ARE ON WASHED AWAY, GO TO 74.4</li><li>OTHERWISE, GO TO 74.5</li></ul></div><div class=\"highlight highlight_blue\"><p>CLEAR <span><icon icon=\"harm\" class=\"text text_red\">&nbsp;</icon></span>:</p><ul><li>IF YOU ARE ON WASHED AWAY, GO TO 1.22</li><li>IF YOU ARE ON GRUESOME FEAST, GO TO 74.6</li><li>OTHERWISE, GO TO 74.7</li></ul></div>",
+  "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU ARE ON GRUESOME FEAST, GO TO 74.1</li><li><code>IF YOU ARE ON REMOVE THE RECLAIMERS, GO TO 1.19</code></li><li>OTHERWISE, GO TO 74.3</li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF YOU ARE ON WASHED AWAY, GO TO 74.4</li><li>OTHERWISE, GO TO 74.5</li></ul></highlight><highlight highlight=\"blue\"><p>CLEAR <span><icon color=\"red\" icon=\"harm\">&nbsp;</icon></span>:</p><ul><li>IF YOU ARE ON WASHED AWAY, GO TO 1.22</li><li>IF YOU ARE ON GRUESOME FEAST, GO TO 74.6</li><li>OTHERWISE, GO TO 74.7</li></ul></highlight>",
   "links": [],
   "lookup": null,
   "url": "/docs/updates/lure_of_the_valley_errata/74"

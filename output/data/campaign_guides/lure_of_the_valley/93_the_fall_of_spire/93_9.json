@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_9",
   "title": "93.9",
-  "content": "<blockquote><p>As you make the turn toward the exit, a wave of reclaimers breaks your line of sight to the group of villagers. You'll need to find them again if you hope to guide them to safety.</p></blockquote><p>Shuffle the villager who cleared from <span><icon icon=\"harm\" class=\"text text_red\">&nbsp;</icon></span> into the Spire deck.</p><p><b>Do not end the day.</b></p>",
+  "content": "<blockquote><p>As you make the turn toward the exit, a wave of reclaimers breaks your line of sight to the group of villagers. You'll need to find them again if you hope to guide them to safety.</p></blockquote><p>Shuffle the villager who cleared from <span><icon color=\"red\" icon=\"harm\">&nbsp;</icon></span> into the Spire deck.</p><p><b>Do not end the day.</b></p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/lure_of_the_valley/the_fall_of_spire/93_9"

@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_2",
   "title": "60.2",
-  "content": "<blockquote><p>Elder Orlin looks you up and down and snorts gruffly. \u201cIf you were a piece of wrought carbon, I think I\u2019d stick you back in my forge until you were properly tempered. But you are wearing a Ranger cloak, I suppose. What's your business around Spire?\u201d</p></blockquote><p><i><p class=\"text text_blue\">Clear Elder Orlin with <span><icon icon=\"progress\">&nbsp;</icon></span> to ask her if she needs help around Spire.</p></i></p>",
+  "content": "<blockquote><p>Elder Orlin looks you up and down and snorts gruffly. \u201cIf you were a piece of wrought carbon, I think I\u2019d stick you back in my forge until you were properly tempered. But you are wearing a Ranger cloak, I suppose. What's your business around Spire?\u201d</p></blockquote><p><i><p color=\"blue\">Clear Elder Orlin with <span><icon icon=\"progress\">&nbsp;</icon></span> to ask her if she needs help around Spire.</p></i></p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/lure_of_the_valley/elder_mora_orlin/60_2"

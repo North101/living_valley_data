@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/92_deeper_motives",
   "title": "92. Deeper Motives",
-  "content": "<p class=\"highlight highlight_blue\">ARRIVE: TUMBLEDOWN, GO TO <a href=\"campaign_guides/lure_of_the_valley/92_deeper_motives/92_1\">92.1</a></p><div class=\"highlight highlight_clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>SPIRIT SPEAKER NAL, GO TO <a href=\"campaign_guides/lure_of_the_valley/92_deeper_motives/92_2\">92.2</a></li><li>MYSTERIOUS VERDESSIAN, GO TO <a href=\"campaign_guides/lure_of_the_valley/92_deeper_motives/92_3\">92.3</a></li></ul></div><p class=\"highlight highlight_blue\">CLEAR <span><icon icon=\"harm\" class=\"text text_red\">&nbsp;</icon></span>: GO TO THE NORMAL JOURNAL ENTRY FOR THAT CHARACTER</p>",
+  "content": "<highlight highlight=\"blue\">ARRIVE: TUMBLEDOWN, GO TO <a href=\"campaign_guides/lure_of_the_valley/92_deeper_motives/92_1\">92.1</a></highlight><highlight highlight=\"clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>SPIRIT SPEAKER NAL, GO TO <a href=\"campaign_guides/lure_of_the_valley/92_deeper_motives/92_2\">92.2</a></li><li>MYSTERIOUS VERDESSIAN, GO TO <a href=\"campaign_guides/lure_of_the_valley/92_deeper_motives/92_3\">92.3</a></li></ul></highlight><highlight highlight=\"blue\">CLEAR <span><icon color=\"red\" icon=\"harm\">&nbsp;</icon></span>: GO TO THE NORMAL JOURNAL ENTRY FOR THAT CHARACTER</highlight>",
   "links": [
     {
       "id": "campaign_guides/lure_of_the_valley/92_deeper_motives/92_1",
