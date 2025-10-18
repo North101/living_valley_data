@@ -240,7 +240,10 @@ def get_lookup_group(resource_id: str):
   return None
 
 
-def content_to_html(resource_id: str, content: list[dict[str, Any]]):
+def content_to_html(resource_id: str, content: list[dict[str, Any]] | None):
+  if not content:
+    return ''
+
   return ''.join((
       content_item_to_html(resource_id, item)
       for item in content
@@ -300,10 +303,10 @@ def content_item_to_html(resource_id: str, content: dict[str, Any]):
   else:
     attributes = ''
 
-  if items:
-    return f'<{tag}{attributes}>{content_to_html(resource_id, items)}</{tag}>'
+  if tag in ('br', 'hr', 'img'):
+    return f'<{tag}{attributes}>'
 
-  return f'<{tag}{attributes} />'
+  return f'<{tag}{attributes}>{content_to_html(resource_id, items)}</{tag}>'
 
 
 def main(base_url: str, page_urls: list[str]):

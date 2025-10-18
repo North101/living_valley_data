@@ -1,7 +1,7 @@
 {
   "id": "rules_glossary/h/harm_threshold",
   "title": "Harm Threshold",
-  "content": "<img src=\"https://thelivingvalley.earthbornegames.com/assets/images/Card_Anatomies14-d00064913fc4fd9d9b84ef1a8c311059.png\" /><p><a href=\"rules_glossary/f/features\">Features</a> or <a href=\"rules_glossary/b/beings\">beings</a> can have harm thresholds. These are indicated by a value in a red box in the upper-right corner of the card's text box.</p><p>When a card has <a href=\"rules_glossary/h/harm\">harm</a> on it equal to or exceeding its harm threshold, the card <a href=\"rules_glossary/c/clear\">clears</a> .</p><ul><li>Some <a href=\"rules_glossary/p/path_cards\">path cards</a> don\u2019t have harm thresholds. These cards can still receive <a href=\"rules_glossary/h/harm\">harm</a>, but they will never clear because of them.</li></ul>",
+  "content": "<img src=\"https://thelivingvalley.earthbornegames.com/assets/images/Card_Anatomies14-d00064913fc4fd9d9b84ef1a8c311059.png\"><p><a href=\"rules_glossary/f/features\">Features</a> or <a href=\"rules_glossary/b/beings\">beings</a> can have harm thresholds. These are indicated by a value in a red box in the upper-right corner of the card's text box.</p><p>When a card has <a href=\"rules_glossary/h/harm\">harm</a> on it equal to or exceeding its harm threshold, the card <a href=\"rules_glossary/c/clear\">clears</a> .</p><ul><li>Some <a href=\"rules_glossary/p/path_cards\">path cards</a> don\u2019t have harm thresholds. These cards can still receive <a href=\"rules_glossary/h/harm\">harm</a>, but they will never clear because of them.</li></ul>",
   "links": [],
   "lookup": null,
   "url": "/docs/rules_glossary/H/harm_threshold"
