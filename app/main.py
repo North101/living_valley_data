@@ -130,6 +130,10 @@ def parse_element(base_url: str, e: Any, urls: dict[str, str], icon_color: str |
         highlight_color = child['items'][0].get('highlight', highlight_color)
         child['items'] = child['items'][0]['items']
 
+  if tag in ('branch', 'choice'):
+    if len(items) == 1 and items[0]['type'] == 'text':
+      items[0]['text'] = items[0]['text'].upper()
+
   TAG_ITEMS_TYPES.setdefault(tag, set()).update((
       item['type']
       for item in items
@@ -349,8 +353,8 @@ def main(base_url: str, page_urls: list[str]):
               'content': content,
               'links': [
                   {
-                    'id': '/'.join((resource_id, item_id)),
-                    'title': item_title,
+                      'id': '/'.join((resource_id, item_id)),
+                      'title': item_title,
                   }
                   for item_id, item_title, _ in items
               ],

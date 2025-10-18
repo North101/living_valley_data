@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_5",
   "title": "59.5",
-  "content": "<blockquote><p>\u201cIt is going so well!\u201d Dace exclaims. \u201cFlying is amazing; it\u2019s like I\u2019ve unlocked something inside of myself and now I\u2019m learning new tricks every day!\u201d</p><p>She looks over at you with a slightly guilty grin. \u201cIn fact, I don\u2019t suppose you would mind taking me back to the Plummet? I\u2019d like to try that jump again now that I know so much more!\u201d</p></blockquote><choice id=\"rangers-choose\">Rangers Choose</choice><p><span color=\"red\">A) Agree to help.</span> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span>, and attach the <b>HELPING HAND</b> mission to Dace.</p><p><span color=\"red\">B) Not today.</span> Discard Dace. Each Ranger soothes 2 fatigue.</p>",
+  "content": "<blockquote><p>\u201cIt is going so well!\u201d Dace exclaims. \u201cFlying is amazing; it\u2019s like I\u2019ve unlocked something inside of myself and now I\u2019m learning new tricks every day!\u201d</p><p>She looks over at you with a slightly guilty grin. \u201cIn fact, I don\u2019t suppose you would mind taking me back to the Plummet? I\u2019d like to try that jump again now that I know so much more!\u201d</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><span color=\"red\">A) Agree to help.</span> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span>, and attach the <b>HELPING HAND</b> mission to Dace.</p><p><span color=\"red\">B) Not today.</span> Discard Dace. Each Ranger soothes 2 fatigue.</p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/lure_of_the_valley/dace_ambitious_shaper/59_5"

@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/198_data_repository/198_02",
   "title": "198.02",
-  "content": "<blockquote><p>It looks like Archivist Ral was involved in a lot of different endeavors. You can read more about the excavation of the underground tunnels and the things that were found while creating the breadth of the arcology, or read about his involvement in the creation of the Cage in the lowest parts of the arcology. </p></blockquote><choice id=\"rangers-choose\">Rangers Choose:</choice><p><b><span color=\"red\">Read about the excavation:</span></b> go to <a href=\"campaign_guides/legacy_of_the_ancestors/198_data_repository/198_04\">198.04</a></p><p><b><span color=\"red\">Read about the Cage:</span></b> go to <a href=\"campaign_guides/legacy_of_the_ancestors/198_data_repository/198_01\">198.01</a></p>",
+  "content": "<blockquote><p>It looks like Archivist Ral was involved in a lot of different endeavors. You can read more about the excavation of the underground tunnels and the things that were found while creating the breadth of the arcology, or read about his involvement in the creation of the Cage in the lowest parts of the arcology. </p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE:</choice><p><b><span color=\"red\">Read about the excavation:</span></b> go to <a href=\"campaign_guides/legacy_of_the_ancestors/198_data_repository/198_04\">198.04</a></p><p><b><span color=\"red\">Read about the Cage:</span></b> go to <a href=\"campaign_guides/legacy_of_the_ancestors/198_data_repository/198_01\">198.01</a></p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/data_repository/198_02"

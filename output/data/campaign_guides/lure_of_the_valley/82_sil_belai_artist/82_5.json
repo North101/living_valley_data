@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_5",
   "title": "82.5",
-  "content": "<blockquote><p>\u201cAnother day, another masterpiece!\u201d Sil laughs and nibbles at the end of one of her brushes. \u201cI have to say, it was just so much fun painting you in the mountains. You aren\u2019t heading up one right now, are you? Would you mind if I tag along and paint you again?\u201d</p></blockquote><choice id=\"rangers-choose\">Rangers Choose</choice><p><span color=\"red\">A) Not at all!</span> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span>, and attach the <b>HELPING HAND</b>mission to Sil.</p><p><span color=\"red\">B) Maybe next time.</span> Discard Sil. Each Ranger soothes 2 fatigue.</p>",
+  "content": "<blockquote><p>\u201cAnother day, another masterpiece!\u201d Sil laughs and nibbles at the end of one of her brushes. \u201cI have to say, it was just so much fun painting you in the mountains. You aren\u2019t heading up one right now, are you? Would you mind if I tag along and paint you again?\u201d</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><span color=\"red\">A) Not at all!</span> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span>, and attach the <b>HELPING HAND</b>mission to Sil.</p><p><span color=\"red\">B) Maybe next time.</span> Discard Sil. Each Ranger soothes 2 fatigue.</p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/lure_of_the_valley/sil_belai_artist/82_5"
