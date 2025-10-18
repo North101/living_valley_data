@@ -119,10 +119,16 @@ def parse_element(base_url: str, e: Any, urls: dict[str, str], icon_color: str |
           CSS_ICON_COLORS,
       ) or icon_color,
   ))
-  if tag in ('b', 'em'):
-    for item in items:
-      if item['type'] == 'p':
-        item['type'] = 'span'
+  # Change <p><i><p ...> to <p ...><i>
+  if tag == 'p' and len(items) == 1:
+    child: dict[str, Any] = items[0]
+    if child['type'] in ('b', 'i', 'span'):
+      if child['items'][-1] == {'type': 'text', 'text': ' '}:
+        child['items'].pop()
+      if len(child['items']) == 1 and child['items'][0]['type'] == 'p':
+        color = child['items'][0].get('color', color)
+        highlight_color = child['items'][0].get('highlight', highlight_color)
+        child['items'] = child['items'][0]['items']
 
   TAG_ITEMS_TYPES.setdefault(tag, set()).update((
       item['type']

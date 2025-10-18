@@ -46,19 +46,19 @@ Page content. This is represented as html along with some custom tags
 ### Content Tags
 | Tag            | Description     | Attributes                                                                    |
 | -------------- | --------------- | ----------------------------------------------------------------------------- |
-| `<h1>`         | Big Header      | —                                                                             |
-| `<h2>`         | Small Header    | —                                                                             |
+| `<h1>`         | Header 1        | —                                                                             |
+| `<h2>`         | Header 2        | —                                                                             |
 | `<choice>`     | Choice Header   | —                                                                             |
 | `<branch>`     | Branch Header   | —                                                                             |
-| `<highligh>`   | Highlight block | `highlight="blue"`<br>`highlight="clear"`                                     |
+| `<highlight>`  | Highlight block | `highlight="blue"`<br>`highlight="clear"`                                     |
 | `<blockquote>` | Story Text      | —                                                                             |
 | `<code>`       | Errata          | —                                                                             |
 | `<ol>`         | Ordered List    | —                                                                             |
 | `<ul>`         | Unordered List  | —                                                                             |
 | `<li>`         | List Item       | —                                                                             |
 | `<a>`          | Link            | `href`                                                                        |
-| `<p>`          | Paragraph       | `color="red"`<br>`color="blue"`<br>`color="gold"`<br>`color="green"`              |
-| `<span>`       | Text            | `color="red"`<br>`color="blue"`<br>`color="gold"`<br>`color="green"`              |
+| `<p>`          | Paragraph       | `color="red"`<br>`color="blue"`<br>`color="gold"`<br>`color="green"`          |
+| `<span>`       | Text            | `color="red"`<br>`color="blue"`<br>`color="gold"`<br>`color="green"`          |
 | `<b>`          | Bold            | —                                                                             |
 | `<i>`          | Italics         | —                                                                             |
 | `<icon>`       | Icon            | `icon="<icon>"`<br>`color="red"`<br>`color="blue"`<br>`color="gold"`<br>`color="green"` |

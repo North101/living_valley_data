@@ -9,6 +9,7 @@ body[data-theme='light'] {
 }
 
 highlight {
+  display: block;
   padding: 8;
   font-weight: 700;
 }
@@ -29,6 +30,7 @@ highlight p, highlight ul {
 }
 
 choice, branch {
+  display: block;
   padding: 8;
   text-align: center;
   font-weight: 700;
@@ -64,16 +66,14 @@ code {
 blockquote {
   padding: 8;
   margin-bottom: 8;
+  background-color: rgba(250, 250, 226, 0.15);
+  border-color: rgb(255, 189, 100);
 }
 
 blockquote[data-theme='dark'] {
-  background-color: rgba(250, 250, 226, 0.15);
-  border-color: rgb(255, 189, 100);
   color: rgb(235, 237, 240);
 }
 blockquote[data-theme='light'] {
-  background-color: rgba(250, 250, 226, 0.15);
-  border-color: rgb(255, 189, 100);
   color: rgb(68, 73, 80);
 }
 
@@ -103,16 +103,16 @@ ul, ol {
   color: rgb(98, 130, 193);
 }
 
-*[color="green"][data-theme='dark'] {
+*[color="green"] {
   color: rgb(3, 155, 40);
 }
-*[color="green"][data-theme='light'] {
+*[color="green"] {
   color: rgb(3, 155, 40);
 }
 
-*[color="gold"][data-theme='dark'] {
+*[color="gold"] {
   color: rgb(181, 158, 0);
 }
-*[color="gold"][data-theme='light'] {
+*[color="gold"] {
   color: rgb(181, 158, 0);
 }
