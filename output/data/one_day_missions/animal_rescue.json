@@ -20,26 +20,23 @@
       "title": "End of the Day"
     }
   ],
-  "lookup": {
-    "title": "Animal Rescue",
-    "links": [
-      {
-        "id": "one_day_missions/animal_rescue/ar1",
-        "title": "AR1"
-      },
-      {
-        "id": "one_day_missions/animal_rescue/ar2",
-        "title": "AR2"
-      },
-      {
-        "id": "one_day_missions/animal_rescue/ar3",
-        "title": "AR3"
-      },
-      {
-        "id": "one_day_missions/animal_rescue/end_of_the_day",
-        "title": "End of the Day"
-      }
-    ]
-  },
+  "lookup": [
+    {
+      "id": "one_day_missions/animal_rescue/ar1",
+      "title": "AR1"
+    },
+    {
+      "id": "one_day_missions/animal_rescue/ar2",
+      "title": "AR2"
+    },
+    {
+      "id": "one_day_missions/animal_rescue/ar3",
+      "title": "AR3"
+    },
+    {
+      "id": "one_day_missions/animal_rescue/end_of_the_day",
+      "title": "End of the Day"
+    }
+  ],
   "url": "/docs/one_day_missions/animal_rescue"
 }

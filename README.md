@@ -17,13 +17,10 @@ Afterwards it'll be almost instant as it'll read the files from `./cache/` inste
     "id": string,
     "title": string
   }],
-  "lookup": {
-    "title": string,
-    "links": [{
-      "id": string,
-      "title": string
-    }]
-  },
+  "lookup":  [{
+    "id": string,
+    "title": string
+  }],
   "url": string
 }
 ```

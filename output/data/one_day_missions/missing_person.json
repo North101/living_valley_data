@@ -20,26 +20,23 @@
       "title": "End of the Day"
     }
   ],
-  "lookup": {
-    "title": "Missing Person",
-    "links": [
-      {
-        "id": "one_day_missions/missing_person/1_45_search",
-        "title": "1.45 SEARCH"
-      },
-      {
-        "id": "one_day_missions/missing_person/1_46_rescue",
-        "title": "1.46 RESCUE"
-      },
-      {
-        "id": "one_day_missions/missing_person/1_48_rescue_",
-        "title": "1.48 RESCUE "
-      },
-      {
-        "id": "one_day_missions/missing_person/end_of_the_day",
-        "title": "End of the Day"
-      }
-    ]
-  },
+  "lookup": [
+    {
+      "id": "one_day_missions/missing_person/1_45_search",
+      "title": "1.45 SEARCH"
+    },
+    {
+      "id": "one_day_missions/missing_person/1_46_rescue",
+      "title": "1.46 RESCUE"
+    },
+    {
+      "id": "one_day_missions/missing_person/1_48_rescue_",
+      "title": "1.48 RESCUE "
+    },
+    {
+      "id": "one_day_missions/missing_person/end_of_the_day",
+      "title": "End of the Day"
+    }
+  ],
   "url": "/docs/one_day_missions/missing_person"
 }

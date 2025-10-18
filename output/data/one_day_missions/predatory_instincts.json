@@ -20,26 +20,23 @@
       "title": "End of the Day"
     }
   ],
-  "lookup": {
-    "title": "Predatory Instincts",
-    "links": [
-      {
-        "id": "one_day_missions/predatory_instincts/1_42",
-        "title": "1.42"
-      },
-      {
-        "id": "one_day_missions/predatory_instincts/1_43_confront_",
-        "title": "1.43 CONFRONT "
-      },
-      {
-        "id": "one_day_missions/predatory_instincts/1_44_confront_",
-        "title": "1.44 CONFRONT "
-      },
-      {
-        "id": "one_day_missions/predatory_instincts/end_of_the_day",
-        "title": "End of the Day"
-      }
-    ]
-  },
+  "lookup": [
+    {
+      "id": "one_day_missions/predatory_instincts/1_42",
+      "title": "1.42"
+    },
+    {
+      "id": "one_day_missions/predatory_instincts/1_43_confront_",
+      "title": "1.43 CONFRONT "
+    },
+    {
+      "id": "one_day_missions/predatory_instincts/1_44_confront_",
+      "title": "1.44 CONFRONT "
+    },
+    {
+      "id": "one_day_missions/predatory_instincts/end_of_the_day",
+      "title": "End of the Day"
+    }
+  ],
   "url": "/docs/one_day_missions/predatory_instincts"
 }

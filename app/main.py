@@ -362,10 +362,7 @@ def main(base_url: str, page_urls: list[str]):
                   for item_id, item_title, _ in items
               ],
               'lookup': (
-                  {
-                      'title': title,
-                      'links': lookup[lookup_group],
-                  }
+                   lookup[lookup_group]
                   if lookup_group and lookup_group == resource_id else
                   None
               ),

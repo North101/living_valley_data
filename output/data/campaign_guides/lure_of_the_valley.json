@@ -388,1550 +388,1547 @@
       "title": "95. Flood Damage"
     }
   ],
-  "lookup": {
-    "title": "Lure of the Valley",
-    "links": [
-      {
-        "id": "campaign_guides/lure_of_the_valley/prologue",
-        "title": "Prologue"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions",
-        "title": "1. Missions"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_01",
-        "title": "1.01"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_02",
-        "title": "1.02"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_03",
-        "title": "1.03"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_04",
-        "title": "1.04"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_05",
-        "title": "1.05"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_06",
-        "title": "1.06"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_07",
-        "title": "1.07"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_08",
-        "title": "1.08"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_09",
-        "title": "1.09"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_10",
-        "title": "1.10"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_11",
-        "title": "1.11"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_12",
-        "title": "1.12"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_13",
-        "title": "1.13"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_14",
-        "title": "1.14"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_15",
-        "title": "1.15"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_16",
-        "title": "1.16"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_17",
-        "title": "1.17"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_18",
-        "title": "1.18"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_19",
-        "title": "1.19"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_20",
-        "title": "1.20"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_21",
-        "title": "1.21"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_22",
-        "title": "1.22"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_23",
-        "title": "1.23"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_24",
-        "title": "1.24"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_25",
-        "title": "1.25"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_26",
-        "title": "1.26"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_27",
-        "title": "1.27"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_28",
-        "title": "1.28"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_29",
-        "title": "1.29"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_30",
-        "title": "1.30"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_31",
-        "title": "1.31"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_32",
-        "title": "1.32"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_33",
-        "title": "1.33"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_40",
-        "title": "1.40"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_41",
-        "title": "1.41"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_42_lure",
-        "title": "1.42 LURE"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_43_confront_",
-        "title": "1.43 CONFRONT "
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_44_confront_",
-        "title": "1.44 CONFRONT "
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_45_search",
-        "title": "1.45 SEARCH"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_46_rescue",
-        "title": "1.46 RESCUE"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_47",
-        "title": "1.47"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_48_rescue_",
-        "title": "1.48 RESCUE "
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_49",
-        "title": "1.49"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/1_missions/1_50_journey",
-        "title": "1.50 JOURNEY"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/2_lone_tree_station",
-        "title": "2. Lone Tree Station"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/3_white_sky",
-        "title": "3. White Sky"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/3_white_sky/3_1",
-        "title": "3.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/3_white_sky/3_2",
-        "title": "3.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/4_northern_outpost",
-        "title": "4. Northern Outpost"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/4_northern_outpost/4_1",
-        "title": "4.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/5_spire",
-        "title": "5. Spire"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/6_branch",
-        "title": "6. Branch"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/7_the_fractured_wall",
-        "title": "7. The Fractured Wall"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/8_meadow",
-        "title": "8. Meadow"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/8_meadow/8_1",
-        "title": "8.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/8_meadow/8_2",
-        "title": "8.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/9_marsh_of_rebirth",
-        "title": "9. Marsh of Rebirth"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/9_marsh_of_rebirth/9_1",
-        "title": "9.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/9_marsh_of_rebirth/9_2",
-        "title": "9.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/9_marsh_of_rebirth/9_3",
-        "title": "9.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/10_tumbledown",
-        "title": "10. Tumbledown"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/11_atrox_mountain",
-        "title": "11. Atrox Mountain"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/12_golden_shore",
-        "title": "12. Golden Shore"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/12_golden_shore/12_1",
-        "title": "12.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/12_golden_shore/12_2",
-        "title": "12.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/13_mount_nim",
-        "title": "13. Mount Nim"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/14_boulder_field",
-        "title": "14. Boulder Field"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/15_ancestors_grove",
-        "title": "15. Ancestor's Grove"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/16_kobos_market",
-        "title": "16. Kobo's Market"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/16_kobos_market/16_1",
-        "title": "16.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/16_kobos_market/16_2",
-        "title": "16.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/17_the_philosophers_garden",
-        "title": "17. The Philosopher's Garden"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/17_the_philosophers_garden/17_1",
-        "title": "17.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/18_the_high_basin",
-        "title": "18. The High Basin"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/18_the_high_basin/18_1",
-        "title": "18.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/19_the_plummet",
-        "title": "19. The Plummet"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/19_the_plummet/19_1",
-        "title": "19.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/20_crossroads_station",
-        "title": "20. Crossroads Station"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/21_the_furrow",
-        "title": "21. The Furrow"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/22_biological_outpost",
-        "title": "22. Biological Outpost"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/23_headwaters_station",
-        "title": "23. Headwaters Station"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/23_headwaters_station/23_1",
-        "title": "23.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/24_greenbriar_knoll",
-        "title": "24. Greenbriar Knoll"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/24_greenbriar_knoll/24_1",
-        "title": "24.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/25_the_concordant_ziggurats",
-        "title": "25. The Concordant Ziggurats"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/26_stoneweaver_bridge",
-        "title": "26. Stoneweaver Bridge"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/27_mound_of_the_navigator",
-        "title": "27. Mound of the Navigator"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/28_terravore",
-        "title": "28. Terravore"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/28_terravore/28_1",
-        "title": "28.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/29_the_greenbridge",
-        "title": "29. The Greenbridge"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/30_michaels_bog",
-        "title": "30. Michael's Bog"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/30_michaels_bog/30_1",
-        "title": "30.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/31_the_cypress_citadel",
-        "title": "31. The Cypress Citadel"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/32_the_frowning_gate",
-        "title": "32. The Frowning Gate"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/33_sunken_outpost",
-        "title": "33. Sunken Outpost"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/34_archaeological_outpost",
-        "title": "34. Archaeological Outpost"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/34_archaeological_outpost/34_1",
-        "title": "34.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/35_rings_of_the_moon",
-        "title": "35. Rings of the Moon"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/36_the_alluvial_ruins",
-        "title": "36. The Alluvial Ruins"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/37_bowl_of_the_sun",
-        "title": "37. Bowl of the Sun"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/38_watchers_rock",
-        "title": "38. Watcher's Rock"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light",
-        "title": "39. A Trick of the Light"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_1",
-        "title": "39.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_2",
-        "title": "39.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_3",
-        "title": "39.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_4",
-        "title": "39.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_5",
-        "title": "39.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_6",
-        "title": "39.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/40_the_deep_woods",
-        "title": "40. The Deep Woods"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender",
-        "title": "41. Lunn, Outpost Tender"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_1",
-        "title": "41.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_2",
-        "title": "41.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_3",
-        "title": "41.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_4",
-        "title": "41.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_5",
-        "title": "41.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/42_topside_mast",
-        "title": "42. Topside Mast"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/42_topside_mast/42_1",
-        "title": "42.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/42_topside_mast/42_2",
-        "title": "42.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/43_hanging_gardens",
-        "title": "43. Hanging Gardens"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran",
-        "title": "44. Kordo, Ranger Veteran"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_1",
-        "title": "44.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_2",
-        "title": "44.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_3",
-        "title": "44.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_4",
-        "title": "44.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_5",
-        "title": "44.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_6",
-        "title": "44.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_7",
-        "title": "44.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal",
-        "title": "45. Spirit Speaker Nal"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_1",
-        "title": "45.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_2",
-        "title": "45.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_3",
-        "title": "45.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_4",
-        "title": "45.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_5",
-        "title": "45.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_6",
-        "title": "45.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_7",
-        "title": "45.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_8",
-        "title": "45.8"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/46_the_growers_assemblage",
-        "title": "46. The Growers' Assemblage"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef",
-        "title": "47. Hy Pimpot, Chef"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_1",
-        "title": "47.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_2",
-        "title": "47.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_3",
-        "title": "47.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_4",
-        "title": "47.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_5",
-        "title": "47.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_6",
-        "title": "47.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler",
-        "title": "48. Ar Tel, Angler"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_1",
-        "title": "48.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_2",
-        "title": "48.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_3",
-        "title": "48.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_4",
-        "title": "48.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_5",
-        "title": "48.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_6",
-        "title": "48.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_7",
-        "title": "48.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide",
-        "title": "49. Vira, Lake Guide"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_1",
-        "title": "49.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_2",
-        "title": "49.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_3",
-        "title": "49.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_4",
-        "title": "49.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_5",
-        "title": "49.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_6",
-        "title": "49.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/50_the_bubble",
-        "title": "50. The Bubble"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_1",
-        "title": "50.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_2",
-        "title": "50.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_3",
-        "title": "50.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_4",
-        "title": "50.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral",
-        "title": "51. Elder Murtok Gral"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_1",
-        "title": "51.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_2",
-        "title": "51.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_3",
-        "title": "51.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_4",
-        "title": "51.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_5",
-        "title": "51.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_6",
-        "title": "51.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/52_quiet",
-        "title": "52. Quiet"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist",
-        "title": "53. Silaro Mako, Archaeologist"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_1",
-        "title": "53.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_2",
-        "title": "53.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_3",
-        "title": "53.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_4",
-        "title": "53.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_5",
-        "title": "53.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_6",
-        "title": "53.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_7",
-        "title": "53.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/54_the_green_guardian",
-        "title": "54. The Green Guardian"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/55_megadam_ruins",
-        "title": "55. Megadam Ruins"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/56_the_carbon_forge",
-        "title": "56. The Carbon Forge"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/57_a_hearty_brew",
-        "title": "57. A Hearty Brew"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/58_arcology_threshold",
-        "title": "58. Arcology Threshold"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/58_arcology_threshold/58_1",
-        "title": "58.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/58_arcology_threshold/58_2",
-        "title": "58.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/58_arcology_threshold/58_3",
-        "title": "58.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper",
-        "title": "59. Dace, Ambitious Shaper"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_1",
-        "title": "59.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_2",
-        "title": "59.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_3",
-        "title": "59.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_4",
-        "title": "59.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_5",
-        "title": "59.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_6",
-        "title": "59.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_7",
-        "title": "59.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin",
-        "title": "60. Elder Mora Orlin"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_1",
-        "title": "60.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_2",
-        "title": "60.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_3",
-        "title": "60.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_4",
-        "title": "60.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_5",
-        "title": "60.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor",
-        "title": "61. Tollin Lang, Sculptor"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_1",
-        "title": "61.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_2",
-        "title": "61.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_3",
-        "title": "61.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_4",
-        "title": "61.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_5",
-        "title": "61.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_6",
-        "title": "61.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_7",
-        "title": "61.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/62_the_hornbranch",
-        "title": "62. The Hornbranch"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/63_evergreen_hall",
-        "title": "63. Evergreen Hall"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist",
-        "title": "64. Seilo Griss, Apiarist"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_1",
-        "title": "64.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_2",
-        "title": "64.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_3",
-        "title": "64.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_4",
-        "title": "64.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_5",
-        "title": "64.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_6",
-        "title": "64.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_7",
-        "title": "64.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker",
-        "title": "65. Lyn Mira, Woodworker"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_1",
-        "title": "65.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_2",
-        "title": "65.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_3",
-        "title": "65.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_4",
-        "title": "65.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_5",
-        "title": "65.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_6",
-        "title": "65.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_7",
-        "title": "65.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale",
-        "title": "66. Elder Tesoral Hale"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_1",
-        "title": "66.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_2",
-        "title": "66.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_3",
-        "title": "66.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_4",
-        "title": "66.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_5",
-        "title": "66.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/67_dancers_round",
-        "title": "67. Dancer's Round"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/67_dancers_round/67_1",
-        "title": "67.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/68_trained_stilt_horse",
-        "title": "68. Trained Stilt-Horse"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_1",
-        "title": "68.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_2",
-        "title": "68.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_3",
-        "title": "68.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/69_elder_jular_abel",
-        "title": "69. Elder Jular Abel"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/69_elder_jular_abel/69_1",
-        "title": "69.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/69_elder_jular_abel/69_2",
-        "title": "69.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/69_elder_jular_abel/69_3",
-        "title": "69.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/69_elder_jular_abel/69_4",
-        "title": "69.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/69_elder_jular_abel/69_5",
-        "title": "69.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth",
-        "title": "70. Jaris, Willful Youth"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_1",
-        "title": "70.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_2",
-        "title": "70.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_3",
-        "title": "70.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_4",
-        "title": "70.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_5",
-        "title": "70.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_6",
-        "title": "70.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker",
-        "title": "71. Ol' Bloody Clicker"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_1",
-        "title": "71.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_2",
-        "title": "71.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/72_the_roiling",
-        "title": "72. The Roiling"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/72_the_roiling/72_1",
-        "title": "72.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/72_the_roiling/72_2",
-        "title": "72.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/73_the_wandering_eye",
-        "title": "73. The Wandering Eye"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper",
-        "title": "74. Aell, Ambitious Shaper"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_1",
-        "title": "74.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_3",
-        "title": "74.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_4",
-        "title": "74.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_5",
-        "title": "74.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_6",
-        "title": "74.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_7",
-        "title": "74.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/75_the_waterspinner",
-        "title": "75. The Waterspinner"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter",
-        "title": "76. Kasende, Expert Hunter"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_1",
-        "title": "76.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_2",
-        "title": "76.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_3",
-        "title": "76.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_4",
-        "title": "76.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_5",
-        "title": "76.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_6",
-        "title": "76.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_7",
-        "title": "76.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_8",
-        "title": "76.8"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_9",
-        "title": "76.9"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers",
-        "title": "77. Elder Cormak Wellers"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_1",
-        "title": "77.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_2",
-        "title": "77.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_3",
-        "title": "77.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_4",
-        "title": "77.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_5",
-        "title": "77.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/78_arcology_sinkhole",
-        "title": "78. Arcology Sinkhole"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/78_arcology_sinkhole/78_1",
-        "title": "78.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/78_arcology_sinkhole/78_2",
-        "title": "78.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/78_arcology_sinkhole/78_3",
-        "title": "78.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/79_ranger_cache",
-        "title": "79. Ranger Cache"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal",
-        "title": "80. Quisi Vos, Rascal"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_1",
-        "title": "80.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_2",
-        "title": "80.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_3",
-        "title": "80.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_4",
-        "title": "80.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_5",
-        "title": "80.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_6",
-        "title": "80.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler",
-        "title": "81. Oura Vos, Traveler"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_1",
-        "title": "81.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_2",
-        "title": "81.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_3",
-        "title": "81.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_4",
-        "title": "81.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_5",
-        "title": "81.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_6",
-        "title": "81.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist",
-        "title": "82. Sil Belai, Artist"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_1",
-        "title": "82.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_2",
-        "title": "82.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_3",
-        "title": "82.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_4",
-        "title": "82.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_5",
-        "title": "82.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_6",
-        "title": "82.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_7",
-        "title": "82.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/83_ren_kobo_merchant",
-        "title": "83. Ren Kobo, Merchant"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/83_ren_kobo_merchant/83_1",
-        "title": "83.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/83_ren_kobo_merchant/83_2",
-        "title": "83.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/83_ren_kobo_merchant/83_3",
-        "title": "83.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile",
-        "title": "84. Tala the Red, Exile"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_1",
-        "title": "84.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_2",
-        "title": "84.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_3",
-        "title": "84.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_4",
-        "title": "84.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_5",
-        "title": "84.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_6",
-        "title": "84.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_7",
-        "title": "84.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_8",
-        "title": "84.8"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_9",
-        "title": "84.9"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_10",
-        "title": "84.10"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_11",
-        "title": "84.11"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor",
-        "title": "85. Calypsa, Ranger Mentor"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_1",
-        "title": "85.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_2",
-        "title": "85.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_3",
-        "title": "85.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_4",
-        "title": "85.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist",
-        "title": "86. The Fundamentalist"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_1",
-        "title": "86.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_2",
-        "title": "86.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_3",
-        "title": "86.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_4",
-        "title": "86.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_5",
-        "title": "86.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/87_ben_amon_swift_pilot",
-        "title": "87. Ben Amon, Swift Pilot"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/87_ben_amon_swift_pilot/87_1",
-        "title": "87.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/87_ben_amon_swift_pilot/87_2",
-        "title": "87.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/87_ben_amon_swift_pilot/87_3",
-        "title": "87.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/88_the_tenebrae",
-        "title": "88. The Tenebrae"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/89_umbra",
-        "title": "89. Umbra"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian",
-        "title": "90. Mysterious Verdessian"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian/90_1",
-        "title": "90.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian/90_2",
-        "title": "90.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian/90_3",
-        "title": "90.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery",
-        "title": "91. Biscuit Delivery"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_1",
-        "title": "91.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_2",
-        "title": "91.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_3",
-        "title": "91.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_4",
-        "title": "91.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_5",
-        "title": "91.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_6",
-        "title": "91.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_7",
-        "title": "91.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_8",
-        "title": "91.8"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/92_deeper_motives",
-        "title": "92. Deeper Motives"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/92_deeper_motives/92_1",
-        "title": "92.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/92_deeper_motives/92_2",
-        "title": "92.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/92_deeper_motives/92_3",
-        "title": "92.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire",
-        "title": "93. The Fall of Spire"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_1",
-        "title": "93.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_2",
-        "title": "93.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_3",
-        "title": "93.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_4",
-        "title": "93.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_5",
-        "title": "93.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_6",
-        "title": "93.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_7",
-        "title": "93.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_8",
-        "title": "93.8"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_9",
-        "title": "93.9"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/94_world_events",
-        "title": "94. World Events"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/94_world_events/94_1",
-        "title": "94.1"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/94_world_events/94_2",
-        "title": "94.2"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/94_world_events/94_3",
-        "title": "94.3"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/94_world_events/94_4",
-        "title": "94.4"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/94_world_events/94_5",
-        "title": "94.5"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/94_world_events/94_6",
-        "title": "94.6"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/94_world_events/94_7",
-        "title": "94.7"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/94_world_events/94_8",
-        "title": "94.8"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/94_world_events/94_9",
-        "title": "94.9"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/94_world_events/94_10",
-        "title": "94.10"
-      },
-      {
-        "id": "campaign_guides/lure_of_the_valley/95_flood_damage",
-        "title": "95. Flood Damage"
-      }
-    ]
-  },
+  "lookup": [
+    {
+      "id": "campaign_guides/lure_of_the_valley/prologue",
+      "title": "Prologue"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions",
+      "title": "1. Missions"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_01",
+      "title": "1.01"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_02",
+      "title": "1.02"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_03",
+      "title": "1.03"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_04",
+      "title": "1.04"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_05",
+      "title": "1.05"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_06",
+      "title": "1.06"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_07",
+      "title": "1.07"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_08",
+      "title": "1.08"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_09",
+      "title": "1.09"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_10",
+      "title": "1.10"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_11",
+      "title": "1.11"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_12",
+      "title": "1.12"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_13",
+      "title": "1.13"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_14",
+      "title": "1.14"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_15",
+      "title": "1.15"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_16",
+      "title": "1.16"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_17",
+      "title": "1.17"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_18",
+      "title": "1.18"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_19",
+      "title": "1.19"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_20",
+      "title": "1.20"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_21",
+      "title": "1.21"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_22",
+      "title": "1.22"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_23",
+      "title": "1.23"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_24",
+      "title": "1.24"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_25",
+      "title": "1.25"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_26",
+      "title": "1.26"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_27",
+      "title": "1.27"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_28",
+      "title": "1.28"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_29",
+      "title": "1.29"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_30",
+      "title": "1.30"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_31",
+      "title": "1.31"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_32",
+      "title": "1.32"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_33",
+      "title": "1.33"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_40",
+      "title": "1.40"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_41",
+      "title": "1.41"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_42_lure",
+      "title": "1.42 LURE"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_43_confront_",
+      "title": "1.43 CONFRONT "
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_44_confront_",
+      "title": "1.44 CONFRONT "
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_45_search",
+      "title": "1.45 SEARCH"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_46_rescue",
+      "title": "1.46 RESCUE"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_47",
+      "title": "1.47"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_48_rescue_",
+      "title": "1.48 RESCUE "
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_49",
+      "title": "1.49"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/1_missions/1_50_journey",
+      "title": "1.50 JOURNEY"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/2_lone_tree_station",
+      "title": "2. Lone Tree Station"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/3_white_sky",
+      "title": "3. White Sky"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/3_white_sky/3_1",
+      "title": "3.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/3_white_sky/3_2",
+      "title": "3.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/4_northern_outpost",
+      "title": "4. Northern Outpost"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/4_northern_outpost/4_1",
+      "title": "4.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/5_spire",
+      "title": "5. Spire"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/6_branch",
+      "title": "6. Branch"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/7_the_fractured_wall",
+      "title": "7. The Fractured Wall"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/8_meadow",
+      "title": "8. Meadow"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/8_meadow/8_1",
+      "title": "8.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/8_meadow/8_2",
+      "title": "8.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/9_marsh_of_rebirth",
+      "title": "9. Marsh of Rebirth"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/9_marsh_of_rebirth/9_1",
+      "title": "9.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/9_marsh_of_rebirth/9_2",
+      "title": "9.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/9_marsh_of_rebirth/9_3",
+      "title": "9.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/10_tumbledown",
+      "title": "10. Tumbledown"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/11_atrox_mountain",
+      "title": "11. Atrox Mountain"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/12_golden_shore",
+      "title": "12. Golden Shore"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/12_golden_shore/12_1",
+      "title": "12.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/12_golden_shore/12_2",
+      "title": "12.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/13_mount_nim",
+      "title": "13. Mount Nim"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/14_boulder_field",
+      "title": "14. Boulder Field"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/15_ancestors_grove",
+      "title": "15. Ancestor's Grove"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/16_kobos_market",
+      "title": "16. Kobo's Market"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/16_kobos_market/16_1",
+      "title": "16.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/16_kobos_market/16_2",
+      "title": "16.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/17_the_philosophers_garden",
+      "title": "17. The Philosopher's Garden"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/17_the_philosophers_garden/17_1",
+      "title": "17.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/18_the_high_basin",
+      "title": "18. The High Basin"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/18_the_high_basin/18_1",
+      "title": "18.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/19_the_plummet",
+      "title": "19. The Plummet"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/19_the_plummet/19_1",
+      "title": "19.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/20_crossroads_station",
+      "title": "20. Crossroads Station"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/21_the_furrow",
+      "title": "21. The Furrow"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/22_biological_outpost",
+      "title": "22. Biological Outpost"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/23_headwaters_station",
+      "title": "23. Headwaters Station"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/23_headwaters_station/23_1",
+      "title": "23.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/24_greenbriar_knoll",
+      "title": "24. Greenbriar Knoll"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/24_greenbriar_knoll/24_1",
+      "title": "24.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/25_the_concordant_ziggurats",
+      "title": "25. The Concordant Ziggurats"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/26_stoneweaver_bridge",
+      "title": "26. Stoneweaver Bridge"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/27_mound_of_the_navigator",
+      "title": "27. Mound of the Navigator"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/28_terravore",
+      "title": "28. Terravore"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/28_terravore/28_1",
+      "title": "28.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/29_the_greenbridge",
+      "title": "29. The Greenbridge"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/30_michaels_bog",
+      "title": "30. Michael's Bog"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/30_michaels_bog/30_1",
+      "title": "30.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/31_the_cypress_citadel",
+      "title": "31. The Cypress Citadel"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/32_the_frowning_gate",
+      "title": "32. The Frowning Gate"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/33_sunken_outpost",
+      "title": "33. Sunken Outpost"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/34_archaeological_outpost",
+      "title": "34. Archaeological Outpost"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/34_archaeological_outpost/34_1",
+      "title": "34.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/35_rings_of_the_moon",
+      "title": "35. Rings of the Moon"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/36_the_alluvial_ruins",
+      "title": "36. The Alluvial Ruins"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/37_bowl_of_the_sun",
+      "title": "37. Bowl of the Sun"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/38_watchers_rock",
+      "title": "38. Watcher's Rock"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light",
+      "title": "39. A Trick of the Light"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_1",
+      "title": "39.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_2",
+      "title": "39.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_3",
+      "title": "39.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_4",
+      "title": "39.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_5",
+      "title": "39.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_6",
+      "title": "39.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/40_the_deep_woods",
+      "title": "40. The Deep Woods"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender",
+      "title": "41. Lunn, Outpost Tender"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_1",
+      "title": "41.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_2",
+      "title": "41.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_3",
+      "title": "41.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_4",
+      "title": "41.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/41_lunn_outpost_tender/41_5",
+      "title": "41.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/42_topside_mast",
+      "title": "42. Topside Mast"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/42_topside_mast/42_1",
+      "title": "42.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/42_topside_mast/42_2",
+      "title": "42.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/43_hanging_gardens",
+      "title": "43. Hanging Gardens"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran",
+      "title": "44. Kordo, Ranger Veteran"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_1",
+      "title": "44.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_2",
+      "title": "44.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_3",
+      "title": "44.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_4",
+      "title": "44.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_5",
+      "title": "44.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_6",
+      "title": "44.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_7",
+      "title": "44.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal",
+      "title": "45. Spirit Speaker Nal"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_1",
+      "title": "45.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_2",
+      "title": "45.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_3",
+      "title": "45.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_4",
+      "title": "45.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_5",
+      "title": "45.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_6",
+      "title": "45.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_7",
+      "title": "45.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_8",
+      "title": "45.8"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/46_the_growers_assemblage",
+      "title": "46. The Growers' Assemblage"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef",
+      "title": "47. Hy Pimpot, Chef"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_1",
+      "title": "47.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_2",
+      "title": "47.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_3",
+      "title": "47.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_4",
+      "title": "47.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_5",
+      "title": "47.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_6",
+      "title": "47.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler",
+      "title": "48. Ar Tel, Angler"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_1",
+      "title": "48.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_2",
+      "title": "48.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_3",
+      "title": "48.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_4",
+      "title": "48.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_5",
+      "title": "48.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_6",
+      "title": "48.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/48_ar_tel_angler/48_7",
+      "title": "48.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide",
+      "title": "49. Vira, Lake Guide"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_1",
+      "title": "49.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_2",
+      "title": "49.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_3",
+      "title": "49.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_4",
+      "title": "49.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_5",
+      "title": "49.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/49_vira_lake_guide/49_6",
+      "title": "49.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/50_the_bubble",
+      "title": "50. The Bubble"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_1",
+      "title": "50.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_2",
+      "title": "50.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_3",
+      "title": "50.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/50_the_bubble/50_4",
+      "title": "50.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral",
+      "title": "51. Elder Murtok Gral"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_1",
+      "title": "51.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_2",
+      "title": "51.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_3",
+      "title": "51.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_4",
+      "title": "51.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_5",
+      "title": "51.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_6",
+      "title": "51.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/52_quiet",
+      "title": "52. Quiet"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist",
+      "title": "53. Silaro Mako, Archaeologist"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_1",
+      "title": "53.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_2",
+      "title": "53.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_3",
+      "title": "53.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_4",
+      "title": "53.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_5",
+      "title": "53.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_6",
+      "title": "53.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/53_silaro_mako_archaeologist/53_7",
+      "title": "53.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/54_the_green_guardian",
+      "title": "54. The Green Guardian"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/55_megadam_ruins",
+      "title": "55. Megadam Ruins"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/56_the_carbon_forge",
+      "title": "56. The Carbon Forge"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/57_a_hearty_brew",
+      "title": "57. A Hearty Brew"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/58_arcology_threshold",
+      "title": "58. Arcology Threshold"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/58_arcology_threshold/58_1",
+      "title": "58.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/58_arcology_threshold/58_2",
+      "title": "58.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/58_arcology_threshold/58_3",
+      "title": "58.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper",
+      "title": "59. Dace, Ambitious Shaper"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_1",
+      "title": "59.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_2",
+      "title": "59.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_3",
+      "title": "59.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_4",
+      "title": "59.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_5",
+      "title": "59.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_6",
+      "title": "59.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/59_dace_ambitious_shaper/59_7",
+      "title": "59.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin",
+      "title": "60. Elder Mora Orlin"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_1",
+      "title": "60.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_2",
+      "title": "60.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_3",
+      "title": "60.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_4",
+      "title": "60.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_5",
+      "title": "60.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor",
+      "title": "61. Tollin Lang, Sculptor"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_1",
+      "title": "61.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_2",
+      "title": "61.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_3",
+      "title": "61.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_4",
+      "title": "61.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_5",
+      "title": "61.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_6",
+      "title": "61.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_7",
+      "title": "61.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/62_the_hornbranch",
+      "title": "62. The Hornbranch"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/63_evergreen_hall",
+      "title": "63. Evergreen Hall"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist",
+      "title": "64. Seilo Griss, Apiarist"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_1",
+      "title": "64.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_2",
+      "title": "64.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_3",
+      "title": "64.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_4",
+      "title": "64.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_5",
+      "title": "64.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_6",
+      "title": "64.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_7",
+      "title": "64.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker",
+      "title": "65. Lyn Mira, Woodworker"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_1",
+      "title": "65.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_2",
+      "title": "65.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_3",
+      "title": "65.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_4",
+      "title": "65.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_5",
+      "title": "65.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_6",
+      "title": "65.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_7",
+      "title": "65.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale",
+      "title": "66. Elder Tesoral Hale"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_1",
+      "title": "66.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_2",
+      "title": "66.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_3",
+      "title": "66.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_4",
+      "title": "66.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_5",
+      "title": "66.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/67_dancers_round",
+      "title": "67. Dancer's Round"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/67_dancers_round/67_1",
+      "title": "67.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/68_trained_stilt_horse",
+      "title": "68. Trained Stilt-Horse"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_1",
+      "title": "68.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_2",
+      "title": "68.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_3",
+      "title": "68.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/69_elder_jular_abel",
+      "title": "69. Elder Jular Abel"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/69_elder_jular_abel/69_1",
+      "title": "69.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/69_elder_jular_abel/69_2",
+      "title": "69.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/69_elder_jular_abel/69_3",
+      "title": "69.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/69_elder_jular_abel/69_4",
+      "title": "69.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/69_elder_jular_abel/69_5",
+      "title": "69.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth",
+      "title": "70. Jaris, Willful Youth"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_1",
+      "title": "70.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_2",
+      "title": "70.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_3",
+      "title": "70.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_4",
+      "title": "70.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_5",
+      "title": "70.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_6",
+      "title": "70.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker",
+      "title": "71. Ol' Bloody Clicker"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_1",
+      "title": "71.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/71_ol_bloody_clicker/71_2",
+      "title": "71.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/72_the_roiling",
+      "title": "72. The Roiling"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/72_the_roiling/72_1",
+      "title": "72.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/72_the_roiling/72_2",
+      "title": "72.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/73_the_wandering_eye",
+      "title": "73. The Wandering Eye"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper",
+      "title": "74. Aell, Ambitious Shaper"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_1",
+      "title": "74.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_3",
+      "title": "74.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_4",
+      "title": "74.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_5",
+      "title": "74.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_6",
+      "title": "74.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/74_aell_ambitious_shaper/74_7",
+      "title": "74.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/75_the_waterspinner",
+      "title": "75. The Waterspinner"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter",
+      "title": "76. Kasende, Expert Hunter"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_1",
+      "title": "76.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_2",
+      "title": "76.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_3",
+      "title": "76.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_4",
+      "title": "76.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_5",
+      "title": "76.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_6",
+      "title": "76.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_7",
+      "title": "76.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_8",
+      "title": "76.8"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_9",
+      "title": "76.9"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers",
+      "title": "77. Elder Cormak Wellers"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_1",
+      "title": "77.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_2",
+      "title": "77.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_3",
+      "title": "77.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_4",
+      "title": "77.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_5",
+      "title": "77.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/78_arcology_sinkhole",
+      "title": "78. Arcology Sinkhole"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/78_arcology_sinkhole/78_1",
+      "title": "78.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/78_arcology_sinkhole/78_2",
+      "title": "78.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/78_arcology_sinkhole/78_3",
+      "title": "78.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/79_ranger_cache",
+      "title": "79. Ranger Cache"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal",
+      "title": "80. Quisi Vos, Rascal"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_1",
+      "title": "80.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_2",
+      "title": "80.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_3",
+      "title": "80.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_4",
+      "title": "80.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_5",
+      "title": "80.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_6",
+      "title": "80.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler",
+      "title": "81. Oura Vos, Traveler"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_1",
+      "title": "81.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_2",
+      "title": "81.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_3",
+      "title": "81.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_4",
+      "title": "81.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_5",
+      "title": "81.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_6",
+      "title": "81.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist",
+      "title": "82. Sil Belai, Artist"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_1",
+      "title": "82.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_2",
+      "title": "82.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_3",
+      "title": "82.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_4",
+      "title": "82.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_5",
+      "title": "82.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_6",
+      "title": "82.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/82_sil_belai_artist/82_7",
+      "title": "82.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/83_ren_kobo_merchant",
+      "title": "83. Ren Kobo, Merchant"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/83_ren_kobo_merchant/83_1",
+      "title": "83.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/83_ren_kobo_merchant/83_2",
+      "title": "83.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/83_ren_kobo_merchant/83_3",
+      "title": "83.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile",
+      "title": "84. Tala the Red, Exile"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_1",
+      "title": "84.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_2",
+      "title": "84.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_3",
+      "title": "84.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_4",
+      "title": "84.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_5",
+      "title": "84.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_6",
+      "title": "84.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_7",
+      "title": "84.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_8",
+      "title": "84.8"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_9",
+      "title": "84.9"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_10",
+      "title": "84.10"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_11",
+      "title": "84.11"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor",
+      "title": "85. Calypsa, Ranger Mentor"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_1",
+      "title": "85.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_2",
+      "title": "85.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_3",
+      "title": "85.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_4",
+      "title": "85.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist",
+      "title": "86. The Fundamentalist"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_1",
+      "title": "86.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_2",
+      "title": "86.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_3",
+      "title": "86.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_4",
+      "title": "86.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/86_the_fundamentalist/86_5",
+      "title": "86.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/87_ben_amon_swift_pilot",
+      "title": "87. Ben Amon, Swift Pilot"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/87_ben_amon_swift_pilot/87_1",
+      "title": "87.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/87_ben_amon_swift_pilot/87_2",
+      "title": "87.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/87_ben_amon_swift_pilot/87_3",
+      "title": "87.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/88_the_tenebrae",
+      "title": "88. The Tenebrae"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/89_umbra",
+      "title": "89. Umbra"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian",
+      "title": "90. Mysterious Verdessian"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian/90_1",
+      "title": "90.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian/90_2",
+      "title": "90.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/90_mysterious_verdessian/90_3",
+      "title": "90.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery",
+      "title": "91. Biscuit Delivery"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_1",
+      "title": "91.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_2",
+      "title": "91.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_3",
+      "title": "91.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_4",
+      "title": "91.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_5",
+      "title": "91.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_6",
+      "title": "91.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_7",
+      "title": "91.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_8",
+      "title": "91.8"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/92_deeper_motives",
+      "title": "92. Deeper Motives"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/92_deeper_motives/92_1",
+      "title": "92.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/92_deeper_motives/92_2",
+      "title": "92.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/92_deeper_motives/92_3",
+      "title": "92.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire",
+      "title": "93. The Fall of Spire"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_1",
+      "title": "93.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_2",
+      "title": "93.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_3",
+      "title": "93.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_4",
+      "title": "93.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_5",
+      "title": "93.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_6",
+      "title": "93.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_7",
+      "title": "93.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_8",
+      "title": "93.8"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_9",
+      "title": "93.9"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/94_world_events",
+      "title": "94. World Events"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/94_world_events/94_1",
+      "title": "94.1"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/94_world_events/94_2",
+      "title": "94.2"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/94_world_events/94_3",
+      "title": "94.3"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/94_world_events/94_4",
+      "title": "94.4"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/94_world_events/94_5",
+      "title": "94.5"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/94_world_events/94_6",
+      "title": "94.6"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/94_world_events/94_7",
+      "title": "94.7"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/94_world_events/94_8",
+      "title": "94.8"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/94_world_events/94_9",
+      "title": "94.9"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/94_world_events/94_10",
+      "title": "94.10"
+    },
+    {
+      "id": "campaign_guides/lure_of_the_valley/95_flood_damage",
+      "title": "95. Flood Damage"
+    }
+  ],
   "url": "/docs/category/lure-of-the-valley"
 }
