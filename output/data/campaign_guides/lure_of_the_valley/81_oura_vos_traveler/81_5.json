@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/81_oura_vos_traveler/81_5",
   "title": "81.5",
-  "content": "<blockquote><p>You offer to help, and Oura smiles gratefully. \u201cThank you so much! I\u2019ve been tracking Quisi for hours. I think I know where she\u2019s going, but somehow the little trailblazer is always one step ahead of me. Maybe you can help?\u201d</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><span color=\"red\">A) Agree to help.</span> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span>, and attach the <b>HELPING HAND</b> mission to Oura.</p><p><span color=\"red\">B) Not today.</span> Discard Oura. Each Ranger soothes 2 fatigue.</p>",
+  "content": "<blockquote><p>You offer to help, and Oura smiles gratefully. \u201cThank you so much! I\u2019ve been tracking Quisi for hours. I think I know where she\u2019s going, but somehow the little trailblazer is always one step ahead of me. Maybe you can help?\u201d</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><span color=\"red\">A) Agree to help.</span> Discard all <icon icon=\"progress\">&nbsp;</icon>, and attach the <b>HELPING HAND</b> mission to Oura.</p><p><span color=\"red\">B) Not today.</span> Discard Oura. Each Ranger soothes 2 fatigue.</p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/lure_of_the_valley/oura_vos_traveler/81_5"

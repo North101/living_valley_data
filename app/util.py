@@ -1,5 +1,5 @@
 import pathlib
-from urllib.parse import urljoin, urldefrag
+from urllib.parse import urljoin, urlparse, urlunparse
 import re
 
 import requests
@@ -36,10 +36,23 @@ def get_content(session: requests.Session, base_url: str, url: str):
   return content
 
 
-def rewrite_url(url: str, urls: dict[str, str]):
-  url, fragment = urldefrag(url)
-  url = urls.get(url, '')
-  return url if url else None, fragment if fragment else None
+def rewrite_url(base_url: str, url: str, urls: dict[str, str]):
+  scheme, netloc, path, params, query, fragment = urlparse(url)
+  path = urls.get(path, '')
+  if not path and not fragment:
+    if url.startswith('/'):
+      return urljoin(base_url, url)
+
+    return url
+
+  return urlunparse((
+      scheme,
+      netloc,
+      path,
+      params,
+      query,
+      fragment,
+  ))
 
 
 def get_guide_entry(title: str) -> str | None:

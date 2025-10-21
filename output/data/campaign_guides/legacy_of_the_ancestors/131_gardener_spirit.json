@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit",
   "title": "131. Gardener Spirit",
-  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_1\">131.1</a></highlight><highlight highlight=\"clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF NEW GROWTH IS IN PLAY, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_2\">131.2</a></li><li>IF HELPING HAND IS ATTACHED, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_3\">131.3</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_4\">131.4</a></li></ul></highlight>",
+  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_1\">131.1</a></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF NEW GROWTH IS IN PLAY, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_2\">131.2</a></li><li>IF HELPING HAND IS ATTACHED, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_3\">131.3</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_4\">131.4</a></li></ul></highlight>",
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_1",

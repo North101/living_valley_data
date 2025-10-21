@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit",
   "title": "151. Wanderer Spirit",
-  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_1\">151.1</a></highlight><highlight highlight=\"clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF HELPING HAND IS ATTACHED AND YOU ARE 3 OR MORE PATHS AWAY FROM THE NOTED LOCATION, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_2\">151.2</a></li><li>IF HELPING HAND IS ATTACHED, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_3\">151.3</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_4\">151.4</a></li></ul></highlight>",
+  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_1\">151.1</a></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF HELPING HAND IS ATTACHED AND YOU ARE 3 OR MORE PATHS AWAY FROM THE NOTED LOCATION, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_2\">151.2</a></li><li>IF HELPING HAND IS ATTACHED, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_3\">151.3</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_4\">151.4</a></li></ul></highlight>",
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/151_wanderer_spirit/151_1",

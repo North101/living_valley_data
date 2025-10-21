@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/47_hy_pimpot_chef_loa/47_6_loa",
   "title": "47.6 (LOA)",
-  "content": "<blockquote><p>Hy sets down his kitchen multi-tool and addresses you with a smile. \"I've already used up the mushrooms you brought me last time. Care to take me down to the arcology again to scrounge up some more? I'll make you the same stew as last time!\"</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b><span color=\"red\">A) Sure! I know a shortcut.</span></b> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span> and attach the <b>HELPING HAND</b> mission to Hy Pimpot. <i><span color=\"blue\">Make a stew with Hy Pimpot\u2019s test using only cards with the Mycelial keyword.</span></i></p><p><b><span color=\"red\">B) Some other time.</span></b> Discard Hy Pimpot. Each Ranger soothes 2 fatigue.</p>",
+  "content": "<blockquote><p>Hy sets down his kitchen multi-tool and addresses you with a smile. \"I've already used up the mushrooms you brought me last time. Care to take me down to the arcology again to scrounge up some more? I'll make you the same stew as last time!\"</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) Sure! I know a shortcut.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> and attach the <b>HELPING HAND</b> mission to Hy Pimpot. <i color=\"blue\">Make a stew with Hy Pimpot\u2019s test using only cards with the Mycelial keyword.</i></p><p><b color=\"red\">B) Some other time.</b> Discard Hy Pimpot. Each Ranger soothes 2 fatigue.</p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/hy_pimpot_chef/47_6"

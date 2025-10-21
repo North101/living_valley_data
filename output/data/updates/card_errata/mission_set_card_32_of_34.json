@@ -1,7 +1,7 @@
 {
   "id": "updates/card_errata/mission_set_card_32_of_34",
   "title": "Mission Set Card 32 of 34",
-  "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><p>Change the Clear <span><icon icon=\"progress\">&nbsp;</icon></span> effect to: <code>Discard all <span><icon icon=\"progress\">&nbsp;</icon></span> from this being. They remain in play. Do not read their entry.</code>.</p><p><img src=\"https://thelivingvalley.earthbornegames.com/assets/images/EBR_Cards_Missions_32of34-0d77eb7abdaf226f733a4ac457885edf.png#errata_cards\"></p>",
+  "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><p>Change the Clear <icon icon=\"progress\">&nbsp;</icon> effect to: <code>Discard all <icon icon=\"progress\">&nbsp;</icon> from this being. They remain in play. Do not read their entry.</code>.</p><p><img src=\"https://thelivingvalley.earthbornegames.com/assets/images/EBR_Cards_Missions_32of34-0d77eb7abdaf226f733a4ac457885edf.png#errata_cards\"></p>",
   "links": [],
   "lookup": null,
   "url": "/docs/updates/card_errata/mission_32_of_34"

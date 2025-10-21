@@ -1,7 +1,7 @@
 {
   "id": "rules_glossary/p/per_ranger",
   "title": "Per Ranger",
-  "content": "<p>The symbol <span><icon icon=\"per_ranger\">&nbsp;</icon></span> represents the number of Rangers (players) currently playing the game. When it is next to another value, multiply the number of Rangers by that value (for example, in a two-player game \u201c3<span><icon icon=\"per_ranger\">&nbsp;</icon></span>\u201d would equal six).</p>",
+  "content": "<p>The symbol <icon icon=\"per_ranger\">&nbsp;</icon> represents the number of Rangers (players) currently playing the game. When it is next to another value, multiply the number of Rangers by that value (for example, in a two-player game \u201c3<icon icon=\"per_ranger\">&nbsp;</icon>\u201d would equal six).</p>",
   "links": [],
   "lookup": null,
   "url": "/docs/rules_glossary/P/per_ranger"

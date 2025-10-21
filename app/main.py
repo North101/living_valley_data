@@ -9,10 +9,11 @@ from urllib3.util import Retry
 from .constants import *
 from .util import *
 
-TAG_CLASSES: dict[str, set[str]] = {}
-TAG_ITEMS_TYPES: dict[str, set[str]] = {}
+TAG_CLASSES = dict[str, set[str]]()
+TAG_ITEMS_TYPES = dict[str, set[str]]()
 TAG_URLS = set[str]()
 TAG_ICONS = dict[str, str | None]()
+TAG_ATTRIBUTES = dict[str, set[str]]()
 
 
 def get_nav_parents(e: Any):
@@ -81,17 +82,11 @@ def parse_element(base_url: str, e: Any, urls: dict[str, str], icon_color: str |
   if tag == 'a' and 'button' in classes:
     tag = 'button'
 
-  resource_id: str | None = None
-  anchor: str | None = None
   url: str | None = None
   if tag in ('a', 'button'):
     url = clean_url(e.get('href'))
     TAG_URLS.add(url)
-    resource_id, anchor = rewrite_url(url, urls)
-    if not resource_id and not anchor:
-      tag = 'url'
-      if url.startswith('/'):
-        url = urljoin(base_url, url)
+    url = rewrite_url(base_url, url, urls)
 
   TAG_CLASSES.setdefault(tag, set()).update(classes)
   if tag in ('h1', 'h2', 'choice', 'branch', 'imgfooter'):
@@ -100,6 +95,8 @@ def parse_element(base_url: str, e: Any, urls: dict[str, str], icon_color: str |
         if CLASS_ANCHOR in classes else
         None
     )
+  else:
+    anchor = None
 
   color = get_color_for_class(
       classes,
@@ -120,15 +117,22 @@ def parse_element(base_url: str, e: Any, urls: dict[str, str], icon_color: str |
       ) or icon_color,
   ))
   # Change <p><i><p ...> to <p ...><i>
-  if tag == 'p' and len(items) == 1:
-    child: dict[str, Any] = items[0]
-    if child['type'] in ('b', 'i', 'span'):
-      if child['items'][-1] == {'type': 'text', 'text': ' '}:
-        child['items'].pop()
-      if len(child['items']) == 1 and child['items'][0]['type'] == 'p':
-        color = child['items'][0].get('color', color)
-        highlight_color = child['items'][0].get('highlight', highlight_color)
-        child['items'] = child['items'][0]['items']
+  if tag == 'p' and len(items) == 1 and (item := items[0]):
+    if item['type'] in ('b', 'i', 'span'):
+      if item['items'][-1] == {'type': 'text', 'text': ' '}:
+        item['items'].pop()
+      if len(item['items']) == 1 and (subitem := item['items'][0]) and subitem['type'] == 'p':
+        color = subitem.get('color')
+        item['items'] = subitem['items']
+
+  # Remove unnessesary spans
+  if tag in ('p', 'span', 'b', 'i'):
+    if items and len(items) == 1 and (item := items[0]) and item['type'] == 'span':
+      return {
+          **item,
+          'type': tag,
+          'color': color or item.get('color'),
+      }
 
   if tag in ('branch', 'choice'):
     if len(items) == 1 and items[0]['type'] == 'text':
@@ -149,15 +153,7 @@ def parse_element(base_url: str, e: Any, urls: dict[str, str], icon_color: str |
 
   if tag in ('a', 'button'):
     data.update({
-        'a': {
-            'id': resource_id,
-            'anchor': anchor,
-            'url': url,
-        },
-    })
-  elif tag == 'url':
-    data.update({
-        'url': url,
+        'href': url,
     })
   elif tag == 'img':
     src = e.get('src')
@@ -179,6 +175,7 @@ def parse_element(base_url: str, e: Any, urls: dict[str, str], icon_color: str |
 
   if highlight_color:
     data.update({
+        'type': 'highlight',
         'highlight': highlight_color,
     })
 
@@ -213,9 +210,16 @@ def process_text(text: str, icon_color: str | None):
             'text': text[start:i+1].replace('\n', ' '),
         }
       yield {
-          'type': 'icon',
-          'icon': RANGER_ICON_NAMES[c],
+          'type': 'span',
           'color': icon_color,
+          'items': [{
+              'type': 'icon',
+              'icon': RANGER_ICON_NAMES[c],
+              'items': [{
+                  'type': 'text',
+                  'text': '&nbsp;',
+              }]
+          }],
       }
       start = i + 1
 
@@ -256,48 +260,36 @@ def content_item_to_html(resource_id: str, content: dict[str, Any]):
     return content['text']
 
   items = content.get('items')
-  if tag == 'icon':
-    items = [{
-        'type': 'text',
-        'text': '&nbsp;',
-    }]
   attributes = {}
-
-  highlight = content.get('highlight')
-  if highlight:
-    tag = 'highlight'
-    attributes['highlight'] = highlight
 
   color = content.get('color')
   if color:
     attributes['color'] = color
+  # Remove unnessesary spans
+  elif tag == 'span':
+    return content_to_html(resource_id, items)
+
+  if tag == 'icon':
+    attributes['icon'] = content.get('icon')
+    # return f'[{icon}]'
+
+  if tag == 'highlight':
+    attributes['highlight'] = content.get('highlight')
 
   anchor = content.get('anchor')
   if anchor:
     attributes['id'] = anchor
 
-  link = content.get('a')
-  if link:
-    link_id = link['id'] or ''
-    anchor = link['anchor'] or ''
-    if link_id == resource_id and anchor:
-      link_id = ''
-    if anchor:
-      anchor = f'#{anchor}'
-    attributes['href'] = f'{link_id}{anchor}'
-
-  url = content.get('url')
-  if url:
-    tag = 'a'
-    attributes['href'] = url
-
-  icon = content.get('icon')
-  if icon:
-    attributes['icon'] = icon
+  href: str | None = content.get('href')
+  if href:
+    if href.startswith(f'{resource_id}#'):
+      href = href.removeprefix(resource_id)
+    attributes['href'] = href
 
   if tag == 'img':
     attributes['src'] = content.get('src')
 
+  TAG_ATTRIBUTES.setdefault(tag, set()).update(attributes)
   if attributes:
     attributes = f' {' '.join(f'{k}="{v}"' for k, v in attributes.items())}'
   else:
@@ -362,7 +354,7 @@ def main(base_url: str, page_urls: list[str]):
                   for item_id, item_title, _ in items
               ],
               'lookup': (
-                   lookup[lookup_group]
+                  lookup[lookup_group]
                   if lookup_group and lookup_group == resource_id else
                   None
               ),
@@ -407,3 +399,9 @@ def main(base_url: str, page_urls: list[str]):
 
   with (log_dir / 'icons.json').open('w') as f:
     json.dump(dict(sorted(TAG_ICONS.items(), key=lambda x: x[0])), f, indent=2)
+
+  with (log_dir / 'attributes.json').open('w') as f:
+    json.dump({
+        key: sorted(value)
+        for key, value in sorted(TAG_ATTRIBUTES.items(), key=lambda x: x[0])
+    }, f, indent=2)

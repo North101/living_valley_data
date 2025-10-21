@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_1_loa",
   "title": "78.1 (LOA)",
-  "content": "<blockquote><p>You stand on the edge of a large pit, where it looks like an entire grove of trees has collapsed into the ground not long ago. Among the tangled mass of splintered trunks, you can make out what appears to be a broken carbonforged archway and cracked pipes leading into darkness. The sinkhole may have exposed a route into the old arcology beneath the Valley. </p></blockquote><p><i><span color=\"blue\">Clear the Arcology Sinkhole with <span><icon icon=\"progress\">&nbsp;</icon></span> while a <span><icon icon=\"ranger_token\">&nbsp;</icon></span> is on it to travel to a location on the Stratum 1 map.</span></i></p>",
+  "content": "<blockquote><p>You stand on the edge of a large pit, where it looks like an entire grove of trees has collapsed into the ground not long ago. Among the tangled mass of splintered trunks, you can make out what appears to be a broken carbonforged archway and cracked pipes leading into darkness. The sinkhole may have exposed a route into the old arcology beneath the Valley. </p></blockquote><p><i color=\"blue\">Clear the Arcology Sinkhole with <icon icon=\"progress\">&nbsp;</icon> while a <icon icon=\"ranger_token\">&nbsp;</icon> is on it to travel to a location on the Stratum 1 map.</i></p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_sinkhole/78_1"

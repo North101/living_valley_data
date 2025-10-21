@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_3",
   "title": "93.3",
-  "content": "<blockquote><p>You hear Tollin Lang before you see him. The young artist comes around a corner leading a few dozen townsfolk. \u201cKeep up, keep up!\u201d he shouts. \u201cWe\u2019re close, now! Just stay together!\u201d</p><p>He sees you and the relief on his face is immediate. \u201cThank the ancestors! Help me get these people out of here!\u201d</p></blockquote><p color=\"blue\"><i>Clear Tollin with <span><icon icon=\"progress\">&nbsp;</icon></span> to get her group out of the city.</i></p><p>If you have <span color=\"blue\">APPRECIATED TOLLIN\u2019S ART</span>, add 2 <span><icon icon=\"progress\">&nbsp;</icon></span> to him.</p>",
+  "content": "<blockquote><p>You hear Tollin Lang before you see him. The young artist comes around a corner leading a few dozen townsfolk. \u201cKeep up, keep up!\u201d he shouts. \u201cWe\u2019re close, now! Just stay together!\u201d</p><p>He sees you and the relief on his face is immediate. \u201cThank the ancestors! Help me get these people out of here!\u201d</p></blockquote><p color=\"blue\"><i>Clear Tollin with <icon icon=\"progress\">&nbsp;</icon> to get her group out of the city.</i></p><p>If you have <span color=\"blue\">APPRECIATED TOLLIN\u2019S ART</span>, add 2 <icon icon=\"progress\">&nbsp;</icon> to him.</p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/lure_of_the_valley/the_fall_of_spire/93_3"

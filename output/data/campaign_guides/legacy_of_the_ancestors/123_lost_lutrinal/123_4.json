@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_4",
   "title": "123.4",
-  "content": "<blockquote><p>The lutrinal bounds forward a dozen paces, then stops and looks back at you quizzically, waiting for you to continue to \u201cchase\u201d it toward the surface.</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b><span color=\"red\">A) We can\u2019t abandon it now.</span></b> Discard all <span><icon icon=\"progress\">&nbsp;</icon></span> from the Lost Lutrinal. <i><span color=\"blue\">Get the lutrinal to a location on the surface with a water feature in play and clear it with <span><icon icon=\"progress\">&nbsp;</icon></span> to release it.</span></i></p><p><b><span color=\"red\">B) We\u2019ll find you again, little friend.</span></b> Discard the Lost Lutrinal. Each Ranger soothes 2 fatigue.</p>",
+  "content": "<blockquote><p>The lutrinal bounds forward a dozen paces, then stops and looks back at you quizzically, waiting for you to continue to \u201cchase\u201d it toward the surface.</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) We can\u2019t abandon it now.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from the Lost Lutrinal. <i color=\"blue\">Get the lutrinal to a location on the surface with a water feature in play and clear it with <icon icon=\"progress\">&nbsp;</icon> to release it.</i></p><p><b color=\"red\">B) We\u2019ll find you again, little friend.</b> Discard the Lost Lutrinal. Each Ranger soothes 2 fatigue.</p>",
   "links": [],
   "lookup": null,
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/lost_lutrinal/123_4"

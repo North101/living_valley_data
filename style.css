@@ -47,6 +47,7 @@ choice[data-theme='dark'] {
 choice[data-theme='light'] {
   background-color: rgb(255, 207, 143);
 }
+
 branch[data-theme='dark'] {
   background-color: rgb(82, 116, 154);
 }
@@ -106,13 +107,7 @@ ul, ol {
 *[color="green"] {
   color: rgb(3, 155, 40);
 }
-*[color="green"] {
-  color: rgb(3, 155, 40);
-}
 
-*[color="gold"] {
-  color: rgb(181, 158, 0);
-}
 *[color="gold"] {
   color: rgb(181, 158, 0);
 }

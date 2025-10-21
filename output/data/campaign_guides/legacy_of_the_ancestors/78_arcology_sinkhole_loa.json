@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa",
   "title": "78. Arcology Sinkhole (LOA)",
-  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_1_loa\">78.1</a></highlight><highlight highlight=\"clear\"><p>CLEAR <span><icon icon=\"progress\">&nbsp;</icon></span>:</p><ul><li>IF KORDO, RANGER VETERAN IS IN PLAY, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_2_loa\">78.2</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_3_loa\">78.3</a></li></ul></highlight>",
+  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_1_loa\">78.1</a></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF KORDO, RANGER VETERAN IS IN PLAY, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_2_loa\">78.2</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_3_loa\">78.3</a></li></ul></highlight>",
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/78_arcology_sinkhole_loa/78_1_loa",
