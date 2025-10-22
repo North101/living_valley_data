@@ -22,9 +22,7 @@ def get_nav_parents(e: Any):
 
 
 def next_nav_parent(e: Any):
-  for item in e.xpath('./parent::div/parent::ul/parent::li/div/a[1]'):
-    yield from next_nav_parent(item)
-  for item in e.xpath('./parent::ul/parent::li/div/a[1]'):
+  for item in e.xpath(NEXT_NAV_PARENT):
     yield from next_nav_parent(item)
   yield to_id(e.text)
 
@@ -34,38 +32,16 @@ def list_nav_items(e: Any):
     yield to_id(item.text), item.text, clean_url(item.get('href'))
 
 
-def scrape_urls(session: requests.Session, base_url: str, url: str):
-  data = get_content(session, base_url, url)
-  if not data:
-    print(url)
-  tree = parse_html(data)
-
-  resource_id = '/'.join(get_nav_parents(tree))
-  title = next(iter(tree.xpath('//header/h1//text()')), None)
-  if title is None:
-    title = next(iter(tree.xpath('//article/div/h1//text()')))
-  items = list(list_nav_items(tree))
-  yield url, resource_id, title
-
-  for item in items:
-    item_url = item[2]
-    yield from scrape_urls(session, base_url, item_url)
-
-
 def scrape_page(session: requests.Session, base_url: str, url: str):
   data = get_content(session, base_url, url)
   if not data:
     print(url)
   tree = parse_html(data)
 
-  title = next(iter(tree.xpath('//header/h1//text()')), None)
-  if title is None:
-    title = next(iter(tree.xpath('//article/div/h1//text()')))
-    content: Any = next(iter(tree.xpath(SECTION_MARKDOWN)), None)
-  else:
-    content = None
+  title = next(iter(tree.xpath(PAGE_TITLE)))
   resource_id = '/'.join(get_nav_parents(tree))
   items = list(list_nav_items(tree))
+  content: Any = next(iter(tree.xpath(SECTION_MARKDOWN)), None)
   yield url, resource_id, title, items, content
 
   for item in items:
@@ -317,7 +293,7 @@ def main(base_url: str, page_urls: list[str]):
     titles = dict[str, str]()
     lookup = dict[str, list[dict[str, str]]]()
     for page_url in page_urls:
-      for url, resource_id, title in scrape_urls(session, base_url, page_url):
+      for url, resource_id, title, _, _ in scrape_page(session, base_url, page_url):
         urls[url] = resource_id
         titles[url] = title
 
@@ -329,15 +305,22 @@ def main(base_url: str, page_urls: list[str]):
           })
 
     for page_url in page_urls:
-      sections = scrape_page(session, base_url, page_url)
-      for url, resource_id, title, items, data in sections:
+      for url, resource_id, title, items, data in scrape_page(session, base_url, page_url):
         file = output_dir / 'data' / f'{resource_id}.json'
         content = (
-            remove_content_title(list(parse_element_items(base_url, data, urls, None)))
+            remove_content_title(list(parse_element_items(
+                base_url,
+                data,
+                urls,
+                None,
+            )))
             if data is not None else
             None
         )
-        content = content_to_html(resource_id, content) if content else None
+        content = content_to_html(
+            resource_id,
+            content,
+        ) if content else None
 
         lookup_group = get_lookup_group(resource_id)
         file.parent.mkdir(exist_ok=True, parents=True)

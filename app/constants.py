@@ -2,7 +2,9 @@ USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 
 SECTION_MARKDOWN = '//div[@class="theme-doc-markdown markdown"]'
 NAV_PARENT_URLS = '//div[@class="sidebar_njMd"]/nav[@class="menu thin-scrollbar menu_SIkG"]//a[contains(@class, "menu__link--active")]'
+NEXT_NAV_PARENT = '(./parent::div/parent::ul/parent::li/div/a[1] | ./parent::ul/parent::li/div/a[1])'
 NAV_ITEM_URLS = '//div[@class="sidebar_njMd"]/nav[@class="menu thin-scrollbar menu_SIkG"]//div[@class="menu__list-item-collapsible menu__list-item-collapsible--active"]/parent::li/ul//a'
+PAGE_TITLE = '(//header/h1//text() | //article/div/h1//text())'
 
 CSS_TEXT_COLORS = {
     'blue_text': 'blue',
