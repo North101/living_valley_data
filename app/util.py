@@ -1,6 +1,6 @@
+from curses.ascii import isalpha
 import pathlib
 from urllib.parse import urljoin, urlparse, urlunparse
-import re
 
 import requests
 from lxml import html
@@ -19,9 +19,19 @@ def clean_url(url: str):
 def to_id(title: str):
   return ''.join((
       c
-      for c in title.lower()
-      if c.isalnum() or c.isspace() or c in ['.', '-']
-  )).replace(' ', '_').replace('.', '_').replace('-', '_').replace('__', '_')
+      for c in iter_id(title)
+  )).strip('_')
+
+
+def iter_id(title: str):
+  wasalnum = False
+  for c in title:
+    if c.isalnum():
+      wasalnum = True
+      yield c.lower()
+    elif wasalnum and (c.isspace() or c in ('.', '-', '_')):
+      wasalnum = False
+      yield '_'
 
 
 def get_content(session: requests.Session, base_url: str, url: str):
@@ -53,17 +63,6 @@ def rewrite_url(base_url: str, url: str, urls: dict[str, str]):
       query,
       fragment,
   ))
-
-
-def get_guide_entry(title: str) -> str | None:
-  match = re.match(r'^(\d+)\.(\d+)?', title)
-  if not match:
-    return None
-
-  main, sub = match.groups()
-  if sub:
-    return f'{main}.{sub}'
-  return main
 
 
 def get_color_for_class(classes: list[str], colors: dict[str, str]):
