@@ -1,5 +1,6 @@
 import json
 import pathlib
+from shutil import rmtree
 from typing import Any
 
 import requests
@@ -279,6 +280,8 @@ def content_item_to_html(resource_id: str, content: dict[str, Any]):
 
 def main(base_url: str, page_urls: list[str]):
   output_dir = pathlib.Path('.', 'output')
+  rmtree(output_dir)
+
   with requests.Session() as session:
     session.mount('https://', HTTPAdapter(max_retries=Retry(
         total=5,
@@ -363,6 +366,7 @@ def main(base_url: str, page_urls: list[str]):
       }, f, indent=2)
 
   log_dir = pathlib.Path('.', 'log')
+  rmtree(log_dir)
   log_dir.mkdir(exist_ok=True, parents=True)
 
   with (log_dir / 'tags.json').open('w') as f:
