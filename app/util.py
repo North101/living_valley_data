@@ -1,5 +1,6 @@
-from curses.ascii import isalpha
+import json
 import pathlib
+from typing import Any
 from urllib.parse import urljoin, urlparse, urlunparse
 
 import requests
@@ -9,7 +10,7 @@ HTML_PARSER = html.HTMLParser(remove_blank_text=True, remove_comments=True)
 
 
 def parse_html(content: str):
-  return html.fromstring(content, parser=HTML_PARSER)
+  return html.fromstring(content, parser=HTML_PARSER)  # type: ignore
 
 
 def clean_url(url: str):
@@ -71,3 +72,28 @@ def get_color_for_class(classes: list[str], colors: dict[str, str]):
       for css_class, color in colors.items()
       if css_class in classes
   ), None)
+
+
+def write_resource(
+    path: pathlib.Path,
+    resource_id: str,
+    title: str,
+    content: Any | None,
+    links: list[dict[str, str]],
+    lookup: list[dict[str, str]],
+    url: str,
+):
+  write_json(path, {
+      'id': resource_id,
+      'title': title,
+      'content': content,
+      'links': links,
+      'lookup': lookup if lookup else None,
+      'url': url,
+  })
+
+
+def write_json(path: pathlib.Path, obj: Any):
+  path.parent.mkdir(exist_ok=True, parents=True)
+  with path.open('w') as f:
+    json.dump(obj, f, indent=2)

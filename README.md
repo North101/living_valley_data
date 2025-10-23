@@ -56,9 +56,9 @@ Page content. This is represented as html along with some custom tags
 | `<a>`          | Link            | `href`                                                                        |
 | `<p>`          | Paragraph       | `color="red"`<br>`color="blue"`<br>`color="gold"`<br>`color="green"`          |
 | `<span>`       | Text            | `color="red"`<br>`color="blue"`<br>`color="gold"`<br>`color="green"`          |
-| `<b>`          | Bold            | —                                                                             |
-| `<i>`          | Italics         | —                                                                             |
-| `<icon>`       | Icon            | `icon="<icon>"`<br>`color="red"`<br>`color="blue"`<br>`color="gold"`<br>`color="green"` |
+| `<b>`          | Bold            | `color="red"`<br>`color="blue"`<br>`color="gold"`<br>`color="green"`          |
+| `<i>`          | Italics         | `color="red"`<br>`color="blue"`<br>`color="gold"`<br>`color="green"`          |
+| `<icon>`       | Icon            | `icon="<icon>"`                                                               |
 
 ## lookup
 
