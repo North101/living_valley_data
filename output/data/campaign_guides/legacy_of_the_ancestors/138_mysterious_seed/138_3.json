@@ -2,7 +2,18 @@
   "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_3",
   "title": "138.3",
   "content": "<blockquote><p>Whenever you close your eyes, you see the thundering, shimmering waterfall dancing in your mind. You\u2019ve been carrying this large seed to the Cerulean Curtain \u2026 and you can\u2019t remember why? </p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) Continue helping the seed.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from the Seed. <i color=\"blue\">You must bring the Seed to the Cerulean Curtain to help it.</i></p><p><b color=\"red\">B) Stop \u2026 actually, why don\u2019t you continue helping the seed?</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from the Seed. <i color=\"blue\">You must bring the Seed to the Cerulean Curtain to help it.</i></p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/mysterious_seed/138_3"
 }

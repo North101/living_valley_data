@@ -2,7 +2,18 @@
   "id": "rules_glossary/t/talespinner_background",
   "title": "Talespinner (Background)",
   "content": "<p>Talespinner is one of the available <a href=\"rules_glossary/b/backgrounds\">background</a> <a href=\"rules_glossary/s/sets\">sets</a> for Ranger decks.</p><p>In your youth, you were fascinated by the stories told by travelers from afar and by the histories and traditional tales shared by the talespinners of the Valley. You have spent many years studying the craft of storytelling and are adept in both the art of song and the spoken word. Talespinner cards focus on <a href=\"rules_glossary/s/soothe\">soothing</a> <a href=\"rules_glossary/f/fatigue\">fatigue</a>, manipulating the <a href=\"rules_glossary/f/fatigue\">fatigue</a> stack, and aiding your fellow Rangers with powerful situational effects in the form of <a href=\"rules_glossary/m/moments\">moments</a> with the tale trait.</p><h1 id=\"life-as-a-talespinner\">Life as a Talespinner</h1><p>Talespinners play an important role as the keepers of history and tradition in the Valley. The life of a talespinner is a social one, spent traveling from village to village, conversing with locals, and performing at taverns and public gatherings in order to share their knowledge and keep the oral tradition alive. They yearn to experience life to the fullest so that they may share that experience with others and inspire them to do the same.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#life-as-a-talespinner",
+      "title": "Life as a Talespinner"
+    }
+  ],
+  "links": [
+    {
+      "id": "#life-as-a-talespinner",
+      "title": "Life as a Talespinner"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/rules_glossary/T/talespinner"
 }

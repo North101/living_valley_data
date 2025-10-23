@@ -2,6 +2,7 @@
   "id": "rules_glossary/a",
   "title": "A",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/a/active",
@@ -60,6 +61,6 @@
       "title": "Attributes"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/a"
 }

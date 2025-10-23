@@ -2,6 +2,7 @@
   "id": "rules_glossary/h",
   "title": "H",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/h/harm",
@@ -12,6 +13,6 @@
       "title": "Harm Threshold"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/h"
 }

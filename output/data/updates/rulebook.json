@@ -2,7 +2,74 @@
   "id": "updates/rulebook",
   "title": "Rulebook",
   "content": "<p>This section covers any changes to sections of the rulebook. This change affects the first printing. Revised text is <code>highlighted</code>.</p><h2 id=\"page-13---rest\">Page 13 - Rest</h2><p>Delete \"and you suffer one fatigue for each injury you have (see Injury on page 23).\"</p><h2 id=\"page-14---travel-to-a-new-location\">Page 14 - Travel to a New Location</h2><p>Change the second sentence to: <code>You must choose a nearby location - one that is connected directly to your current location by one of the paths marked on the map.</code></p><h2 id=\"page-15---refresh\">Page 15 - Refresh</h2><p>Add the a new bullet: <code>Suffer fatigue from injuries: Suffer one fatigue for each injury you have.</code></p><h2 id=\"page-23---injury\">Page 23 - Injury</h2><p>Change the third paragraph to <code>For each injury you\u2019ve suffered, you suffer one fatigue during the refresh phase.</code></p><h2 id=\"page-26---manifestation\">Page 26 - Manifestation</h2><p>Change \"discard\" to <code>use</code>. Delete \"from your hand\"</p><h2 id=\"page-26---conduit\">Page 26 - Conduit</h2><p>Change \"spend\" to <code>use</code>. Delete \"from your hand\"</p><h2 id=\"page-31---swapping-rewards-in-and-out\">Page 31 - Swapping Rewards In and Out</h2><p>Replace the first sentence of the second paragraph with: <code>If you ended the day by camping, before you start the next day, you may choose up to two copies of any reward card that you've unlocked, and for which you meet the aspect requirements, and add them to your deck.</code></p><h1 id=\"versions-affected\">Versions Affected</h1><p>Printings of the game made after a piece of errata was issued include that errata. Each change here lists which printings are affected by this change. If a component already matches the errataed text, you can easily ignore that change.</p><p><b>First Printing:</b> You can identify if your copy of the Earthborne Rangers core set is from the first printing if it has the code \"LFCACD30\" under the barcode on the back of the box.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#page-13---rest",
+      "title": "Page 13 - Rest"
+    },
+    {
+      "id": "#page-14---travel-to-a-new-location",
+      "title": "Page 14 - Travel to a New Location"
+    },
+    {
+      "id": "#page-15---refresh",
+      "title": "Page 15 - Refresh"
+    },
+    {
+      "id": "#page-23---injury",
+      "title": "Page 23 - Injury"
+    },
+    {
+      "id": "#page-26---manifestation",
+      "title": "Page 26 - Manifestation"
+    },
+    {
+      "id": "#page-26---conduit",
+      "title": "Page 26 - Conduit"
+    },
+    {
+      "id": "#page-31---swapping-rewards-in-and-out",
+      "title": "Page 31 - Swapping Rewards In and Out"
+    },
+    {
+      "id": "#versions-affected",
+      "title": "Versions Affected"
+    }
+  ],
+  "links": [
+    {
+      "id": "#page-13---rest",
+      "title": "Page 13 - Rest"
+    },
+    {
+      "id": "#page-14---travel-to-a-new-location",
+      "title": "Page 14 - Travel to a New Location"
+    },
+    {
+      "id": "#page-15---refresh",
+      "title": "Page 15 - Refresh"
+    },
+    {
+      "id": "#page-23---injury",
+      "title": "Page 23 - Injury"
+    },
+    {
+      "id": "#page-26---manifestation",
+      "title": "Page 26 - Manifestation"
+    },
+    {
+      "id": "#page-26---conduit",
+      "title": "Page 26 - Conduit"
+    },
+    {
+      "id": "#page-31---swapping-rewards-in-and-out",
+      "title": "Page 31 - Swapping Rewards In and Out"
+    },
+    {
+      "id": "#versions-affected",
+      "title": "Versions Affected"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/updates/rulebook"
 }

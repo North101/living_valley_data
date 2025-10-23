@@ -1,6 +1,6 @@
 import json
 import pathlib
-from typing import Any
+from typing import Any, TypedDict
 from urllib.parse import urljoin, urlparse, urlunparse
 
 import requests
@@ -74,21 +74,28 @@ def get_color_for_class(classes: list[str], colors: dict[str, str]):
   ), None)
 
 
+class Link(TypedDict):
+  id: str
+  title: str
+
+
 def write_resource(
     path: pathlib.Path,
     resource_id: str,
     title: str,
     content: Any | None,
-    links: list[dict[str, str]],
-    lookup: list[dict[str, str]],
+    anchors: list[Link],
+    links: list[Link],
+    lookup: list[Link],
     url: str,
 ):
   write_json(path, {
       'id': resource_id,
       'title': title,
       'content': content,
+      'anchors': anchors,
       'links': links,
-      'lookup': lookup if lookup else None,
+      'lookup': lookup,
       'url': url,
   })
 

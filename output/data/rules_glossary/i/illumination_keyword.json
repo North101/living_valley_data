@@ -2,7 +2,8 @@
   "id": "rules_glossary/i/illumination_keyword",
   "title": "Illumination (Keyword)",
   "content": "<p>This keyword doesn\u2019t do anything on its own, but other card effects will check for it. Some effects will be conditional on whether or not a card or <a href=\"rules_glossary/a/area\">area</a> is illuminated. </p><ul><li>An <a href=\"rules_glossary/a/area\">area</a> is illuminated if it contains a card with illumination. </li><li>A card is illuminated if it is in an illuminated <a href=\"rules_glossary/a/area\">area</a>.</li></ul>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/I/illumination"
 }

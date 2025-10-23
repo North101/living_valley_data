@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/199_world_events_loa",
   "title": "199. World Events (LOA)",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/199_world_events_loa/199_1",
@@ -24,6 +25,6 @@
       "title": "199.5"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/world_events"
 }

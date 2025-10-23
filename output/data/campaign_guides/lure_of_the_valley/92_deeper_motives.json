@@ -2,6 +2,7 @@
   "id": "campaign_guides/lure_of_the_valley/92_deeper_motives",
   "title": "92. Deeper Motives",
   "content": "<highlight highlight=\"blue\">ARRIVE: TUMBLEDOWN, GO TO <a href=\"campaign_guides/lure_of_the_valley/92_deeper_motives/92_1\">92.1</a></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>SPIRIT SPEAKER NAL, GO TO <a href=\"campaign_guides/lure_of_the_valley/92_deeper_motives/92_2\">92.2</a></li><li>MYSTERIOUS VERDESSIAN, GO TO <a href=\"campaign_guides/lure_of_the_valley/92_deeper_motives/92_3\">92.3</a></li></ul></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO THE NORMAL JOURNAL ENTRY FOR THAT CHARACTER</highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/lure_of_the_valley/92_deeper_motives/92_1",
@@ -16,6 +17,6 @@
       "title": "92.3"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/deeper_motives"
 }

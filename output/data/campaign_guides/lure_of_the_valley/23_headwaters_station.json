@@ -2,12 +2,13 @@
   "id": "campaign_guides/lure_of_the_valley/23_headwaters_station",
   "title": "23. Headwaters Station",
   "content": "<blockquote><p>The current strengthens as the river narrows, flowing swiftly from a claustrophobic canyon up ahead. Your boat bucks against the swiftmoving water, but you finally make it past the mouth of the canyon, and find a rope rigged along the rock wall, perfect for pulling yourself along. After long minutes of hauling, the canyon widens and you pull yourself into a circular basin. Several small waterfalls form a droning chorus, drowning out all other sound as they feed the sapphire-blue pool.</p></blockquote>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/lure_of_the_valley/23_headwaters_station/23_1",
       "title": "23.1"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/headwaters_station"
 }

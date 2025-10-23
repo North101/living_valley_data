@@ -2,7 +2,8 @@
   "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_3",
   "title": "148.3",
   "content": "<blockquote><p>You move carefully onto the walkway, testing each step as you go. In the darkness to either side, you see vague forms move and shift. You\u2019re certain that something below you is eager for you to fall. As you make your way across, you take time to observe how the dim light reveals subtle differences between portions of the walkway that are solid and sturdy and those that are on the verge of collapse. The more time you spend on the walkway, the more obvious those differences become, and before you know it, you\u2019ve reached the other side safe and sound.</p></blockquote><p>Record <span color=\"blue\">MAPPED THE WRECKAGE</span> on the campaign tracker. If you had already <span color=\"blue\">MAPPED THE WRECKAGE</span>, add 2<icon icon=\"per_ranger\">&nbsp;</icon><icon icon=\"progress\">&nbsp;</icon> to the location.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/precarious_wreckage/148_3"
 }

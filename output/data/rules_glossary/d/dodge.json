@@ -2,7 +2,8 @@
   "id": "rules_glossary/d/dodge",
   "title": "Dodge",
   "content": "<p>Some game effects allow you to dodge cards when you are performing a <a href=\"rules_glossary/t/tests\">test</a>. When you dodge cards, those cards do not count as being between you and the card with which you are <a href=\"rules_glossary/i/interact\">interacting</a>. Cards dodged in this way do not <a href=\"rules_glossary/f/fatigue\">fatigue</a> you, and if they have the <a href=\"rules_glossary/o/obstacle_keyword\">obstacle</a> <a href=\"rules_glossary/k/keywords\">keyword</a>, they do not prevent you from <a href=\"rules_glossary/i/interact\">interacting</a> with cards beyond them. These cards are still considered to be <a href=\"rules_glossary/a/active\">active</a> , so their challenge effects still trigger.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/D/dodge"
 }

@@ -2,6 +2,7 @@
   "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light",
   "title": "39. A Trick of the Light",
   "content": "<highlight highlight=\"blue\">ENTERS PLAY: IF YOU\u2019VE <span color=\"blue\">MET AN INTERLOPER</span>, GO TO <a href=\"campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_1\">39.1</a> OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_2\">39.2</a></highlight><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: IF YOU\u2019VE <span color=\"blue\">MET AN INTERLOPER</span>, GO TO <a href=\"campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_4\">39.4</a> OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_5\">39.5</a></highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/lure_of_the_valley/39_a_trick_of_the_light/39_1",
@@ -28,6 +29,6 @@
       "title": "39.6"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/a_trick_of_the_light"
 }

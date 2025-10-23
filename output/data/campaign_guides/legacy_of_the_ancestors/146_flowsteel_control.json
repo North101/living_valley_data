@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/146_flowsteel_control",
   "title": "146. Flowsteel Control",
   "content": "<p><b><highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/146_flowsteel_control/146_1\">146.1</a></highlight></b> <b><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/146_flowsteel_control/146_2\">146.2</a></highlight></b></p>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/146_flowsteel_control/146_1",
@@ -12,6 +13,6 @@
       "title": "146.2"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/flowsteel_controls"
 }

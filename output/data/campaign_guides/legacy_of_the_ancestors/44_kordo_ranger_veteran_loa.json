@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa",
   "title": "44. Kordo, Ranger Veteran (LOA)",
   "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU\u2019VE STAGED THE <span color=\"blue\">STAGED THE HUNT</span> AND COMPLETED ONE THOUSAND LEGS, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_2_loa\">44.2</a></li><li>IF YOU\u2019VE COMPLETED LIMITED TIME OFFER, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_1_loa\">44.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_3_loa\">44.3</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon></p><ul><li>IF YOU\u2019VE STAGED THE <span color=\"blue\">STAGED THE HUNT</span> AND COMPLETED ONE THOUSAND LEGS, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_5_loa\">44.5</a></li><li>IF YOU\u2019VE COMPLETED ONE THOUSAND LEGS, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_6_loa\">44.6</a></li><li>IF YOU ARE AT A LOCATION IN THE ARCOLOGY, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_7_loa\">44.7</a></li><li>IF HELPING HANDS IS ATTACHED, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_4_loa\">44.4</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_8_loa\">44.8</a></li></ul></highlight><highlight highlight=\"clear\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span> GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_9_loa\">44.9</a></highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_1_loa",
@@ -40,6 +41,6 @@
       "title": "44.9 (LOA)"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/kordo_ranger_veteran"
 }

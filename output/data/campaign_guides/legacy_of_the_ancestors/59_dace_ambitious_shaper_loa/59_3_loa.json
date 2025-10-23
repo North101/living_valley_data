@@ -2,7 +2,18 @@
   "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_3_loa",
   "title": "59.3 (LOA)",
   "content": "<blockquote><p>\u201cWell, since you asked, I\u2019ve received a really interesting request,\u201d Dace says. \u201cYou know Oura Vos, right? Well, with Harlan and Quisi traveling on their own, I guess she\u2019s decided to have her own adventure. She\u2019s planning on free climbing the Plummet!\u201d </p><p>You can\u2019t help but feel impressed as you remember the towering cliff rising above the Valley. Did Oura approach Dace because that\u2019s where Dace learned to shape the winds and fly? </p><p>Dace shakes her head. \u201cNo, no. Every time I\u2019ve visited the Plummet, I\u2019ve either been flying above it or falling past it! I wouldn\u2019t know the first thing about climbing the cliff.\u201d </p><p>She pauses for a moment, and you see a hint of the old nervousness in her eyes. \u201cI \u2026 don\u2019t suppose you\u2019d be willing to come with me? Watch Oura make her big climb?\u201d  </p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) Accompany Dace to the Plummet.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from Dace and attach <b>HELPING HAND</b>. Search the Valley Set for Oura Vos, Traveler and set her aside.</p><p><b color=\"red\">B) Some other time.</b> Discard Dace. Each Ranger soothes 2 fatigue.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_3"
 }

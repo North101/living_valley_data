@@ -2,7 +2,18 @@
   "id": "campaign_guides/lure_of_the_valley/1_missions/1_20",
   "title": "1.20",
   "content": "<p>Read one entry based on how many days have passed since receiving <b>JOURNEY (ALLUVIAL RUINS):</b></p><blockquote><p><b>0 - 1:</b> You climb to the top of the ruined tower Aell described, careful to avoid the reclaimers nesting throughout the ruins. You see Aell sitting in a small, well-concealed shelter. He beckons you over. \u201cI made good time on my errand,\u201d he says, patting a cloth-wrapped conduit lying next to him. \u201cI\u2019m glad you did the same.\" He leans close. \"You weren't kidding. There are so many reclaimers here!\u201d</p></blockquote><blockquote><p><b>2+:</b> You climb to the top of the ruined tower Aell described, careful to avoid the reclaimers nesting throughout the ruins. You see Aell sleeping in a small, well-concealed shelter. You shake him awake, and he startles before recognizing you. \u201cThere you are!\u201d he hisses. \u201cI\u2019ve been waiting for days; what took you so long? There are reclaimers everywhere!\u201d</p></blockquote><blockquote><p>Aell leads you to the edge of the tower, and you look down into a vast pit teeming with reclaimers consuming the heart of the ruins. \u201cThis is going to be dangerous,\u201d Aell says, and you agree. \u201cDo you want to rest before we begin? We only have one shot at this.\u201d</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p color=\"red\">A) Rest first (ends the day).</p><blockquote><p>You set up camp beside Aell's shelter, and lie down for what will surely be a fitful night\u2019s sleep.</p></blockquote><p>Complete the <b>JOURNEY (ALLUVIAL RUINS)</b> mission, and gain the <b>WASHED AWAY</b> mission. Record <span color=\"blue\">1.21</span> above the next day on the day track.</p><p><b>End the day. You are considered to have camped.</b></p><p color=\"red\">B) There is no time to waste!</p><blockquote><p>You lock eyes with Aell and nod to each other. He carefully unwraps what appears to be a long wooden cylinder, woven through with delicate copper wire. He picks it up, and it makes a hissing sound like a far-off deluge. The hairs on your arms start to rise as he begins to channel through the conduit, and you can feel the humidity rise and the wind pick up.</p><p>\u201cPosition yourself upstream,\u201d he says. It may take hours for the flooding to begin. Once it does, you\u2019re going to need to direct the flow of water for maximum effect. Otherwise, this whole place may be washed away, or we may not hit the nest at all!\"</p><p>Aell adjusts his hat and flashes a confident smile. \"Just let me know if you need assistance. And keep those reclaimers off of me!\u201d With that, he raises his conduit, and the skies instantly darken.</p></blockquote><p color=\"blue\"><i>Clear Aell with <icon icon=\"progress\">&nbsp;</icon> to move a Flood card.</i></p><p>Complete the <b>JOURNEY (ALLUVIAL RUINS)</b> mission, and gain the <b>WASHED AWAY</b> mission. Replace the current weather with Downpour (if it is not already in play).</p><p>Search the Marsh of Rebirth set for Aell, Ambitious Shaper, and put him into play within reach of a Ranger of your choice. Do not read his entry. Search the General set for all Reclaimers, and shuffle them into the path deck.</p><p>Finally, after you have completed arrival setup, search the General set for one Flood, and put it into play.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_20"
 }

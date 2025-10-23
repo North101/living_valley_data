@@ -2,6 +2,7 @@
   "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin",
   "title": "60. Elder Mora Orlin",
   "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU\u2019VE COMPLETED LURE (UMBRA), GO TO <a href=\"campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_1\">60.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_2\">60.2</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF YOU ARE ON OR HAVE COMPLETED LURE (UMBRA), GO TO <a href=\"campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_3\">60.3</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_4\">60.4</a></li></ul></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_5\">60.5</a></highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_1",
@@ -24,6 +25,6 @@
       "title": "60.5"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/elder_mora_orlin"
 }

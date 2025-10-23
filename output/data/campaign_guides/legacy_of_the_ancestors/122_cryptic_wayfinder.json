@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder",
   "title": "122. Cryptic Wayfinder",
   "content": "<p><b><highlight highlight=\"blue\">ENTERS PLAY, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder/122_1\">122.1</a></highlight></b> <b><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder/122_2\">122.2</a></highlight></b></p>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/122_cryptic_wayfinder/122_1",
@@ -12,6 +13,6 @@
       "title": "122.2"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/cryptic_wayfinder"
 }

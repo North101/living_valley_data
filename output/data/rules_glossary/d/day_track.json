@@ -2,7 +2,8 @@
   "id": "rules_glossary/d/day_track",
   "title": "Day Track",
   "content": "<p>The day track on the <a href=\"rules_glossary/c/campaign_tracker\">campaign tracker</a>  keeps track of how many days have passed during your <a href=\"rules_glossary/c/campaign\">campaign</a> . At the end of each day, cross off that day on the day track. Each day has a \u201crecommended <a href=\"rules_glossary/w/weather\">weather</a>\u201d card listed underneath it to use during <a href=\"rules_glossary/s/setup\">setup</a>.</p><p>Many of the outcomes of different <a href=\"rules_glossary/m/missions\">missions</a> change based on how many days you take to complete them, and other elements of the story may change based on how much time has passed.</p><p>During step 6 of setup, read any entries listed over the current day. The <a href=\"rules_glossary/c/campaign_guide\">campaign guide</a>  may instruct you to record entries above certain days based on your actions in the Valley.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/D/day_track"
 }

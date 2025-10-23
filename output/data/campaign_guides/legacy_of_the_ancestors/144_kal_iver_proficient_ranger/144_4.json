@@ -2,7 +2,18 @@
   "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_4",
   "title": "144.4",
   "content": "<blockquote><p>\u201cYou\u2019re not ready to give up, are you?\u201d says Kal from a short distance ahead. \u201cI\u2019ve barely worked up a sweat!\u201d</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) Not on your life, Kal Iver!</b> Discard all <icon icon=\"progress\">&nbsp;</icon> and 1 edge from Kal. Each Ranger soothes 1 fatigue. <i color=\"blue\">Travel to one of the Artery locations before Kal gains the edge over you.</i></p><p><b color=\"red\">B) I suppose I am.</b> Each Ranger soothes 1 fatigue. Discard Kal Iver.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_4"
 }

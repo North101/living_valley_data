@@ -2,12 +2,13 @@
   "id": "rules_glossary/o",
   "title": "O",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/o/obstacle_keyword",
       "title": "Obstacle (Keyword)"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/o"
 }

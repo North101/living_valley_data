@@ -2,7 +2,34 @@
   "id": "rules_glossary/c/customizing_ranger_decks",
   "title": "Customizing Ranger Decks",
   "content": "<p>As you progress through the <a href=\"rules_glossary/c/campaign\">campaign</a> , your Ranger\u2019s deck will change as you unlock new cards and replace the cards with which you began the campaign. This represents your Ranger learning from experience and gaining access to new and better gear.</p><p>There are three ways you can alter your deck during a campaign:</p><h1 id=\"permanent-alterations\">Permanent Alterations</h1><p>Some effects during gameplay may make permanent changes to your deck. These effects usually allow you to trade one card from your deck for one other card from the starting <a href=\"rules_glossary/r/ranger_cards\">Ranger card</a> list. You can never go over two copies of the same card with these changes. These alterations to your deck are permanent and cannot be reversed except by other similar effects found during play.</p><p>You cannot add cards with the Expert trait to your deck by any means, including permanent alterations, unless they are from your chosen background or speciality.</p><h1 id=\"swapping-rewards-in-and-out\">Swapping Rewards In and Out</h1><p>If you <a href=\"rules_glossary/e/end_the_day\">end the day</a> by camping, you can use the downtime to reorganize your gear and think on your experiences.</p><p>If you ended the day by camping, before you start the next day, you may choose up to two copies of any <a href=\"rules_glossary/r/rewards\">reward</a> card that you've unlocked, and for which you meet the <a href=\"rules_glossary/a/aspects\">aspect</a>  requirement, and add them to your deck. For each reward card you add, you must choose a non-<a href=\"rules_glossary/m/maladies\">malady</a> card to remove from your deck.</p><p>If the removed card is another reward, return it to the <a href=\"rules_glossary/c/the_collection\">collection</a>. But if the removed card is a <a href=\"rules_glossary/s/starting_cards\">starting</a> Ranger card, set it aside. These displaced cards can be swapped back into your deck any time you camp in the same way as rewards, and are not part of the collection.</p><h1 id=\"maladies\">Maladies</h1><p>Maladies represent the lingering negative effects of the trials your Ranger has endured. The primary <a href=\"rules_glossary/m/maladies\">malady</a> that can be added to your deck is Lingering Injury, which is added to your deck if you are forced to <a href=\"rules_glossary/e/end_the_day\">end the day</a> after suffering three <a href=\"rules_glossary/i/injury\">injuries</a>.</p><p>Maladies are always in addition to the thirty cards normally in your Ranger deck and cannot be swapped out for reward cards, traded away to merchants, or removed by any other method apart from what is described on the malady card itself.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#permanent-alterations",
+      "title": "Permanent Alterations"
+    },
+    {
+      "id": "#swapping-rewards-in-and-out",
+      "title": "Swapping Rewards In and Out"
+    },
+    {
+      "id": "#maladies",
+      "title": "Maladies"
+    }
+  ],
+  "links": [
+    {
+      "id": "#permanent-alterations",
+      "title": "Permanent Alterations"
+    },
+    {
+      "id": "#swapping-rewards-in-and-out",
+      "title": "Swapping Rewards In and Out"
+    },
+    {
+      "id": "#maladies",
+      "title": "Maladies"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/rules_glossary/C/customizing_ranger_decks"
 }

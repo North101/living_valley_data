@@ -2,7 +2,8 @@
   "id": "rules_glossary/e/effort",
   "title": "Effort",
   "content": "<p>When you perform a <a href=\"rules_glossary/t/tests\">test</a>, you <a href=\"rules_glossary/c/commit\">commit</a>  effort. The more effort you commit to a test, the more likely it is to succeed.</p><p>Your <b>committed effort</b> is equal to all effort <a href=\"rules_glossary/c/commit\">committed</a>  from any sources in step 2 of the test.</p><p>Your <b>resulting effort</b> is equal to your committed effort with any modifiers from the <a href=\"rules_glossary/c/challenge_cards\">challenge card</a>  or other effects applied. When the results of tests and other effects that scale off of the \"effort\" of a test, they scale off of this resulting effort.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/E/effort"
 }

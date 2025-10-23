@@ -2,6 +2,7 @@
   "id": "rules_glossary/r",
   "title": "R",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/r/ranger_cards",
@@ -52,6 +53,6 @@
       "title": "Rules Step"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/r"
 }

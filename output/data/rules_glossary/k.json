@@ -2,12 +2,13 @@
   "id": "rules_glossary/k",
   "title": "K",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/k/keywords",
       "title": "Keywords"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/k"
 }

@@ -2,6 +2,7 @@
   "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery",
   "title": "91. Biscuit Delivery",
   "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>KORDO, RANGER VETERAN, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_1\">91.1</a></li><li>SPIRIT SPEAKER NAL, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_2\">91.2</a></li><li>HY PIMPOT, CHEF, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_3\">91.3</a></li><li>QUISI VOS, RASCAL, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_4\">91.4</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>KORDO, RANGER VETERAN, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_5\">91.5</a></li><li>SPIRIT SPEAKER NAL, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_6\">91.6</a></li><li>HY PIMPOT, CHEF, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_7\">91.7</a></li><li>QUISI VOS, RASCAL, GO TO <a href=\"campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_8\">91.8</a></li></ul></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO THE NORMAL JOURNAL ENTRY FOR THAT CHARACTER</highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_1",
@@ -36,6 +37,6 @@
       "title": "91.8"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/biscuit_delivery"
 }

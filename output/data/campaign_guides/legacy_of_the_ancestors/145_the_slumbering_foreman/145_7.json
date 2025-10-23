@@ -2,7 +2,18 @@
   "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_7",
   "title": "145.7",
   "content": "<blockquote><p>Unpowered as it is, the machine sits in deep slumber, unable to budge or perform its duties. Although you really don\u2019t have time to mess with ancient machines, a part of you can\u2019t help but wonder what would happen if you linked the machine to some of the external power sources you carry with you.</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) We should power it up.</b> Discard <icon icon=\"progress\">&nbsp;</icon> from the Slumbering Foreman until it has 1 fewer <icon icon=\"progress\">&nbsp;</icon> than its threshold. <i color=\"blue\">(Add power tokens to the Slumbering Foreman to reactivate it, then clear it with <icon icon=\"progress\">&nbsp;</icon> to proceed.)</i></p><p><b color=\"red\">B) More pressing matters have come up.</b> Discard the Slumbering Foreman. Each Ranger soothes 2 fatigue.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_slumbering_foreman/145_7"
 }

@@ -2,7 +2,18 @@
   "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_5_loa",
   "title": "45.5 (LOA)",
   "content": "<blockquote><p>Do you remember how I spoke of this presence I\u2019ve felt during our meeting with Elder Thrush\u2014the stirring unease of some undefinable presence within the arcology? I\u2019ve been attempting to reach it to no avail. </p><p>\u201cI think, however, that I may have a solution: Greenbriar Knoll. It is a place of great power. Were we to go there, I should be able to harness that power and, with the help of the spirits, use it to penetrate whatever barrier stands between me and the elusive presence.</p><p>\u201cDo you have time to accompany me to Greenbriar Knoll? I would certainly appreciate the company.\u201d </p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) You can count on me.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> and attach the <b>HELPING HAND</b> mission to Spirit Speaker Nal. Accompany Nal to Greenbriar Knoll.</p><p><b color=\"red\">B) Sorry, Nal. Greenbriar Knoll gives me the creeps.</b> Discard Spirit Speaker Nal. Each Ranger soothes 2 fatigue.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_5"
 }

@@ -2,7 +2,8 @@
   "id": "rules_glossary/r/reshuffle_icon",
   "title": "Reshuffle Icon",
   "content": "<p>After resolving a <a href=\"rules_glossary/t/tests\">test</a>, if any <a href=\"rules_glossary/c/challenge_cards\">challenge cards</a>  that show the reshuffle icon <icon icon=\"reshuffle\">&nbsp;</icon> were put into the discard, shuffle the challenge discard back into the challenge deck.</p><ul><li>Occasionally, rules effects other than tests may have you draw a challenge card as a randomizer. In these cases, do not resolve challenge effects unless otherwise specified. However, if the challenge card shows a <a href=\"rules_glossary/r/reshuffle_icon\">reshuffle icon</a> (<icon icon=\"reshuffle\">&nbsp;</icon>) and is <a href=\"rules_glossary/d/discard\">discarded</a>, shuffle the challenge discard back into the challenge deck.</li></ul>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/R/reshuffle_icon"
 }

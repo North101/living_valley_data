@@ -2,6 +2,7 @@
   "id": "campaign_guides",
   "title": "Campaign Guides",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/lure_of_the_valley",
@@ -12,6 +13,6 @@
       "title": "Legacy of the Ancestors"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/campaign-guides"
 }

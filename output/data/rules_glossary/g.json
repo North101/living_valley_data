@@ -2,6 +2,7 @@
   "id": "rules_glossary/g",
   "title": "G",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/g/gear",
@@ -20,6 +21,6 @@
       "title": "Group Tests"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/g"
 }

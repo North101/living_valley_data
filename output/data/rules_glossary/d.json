@@ -2,6 +2,7 @@
   "id": "rules_glossary/d",
   "title": "D",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/d/dangerous_keyword",
@@ -40,6 +41,6 @@
       "title": "Dodge"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/d"
 }

@@ -2,12 +2,13 @@
   "id": "campaign_guides/legacy_of_the_ancestors/19_the_plummet",
   "title": "19. The Plummet",
   "content": "<highlight highlight=\"blue\">IF DACE IS IN PLAY, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/19_the_plummet/19_1\">19.1</a></highlight><br /><p><b>OTHERWISE, READ:</b></p><blockquote><p>The Plummet is visible from kilometers away, a perfectly vertical, sheer cliff looming over the Valley. It\u2019s said to be impossible to climb, so the only way to the top is to traverse a series of dangerous trails around the edges, to make an approach along the lip of the Valley from the north, or to zip to the summit on a spiderline.</p></blockquote>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/19_the_plummet/19_1",
       "title": "19.1"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_plummet"
 }

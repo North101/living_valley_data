@@ -2,7 +2,18 @@
   "id": "campaign_guides/legacy_of_the_ancestors/138_mysterious_seed/138_5",
   "title": "138.5",
   "content": "<blockquote><p>As soon as your fingers brush across the surface of the seed, you\u2019re struck with a single, all-consuming thought: You must protect this seed. Even as you snatch up the spherical object and cradle it protectively in your arms, visions dance through your mind. You see the endless green expanse of the Verdessa. Then a towering, blue-white column \u2026 Wait, that\u2019s Tumbledown Falls. As soon as you recognize it, you\u2019re filled with certainty of purpose\u2014you must take the seed to the Cerulean Curtain.  </p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) Help the seed.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from the Seed and attach the <b>HELPING HAND</b> mission to it. <i color=\"blue\">You must bring the Seed to the Cerulean Curtain to help it.</i></p><p><b color=\"red\">B) No \u2026 actually, why don\u2019t you help the seed?</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from the Seed and attach the <b>HELPING HAND</b> mission to it. <i color=\"blue\">You must bring the Seed to the Cerulean Curtain to help it.</i></p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/mysterious_seed/138_5"
 }

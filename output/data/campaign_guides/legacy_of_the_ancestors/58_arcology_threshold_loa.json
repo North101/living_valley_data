@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa",
   "title": "58. Arcology Threshold (LOA)",
   "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF <span color=\"blue\">SPIRE FALLEN</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_1_loa\">58.1</a></li><li>IF YOU'RE ON THE DESCENT, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_2_loa\">58.2</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_3_loa\">58.3</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"ranger_token\">&nbsp;</icon>:</p><ul><li>IF YOU'RE ON THE DESCENT, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_4_loa\">58.4</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_5_loa\">58.5</a></li></ul></highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/58_arcology_threshold_loa/58_1_loa",
@@ -24,6 +25,6 @@
       "title": "58.5 (LOA)"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/arcology_threshold"
 }

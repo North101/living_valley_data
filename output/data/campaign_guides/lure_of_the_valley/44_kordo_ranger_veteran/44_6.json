@@ -2,7 +2,18 @@
   "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_6",
   "title": "44.6",
   "content": "<blockquote><p>\u201cYou know,\u201d Kordo says, a sly smile crossing his weather-beaten features. \u201cNow that you\u2019re no longer in training, Elder Thrush can\u2019t stop you from coming on a hunt with me on account of it being \u2018too dangerous.\u2019\u201d</p><p>\u201cUp in the Northern Woods, the ones in the mountains beyond the Valley, there\u2019s something up there that\u2019s evaded every snare, and I\u2019ve lost every time I try to follow it. To this day, I haven\u2019t spotted more than a shadow in the trees.\u201d He sticks out his hand. \u201cWhat do you say, fellows? Want to head up north with me and help me catch my greatest quarry?\u201d</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><span color=\"red\">A) Accompany Kordo to the Northern Outpost.</span> Discard all <icon icon=\"progress\">&nbsp;</icon>, and attach the HELPING HAND mission to Kordo, Ranger Veteran.</p><p><span color=\"red\">B) Some other time.</span> Discard Kordo, Ranger Veteran. Each Ranger soothes 2 fatigue.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_6"
 }

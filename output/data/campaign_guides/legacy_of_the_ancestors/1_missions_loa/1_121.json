@@ -2,7 +2,26 @@
   "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_121",
   "title": "1.121",
   "content": "<highlight highlight=\"blue\">ARRIVE: VERDANT SPHERE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/106_the_verdant_sphere/106_1\">106.1</a></highlight><highlight highlight=\"clear\">ENTERS PLAY: FAMILIAR VERDESSIAN, GO TO <a href=\"#1121a\">1.121A</a></highlight><highlight highlight=\"blue\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: FAMILIAR VERDESSIAN, GO TO <a href=\"#1121b\">1.121B</a></highlight><highlight highlight=\"clear\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: USE THE NORMAL ENTRY</highlight><h1 id=\"1121a\">1.121A</h1><blockquote><p>As you pull at the densely-packed vines, you hear a sound like dried leaves being crushed underfoot. You turn, and, to your surprise, see a familiar Verdessian standing behind you. </p><p>It regards you for a long moment, then its attention is drawn to the curtain of vines. Slowly, it moves toward them, its arms stretching like newly sprouted plants yearning for the sun. </p></blockquote><p color=\"blue\"><i>Clear the Familiar Verdessian with <icon icon=\"progress\">&nbsp;</icon> to observe its behavior.</i></p><h1 id=\"1121b\">1.121B</h1><blockquote><p>The Verdessian reaches out with its long-fingered hands and grasps the vines. Its fingers appear to dissolve into them, and as you watch, the vines slowly start to wither, as if the Verdessian were draining them of moisture. Then, with a sudden wrenching motion, the Verdessian rips several vines away. Apparently, it wants to help.</p></blockquote><p>Move 2 vines from Prototype to the Familiar Verdessian. Then discard all <icon icon=\"progress\">&nbsp;</icon> from the Verdessian. It remains in play.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#1121a",
+      "title": "1.121A"
+    },
+    {
+      "id": "#1121b",
+      "title": "1.121B"
+    }
+  ],
+  "links": [
+    {
+      "id": "#1121a",
+      "title": "1.121A"
+    },
+    {
+      "id": "#1121b",
+      "title": "1.121B"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_121"
 }

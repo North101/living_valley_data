@@ -2,6 +2,7 @@
   "id": "campaign_guides/lure_of_the_valley/8_meadow",
   "title": "8. Meadow",
   "content": "<highlight highlight=\"blue\">IF TALA THE RED IS IN PLAY, GO TO <a href=\"campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_10\">84.10</a></highlight><highlight highlight=\"clear\">IF YOU HAVE <span color=\"blue\">CELEBRATED THE HARVEST FESTIVAL</span> GO TO <a href=\"campaign_guides/lure_of_the_valley/8_meadow/8_1\">8.1</a></highlight><highlight highlight=\"blue\">IF IT IS CURRENTLY DAY 6, 12, 18, 24, OR 30 GO TO <a href=\"campaign_guides/lure_of_the_valley/8_meadow/8_2\">8.2</a></highlight><highlight highlight=\"clear\">OTHERWISE, READ:</highlight><br /><blockquote><p>The grasses in this part of the Valley rise so tall that you don\u2019t realize you\u2019ve reached Meadow until the path suddenly opens, revealing several humble cottages centered around the stump of a fallen dolewood. A herd of ironwool sheep tend to the grass.</p><p>A shepherd stands nearby, casually watching the sheep. He waves.</p><p>\u201cIf you\u2019re here for the festival, you\u2019re early,\u201d he says. \u201cPretty soon, this place will be full of people from all over the Valley\u2014and sometimes beyond! There\u2019s food, drink, music, and dancing! If there\u2019s one thing we know how to do in Meadow, it\u2019s how to throw a party.\u201d</p><p>An ironwool sheep pauses to give you a look, then quietly goes back to its grazing.</p></blockquote>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/lure_of_the_valley/8_meadow/8_1",
@@ -12,6 +13,6 @@
       "title": "8.2"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/meadow"
 }

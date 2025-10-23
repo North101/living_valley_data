@@ -2,6 +2,7 @@
   "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth",
   "title": "70. Jaris, Willful Youth",
   "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU\u2019VE <span color=\"blue\">FACED YOUR DEEPEST FEARS</span>, GO TO <a href=\"campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_1\">70.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_2\">70.2</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF HELPING HAND IS ATTACHED TO JARIS, GO TO <a href=\"campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_3\">70.3</a></li><li>IF YOU\u2019VE <span color=\"blue\">FACED YOUR DEEPEST FEARS</span>, GO TO <a href=\"campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_4\">70.4</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_5\">70.5</a></li></ul></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_6\">70.6</a></highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/lure_of_the_valley/70_jaris_willful_youth/70_1",
@@ -28,6 +29,6 @@
       "title": "70.6"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/jaris_willful_youth"
 }

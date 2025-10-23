@@ -2,7 +2,98 @@
   "id": "faq",
   "title": "Frequently Asked Questions",
   "content": "<p>Below you will find frequently asked questions concerning various rules and effects that you may encounter while playing Earthborne Rangers. If anything is ever unclear, feel free to reach out to us at <a href=\"mailto:info@earthbornegames.com\">info@earthbornegames.com</a> for a clarification. Frequently asked questions will end up here for everyone\u2019s reference.</p><hr /><h1 id=\"the-delightful-rule\">The Delightful Rule</h1><p>While playing Earthborne Rangers, always follow the \u201cdelightful rule.\u201d If you are ever unable to find the answer to a rules or timing conflict in our rules reference or this FAQ, resolve the conflict in the manner that would be the most beneficial to you and your fellow Rangers. If your group is unable to agree on a resolution, the decision falls to the lead Ranger.</p><hr /><h1 id=\"abilities-and-effects\">Abilities and Effects</h1><p><b>For cards with multiple effects, if I can\u2019t perform one of the effects, do I still perform the others?</b></p><blockquote><p>Yes. Always perform as many of the effects on a card as possible. The two exceptions are if the effect has a dependency noted by \"to\" or the \">>\" symbol. In those cases, if you can't perform one or more of the effects before the \"to\" or the \">>,\" you do not perform the effects that follow.</p></blockquote><p><b>What counts as a path card for the purpose of resolving card effects? (e.g. for Camoweave Cloak and Memorill Sketchpad) For example, does a being or feature from a Ranger deck count as a path card?</b></p><blockquote><p>For the purpose of resolving card effects, all beings and features are considered path cards while they are in play. See \"Features or Beings\" description under \"Play a Card\" on page 13 of the rulebook.</p></blockquote><p><b>Are response effects mandatory or optional?</b></p><blockquote><p>All response effects whose conditions are met are mandatory unless they include the word \"may\", are moments, or otherwise indicate that you can make a choice.</p></blockquote><p><b>Does moving tokens from one card to another count as \"adding\" them to the card to which they are moving?</b></p><blockquote><p>No. Tokens that are moved do not count as being \"added\" for the purposes of other effects.</p></blockquote><p><b>Several effects interacting are causing an infinite loop where the same effects repeat over and over, what do I do?</b></p><blockquote><p>Resolve each ability in the \"loop\" 3 times. Once this is done, the first ability in the loop fails to resolve, and you move on to next rules step.</p></blockquote><hr /><h1 id=\"campaign-guide\">Campaign Guide</h1><p><b>Do I read the \u201cstandard\u201d journal entry for a card when it is put directly into play by the campaign guide? What if the card is put directly into play by some other rules effects?</b></p><blockquote><p>No. When cards are put into play by the campaign guide or other rules effects, their standard entry is typically replaced by a custom entry, a crafted narrative unique to the situation, or instructions telling you to not read the standard entry. If it is not, read the standard entry.</p></blockquote><hr /><h1 id=\"challenge-effects\">Challenge Effects</h1><p><b>If a challenge effect does nothing but doesn\u2019t feature the \u201c>>\u201d notation, does it still count as \u201cresolving?\u201d</b></p><blockquote><p>No. If a challenge effect fails to do anything (because it doesn\u2019t have a target or the game state is such that it is made impotent), the challenge effect does not count as resolving. For example, the challenge effect on Black Mud exhausts your role. If your role is already exhausted, that challenge effect does not resolve.</p></blockquote><p><b>If a challenge effect moves a card to an area whose challenge effects have already been resolved, do the challenge effects on that card still resolve this test?</b></p><blockquote><p>No. Since challenge effects are completely resolved in one area before you move on to the next, the challenge effects on a card that moves to an area in which challenge effects have already been resolved do not.</p></blockquote><p><b>If a challenge effect places harm or progress on my turn, am I considered to have done that for the purposes of card effects? For example, if a challenge effect places harm on a flora, do I add a token to Loose Leaf Tea Kit?</b></p><blockquote><p>No. Only harm or progress placed by tests you perform or cards you play counts as having been placed by you. If on your turn, however, a challenge effect places enough harm or progress on a card to clear it, you are considered to have cleared that card.</p></blockquote><p><b>If the conditions for a challenge effect are not met, does it still \"resolve\" (for card effects like the response effect on Tracked)?</b></p><blockquote><p>No. The challenge effect only \"resolves\" if you draw its challenge icon and you meet all of the requirements before the \">>\" symbol.</p></blockquote><p><b>If an effect instructs me to resolve a challenge effect on an exhausted card, does it resolve?</b></p><blockquote><p>No.</p></blockquote><hr /><h1 id=\"locations\">Locations</h1><p><b>Are Spire and the Biological Outpost connected by a single river path?</b></p><blockquote><p>No. To travel between Spire and the Biological Outpost by river, you would need to first travel to Stoneweaver Bridge.</p></blockquote><p><b>Can I use card abilities to scout \"special\" decks like the Spire deck or detritus deck?</b></p><blockquote><p>No. Effects that target the path deck can only be used on the primary path deck and not on any custom-named decks unless otherwise specified.</p></blockquote><hr /><h1 id=\"missions\">Missions</h1><p><b>When I gain a mission with a subject (such as Lure or Search), but that subject is in play or in a deck or discard, what do I do?</b></p><blockquote><p>When you gain a mission with a subject, that subject is immediately attached facedown to the mission in the Surroundings, regardless of where the subject is currently. If it is in play, move it to the mission and flip it facedown. If it is in a deck or discard, search that deck and discard for the subject and attach it facedown to the mission. (If the mission subject is the current location, leave it as is.)</p></blockquote><hr /><h1 id=\"path-cards\">Path Cards</h1><p><b>Can attached cards be moved by move effects?</b></p><blockquote><p>No. The card to which they are attached, however, may be moved (taking the attachment with it).</p></blockquote><p><b>Does Black Mud's \"1 progress per test\" restriction apply to progress added by challenge effects during test resolution?</b></p><blockquote><p>No, it only applies to progress added during step 4 of performing a test. Any progress added by challenge effects, or by card effects, is not restricted.</p></blockquote><hr /><h1 id=\"ranger-cards\">Ranger Cards</h1><p><b>What happens to a card if an effect causes it to go somewhere it doesn\u2019t belong? For example, what happens if I choose a Ranger being with Seen Through Cycles? Or if I were to discard Biscuit Basket while it\u2019s equipped?</b></p><blockquote><p>In most cases, the card is discarded and placed in the discard that matches its type (as denoted by the design on the back of the card). Mission cards are the one exception. Instead of being discarded, they are instead returned to the Surroundings. See \"Mission Cards\" on page 30 of the rulebook. Using the two examples, Seen Through Cycles would send a Ranger being to the Ranger discard. Biscuit Basket cannot be discarded from play since missions can only be removed from play by completing them (as noted on page 30).</p></blockquote><p><b>Can you trade for cards with the expert trait with the abilities on vendors like Ren Kobo, Kobo\u2019s Market or the village Elders?</b></p><blockquote><p>No. You cannot choose any card from a \"vendor\" that you wouldn't be able to choose at character creation.</p></blockquote><p><b>What effects count toward causing Paratrepsis Whistle's \"from a predator\" effect to resolve?</b></p><blockquote><p>If the injury or harm is caused by a challenge effect on a predator, you may resolve this effect. Additionally, if a separate effect checks for an active predator, scales the effect off of a predator's presence, or requires exhausting that predator, those effects would count as 'from a predator' and you may resolve Paratrepsis Whistle's effect.</p></blockquote><p><b>When can I use effects that copy another effect (like the effects on Perfect Recall and Functional Replica)?</b></p><blockquote><p>When you use one of these effects, you resolve the effect just as if you were using the gear or playing the card that the effect is copying. As such, you must follow all timing restrictions, response effects must follow the appropriate conditions, and any tests must be performed on your turn. You may never perform two tests in one turn, nor can you perform a test during another Ranger's turn.</p></blockquote><p><b>Favorite Gear reads: \"When you use a token from the attached gear.\" How does that interact with gear that have \"Use X tokens\" abilities? If you use 2 tokens, does it resolve only once? Or does it resolve once for each token used?</b></p><blockquote><p>It resolves once for each token used.</p></blockquote><p><b>When I interact past multiple path cards, is the fatigue they cause combined into one single instance of \"suffering fatigue?\" Or does each path card cause separate instances of fatigue? If I play Thoroughly Prepared in response, for example, does it apply to all the fatigue or just one path card's worth?</b></p><blockquote><p>The fatigue is caused in separate instances. For Thoroughly Prepared, you choose one instance of fatigue suffered, from one path card, and soothe that amount of fatigue instead.</p></blockquote><p><b>Where are moment cards as they're being played? When do they go to the discard? If I play a moment that affects my Ranger discard (such as Paths We've Roamed Before) can it affect itself in the discard pile?</b></p><blockquote><p>While in the process of resolving, a moment is considered \"being played,\" and not currently in any part of the play area, hand, or discard. So in the example, Paths We've Roamed Before could not affect itself. When a moment is played, it is discarded after its effect resolves (unless otherwise specified; e.g. Reverb Locket).</p></blockquote><hr /><h1 id=\"tests\">Tests</h1><p><b>If I perform a test that interacts with a being or feature that is within reach or along the way, and as a result of the test that being or feature moves to within reach of another Ranger, is that card still considered active for that test?</b></p><blockquote><p>No. When you perform a test \u2013 before you resolve challenge effects \u2013 the areas that count as active are \u201clocked in\u201d for the remainder of the test. For example, if you interact with a card that is within reach and then, as a result of the test, it moves to within reach of another Ranger, that card would not be considered active for the remainder of the test. Conversely, while you\u2019re resolving a test, a ready card that moves from an \u201cinactive\u201d area to an active one becomes active itself.</p></blockquote><p><b>Do cards attached to my role (e.g. Puffercrawler) fatigue me when I perform a test on my equipped gear?</b></p><blockquote><p>No. You only suffer fatigue from cards attached to your role when you interact with a card that is either within reach, along the way, or in the surroundings.</p></blockquote><p><b>Can effects that commit effort be used multiple times in a test? e.g. Memorill Sketchpad, Tracked, etc.</b></p><blockquote><p>Each effect can be resolved once each time the timing condition on the card triggers. (For example, if the timing condition is \"When a Ranger performs a test,\" the effect can only be resolved once each time a Ranger performs a test.)</p></blockquote><p><b>Can a test have difficulty 0? E.g. a test that scales with presence, but the card's presence is reduced to 0?</b></p><blockquote><p>Yes the lowest test difficulty is 0.</p></blockquote><p><b>If I commit a personality card with approach icons based on my current energy (such as Inventive) to a test and then, during the test, I spend more of that energy, does my amount of committed effort change?</b></p><blockquote><p>At the end of Step 2: Commit Effort, the amount of effort committed by cards is \"locked in\" as your committed effort for that test. So, in the case of Inventive, if the FOC is spent before the end of Step 2, the amount of committed effort is reduced. However, if the FOC is spent after Step 2, the committed effort does not change.</p></blockquote><hr /><h1 id=\"timing\">Timing</h1><p><b>When a rules effect prematurely ends the round, does that prevent Rangers from resting?</b></p><blockquote><p>When an effect \"ends the round\" you end the Ranger Turns phase of the current round. Any Rangers that have not already rested do not rest that round. Then, each of these effects instruct you to travel with special instructions. Resolve that travel as instructed, perform the Refresh phase, then proceed to a new round as normal.</p></blockquote><p><b>When a card with Flood attached is cleared during Rising Waters, which effect triggers? The \u201cclear\u201d effect on Rising Waters, or the \u201cLeaves Play\u201d effect on the Flood?</b></p><blockquote><p>The clear effect triggers before the leaves play effect, so Rising Waters takes precedent. The \"leaves play\" effect on Flood is intended to resolve only if the path card to which it is attached is discarded from play by any means apart from clearing it with progress or harm.</p></blockquote><hr /><h1 id=\"miscellaneous\">Miscellaneous</h1><p><b>Are token quantities limited to the number that come in the box?</b></p><blockquote><p>No. If you run out of tokens of a specific type, you can use whatever you'd like in their place (glass beads, wooden cubes, coins, dice, etc.).</p></blockquote><p><b>What information is carried over between days? If I play a second day in the same play session, do I keep my injuries? Do I keep my mission progress?</b></p><blockquote><p>The rules assume that the game is completely packed up between days. As such, anything that is not in your Ranger deck list, tracked on the campaign tracker, or established during the setup instructions is reset between days. This means you remove all injuries, and any mission progress that is not recorded on the campaign tracker is lost. Though any permanent alterations made to your Ranger deck are maintained. </p></blockquote><p><b>What cards count as being in my collection? How many copies of each card are there? Can I get extra copies of Helping Hand if I have more than one copy of the Core Set?</b></p><blockquote><p>Your collection is effectively all the cards you own. While you can have any number of copies of an individual Ranger card in your collection, you are still limited in the number of certain cards that can be included in your Ranger deck. </p><p>Additional copies of path, challenge, mission, and location cards beyond those found in a single copy of a product (core game or expansion), however, do not add to your collection as far as the rules of the game are concerned.</p><p>For example, you are limited to the two Helping Hand missions in one core set box. If an effect would instruct you to put a third copy of Helping Hand into play, you cannot help that person at the moment and must instead discard them.</p></blockquote>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#the-delightful-rule",
+      "title": "The Delightful Rule"
+    },
+    {
+      "id": "#abilities-and-effects",
+      "title": "Abilities and Effects"
+    },
+    {
+      "id": "#campaign-guide",
+      "title": "Campaign Guide"
+    },
+    {
+      "id": "#challenge-effects",
+      "title": "Challenge Effects"
+    },
+    {
+      "id": "#locations",
+      "title": "Locations"
+    },
+    {
+      "id": "#missions",
+      "title": "Missions"
+    },
+    {
+      "id": "#path-cards",
+      "title": "Path Cards"
+    },
+    {
+      "id": "#ranger-cards",
+      "title": "Ranger Cards"
+    },
+    {
+      "id": "#tests",
+      "title": "Tests"
+    },
+    {
+      "id": "#timing",
+      "title": "Timing"
+    },
+    {
+      "id": "#miscellaneous",
+      "title": "Miscellaneous"
+    }
+  ],
+  "links": [
+    {
+      "id": "#the-delightful-rule",
+      "title": "The Delightful Rule"
+    },
+    {
+      "id": "#abilities-and-effects",
+      "title": "Abilities and Effects"
+    },
+    {
+      "id": "#campaign-guide",
+      "title": "Campaign Guide"
+    },
+    {
+      "id": "#challenge-effects",
+      "title": "Challenge Effects"
+    },
+    {
+      "id": "#locations",
+      "title": "Locations"
+    },
+    {
+      "id": "#missions",
+      "title": "Missions"
+    },
+    {
+      "id": "#path-cards",
+      "title": "Path Cards"
+    },
+    {
+      "id": "#ranger-cards",
+      "title": "Ranger Cards"
+    },
+    {
+      "id": "#tests",
+      "title": "Tests"
+    },
+    {
+      "id": "#timing",
+      "title": "Timing"
+    },
+    {
+      "id": "#miscellaneous",
+      "title": "Miscellaneous"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/faq"
 }

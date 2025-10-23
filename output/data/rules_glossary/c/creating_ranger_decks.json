@@ -2,7 +2,50 @@
   "id": "rules_glossary/c/creating_ranger_decks",
   "title": "Creating Ranger Decks",
   "content": "<p>To start a <a href=\"rules_glossary/c/campaign\">campaign</a>  of Earthborne Rangers, you build your own custom Ranger character. You\u2019ll bring all the cards you need together in a way that tells the story of who your Ranger is, how they spent their formative years, and what specialized training they\u2019ve received before they completed the trials, rites, and ceremonies that welcomed them into the service of the Rangers.</p><p>If you are starting with the <a href=\"rules_glossary/p/prologue\">Prologue</a>, you will create a character as part of that process, but if you are jumping right into the game, you can follow these steps to create your Ranger.\u00a0</p><p>Once you become familiar with the deck customization process, you can build your deck in any order you like, but for your first time, we recommend performing the following steps in order:</p><h1 id=\"choose-your-aspects\">Choose Your Aspects</h1><p>There are a total of twelve different <a href=\"rules_glossary/a/aspects\">aspect</a>  cards to choose from, each of which features a different spread of values across the four <a href=\"rules_glossary/a/aspects\">aspects</a> , ranging from 3 to 1. On each aspect card, there is a high aspect (3), and a low aspect (1). Choose one of these cards for your Ranger.</p><p>Each <a href=\"rules_glossary/r/ranger_cards\">Ranger card</a> has an aspect requirement on the left-hand side of the card. If your corresponding aspect is not equal to or higher than that requirement, you cannot include that card in your deck.</p><h1 id=\"determine-your-personality\">Determine Your Personality</h1><p><a href=\"rules_glossary/p/personalities\">Personality</a> cards represent the type of person your Ranger is and how they engage with the world around them.\u00a0</p><p>Select four unique cards from the personality <a href=\"rules_glossary/s/sets\">set</a>: choose one personality card from each of the four different <a href=\"rules_glossary/a/aspects\">aspects</a>  (Awareness, Fitness, Focus, and Spirit), and add two copies of each chosen card to your Ranger deck.</p><h1 id=\"choose-your-background\">Choose Your Background</h1><p>Your Ranger\u2019s background represents their experience from early life and young adulthood. It contains the skills and equipment you bring with you into the Rangers. Choose one of the four background <a href=\"rules_glossary/s/sets\">sets</a>:</p><ul><li>Artisan</li><li>Forager</li><li>Shepherd</li><li>Traveler</li></ul><p>The background <a href=\"rules_glossary/s/sets\">sets</a> contain nine unique cards each. Select five of those cards from your chosen background, and add two copies of each of the selected cards to your Ranger deck.</p><h1 id=\"choose-your-specialty\">Choose Your Specialty</h1><p>Your Ranger\u2019s specialty represents the training and experience of your Ranger\u2019s adulthood and the specialized training they bring to the Rangers. Choose one of the four specialty sets:</p><ul><li>Artificer</li><li>Conciliator</li><li>Explorer</li><li>Shaper</li></ul><p>The specialty <a href=\"rules_glossary/s/sets\">sets</a> contain fourteen unique cards each. Select five cards from your chosen specialty, and add two copies of each of the selected cards to your Ranger deck.</p><p>Additionally, each specialty includes two <a href=\"rules_glossary/r/role\">role</a> cards. These roles do not go in your deck, but start the game <a href=\"rules_glossary/i/in_play\">in play</a> and offer you a special, repeatable ability you can use and rely on. Select one of those roles for your Ranger.</p><h1 id=\"choose-your-outside-interest\">Choose Your Outside Interest</h1><p>The last step to creating your Ranger is to select your outside interest\u2014a card that represents your hobbies and passions outside of your day-to-day life. This is a single card chosen from any specialty or background set. The chosen card cannot be a <a href=\"rules_glossary/r/role\">role</a> or have the expert trait. Add two copies of this card to your Ranger deck.</p><p>The first time you create a Ranger, this choice can be a daunting one, as nearly the entire card pool is at your disposal. If you prefer to choose from a shorter, curated list, please see the list of suggestions below:</p><ul><li>Ferinodex - <i>Artificer Specialty</i></li><li>Boundary Sensor - <i>Explorer Specialty</i></li><li>Intention Translator - <i>Conciliator Specialty</i></li><li>Ironwool Boots - <i>Traveler Background</i></li><li>Favorite Gear - <i>Artisan Background</i></li><li>Paratrepsis Whistle - <i>Shepherd Background</i></li><li>Familiar Ground - <i>Forager Background</i></li><li>Infusion Canteen - <i>Artificer Specialty</i></li></ul><p>Once you\u2019re done with this step, you\u2019ll have a total of thirty cards in your deck (fifteen unique cards, two copies of each), plus your role and aspect card. Your Ranger is now ready to begin their adventure!</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#choose-your-aspects",
+      "title": "Choose Your Aspects"
+    },
+    {
+      "id": "#determine-your-personality",
+      "title": "Determine Your Personality"
+    },
+    {
+      "id": "#choose-your-background",
+      "title": "Choose Your Background"
+    },
+    {
+      "id": "#choose-your-specialty",
+      "title": "Choose Your Specialty"
+    },
+    {
+      "id": "#choose-your-outside-interest",
+      "title": "Choose Your Outside Interest"
+    }
+  ],
+  "links": [
+    {
+      "id": "#choose-your-aspects",
+      "title": "Choose Your Aspects"
+    },
+    {
+      "id": "#determine-your-personality",
+      "title": "Determine Your Personality"
+    },
+    {
+      "id": "#choose-your-background",
+      "title": "Choose Your Background"
+    },
+    {
+      "id": "#choose-your-specialty",
+      "title": "Choose Your Specialty"
+    },
+    {
+      "id": "#choose-your-outside-interest",
+      "title": "Choose Your Outside Interest"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/rules_glossary/C/creating_ranger_decks"
 }

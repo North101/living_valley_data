@@ -2,6 +2,7 @@
   "id": "rules_glossary/s",
   "title": "S",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/s/scout",
@@ -72,6 +73,6 @@
       "title": "Surroundings"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/s"
 }

@@ -13,6 +13,10 @@ Afterwards it'll be almost instant as it'll read the files from `./cache/` inste
   "id": string,
   "title": string,
   "content": string | null,
+  "anchors": [{
+    "id": string,
+    "title": string
+  }],
   "links": [{
     "id": string,
     "title": string
@@ -31,6 +35,10 @@ The id of the resource. It's also the path to that resource
 ## title
 
 The title of the resource
+
+## anchors
+
+List of any headings with an anchor
 
 ## links
 

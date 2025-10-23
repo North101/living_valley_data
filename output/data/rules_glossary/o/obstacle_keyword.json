@@ -2,7 +2,8 @@
   "id": "rules_glossary/o/obstacle_keyword",
   "title": "Obstacle (Keyword)",
   "content": "<p>You cannot <a href=\"rules_glossary/i/interact\">interact</a> with a card if a <a href=\"rules_glossary/r/ready\">ready</a> card with the obstacle <a href=\"rules_glossary/k/keywords\">keyword</a> is between you and that card.\u00a0For example, an obstacle <a href=\"rules_glossary/w/within_reach\">within reach</a> prevents you from <a href=\"rules_glossary/i/interact\">interacting</a> with cards <a href=\"rules_glossary/a/along_the_way\">along the way</a>  or in the <a href=\"rules_glossary/s/surroundings\">surroundings</a>. An obstacle along the way prevents you from <a href=\"rules_glossary/i/interact\">interacting</a> with cards in the surroundings.</p><p>You cannot <a href=\"rules_glossary/t/travel\">travel</a> if there are any <a href=\"rules_glossary/r/ready\">ready</a> cards with the obstacle keyword <a href=\"rules_glossary/i/in_play\">in play</a>. This includes travel triggered by cards or the <a href=\"rules_glossary/c/campaign_guide\">campaign guide</a> .</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/O/obstacle"
 }

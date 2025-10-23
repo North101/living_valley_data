@@ -2,7 +2,8 @@
   "id": "updates/card_errata/loa_mission_set_card_10_of_42",
   "title": "LoA Mission Set Card 10 of 42",
   "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><p>Replace \"1.02d\" with <code>1.102d</code>.</p><p>Replace \"1.02c\" with <code>1.102c</code>.</p><p>Replace \"1.02b\" with <code>1.102b</code>.</p><p><img src=\"https://thelivingvalley.earthbornegames.com/assets/images/EBR003_Cards_Missions_10of42-bbb2c2fd76be198085de8af1c8fd0de5.png#errata_cards\" /></p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/updates/card_errata/loa_mission_10_of_42"
 }

@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/155_elevated_passage",
   "title": "155. Elevated Passage",
   "content": "<blockquote><p>The narrow suspended walkway rises sharply into the gloom above. It seems navigable, but the steepness of the grade and the trickling water running down the slope should make the climb more difficult. </p></blockquote><span color=\"blue\">Travel while all <icon icon=\"ranger_token\">&nbsp;</icon> are on this feature to move to a location on a higher stratum.</span>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/155_elevated_passage/155_1",
@@ -12,6 +13,6 @@
       "title": "155.2"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/elevated_passage"
 }

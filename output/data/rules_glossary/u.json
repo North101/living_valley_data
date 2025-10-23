@@ -2,6 +2,7 @@
   "id": "rules_glossary/u",
   "title": "U",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/u/unique_keyword",
@@ -16,6 +17,6 @@
       "title": "Use"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/u"
 }

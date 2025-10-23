@@ -2,7 +2,8 @@
   "id": "rules_glossary/r/rest",
   "title": "Rest",
   "content": "<p>If you are finished taking <a href=\"rules_glossary/t/turns\">turns</a> for the <a href=\"rules_glossary/r/round\">round</a>, you can choose to rest. You can resolve any effects that resolve \u201cwhen you rest,\u201d then your <a href=\"rules_glossary/t/turns\">turn</a> ends. You cannot take another turn this round.</p><p>Once all Rangers have rested, Ranger turns are over, and play proceeds to <a href=\"rules_glossary/p/phase_3_travel\">Phase 3: Travel</a>.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/R/rest"
 }

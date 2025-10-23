@@ -2,6 +2,7 @@
   "id": "updates/campaign_guide_errata_legacy_of_the_ancestors",
   "title": "Campaign Guide Errata - Legacy of the Ancestors",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "updates/campaign_guide_errata_legacy_of_the_ancestors/1_101",
@@ -24,6 +25,6 @@
       "title": "107.2"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/campaign-guide-errata---legacy-of-the-ancestors"
 }

@@ -2,7 +2,18 @@
   "id": "campaign_guides/legacy_of_the_ancestors/1_missions_loa/1_125",
   "title": "1.125",
   "content": "<blockquote><p>The chamber shakes as the heart's attendant systems shut down one after the other. Somewhere, a massive slab of support buttressing peels away from the cavern wall and goes tumbling to the floor with a thunderous crash and a cloud of dust. </p><p>You feel deep regret at destroying the heart, but you know that this was the only way to ensure the people of the Valley would remain safe. You pause, then after a deep breath, you yank the last of the components free. </p></blockquote><p>Go to <a href=\"#1125a\">1.125a</a></p><h1 id=\"1125a\">1.125A</h1><blockquote><p>The heart\u2019s beat begins to accelerate, thumping frantically with fluttering spasms. The floor shakes beneath your feet. Jets of vaporized nutrient fluid vent from split conduits as rocks fall from the ceiling. The heart gives one last arrhythmic beat, then seizes up and spasms before growing still. </p><p>All around, the hundreds of lights within the chamber begin to wink out one by one, and the chamber\u2019s ceiling continues to send down an intermittent rain of loose rock. Even as the girders groan and creak high above, the last of the lights die out, plunging you and the chamber into total darkness. </p></blockquote><p>Complete all Story and Interlude missions. Cross off any numbers starting with <span color=\"blue\">199</span> above the day track. Record <span color=\"blue\">KILLED THE HEART</span> and record <span color=\"blue\">1.129</span> above the next day on the day track.</p><p><b>End the day.</b></p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#1125a",
+      "title": "1.125A"
+    }
+  ],
+  "links": [
+    {
+      "id": "#1125a",
+      "title": "1.125A"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/missions/1_125"
 }

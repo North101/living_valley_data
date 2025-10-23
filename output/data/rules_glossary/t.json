@@ -2,6 +2,7 @@
   "id": "rules_glossary/t",
   "title": "T",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/t/talespinner_background",
@@ -44,6 +45,6 @@
       "title": "Turns"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/t"
 }

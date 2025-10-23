@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen",
   "title": "132. The Ferrymen",
   "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU HAVE COMPLETED MYCELIAL NETWORKING, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_1\">132.1</a></li><li>IF YOU ARE CURRENTLY ON MYCELIAL NETWORKING, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_2\">132.2</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_3\">132.3</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF YOU HAVE COMPLETED MYCELIAL NETWORKING, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_4\">132.4</a></li><li>IF YOU ARE CURRENTLY ON MYCELIAL NETWORKING, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_5\">132.5</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_6\">132.6</a></li></ul></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_7\">132.7</a></highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_1",
@@ -32,6 +33,6 @@
       "title": "132.7"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen"
 }

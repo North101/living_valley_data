@@ -2,6 +2,7 @@
   "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile",
   "title": "84. Tala the Red, Exile",
   "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU\u2019VE <span color=\"blue\">FOUND TALA A HOME</span>, GO TO <a href=\"campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_1\">84.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_2\">84.2</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF HELPING HAND IS ATTACHED TO TALA, GO TO <a href=\"campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_3\">84.3</a></li><li>IF YOU\u2019VE <span color=\"blue\">FOUND TALA A HOME</span>, GO TO <a href=\"campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_4\">84.4</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_5\">84.5</a></li></ul></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_6\">84.6</a></highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_1",
@@ -48,6 +49,6 @@
       "title": "84.11"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/tala_the_red_exile"
 }

@@ -2,7 +2,8 @@
   "id": "rules_glossary/c/conduit_keyword",
   "title": "Conduit (Keyword)",
   "content": "<p>When you have a card with the conduit <a href=\"rules_glossary/k/keywords\">keyword</a> equipped, you can play <a href=\"rules_glossary/m/manifestation_keyword\">manifestation</a> cards by using (<a href=\"rules_glossary/d/discard\">discarding</a>) one token from the conduit.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/C/conduit"
 }

@@ -2,6 +2,7 @@
   "id": "rules_glossary/f",
   "title": "F",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/f/facedown_cards",
@@ -28,6 +29,6 @@
       "title": "Friendly (Keyword)"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/f"
 }

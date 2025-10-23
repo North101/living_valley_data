@@ -2,7 +2,26 @@
   "id": "rules_glossary/m/missions",
   "title": "Missions",
   "content": "<p>Mission cards provide you with objectives you must complete in order to advance the story.</p><p>You will gain new missions when instructed by the <a href=\"rules_glossary/c/campaign_guide\">campaign guide</a> . When this happens, record its name on the <a href=\"rules_glossary/c/campaign_tracker\">campaign tracker</a>  and the current day in the box to its left. Then find the corresponding mission card, and put it into play in the <a href=\"rules_glossary/s/surroundings\">surroundings</a>. On the <a href=\"rules_glossary/c/campaign_tracker\">campaign tracker</a> , each line of the mission has three boxes to the right that some missions use to track progress.</p><p>During <a href=\"rules_glossary/s/setup\">setup</a>, for each mission on your <a href=\"rules_glossary/c/campaign_tracker\">campaign tracker</a>  that hasn\u2019t yet been completed, put that mission\u2019s card into play in the <a href=\"rules_glossary/s/surroundings\">surroundings</a>.</p><p>Missions work much the same way as <a href=\"rules_glossary/p/path_cards\">path cards</a>, except they typically do not have <a href=\"rules_glossary/h/harm_threshold\">harm</a> or <a href=\"rules_glossary/p/progress_threshold\">progress thresholds</a>. If a mission card would be <a href=\"rules_glossary/c/clear\">cleared</a>  or <a href=\"rules_glossary/d/discard\">discarded</a> by other game effects, it is instead returned to the <a href=\"rules_glossary/s/surroundings\">surroundings</a> (or wherever it would be placed at the beginning of a day). When a mission card which is attached to a card in another area becomes unattached, return it to the surroundings. Missions can only be removed from play by completing them (or other special instructions on the mission itself). When a mission is complete, cross it off on the <a href=\"rules_glossary/c/campaign_tracker\">campaign tracker</a>  and return its card to the <a href=\"rules_glossary/c/the_collection\">collection</a> .</p><p>Most missions have an objective listed inside a green box. When this condition is met, read the next entry in the mission\u2019s story.</p><h1 id=\"mission-subjects\">Mission Subjects</h1><p>Some missions have subjects listed in their name in parenthesis\u2014for example, \u201cTrack (Quisi Vos).\u201d These subjects are either a <a href=\"rules_glossary/l/locations\">location</a> card or path card, and are used by the mission in some way. When a mission is listed with a subject, find the subject\u2019s card in your <a href=\"rules_glossary/c/the_collection\">collection</a>  and attach it <a href=\"rules_glossary/f/facedown_cards\">facedown</a> to the mission. The mission will provide instructions on how the subject is utilized.</p><h1 id=\"mission-card\">Mission Card</h1><img src=\"https://thelivingvalley.earthbornegames.com/assets/images/Card_Anatomies9-27a3e6f38200771632e5beea704361dc.png\" /><ol><li><b>Title:</b> The name of the card.</li><li><b>Card Type and <a href=\"rules_glossary/t/traits\">Traits</a>:</b> Flavorful attributes that may be referenced by card abilities.</li><li><b>Key <a href=\"rules_glossary/l/locations\">Locations</a>:</b> Locations relevant to the mission's mechanics.</li><li><b>Abilities and Tests:</b> The main abilities of that card. This can include <a href=\"rules_glossary/t/tests\">tests</a> the Rangers can perform, special rules for the card, or effects that resolve when the card <a href=\"rules_glossary/c/clear\">clears</a> .</li><li><b>Mission Objective:</b> The condition that must be met to progress further in the mission.</li><li><b>Challenge Effects:</b> Effects that resolve at the end of tests based on which of the three challenge icons is shown on the <a href=\"rules_glossary/c/challenge_cards\">challenge card</a> .</li><li><b>Set Information:</b> The name of the card\u2019s set and the card\u2019s number in that set.</li></ol>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#mission-subjects",
+      "title": "Mission Subjects"
+    },
+    {
+      "id": "#mission-card",
+      "title": "Mission Card"
+    }
+  ],
+  "links": [
+    {
+      "id": "#mission-subjects",
+      "title": "Mission Subjects"
+    },
+    {
+      "id": "#mission-card",
+      "title": "Mission Card"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/rules_glossary/M/missions"
 }

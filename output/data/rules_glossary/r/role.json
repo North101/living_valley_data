@@ -2,7 +2,8 @@
   "id": "rules_glossary/r/role",
   "title": "Role",
   "content": "<p>Your role represents what you specialize in and what function you serve in your group of Rangers. You choose your role as part of your specialty during character creation and it gives you a card that starts every game <a href=\"rules_glossary/i/in_play\">in play</a> and grants you a consistent, repeatable ability.</p><img src=\"https://thelivingvalley.earthbornegames.com/assets/images/Card_Anatomies11-25c9f8e81f8910066f49e34bf1c07e0f.png\" /><ol><li><b>Title:</b> The name of the card.</li><li><b>Card Type:</b> Roles have no traits.</li><li><b>Ability:</b> The ability of that role. These are always <a href=\"rules_glossary/e/exhaust\">exhaust</a> abilities.</li><li><b>Set Information:</b> The name of the card\u2019s <a href=\"rules_glossary/s/sets\">set</a> and the card\u2019s number in that set.</li></ol>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/R/role"
 }

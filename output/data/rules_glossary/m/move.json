@@ -2,7 +2,8 @@
   "id": "rules_glossary/m/move",
   "title": "Move",
   "content": "<p>The card is moved to a different <a href=\"rules_glossary/a/area\">area</a> than the one in which it currently sits. If an area isn\u2019t specified, you can choose to move it either <a href=\"rules_glossary/a/along_the_way\">along the way</a>  or <a href=\"rules_glossary/w/within_reach\">within reach</a> of a Ranger of your choice.</p><p>If a card moves to another <a href=\"rules_glossary/a/area\">area</a>, any cards <a href=\"rules_glossary/a/attach\">attached</a> to it will remain <a href=\"rules_glossary/a/attach\">attached</a> to it in the new <a href=\"rules_glossary/a/area\">area</a>. If an effect would move a card that is <a href=\"rules_glossary/a/attach\">attached</a> to another card (without moving that other card), the card remains <a href=\"rules_glossary/a/attach\">attached</a> and does not move.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/M/move"
 }

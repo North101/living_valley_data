@@ -2,7 +2,18 @@
   "id": "updates/campaign_guide_errata_legacy_of_the_ancestors/1_117",
   "title": "1.117",
   "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><blockquote><p>While exploring the arcology\u2019s depths, you've discovered many monuments to the Estians' greatness, but nothing could have prepared you for this.</p><p>When Silaro shared with you his theory of an engine, it evoked images of a hulking machine with a searing energetic glow at its center, or perhaps a device similar to the Waterspinner that powers Tumbledown. </p><p>But no. At the center of the space, guarded by a gigantic ribcage of gleaming metal and composite struts, you can see a massive beating heart; a heart, to all appearances, of flesh and blood.</p></blockquote><p>Complete <b>THE LONG DARK</b> mission.</p><blockquote><p>The heart\u2019s beat is arrhythmic and erratic. As it stutters, you watch the attendant machines in the chamber judder in response, and occasionally you hear a groaning and rumbling in the distance. </p><p>The heart\u2019s arrhythmia seems to be destabilizing the arcology\u2019s systems, and possibly the entire structure. There can be no doubt: this is the source of the earthquakes.</p><p>If you don\u2019t do something about the heart, you worry that the entire arcology could collapse upon itself, and as Silaro suggested, swallow up the entire Valley in the process.</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE:</choice><p color=\"red\">A) Destroy the heart immediately.</p><blockquote><p>Clearly, the simplest solution is to destroy the heart. It\u2019s sad to destroy such a marvel of bioengineering, but with the heart stilled, the rest of the arcology and the Valley will be safe.</p></blockquote><p><code>Complete all story and interlude missions except for RATTLING THE CAGE. Gain the HEART ATTACK mission.</code></p><p color=\"red\">B) Search for another solution.</p><blockquote><p>Surely, there must be a better way to address this problem than simply destroying this wonderous being. At the very least, you\u2019ll need to learn more about how the heart operates and why the Estians created it. Maybe some records still exist after all this time. Given their proximity to the Cage, perhaps you can find more information in the other locations on this level of the arcology.</p></blockquote><p>Gain the <b>TO THE HEART OF IT</b> mission.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE:"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE:"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/updates/legacy_of_the_ancestors_errata/1_117"
 }

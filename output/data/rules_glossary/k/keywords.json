@@ -2,7 +2,8 @@
   "id": "rules_glossary/k/keywords",
   "title": "Keywords",
   "content": "<p>Keywords stand in for longer rules statements that would otherwise commonly appear on cards.</p><p>Keywords are listed at the start of a card's text. That card can be treated as having that keyword's rules text printed on the card. These are distinct from Terms that can appear mid-sentence in a rules effect. The complete list of keywords is:</p><ul><li><a href=\"rules_glossary/a/ambush_keyword\">Ambush</a> </li><li><a href=\"rules_glossary/a/aspiration_keyword\">Aspiration</a></li><li><a href=\"rules_glossary/c/conduit_keyword\">Conduit</a> </li><li><a href=\"rules_glossary/d/dangerous_keyword\">Dangerous</a></li><li><a href=\"rules_glossary/d/deployed_keyword\">Deployed</a></li><li><a href=\"rules_glossary/d/disconnected_keyword\">Disconnected</a> </li><li><a href=\"rules_glossary/f/fatiguing_keyword\">Fatiguing</a></li><li><a href=\"rules_glossary/f/friendly_keyword\">Friendly</a></li><li><a href=\"rules_glossary/i/illumination_keyword\">Illumination</a></li><li><a href=\"rules_glossary/m/manifestation_keyword\">Manifestation</a> </li><li><a href=\"rules_glossary/m/mycelial_keyword\">Mycelial</a></li><li><a href=\"rules_glossary/o/obstacle_keyword\">Obstacle</a> </li><li><a href=\"rules_glossary/p/persistent_keyword\">Persistent</a> </li><li><a href=\"rules_glossary/s/setup_keyword\">Setup</a> </li><li><a href=\"rules_glossary/s/spirit_keyword\">Spirit</a></li><li><a href=\"rules_glossary/u/unique_keyword\">Unique</a> </li><li><a href=\"rules_glossary/u/untraversable_keyword\">Untraversable</a></li></ul>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/K/keywords"
 }

@@ -2,7 +2,42 @@
   "id": "updates/campaign_guide_errata/1_29",
   "title": "1.29",
   "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><branch id=\"read-the-entry-corresponding-to-your-progress-on-spire-under-attack\">READ THE ENTRY CORRESPONDING TO YOUR PROGRESS ON SPIRE UNDER ATTACK!</branch><p color=\"red\">A) Up to \u2666\u2666\u2662</p><blockquote><p>As you approach the village of Spire, you hear distant shouts and the occasional snap of a whispercrack darter. While you see several reclaimers moving toward the village, it is not yet overrun. There may be time yet to get everyone to safety.</p></blockquote><p color=\"red\">B) \u2666\u2666\u2666</p><blockquote><p>As you approach the village of Spire, you hear distant shouts and see tendrils of smoke rising from the town center. Reclaimers are swarming the village. You hope that there is still time to get everyone in the village to safety.</p></blockquote><p>Each Ranger suffers 2 fatigue.</p><p><b>\u00bb Continue reading:</b></p><blockquote><p>You know that the evacuation of Spire will take all the energy you have and more. You pause to consider your options.</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p color=\"red\">A) Rest and start fresh tomorrow.</p><blockquote><p>You decide that you can be the most help by being well rested. You find a gully near the riverbank where you think you can get some rest without drawing the attention of reclaimers. You curl up to get a few hours of sleep.</p></blockquote><p>Complete the <b>SPIRE UNDER ATTACK!</b> mission, and gain the <b>FALL OF SPIRE</b> mission. Record <span color=\"blue\">1.29A</span> above the next day on the day track.</p><p><b>End the day. <code>You are considered to have camped.</code></b></p><p><span color=\"red\">B) There's no time to waste!</span> Go to <a href=\"#129b\">1.29B</a>.</p><h1 id=\"129a\">1.29A</h1><blockquote><p>You awake from a fitful rest to the sound of distant shouts. Tendrils of smoke rise as packs of reclaimers slither toward the village of Spire.</p></blockquote><p>Go to <a href=\"#129b\">1.29B</a>.</p><h1 id=\"129b\">1.29B</h1><blockquote><p>You maneuver to the riverbank and can make out scores of reclaimers moving among the buildings. You also see people hiding, others pulling neighbors to safety, and more fending off reclaimers with staves, thumpers, darters, static sifters, and anything else they can find. The seekers have already begun covering the structures in their reproductive mucus, and you can see polyps forming everywhere you look. The only option is to get those people out of there.</p><p>The inhabitants seem to be gathering in several locations, banding together to defend themselves. If you can get to those groups\u2014and more importantly, find the people who are organizing and leading those groups\u2014maybe you can lead them safely away from the village.</p></blockquote><p>Complete the <b>SPIRE UNDER ATTACK</b>! mission, and gain the <b>FALL OF SPIRE</b> mission. Each Ranger soothes two fatigue. Search the General set for five Reclaimer Seekers, and add them to the Spire deck. Search the General set for one Reclaimer Polyp, and put it into play.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#read-the-entry-corresponding-to-your-progress-on-spire-under-attack",
+      "title": "READ THE ENTRY CORRESPONDING TO YOUR PROGRESS ON SPIRE UNDER ATTACK!"
+    },
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    },
+    {
+      "id": "#129a",
+      "title": "1.29A"
+    },
+    {
+      "id": "#129b",
+      "title": "1.29B"
+    }
+  ],
+  "links": [
+    {
+      "id": "#read-the-entry-corresponding-to-your-progress-on-spire-under-attack",
+      "title": "READ THE ENTRY CORRESPONDING TO YOUR PROGRESS ON SPIRE UNDER ATTACK!"
+    },
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    },
+    {
+      "id": "#129a",
+      "title": "1.29A"
+    },
+    {
+      "id": "#129b",
+      "title": "1.29B"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/updates/lure_of_the_valley_errata/1_29"
 }

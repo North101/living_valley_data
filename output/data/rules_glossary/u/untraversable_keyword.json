@@ -2,7 +2,8 @@
   "id": "rules_glossary/u/untraversable_keyword",
   "title": "Untraversable (Keyword)",
   "content": "<p>You cannot add <a href=\"rules_glossary/p/progress\">progress</a> to a card with the untraversable keyword using the <b>Traverse</b> <a href=\"rules_glossary/c/common_test\">common test</a>.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/U/untraversable"
 }

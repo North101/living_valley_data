@@ -2,6 +2,16 @@
   "id": "updates/card_errata",
   "title": "Card Errata",
   "content": "<p>The following cards have had their text corrected or changed to clarify wording and fix misprints and other errors. The errata version of each card takes precedence over its original version. (Depending on which printing of a product you own, your version may already be updated with these errata.)</p><p>For optional variant cards, see the <a href=\"updates/the_elders_book_of_uncommon_wisdom\">Elder's Book of Uncommon Wisdom</a>.</p><h1 id=\"navigating-card-errata\">Navigating Card Errata</h1><p>There are a few different ways to navigate this section:</p><p><b>Navigation Bar:</b> You can look up cards by name using the navigation bar at the left-hand side of the screen.</p><p><b>Search:</b> You can access a search function by clicking on the magnifying glass in the upper-right corner of the screen.</p><p><b>PDF:</b> Below is a link to a PDF containing all of the card errata. You can use this PDF to view or print out the updated cards.</p><p><a href=\"https://earthbornegames.com/wp-content/uploads/Card_Errata_eng_web.pdf\">Card Errata Full PDF</a></p><h1 id=\"versions-affected\">Versions Affected</h1><p>Printings of the game made after a piece of errata was issued include that errata. Each change here lists which printings are affected by this change. If a component already matches the errataed text, you can easily ignore that change.</p><p><b>First Printing:</b> You can identify if your copy of the Earthborne Rangers core set is from the first printing if it has the code \"LFCACD30\" under the barcode on the back of the box.</p>",
+  "anchors": [
+    {
+      "id": "#navigating-card-errata",
+      "title": "Navigating Card Errata"
+    },
+    {
+      "id": "#versions-affected",
+      "title": "Versions Affected"
+    }
+  ],
   "links": [
     {
       "id": "updates/card_errata/guardian_conciliator_set_card_1_of_14",
@@ -62,8 +72,16 @@
     {
       "id": "updates/card_errata/thunderhead_weather_set_card_6_of_8",
       "title": "Thunderhead - Weather Set Card 6 of 8"
+    },
+    {
+      "id": "#navigating-card-errata",
+      "title": "Navigating Card Errata"
+    },
+    {
+      "id": "#versions-affected",
+      "title": "Versions Affected"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/updates/card_errata"
 }

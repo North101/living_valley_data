@@ -2,7 +2,8 @@
   "id": "rules_glossary/u/unique_keyword",
   "title": "Unique (Keyword)",
   "content": "<p>A Ranger cannot have two cards with the unique <a href=\"rules_glossary/k/keywords\">keyword</a> and with the same name from their deck <a href=\"rules_glossary/i/in_play\">in play</a> at the same time. If a second copy of the same unique card from your deck enters play, the first one is immediately <a href=\"rules_glossary/d/discard\">discarded</a>.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/U/unique"
 }

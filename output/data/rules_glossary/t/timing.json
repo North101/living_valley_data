@@ -2,7 +2,18 @@
   "id": "rules_glossary/t/timing",
   "title": "Timing",
   "content": "<p>Many card effects resolve at a specific time (for example, \u201cwhen you perform a test\u201d). Any effects that don\u2019t specify a timing are either ongoing effects that are always in effect, or effects that you can choose to use during any Ranger\u2019s <a href=\"rules_glossary/t/turns\">turn</a>.</p><p>Effects that specify a timing will do so relative to a step in the rules (or sometimes another game effect) using one of the following words:</p><p><b>Before:</b> The effect <a href=\"rules_glossary/r/resolve\">resolves</a> immediately before you begin the specified step.\u00a0</p><p><b>When:</b> The effect <a href=\"rules_glossary/r/resolve\">resolves</a> during the specified step. This usually modifies the entire step in some way or triggers at a specific time within the step itself. Read that step\u2019s rules for more clarification.</p><p><b>After:</b> The effect <a href=\"rules_glossary/r/resolve\">resolves</a> immediately after all effects of the specified step have been resolved.</p><p>If multiple effects would resolve during the same timing window, you can choose the order in which they resolve (see the <a href=\"rules_glossary/d/the_delightful_rule\">Delightful Rule</a>)</p><h1 id=\"triggered-effect-timing\">Triggered Effect Timing</h1><p>Effects that can be triggered by you (such as <a href=\"rules_glossary/e/exhaust\">exhaust</a> abilities on your <a href=\"rules_glossary/r/ranger_cards\">Ranger cards</a> or the discard effect on Dayhowler) that do not have a timing specified can only be used at the beginning or end of your or another Ranger\u2019s <a href=\"rules_glossary/t/turns\">turn</a>. Thus, they cannot be used while a test is being performed or while another card\u2019s effect is in the process of <a href=\"rules_glossary/r/resolve\">resolving</a>.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#triggered-effect-timing",
+      "title": "Triggered Effect Timing"
+    }
+  ],
+  "links": [
+    {
+      "id": "#triggered-effect-timing",
+      "title": "Triggered Effect Timing"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/rules_glossary/T/timing"
 }

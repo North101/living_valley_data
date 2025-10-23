@@ -2,7 +2,8 @@
   "id": "rules_glossary/g/general_tokens",
   "title": "General Tokens",
   "content": "<img src=\"https://thelivingvalley.earthbornegames.com/assets/images/RulesRenders_0025-2fb34e1d092d7beb242066ec540231d8.png\" /><p>Many cards make use of unique tokens to track the number of times they can be used. These cards are marked with a number and name for the tokens in a box on the right side of the card. When one of these cards enters play, place a number of general use tokens on this card equal to that number.</p><p>When the card instructs you to \u201cuse\u201d one of the tokens, <a href=\"rules_glossary/d/discard\">discard</a> that token. If you no longer have tokens to discard, you cannot resolve effects that require you to <a href=\"rules_glossary/u/use\">use</a> a token. If a rule affects \u201ctokens\u201d on a card, it is referring to one of these named tokens.</p><ul><li>Cards are not <a href=\"rules_glossary/d/discard\">discarded</a> when they run out of tokens. At the beginning or end of any Ranger's <a href=\"rules_glossary/t/turns\">turn</a>, however, you can choose to discard any number of <a href=\"rules_glossary/e/equipped\">equipped</a> cards that you no longer want.</li></ul>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/G/general_tokens"
 }

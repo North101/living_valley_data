@@ -2,7 +2,18 @@
   "id": "one_day_missions/missing_person/1_45_search",
   "title": "1.45 SEARCH",
   "content": "<blockquote><p>You push through some particularly dense brush to discover a clearing full of animals! They don\u2019t notice you as they graze on the contents of an overturned hoversled -- Ren Kobo\u2019s overturned hoversled! You quickly look around and spot the merchant hiding behind a boulder.</p><p>He locks eyes with you, and makes an emphatic \u201cno\u201d gesture. He appears to be frightened, but of what you're not sure. Certainly, he can't be afraid of a few herbivores.</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE:</choice><p color=\"red\">A. Enter the clearing and scare off the wildlife surrounding Ren Kobo:</p><blockquote><p>Striding boldy into the clearing, you scare off the grazing herbivores. As you do, you hear an audible groan from the merchant. \u201cNo, you fools!\" he says. \"She\u2019ll see you!\u201d</p><p>Suddenly, a massive shadow moves across the sun, and your hair stands on end. You know of only one being in the Valley large enough to cast such a shadow. You\u2019re going to need to get Ren Kobo, and yourself, to the safety of a Ranger Station as quickly as possible.</p></blockquote><p>Search the Valley set for <b>UMBRA</b> and put her into play.</p><p color=\"red\">B. Attempt to check on Ren Kobo without spooking the wildlife:</p><blockquote><p>You sneak carefully around the grazers, and reach Ren Kobo. You ask him why he\u2019s hiding, and he points calmly toward the sky.</p><p>\u201cUmbra!\u201d he hisses. \u201cShe swooped down and overturned my sled, and I've been hiding here ever since! I'd run, but a Messipian never abandons his merchandise!\u201d</p><p>You tell him you can keep him safe, but he'll need to leave his sled behind for now. You need to reach a Ranger Station as quickly as possible.</p></blockquote><p>Each Ranger searches the path deck for the next prey and puts it into play. If you're playing with only one Ranger, search for two prey instead.</p><p>Then, search the Valley set for <b>UMBRA</b> and shuffle her into the path deck.</p><p><b>\u00bb Continue Reading:</b></p><p>Complete the <b>SEARCH (REN KOBO)</b> mission, and gain the <b>RESCUE (REN KOBO)</b> mission. Put <b>REN KOBO, MERCHANT</b> into play within reach of a Ranger of your choice. Attach the <b>RESCUE</b> card to him. Do not read his entry.</p><p color=\"blue\"><i>You have to get Ren Kobo to a Ranger Station in one piece.</i></p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE:"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE:"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/one_day_missions/missing_person/1_45-search"
 }

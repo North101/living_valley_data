@@ -2,6 +2,7 @@
   "id": "rules_glossary/w",
   "title": "W",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/w/weather",
@@ -12,6 +13,6 @@
       "title": "Within Reach"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/w"
 }

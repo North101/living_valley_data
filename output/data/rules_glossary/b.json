@@ -2,6 +2,7 @@
   "id": "rules_glossary/b",
   "title": "B",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/b/backgrounds",
@@ -12,6 +13,6 @@
       "title": "Beings"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/b"
 }

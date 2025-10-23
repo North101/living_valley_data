@@ -2,6 +2,7 @@
   "id": "campaign_guides/lure_of_the_valley/94_world_events",
   "title": "94. World Events",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/lure_of_the_valley/94_world_events/94_1",
@@ -44,6 +45,6 @@
       "title": "94.10"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/94-world-events"
 }

@@ -275,6 +275,29 @@ class Scraper:
             text,
         )
 
+  def find_anchors(self, items: Sequence[tags.Tag]) -> Generator[util.Link]:
+    for item in items:
+      yield from self.find_anchor(item)
+
+  def find_anchor(self, item: tags.Tag) -> Generator[util.Link]:
+    if isinstance(item, tags.TagTitle) and item.anchor:
+      yield util.Link(
+          id=f'#{item.anchor}',
+          title=''.join((
+            text
+            for text in self.get_text(item)
+          )),
+      )
+    if isinstance(item, tags.TagWithItems):
+      yield from self.find_anchors(item.items)
+
+  def get_text(self, item: tags.Tag) -> Generator[str]:
+    if isinstance(item, tags.TagText):
+      yield item.text
+    elif isinstance(item, tags.TagWithItems):
+      for subitem in item.items:
+        yield from self.get_text(subitem)
+
   def get_lookup_group(self, resource_id: str):
     parts = resource_id.split('/')
     if parts[0] in ('campaign_guides', 'one_day_missions') and len(parts) > 1:
@@ -341,7 +364,7 @@ class Scraper:
 
     urls = dict[str, str]()
     titles = dict[str, str]()
-    lookup = dict[str, list[dict[str, str]]]()
+    lookup = dict[str, list[util.Link]]()
     for page_url in self.page_urls:
       for url, resource_id, title, _, _ in self.scrape_page(page_url):
         urls[url] = resource_id
@@ -349,10 +372,10 @@ class Scraper:
 
         lookup_group = self.get_lookup_group(resource_id)
         if lookup_group and lookup_group != resource_id:
-          lookup.setdefault(lookup_group, []).append({
-              'id': resource_id,
-              'title': title,
-          })
+          lookup.setdefault(lookup_group, []).append(util.Link(
+              id=resource_id,
+              title=title,
+          ))
 
     for page_url in self.page_urls:
       for url, resource_id, title, items, data in self.scrape_page(page_url):
@@ -365,6 +388,11 @@ class Scraper:
             ))
             if data is not None else
             None
+        )
+        anchors = (
+          list(self.find_anchors(content))
+          if content else
+          []
         )
         if self.content_type == ContentType.XHTML:
           content = self.content_to_xhtml(
@@ -385,13 +413,14 @@ class Scraper:
             resource_id,
             title,
             content,
+            anchors,
             [
-                {
-                    'id': '/'.join((resource_id, item_id)),
-                    'title': item_title,
-                }
+                util.Link(
+                    id='/'.join((resource_id, item_id)),
+                    title=item_title,
+                )
                 for item_id, item_title, _ in items
-            ],
+            ] + anchors,
             (
                 lookup[lookup_group]
                 if lookup_group and lookup_group == resource_id else
@@ -405,6 +434,7 @@ class Scraper:
           '',
           'The Living Valley',
           None,
+          [],
           [
               {
                   'id': urls[page_url],

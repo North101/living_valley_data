@@ -2,6 +2,7 @@
   "id": "updates",
   "title": "Updates",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "updates/card_errata",
@@ -24,6 +25,6 @@
       "title": "The Elder's Book of Uncommon Wisdom"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/updates"
 }

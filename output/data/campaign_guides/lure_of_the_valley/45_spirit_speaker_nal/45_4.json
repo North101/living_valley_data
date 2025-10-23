@@ -2,7 +2,18 @@
   "id": "campaign_guides/lure_of_the_valley/45_spirit_speaker_nal/45_4",
   "title": "45.4",
   "content": "<blockquote><p>You get between Nal and Kordo, and ask them what they\u2019re arguing about. Kordo huffs, then Nal rolls her eyes and turns to you.</p><p>\u201cWe have been debating this since Kordo and I first met, actually,\u201d she says. \u201cIt\u2019s a question of our role here, both as Rangers and inhabitants of this valley.\u201d</p><p>\u201cDon\u2019t make it too dramatic,\u201d Kordo grumbles. \u201cI just think that if we\u2019re going to be proper stewards here, it\u2019s up to us to clean up our ancestor\u2019s mistakes.\u201d</p><p>\u201cBiomelds aren\u2019t mistakes!\u201d Nal shoots back. \u201cThey may have been created for a purpose thousands of years ago, but in the time since they\u2019ve evolved and become part of the ecosystem. They reproduce, they coexist, just like any other being.\u201d</p><p>\u201cOh, you think that caustic mulcher that has been lumbering around the wooded areas of the Valley is coexisting with everything else?\u201d Kordo looks at you. \u201cMaybe you can settle this. Nal thinks that big sticky-tongued, acid-drooling eating machine is a part of the environment. I, on the other hand, think that it\u2019s been eating its way through the rest of the ecosystem, and it\u2019s time to stop it. What do you think?\u201d</p><p>He reaches into his pocket and pulls out a ball of cloth. You catch it and open it, and find that it\u2019s actually a long and lethal-looking gauzeblade.</p></blockquote><p>Gain the Gauzeblade reward card.</p><blockquote><p>Nal sighs. \u201cWell it\u2019s important to be able to identify yourself to it just like any other being,\u201d she says, \u201cThe caustic mulcher, like the other biomelds around here, is an important part of the ecosystem. I haven't observed a drastic decrease in animal populations. Have you, Kordo? If the mulcher was a mistake, nature would have corrected it by now. It doesn't eat everything. Only what it must.\u201d</p><p>Kordo grunts. \u201cYou\u2019ve already told me your plan to prove it. Coating yourself in leaf paste and seeing if the mulcher will eat you or spit you out? Sounds like a terrible idea.\u201d</p><p>\u201cIf I\u2019m right,\u201d Nal says, \u201cthen the mulcher won\u2019t eat living plants, or something that tastes like one. It\u2019s not cutting a swathe through the forest. It\u2019s helping to manage it.\u201d</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><span color=\"red\">A) Agree with Kordo. The mulcher must go.</span> Gain the<b> INTERVENTION</b> mission.</p><p><span color=\"red\">B) Agree with Nal. The mulcher is misunderstood.</span> Gain the <b> ACCOMMODATION</b> mission.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/spirit_speaker_nal/45_4"
 }

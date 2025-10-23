@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer",
   "title": "127. Harlan Vos, Explorer",
   "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF QUISI VOS IS IN PLAY WITH HELPING HAND ATTACHED, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_1\">126.1</a></li><li>IF YOU <span color=\"blue\">REUNITED QUISI AND HARLAN</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_1\">127.1</a></li><li>IF QUISI VOS IS IN PLAY, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_3\">126.3</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_2\">127.2</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF HELPING HAND IS ATTACHED TO HARLAN VOS, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_3\">127.3</a></li><li>IF YOU <span color=\"blue\">REUNITED QUISI AND HARLAN</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_6\">126.6</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_4\">127.4</a></li></ul></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_5\">127.5</a></highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_1",
@@ -24,6 +25,6 @@
       "title": "127.5"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer"
 }

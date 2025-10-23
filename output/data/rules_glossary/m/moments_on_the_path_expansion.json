@@ -2,7 +2,18 @@
   "id": "rules_glossary/m/moments_on_the_path_expansion",
   "title": "Moments on the Path (Expansion)",
   "content": "<p>The Moments on the Path expansion adds exciting and narrative <a href=\"rules_glossary/p/path_moments\">moments</a> to your path deck and can be used at any point during your Lure of the Valley or <a href=\"rules_glossary/l/legacy_of_the_ancestors_expansion\">Legacy of the Ancestors</a> <a href=\"rules_glossary/c/campaign\">campaigns</a>. </p><h1 id=\"new-concepts\">New Concepts</h1><ul><li><a href=\"rules_glossary/p/path_moments\">Path Moments</a></li><li><a href=\"rules_glossary/g/group_tests\">Group Tests</a></li></ul>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#new-concepts",
+      "title": "New Concepts"
+    }
+  ],
+  "links": [
+    {
+      "id": "#new-concepts",
+      "title": "New Concepts"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/rules_glossary/M/moments_on_the_path"
 }

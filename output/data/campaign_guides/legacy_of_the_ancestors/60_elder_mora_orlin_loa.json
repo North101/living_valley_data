@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa",
   "title": "60. Elder Mora Orlin (LOA)",
   "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_1_loa\">60.1</a></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF <span color=\"blue\">ELDER ORLIN'S GROUP SAVED</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_2_loa\">60.2</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_3_loa\">60.3</a></li></ul></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_4_loa\">60.4</a></highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_1_loa",
@@ -20,6 +21,6 @@
       "title": "60.4 (LOA)"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/elder_mora_orlin"
 }

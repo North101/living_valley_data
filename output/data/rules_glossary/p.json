@@ -2,6 +2,7 @@
   "id": "rules_glossary/p",
   "title": "P",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/p/path_attachments",
@@ -80,6 +81,6 @@
       "title": "Prologue"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/p"
 }

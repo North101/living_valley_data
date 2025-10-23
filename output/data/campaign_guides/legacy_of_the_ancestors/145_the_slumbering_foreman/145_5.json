@@ -2,7 +2,18 @@
   "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_5",
   "title": "145.5",
   "content": "<blockquote><p>You slow, and with a confused \u201cboop\u201d the machine turns to face you. For a moment, its long, feathery sensors brush lightly over your face and body. Then, with a resolute \u201cbeep,\u201d it turns on its dozen legs and continues lumbering down the way it was headed.</p><p>Do you want to continue to escort the machine? </p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) We should see this through.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from the Slumbering Foreman. <i color=\"blue\">Escort the machine to Orlin\u2019s Vault and clear it with <icon icon=\"progress\">&nbsp;</icon> to find out where it\u2019s headed.</i></p><p><b color=\"red\">B) More pressing matters have come up. Let it go on its way.</b> Discard the Slumbering Foreman. Each Ranger soothes 2 fatigue.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_slumbering_foreman/145_5"
 }

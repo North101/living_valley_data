@@ -2,7 +2,8 @@
   "id": "rules_glossary/c/challenge_cards",
   "title": "Challenge Cards",
   "content": "<p>Challenge cards are shuffled into the challenge deck that sits above the <a href=\"rules_glossary/s/surroundings\">surroundings</a> during play.</p><p>A challenge card shows each of the four <a href=\"rules_glossary/a/aspects\">aspects</a>  along with a 0, +1, \u20131, or \u20132. Additionally, it shows one of three challenge icons on a band of color across the bottom: the Crest (<icon icon=\"crest\">&nbsp;</icon>) (red), the Mountain (<icon icon=\"mountain\">&nbsp;</icon>) (blue), or the Sun (<icon icon=\"sun\">&nbsp;</icon>) (orange). These icons match those found next to challenge effects on cards <a href=\"rules_glossary/i/in_play\">in play</a>.</p><img src=\"https://thelivingvalley.earthbornegames.com/assets/images/Card_Anatomies21-09aa5e43e7ca17bedc7a6302951f87ec.png\" /><ul><li><p>After resolving a test, if any challenge cards that show the <a href=\"rules_glossary/r/reshuffle_icon\">reshuffle icon</a> <icon icon=\"reshuffle\">&nbsp;</icon> were put into the discard, shuffle the challenge discard back into the challenge deck.</p></li><li><p>Occasionally, rules effects other than tests may have you draw a challenge card as a randomizer. In these cases, do not resolve challenge effects unless otherwise specified. However, if the challenge card shows a <a href=\"rules_glossary/r/reshuffle_icon\">reshuffle icon</a> (<icon icon=\"reshuffle\">&nbsp;</icon>) and is <a href=\"rules_glossary/d/discard\">discarded</a>, shuffle the challenge discard back into the challenge deck.</p></li></ul>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/C/challenge_cards"
 }

@@ -2,7 +2,18 @@
   "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_6",
   "title": "132.6",
   "content": "<blockquote><p>You hear the whispering voices on the edge of your consciousness. They\u2019re too faint to understand, so you take shallow breaths, try to ignore the mouthful of spores, and close your eyes. </p><p>You focus your spirit, and the voices begin to grow louder and more distinct, becoming a cacophony of whispers. You realize with a start that the voices aren't coming from one mushroom. They're coming from all the mushrooms. </p><p>You move towards a grove of mycelial growths, and the voices grow even stronger. Now you can hear individual voices, vague and jumbled, but you still can\u2019t make out what they\u2019re saying. You wonder if you could hear them more clearly if you found a larger group of mushrooms. Perhaps you could even speak to them and get a reply. </p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) Take on the mission of searching out mushrooms.</b> Discard the Ferrymen. Gain the <b>MYCELIAL NETWORKING</b> mission.</p><p><b color=\"red\">B) Leave these mushrooms in peace.</b> Each Ranger soothes 2 fatigue. Discard the Ferrymen.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_ferrymen/132_6"
 }

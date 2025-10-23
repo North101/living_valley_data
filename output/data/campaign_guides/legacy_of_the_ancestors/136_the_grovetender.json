@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/136_the_grovetender",
   "title": "136. The Grovetender",
   "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_1\">136.1</a></highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/136_the_grovetender/136_1",
@@ -24,6 +25,6 @@
       "title": "136.5"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_grovetender"
 }

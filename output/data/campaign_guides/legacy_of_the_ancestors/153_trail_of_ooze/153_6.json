@@ -2,7 +2,18 @@
   "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_6",
   "title": "153.6",
   "content": "<blockquote><p>As you see more of the strange slime, you notice that it\u2019s not translucent so much as iridescent. You think it even appears to change color subtly. The trail leads out of the lab. You realize that whatever this entity is, it has to be very viscous and likely susceptible to dry conditions. It would likely head towards the dark and damp of a cave.</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE:</choice><p><b color=\"red\">A) Follow the trail.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from Trail of Ooze. Attach the <b>FOLLOWING A LEAD</b> mission to Trail of Ooze. <i color=\"blue\">Clear the Trail of Ooze with <icon icon=\"progress\">&nbsp;</icon> while at a cave location to discover what made it.</i></p><p><b color=\"red\">B) We don't have time for this.</b> Discard the Trail of Ooze. Each Ranger soothes 2 fatigue.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE:"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE:"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/trail_of_ooze/153_6"
 }

@@ -2,6 +2,7 @@
   "id": "",
   "title": "The Living Valley",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides",
@@ -24,6 +25,6 @@
       "title": "Frequently Asked Questions"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "https://thelivingvalley.earthbornegames.com"
 }

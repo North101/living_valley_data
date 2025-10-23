@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/156_flooded_passage",
   "title": "156. Flooded Passage",
   "content": "<blockquote><p>You slip the rebreather over your face and plunge into the water. The dark passageway leads on through many twists and turns, and you encounter many dead ends that require you to double back and search for another way forward. Surely, you would have perished here had you attempted this feat without the aid of the curious Estian device.</p></blockquote><p>You can travel from this location along routes locked by the <icon icon=\"flooded_passage\">&nbsp;</icon> icon. Discard all <icon icon=\"progress\">&nbsp;</icon> from Flooded Passage and attach it facedown to the current location as a reminder. When you travel, return Flooded Passage to the general set.</p>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/156_flooded_passage/156_1",
@@ -12,6 +13,6 @@
       "title": "156.2"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/flooded_passage"
 }

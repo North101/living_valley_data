@@ -2,12 +2,13 @@
   "id": "rules_glossary/n",
   "title": "N",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/n/nearby",
       "title": "Nearby"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/n"
 }

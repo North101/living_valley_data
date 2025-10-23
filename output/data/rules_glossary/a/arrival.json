@@ -2,7 +2,8 @@
   "id": "rules_glossary/a/arrival",
   "title": "Arrival",
   "content": "<p>When you travel from one <a href=\"rules_glossary/l/locations\">location</a> to another, you <b>arrive</b> at the new location and perform Arrival Setup. See <a href=\"rules_glossary/t/travel\">Travel</a> for the full details.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/A/arrival"
 }

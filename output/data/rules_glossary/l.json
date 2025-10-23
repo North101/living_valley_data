@@ -2,6 +2,7 @@
   "id": "rules_glossary/l",
   "title": "L",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/l/lead_ranger",
@@ -16,6 +17,6 @@
       "title": "Locations"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/l"
 }

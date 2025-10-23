@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop",
   "title": "147. Mutating Galgothrop",
   "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU'VE <span color=\"blue\">COMPREHENDED THE GALGOTHROP</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_1\">147.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_2\">147.2</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF EACH RANGER\u2019S <icon icon=\"ranger_token\">&nbsp;</icon> IS ON THIS CARD, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_3\">147.3</a></li><li>OTHERWISE, DISCARD MUTATING GALGOTHROP.</li></ul></highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/147_mutating_galgothrop/147_1",
@@ -16,6 +17,6 @@
       "title": "147.3"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/mutating_galgothrop"
 }

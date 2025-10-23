@@ -2,12 +2,13 @@
   "id": "rules_glossary/v",
   "title": "V",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/v/the_valley_map",
       "title": "The Valley Map"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/v"
 }

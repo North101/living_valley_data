@@ -2,7 +2,34 @@
   "id": "campaign_guides/legacy_of_the_ancestors/107_the_cage/107_2",
   "title": "107.2",
   "content": "<p><b><highlight highlight=\"blue\">IF YOU <span color=\"blue\">CONSULTED THE SPIRITS</span> AND <span color=\"blue\">JURY RIGGED A SOLUTION</span>, GO TO <a href=\"#1072a\">107.2A</a></highlight></b> <b><highlight highlight=\"clear\">IF YOU ONLY <span color=\"blue\">CONSULTED THE SPIRITS</span>, GO TO <a href=\"#1072b\">107.2B</a></highlight></b> <b><highlight highlight=\"blue\">IF YOU ONLY <span color=\"blue\">JURY RIGGED A SOLUTION</span>, GO TO <a href=\"#1072c\">107.2C</a></highlight></b> <b><highlight highlight=\"clear\">OTHERWISE, READ:</highlight></b></p><blockquote><p>You wish there was another solution; but you have not been able to find one. That leaves only one choice. As unfortunate as it is to destroy such a creation, the heart must be stopped if the Valley is to survive. </p></blockquote><p>Complete all story and interlude missions except for <b>RATTLING THE CAGE</b>. Gain the <b>HEART ATTACK</b> mission.</p><h1 id=\"1072a\">107.2A</h1><blockquote><p>Your research has been long and grueling, but in the end, extremely worthwhile. You\u2019ve come to understand that the last millennia have inflicted severe emotional and physical trauma on the heart. Thanks to Nal's spiritual guidance, and your journey to speak with the Estians, you now understand that the heart's spirit has been choked and withered by the events that led to the death of the Estian civilization. At the same time, its form has suffered from thousands of years of wear and tear without any maintenance or healing. Only if you can treat both issues do you think you can save the Valley: by shocking the heart to stabilize its arrhythmic beating while confronting the negative emotions that have festered within. </p></blockquote><p>Gain the <b>CARDIAC THERAPY</b> and <b>CLEAR!</b> missions. Search the General set for the following cards and shuffle them into the path deck:</p><ul><li><icon icon=\"per_ranger\">&nbsp;</icon> copies of Crimson Guardian</li><li>The Heart\u2019s Confusion</li><li>The Heart\u2019s Anger</li><li>The Heart\u2019s Sorrow</li><li>The Heart\u2019s Fear</li></ul><p color=\"blue\"><i>Complete both missions before the end of the day.</i></p><h1 id=\"1072b\">107.2B</h1><blockquote><p>Your studies of the Estians' records have been worthwhile. Thanks to Nal's spiritual guidance, and your journey to speak with the Estians, you now understand that the heart has suffered severe emotional trauma over the past millennia. The death of the Estians has left a festering emotional wound, and you will have to help the heart confront that wound in order to heal it. </p><p>As you step into the Cage, you see the heart shudder. Flashing red lights blink around the chamber. The arrythmia is getting worse! You\u2019ll have to hurry.  </p></blockquote><p>Gain the <b>CARDIAC THERAPY</b> and <b>THE CAGE CRUMBLES</b> missions. Search the General set for the following cards and shuffle them into the path deck:</p><ul><li><icon icon=\"per_ranger\">&nbsp;</icon> copies of Crimson Guardian</li><li>The Heart\u2019s Confusion</li><li>The Heart\u2019s Anger</li><li>The Heart\u2019s Sorrow</li><li>The Heart\u2019s Fear</li></ul><p color=\"blue\"><i>Complete the Cardiac Therapy mission before the end of the day.</i></p><h1 id=\"1072c\">107.2C</h1><blockquote><p>Your research into the heart\u2019s development and creation has proven most worthwhile. As you suspected, a millennia of deferred maintenance and caretaking has left the heart in rough shape. Specifically, it seems the heart would not be able to hold a regular beat forever, and so would need to be re-calibrated every so often. </p><p>It\u2019s no small task, but you think that if you deliver to it a powerful enough electric shock, you can stabilize the heart and bring it back into rhythm, thereby saving the arcology and the Valley above.   </p></blockquote><p>Gain the <b>CLEAR!</b> and <b>THE CAGE CRUMBLES</b> missions. Search the General set for copies of Crimson Guardian equal to the number of Rangers and shuffle them into the path deck.</p><p color=\"blue\"><i>Complete the Clear! mission before the end of the day.</i></p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#1072a",
+      "title": "107.2A"
+    },
+    {
+      "id": "#1072b",
+      "title": "107.2B"
+    },
+    {
+      "id": "#1072c",
+      "title": "107.2C"
+    }
+  ],
+  "links": [
+    {
+      "id": "#1072a",
+      "title": "107.2A"
+    },
+    {
+      "id": "#1072b",
+      "title": "107.2B"
+    },
+    {
+      "id": "#1072c",
+      "title": "107.2C"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_cage/107_2"
 }

@@ -2,7 +2,8 @@
   "id": "rules_glossary/d/discard",
   "title": "Discard",
   "content": "<p>Place discarded cards in their corresponding discard pile and discarded tokens in the supply. Effects that trigger when a card <a href=\"rules_glossary/c/clear\">clears</a>  do not trigger when a card is discarded.</p><ul><li>When a card is discarded, all cards <a href=\"rules_glossary/a/attach\">attached</a>  to it and tokens on it are also discarded.</li><li>If a <a href=\"rules_glossary/m/missions\">mission</a> card would be discarded, return it to the surroundings (or wherever it would be placed at the beginning of a day).</li></ul><p><i>Note: Abilities that are are triggered by choosing to discard a card can only be used at a specific <a href=\"rules_glossary/t/timing\">timing</a></i></p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/D/discard"
 }

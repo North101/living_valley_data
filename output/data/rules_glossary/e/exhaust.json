@@ -2,7 +2,8 @@
   "id": "rules_glossary/e/exhaust",
   "title": "Exhaust",
   "content": "<p>To exhaust a card, turn it ninety degrees. To <a href=\"rules_glossary/r/ready\">ready</a> a card, turn it upright.</p><ul><li>Exhausted cards do not <a href=\"rules_glossary/f/fatigue\">fatigue</a> you.</li><li>Exhausted cards are not <a href=\"rules_glossary/a/active\">active</a>, so you do not resolve challenge effects on them.</li><li>Challenge effects on exhausted cards cannot resolve.</li><li>You can <a href=\"rules_glossary/i/interact\">interact</a> with exhausted cards.</li><li>If a text effect is prefaced by \u201cexhaust [this card],\u201d you must be able to exhaust the card to trigger the effect.</li><li>You cannot exhaust a card that is already exhausted.</li></ul><p><i>Note: Abilities that begin with Exhaust: can only be used at a specific <a href=\"rules_glossary/t/timing\">timing</a></i></p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/E/exhaust"
 }

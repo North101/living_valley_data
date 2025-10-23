@@ -2,7 +2,34 @@
   "id": "rules_glossary/l/legacy_of_the_ancestors_expansion",
   "title": "Legacy of the Ancestors (Expansion)",
   "content": "<p>Legacy of the Ancestors is a campaign for Earthborne Rangers. When you start a Legacy of the Ancestors campaign, you will begin using a new <a href=\"rules_glossary/c/campaign_tracker\">campaign tracker</a> and a new map with new <a href=\"rules_glossary/l/locations\">locations</a> for you to explore. Additionally, cards found in this expansion may feature some new terms and <a href=\"rules_glossary/k/keywords\">keywords</a> that you will not find in the base game.</p><h1 id=\"campaign-tracker\">Campaign Tracker</h1><p>The Legacy of the Ancestors campaign uses a new <a href=\"rules_glossary/c/campaign_tracker\">campaign tracker</a>. When you begin this campaign, you will start using the <a href=\"rules_glossary/c/campaign_tracker\">campaign tracker</a> from day 1, using the same rules for the Lure of the Valley <a href=\"rules_glossary/c/campaign_tracker\">campaign tracker</a>. </p><p>In addition to this new <a href=\"rules_glossary/c/campaign_tracker\">campaign tracker</a>, keep your old Lure of the Valley tracker handy. You still have access to all <a href=\"rules_glossary/r/rewards\">rewards</a> unlocked on that tracker. When effects in Legacy of the Ancestors check to see if you have certain notable events or missions, refer to both <a href=\"rules_glossary/c/campaign_tracker\">campaign trackers</a>.</p><p>There are two recommended <a href=\"rules_glossary/w/weather\">weather</a> cards listed for each day. When you are at <a href=\"rules_glossary/l/locations\">locations</a> on the Valley map, use the <a href=\"rules_glossary/w/weather\">weather</a> listed on the top in orange. When you are at <a href=\"rules_glossary/l/locations\">locations</a> on of the Arcology maps, instead use the <a href=\"rules_glossary/w/weather\">weather</a> listed on the bottom in blue. When <a href=\"rules_glossary/t/travel\">traveling</a> between the two maps, return the old <a href=\"rules_glossary/w/weather\">weather</a> to the <a href=\"rules_glossary/c/the_collection\">collection</a> and put the new one into play.</p><h1 id=\"the-campaign-map\">The Campaign Map</h1><p>The Legacy of the Ancestors expansion uses <a href=\"rules_glossary/a/the_arcology_map\">a different map</a> than the Valley map found in the core game. While playing this expansion, use <a href=\"rules_glossary/a/the_arcology_map\">this map</a> instead of the Valley map.</p><h1 id=\"additional-concepts\">Additional Concepts</h1><ul><li><a href=\"rules_glossary/d/dangerous_keyword\">Dangerous (Keyword)</a></li><li><a href=\"rules_glossary/i/illumination_keyword\">Illumination (Keyword)</a></li><li><a href=\"rules_glossary/m/mycelial_keyword\">Mycelial (Keyword)</a></li><li><a href=\"rules_glossary/p/powered_x\">Powered [X]</a></li><li><a href=\"rules_glossary/s/spirit_keyword\">Spirit (Keyword)</a></li><li><a href=\"rules_glossary/d/deployed_keyword\">Deployed</a></li><li><a href=\"rules_glossary/d/disabled_thresholds\">Disabled Thresholds</a></li><li><a href=\"rules_glossary/p/path_attachments\">Path Attachments</a></li><li><a href=\"rules_glossary/u/untraversable_keyword\">Untraversable (Keyword)</a></li></ul>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#campaign-tracker",
+      "title": "Campaign Tracker"
+    },
+    {
+      "id": "#the-campaign-map",
+      "title": "The Campaign Map"
+    },
+    {
+      "id": "#additional-concepts",
+      "title": "Additional Concepts"
+    }
+  ],
+  "links": [
+    {
+      "id": "#campaign-tracker",
+      "title": "Campaign Tracker"
+    },
+    {
+      "id": "#the-campaign-map",
+      "title": "The Campaign Map"
+    },
+    {
+      "id": "#additional-concepts",
+      "title": "Additional Concepts"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/rules_glossary/L/legacy_of_the_ancestors"
 }

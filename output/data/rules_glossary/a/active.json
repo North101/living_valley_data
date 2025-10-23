@@ -2,7 +2,8 @@
   "id": "rules_glossary/a/active",
   "title": "Active",
   "content": "<p>When you perform a <a href=\"rules_glossary/t/tests\">test</a>, each <a href=\"rules_glossary/r/ready\">ready</a> card that is in the <a href=\"rules_glossary/s/surroundings\">surroundings</a>, <a href=\"rules_glossary/a/along_the_way\">along the way</a> , <a href=\"rules_glossary/w/within_reach\">within reach</a>, or in your <a href=\"rules_glossary/p/player_area\">player area</a> is <b>active</b>.</p><p>During Step 5 of performing a <a href=\"rules_glossary/t/tests\">test</a>, resolve challenge effects only on each card that is active.</p><p>Cards <a href=\"rules_glossary/w/within_reach\">within reach</a> of other Rangers are not active. If you are <a href=\"rules_glossary/i/interact\">interacting</a> with a card that is within reach of another Ranger, however, all <a href=\"rules_glossary/r/ready\">ready</a> cards within reach of that Ranger are considered active for the duration of the test.</p><p>If an active card is <a href=\"rules_glossary/e/exhaust\">exhausted</a> by a challenge effect during Step 5 of performing a <a href=\"rules_glossary/t/tests\">test</a>, it is no longer considered to be active for the remainder of the test.</p><p>If an exhausted card is readied by a challenge effect during Step 5 of performing a <a href=\"rules_glossary/t/tests\">test</a>, and you have not already completed resolving challenge effects for the <a href=\"rules_glossary/a/area\">area</a>  in which the card sits, it becomes active for the remainder of the test.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/A/active"
 }

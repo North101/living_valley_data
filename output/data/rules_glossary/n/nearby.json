@@ -2,7 +2,8 @@
   "id": "rules_glossary/n/nearby",
   "title": "Nearby",
   "content": "<p>A nearby <a href=\"rules_glossary/l/locations\">location</a> is one that is connected directly to your current location by one of the paths marked on the <a href=\"rules_glossary/v/the_valley_map\">map</a>. (It must be the next location on the chosen path.)</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/N/nearby"
 }

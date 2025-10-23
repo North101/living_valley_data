@@ -2,7 +2,8 @@
   "id": "campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_1",
   "title": "139.1",
   "content": "<blockquote><p>As you push your way through the overgrowth that fills the abandoned laboratories and walkways of the Verdant Sphere, one of the vines writhes under your touch. You leap back as the vines twist together and rise up to form a bipedal figure. It's a Verdessian!</p></blockquote><highlight highlight=\"blue\">IF YOU <span color=\"blue\">BEFRIENDED THE VERDESSIAN</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_2\">139.2</a></highlight><highlight highlight=\"clear\">IF YOU <span color=\"blue\">ANGERED THE VERDESSIAN</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_3\">139.3</a></highlight><highlight highlight=\"blue\">IF <span color=\"blue\">VERDESSIAN KILLED?</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_4\">139.4</a></highlight><highlight highlight=\"clear\">OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/139_familiar_verdessian/139_5\">139.5</a></highlight>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/familiar_verdessian/139_01"
 }

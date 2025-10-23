@@ -2,7 +2,8 @@
   "id": "rules_glossary/f/fatiguing_keyword",
   "title": "Fatiguing (Keyword)",
   "content": "<p>When you <a href=\"rules_glossary/r/rest\">rest</a>, if a card with the Fatiguing <a href=\"rules_glossary/k/keywords\">keyword</a> is ready and is in your <a href=\"rules_glossary/p/player_area\">player area</a>, <a href=\"rules_glossary/w/within_reach\">within reach</a>, or <a href=\"rules_glossary/a/along_the_way\">along the way</a> , you suffer <a href=\"rules_glossary/f/fatigue\">fatigue</a> equal to its presence. If this keyword is followed by a number, suffer that much fatigue instead.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/F/fatiguing"
 }

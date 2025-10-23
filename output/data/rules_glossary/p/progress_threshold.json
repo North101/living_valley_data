@@ -2,7 +2,8 @@
   "id": "rules_glossary/p/progress_threshold",
   "title": "Progress Threshold",
   "content": "<img src=\"https://thelivingvalley.earthbornegames.com/assets/images/Card_Anatomies15-a8fbd6dd321b3e8fe09c51887cbe13e2.png\" /><p><a href=\"rules_glossary/f/features\">Features</a>, <a href=\"rules_glossary/b/beings\">beings</a> , and <a href=\"rules_glossary/l/locations\">locations</a> can have progress thresholds. These are indicated by a value in a blue box in the upper-right corner of the card's text box.</p><p>When a card has <a href=\"rules_glossary/p/progress\">progress</a> on it equal to or exceeding its progress threshold, the card <a href=\"rules_glossary/c/clear\">clears</a> .</p><ul><li>Some <a href=\"rules_glossary/p/path_cards\">path cards</a> don\u2019t have progress thresholds. These cards can still receive progress, but they will never clear because of them.</li><li>Some progress thresholds are marked with the Ranger symbol. These cards are <a href=\"rules_glossary/c/clear\">cleared</a>  when every Rangers\u2019 token is on the card.</li></ul>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/P/progress_threshold"
 }

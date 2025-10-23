@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa",
   "title": "42. Topside Mast (LOA)",
   "content": "<highlight highlight=\"blue\">ENTERS PLAY GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa/42_1_loa\">42.1</a></highlight><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon> GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa/42_2_loa\">42.2</a></highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/42_topside_mast_loa/42_1_loa",
@@ -12,6 +13,6 @@
       "title": "42.2 (LOA)"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/topside_mast"
 }

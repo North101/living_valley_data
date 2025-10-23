@@ -2,6 +2,16 @@
   "id": "rules_glossary",
   "title": "Rules Glossary",
   "content": "<p>This Rules Glossary is a living document containing all rules for Earthborne Rangers and its expansions. These rules are designed for reference during play and are not intended to teach you the game. If you are new to Rangers and interested in learning, we recommend reading through the rulebook or watching the learn to play videos.</p><p>All errata has been integrated into this document. If you'd like to reference specific changes made to the printed rulebook, you can do so by reading the matching entry in the Errata section of this site.</p><h1 id=\"navigating-the-rules-glossary\">Navigating the Rules Glossary</h1><p>There are a few different ways to navigate this Glossary:</p><p><b>Navigation Bar:</b> You can look up any topic or piece of terminology by name using the navigation bar at the left-hand side of the screen.</p><p><b>Search:</b> You can access a search function by clicking on the magnifying glass in the upper-right corner of the screen.</p><p><b>Major Topics:</b> Below are links to several topics that are core to the game system. These are larger topics that contain a large number of hyperlinks out to other topics and terminology, and so can be a good place to start when reading</p><h1 id=\"major-topics\">Major Topics</h1><p><button href=\"rules_glossary/c/creating_ranger_decks\">Creating Your Ranger</button><button href=\"rules_glossary/s/setup\">Game Setup</button><button href=\"rules_glossary/r/round\">Game Round</button><button href=\"rules_glossary/t/tests\">Taking Tests</button><button href=\"rules_glossary/c/challenge_effects\">Challenge Effects</button><button href=\"rules_glossary/t/travel\">Traveling</button><button href=\"rules_glossary/k/keywords\">Keywords</button><button href=\"rules_glossary/t/terms\">Terms</button></p><p><i>Special thanks to ChubFrog from the Earthborne Rangers Discord for all of his hard work in giving feedback to improve this resource!</i></p>",
+  "anchors": [
+    {
+      "id": "#navigating-the-rules-glossary",
+      "title": "Navigating the Rules Glossary"
+    },
+    {
+      "id": "#major-topics",
+      "title": "Major Topics"
+    }
+  ],
   "links": [
     {
       "id": "rules_glossary/a",
@@ -90,6 +100,14 @@
     {
       "id": "rules_glossary/y",
       "title": "Y"
+    },
+    {
+      "id": "#navigating-the-rules-glossary",
+      "title": "Navigating the Rules Glossary"
+    },
+    {
+      "id": "#major-topics",
+      "title": "Major Topics"
     }
   ],
   "lookup": [

@@ -2,7 +2,8 @@
   "id": "rules_glossary/s/search",
   "title": "Search",
   "content": "<p>When you are instructed to \u201csearch\u201d for a card, pick up the indicated decks or piles of cards, find every card matching the criteria specified, and choose one of them (for example, \u201csearch for a gear card\u201d). Some effects will specify what to do with the card. If not, where it goes depends on the type of card searched for. If you searched for a <a href=\"rules_glossary/p/path_cards\">path card</a>, put the card into play. If you searched for a <a href=\"rules_glossary/r/ranger_cards\">Ranger card</a>, place the card into your hand.</p><p>Some search effects may instruct you to search for the \u201cnext\u201d card matching a certain criteria. In those cases, go through the specified deck card-by-card, starting at the top, and pick the first card that matches the criteria. If, in these cases, it specifies to search two locations (for example \u201csearch the path deck and discard\u201d), search the locations in the order they are written. If you fail to find a card in a location, move on to the next.</p><p>If instructed to search a <a href=\"rules_glossary/s/sets\">set</a> of cards, find that set in the <a href=\"rules_glossary/c/the_collection\">collection</a> , and search it as described above. If the set is currently in use, go through the deck and discard in which it is currently being used.</p><p>After searching, return all unchosen cards to where you got them and shuffle any affected decks.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/S/search"
 }

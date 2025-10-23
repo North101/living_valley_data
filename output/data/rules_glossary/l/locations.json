@@ -2,7 +2,26 @@
   "id": "rules_glossary/l/locations",
   "title": "Locations",
   "content": "<p>Locations are represented in two ways in the game: as a card in the <a href=\"rules_glossary/s/surroundings\">surroundings</a> that represents where you are currently, and as a position on the <a href=\"rules_glossary/v/the_valley_map\">Valley map</a> showing where that location is relative to the other locations in the Valley.</p><p>Certain locations have notable people and places to seek out or discover on your journey. These locations are pivotal. This is listed on their card and is marked on the <a href=\"rules_glossary/v/the_valley_map\">Valley map</a> with a gold and brown eight-pointed star. These locations have sets of <a href=\"rules_glossary/p/path_cards\">path cards</a> unique to them that are added to the path deck when you <a href=\"rules_glossary/t/travel\">travel</a>, instead of three random cards from the Valley set.</p><p>Location cards follow the same rules as <a href=\"rules_glossary/p/path_cards\">path cards</a>, except there is only ever one <a href=\"rules_glossary/i/in_play\">in play</a> in the surroundings and, if it ever has <a href=\"rules_glossary/p/progress\">progress</a> equal or exceeding its <a href=\"rules_glossary/p/progress_threshold\">progress threshold</a>, it doesn't clear like a path card. Instead, during <a href=\"rules_glossary/p/phase_3_travel\">Phase 3: Travel</a>, if the location has progress equal or exceeding its progress threshold, you can choose to <a href=\"rules_glossary/t/travel\">travel</a>.</p><p>Locations are double-sided, when arriving at a new location during travel, the back of the location card is used to setup the new location.</p><h1 id=\"location-front\">Location Front</h1><img src=\"https://thelivingvalley.earthbornegames.com/assets/images/Card_Anatomies12-68e71d933da4033dcb3005082e0e3b1b.png\" /><ol><li><b>Title:</b> The name of the card.</li><li><b>Card Type and <a href=\"rules_glossary/t/traits\">Traits</a>:</b> Flavorful attributes that may be referenced by card abilities.</li><li><b><a href=\"rules_glossary/p/presence\">Presence</a>:</b> The card\u2019s prominence in the environment. Determines the amount of <a href=\"rules_glossary/f/fatigue\">fatigue</a> it may cause and scales other effects.</li><li><b>Tokens:</b> Shows the name of a special token type used for this card and the number of those tokens placed on it when it enters play. Use <a href=\"rules_glossary/g/general_tokens\">general tokens</a> to track these.</li><li><b><a href=\"rules_glossary/p/progress_threshold\">Progress Threshold</a>:</b> A measure of the Ranger\u2019s progress toward traveling away from the location. When this card has an equal or greater number of <a href=\"rules_glossary/p/progress\">progress</a> tokens, you can choose to <a href=\"rules_glossary/t/travel\">travel</a> during <a href=\"rules_glossary/p/phase_3_travel\">Phase 3: Travel</a>.</li><li><b>Abilities and Tests:</b> The main abilities of that card. This can include <a href=\"rules_glossary/t/tests\">tests</a> the Rangers can perform, special rules for the card, or effects that resolve when the card <a href=\"rules_glossary/c/clear\">clears</a> .</li><li><b>Challenge Effects:</b> Effects that resolve at the end of tests based on which of the three challenge icons is shown on the <a href=\"rules_glossary/c/challenge_cards\">challenge card</a> .</li><li><b>Set Information:</b> The name of the card\u2019s <a href=\"rules_glossary/s/sets\">set</a> and the card\u2019s number in that set.</li></ol><h1 id=\"location-back\">Location Back</h1><img src=\"https://thelivingvalley.earthbornegames.com/assets/images/Card_Anatomies13-35d4f780eeee7d0a4438eb118caf4534.png\" /><ol><li><b>Location Icon:</b> The icon corresponding to the location on the <a href=\"rules_glossary/v/the_valley_map\">Valley map</a> (and to the locations path cards).</li><li><b>Title:</b> The name of the card.</li><li><b>Card Type and <a href=\"rules_glossary/t/traits\">Traits</a>:</b> Flavorful attributes that may be referenced by card abilities.</li><li><b>Campaign Guide Entry:</b> Indicates an entry in the <a href=\"rules_glossary/c/campaign_guide\">campaign guide</a>  that should be read aloud when arriving at the location.</li><li><b>Setup Instructions:</b> The instructions that you follow when setting up the new location when you travel.</li></ol>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#location-front",
+      "title": "Location Front"
+    },
+    {
+      "id": "#location-back",
+      "title": "Location Back"
+    }
+  ],
+  "links": [
+    {
+      "id": "#location-front",
+      "title": "Location Front"
+    },
+    {
+      "id": "#location-back",
+      "title": "Location Back"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/rules_glossary/L/locations"
 }

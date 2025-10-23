@@ -2,6 +2,7 @@
   "id": "rules_glossary/e",
   "title": "E",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "rules_glossary/e/effort",
@@ -36,6 +37,6 @@
       "title": "Explorer (Specialty)"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/category/e"
 }

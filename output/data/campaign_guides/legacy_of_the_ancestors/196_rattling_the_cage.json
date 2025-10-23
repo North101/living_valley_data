@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/196_rattling_the_cage",
   "title": "196. Rattling the Cage",
   "content": null,
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/196_rattling_the_cage/196_1",
@@ -32,6 +33,6 @@
       "title": "196.7"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/rattling_the_cage"
 }

@@ -2,7 +2,8 @@
   "id": "rules_glossary/r/response",
   "title": "Response",
   "content": "<p>Some rules begin with \u201cResponse:\u201d Each of these effects on a card <a href=\"rules_glossary/i/in_play\">in play</a> resolve at the time specified by their rules text and must resolve if possible.</p><p>If the rules text on a <a href=\"rules_glossary/m/moments\">moment</a> begins with \"Response:,\" you can play that card at the specified time. This might be during your <a href=\"rules_glossary/t/turns\">turn</a>, during other Rangers\u2019 <a href=\"rules_glossary/t/turns\">turns</a>, or even during other phases of the game.</p><ul><li>If a response effect on a <a href=\"rules_glossary/p/path_cards\">path card</a> <a href=\"rules_glossary/i/in_play\">in play</a> contains a decision, such as something containing \"may,\" the Ranger who is taking the current <a href=\"rules_glossary/t/turns\">turn</a> chooses whether or not to resolve the effect.</li><li>You do not have to play <a href=\"rules_glossary/m/moments\">moment</a> cards that start with \"Response:\" It is always your choice.</li></ul><p>If a response effect on a card explicitly resolves from an out of play state (such as when you draw it), it can resolve even though it is not yet in play.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/R/response"
 }

@@ -2,7 +2,8 @@
   "id": "rules_glossary/p/persistent_keyword",
   "title": "Persistent (Keyword)",
   "content": "<p>Cards with the persistent <a href=\"rules_glossary/k/keywords\">keyword</a> (ready or <a href=\"rules_glossary/e/exhaust\">exhausted</a>) and all cards <a href=\"rules_glossary/a/attach\">attached</a>  to them remain <a href=\"rules_glossary/i/in_play\">in play</a> when you <a href=\"rules_glossary/t/travel\">travel</a>.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/P/persistent"
 }

@@ -2,7 +2,8 @@
   "id": "campaign_guides/lure_of_the_valley/1_missions/1_06",
   "title": "1.06",
   "content": "<p><b>IF YOU ARE ON THE WASHED AWAY MISSION, GO TO <a href=\"campaign_guides/lure_of_the_valley/1_missions/1_22\">1.22</a>. OTHERWISE, READ:</b></p><blockquote><p>Although you spent the last few hours trying to shore up barricades and redirect the raging flow of water, the flood finally overwhelms your efforts. You have no choice but to retreat to higher ground.</p></blockquote><p>Check off the bubble matching your current location next to <b>RISING WATERS</b> on the campaign tracker. Then record the name of the current location followed by <span color=\"blue\">FLOODED</span> on the campaign tracker.</p><p><b>End the day.</b></p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/missions/1_06"
 }

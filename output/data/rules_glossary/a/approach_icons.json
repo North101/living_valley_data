@@ -2,7 +2,8 @@
   "id": "rules_glossary/a/approach_icons",
   "title": "Approach Icons",
   "content": "<p>Approach icons appear on the lefthand side of <a href=\"rules_glossary/r/ranger_cards\">Ranger cards</a>. They also appear in <a href=\"rules_glossary/t/tests\">tests</a> printed on <a href=\"rules_glossary/p/path_cards\">path cards</a>, <a href=\"rules_glossary/w/weather\">weather</a>, <a href=\"rules_glossary/m/missions\">missions</a>, <a href=\"rules_glossary/l/locations\">locations</a>, and Ranger cards.</p><p>There are four approach icons:</p><ul><li><icon icon=\"conflict\">&nbsp;</icon> Conflict</li><li><icon icon=\"reason\">&nbsp;</icon> Reason</li><li><icon icon=\"exploration\">&nbsp;</icon> Exploration</li><li><icon icon=\"connection\">&nbsp;</icon> Connection</li></ul><p>During Step 2 of performing a <a href=\"rules_glossary/t/tests\">test</a> you may <a href=\"rules_glossary/d/discard\">discard</a> any number of cards from your hand with approach icons matching the icon shown in the test you are performing. Each matching approach icon on the discarded cards contributes 1 <a href=\"rules_glossary/e/effort\">effort</a>. There is no limit to the number of cards with matching approach icons you can discard to <a href=\"rules_glossary/c/commit\">commit</a>  to a test.</p><p>When you discard a card for its approach icons, ignore all information on the card that doesn\u2019t explicitly refer to committing that card to the test. </p><p>Thematically, approach icons on <a href=\"rules_glossary/r/ranger_cards\">Ranger cards</a> represent the way in which your Ranger typically approachs situations based on their personality and experience. When approach icons appear in <a href=\"rules_glossary/t/tests\">tests</a>, they combine with an <a href=\"rules_glossary/a/aspects\">aspect</a>  to form a descriptive narrative action.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/A/approach_icons"
 }

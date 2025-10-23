@@ -2,7 +2,8 @@
   "id": "rules_glossary/d/deployed_keyword",
   "title": "Deployed (Keyword)",
   "content": "<p>When rules text on a <a href=\"rules_glossary/g/gear\">gear</a> card is preceded by \u201cDeployed,\u201d that card represents equipment that must be set up or assembled to be functional. </p><p>The ability that follows \u201cDeployed\u201d is functional only while the card is <a href=\"rules_glossary/r/ready\">ready</a>. When it is <a href=\"rules_glossary/e/exhaust\">exhausted</a>, that ability is inactive and its effects are not applied to the game.</p><p>At the beginning of the <a href=\"rules_glossary/p/phase_2_ranger_turns\">Ranger Turns phase</a>, you may <a href=\"rules_glossary/e/exhaust\">exhaust</a> any of your <a href=\"rules_glossary/e/equipped\">equipped</a> cards with Deployed in their rules. Additionally, when you <a href=\"rules_glossary/p/play\">play</a> a card with Deployed, you can choose to have it enter play <a href=\"rules_glossary/e/exhaust\">exhausted</a>.</p>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/D/deployed"
 }

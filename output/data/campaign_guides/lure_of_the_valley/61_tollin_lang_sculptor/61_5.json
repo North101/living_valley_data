@@ -2,7 +2,18 @@
   "id": "campaign_guides/lure_of_the_valley/61_tollin_lang_sculptor/61_5",
   "title": "61.5",
   "content": "<blockquote><p>\u201cOh this?\u201d He gestures to the incomplete piece. \u201cSomething about the duality of the prey-predator relationship, I think. Or maybe just that there\u2019s always a bigger fish out there?\u201d He laughs. \u201cBut I have to admit, I\u2019d like a break to approach this with a fresh eye, and the Stoneweaver sculpture should get checked to make sure it\u2019s working correctly. Don\u2019t suppose you\u2019d like to take me down there again?\u201d</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><span color=\"red\">A) Agree to help.</span> Discard all <icon icon=\"progress\">&nbsp;</icon>, and attach the <b>HELPING HAND</b> mission to Tollin. Write <span color=\"blue\">APPRECIATED TOLLIN\u2019S ART</span> on the campaign tracker.</p><p><span color=\"red\">B) Not today.</span> Discard Tollin. Each Ranger soothes 2 fatigue.</p>",
-  "links": [],
-  "lookup": null,
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/tollin_lang_sculptor/61_5"
 }

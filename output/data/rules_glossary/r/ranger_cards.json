@@ -2,7 +2,8 @@
   "id": "rules_glossary/r/ranger_cards",
   "title": "Ranger Cards",
   "content": "<p>Cards that make up your Ranger deck. On your <a href=\"rules_glossary/t/turns\">turn</a>, you can spend an amount of <a href=\"rules_glossary/e/energy\">energy</a> matching the card\u2019s cost to play that card. The card then has an effect based on its card type. Alternatively, when performing a <a href=\"rules_glossary/t/tests\">test</a>, Ranger cards can be <a href=\"rules_glossary/d/discard\">discarded</a> to contribute their <a href=\"rules_glossary/a/approach_icons\">approach icons</a>  to the <a href=\"rules_glossary/e/effort\">effort</a>.</p><p>There are six types of Ranger cards:</p><ul><li><a href=\"rules_glossary/r/role\">Role</a></li><li><a href=\"rules_glossary/m/moments\">Moments</a></li><li><a href=\"rules_glossary/a/attachments\">Attachments</a></li><li><a href=\"rules_glossary/g/gear\">Gear</a></li><li><a href=\"rules_glossary/f/features\">Features</a> and <a href=\"rules_glossary/b/beings\">beings</a> </li><li><a href=\"rules_glossary/a/attributes\">Attributes</a></li></ul>",
+  "anchors": [],
   "links": [],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/rules_glossary/R/ranger_cards"
 }

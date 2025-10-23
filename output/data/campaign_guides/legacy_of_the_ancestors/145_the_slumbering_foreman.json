@@ -2,6 +2,7 @@
   "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman",
   "title": "145. The Slumbering Foreman",
   "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU'VE <span color=\"blue\">SEEN THE LIGHT</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_1\">145.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_2\">145.2</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon> POWERED [3]:</p><ul><li>IF YOU'VE <span color=\"blue\">SEEN THE LIGHT</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_3\">145.3</a></li><li>IF YOU ARE AT ORLIN'S VAULT, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_4\">145.4</a></li><li>IF HELPING HAND IS ATTACHED, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_5\">145.5</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_6\">145.6</a></li></ul></highlight><highlight highlight=\"blue\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_7\">145.7</a></highlight><highlight highlight=\"clear\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_8\">145.8</a></highlight>",
+  "anchors": [],
   "links": [
     {
       "id": "campaign_guides/legacy_of_the_ancestors/145_the_slumbering_foreman/145_1",
@@ -36,6 +37,6 @@
       "title": "145.8"
     }
   ],
-  "lookup": null,
+  "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/the_slumbering_foreman"
 }
