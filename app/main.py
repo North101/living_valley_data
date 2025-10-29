@@ -1,10 +1,9 @@
 import enum
 import html
 import pathlib
-from collections.abc import Sequence
+from collections.abc import Generator, Sequence
 from dataclasses import asdict, replace
 from shutil import rmtree
-from typing import Generator
 from urllib.parse import urljoin
 
 import requests
@@ -12,9 +11,7 @@ from lxml.html import HtmlElement
 from requests.adapters import HTTPAdapter
 from urllib3.util import Retry
 
-from . import constants
-from . import tags
-from . import util
+from . import constants, tags, util
 
 
 class IconType(enum.StrEnum):
@@ -32,6 +29,7 @@ class Scraper:
   TAG_ITEMS_TYPES = dict[str, set[str]]()
   TAG_URLS = set[str]()
   TAG_ICONS = dict[str, str | None]()
+  RESOURCE_NARRATION_IDS = dict[str, int]()
 
   def __init__(
       self,
@@ -57,6 +55,11 @@ class Scraper:
 
     self.icon_type = icon_type
     self.content_type = content_type
+
+  def narration_id(self, resource_id: str):
+    narration_id = self.RESOURCE_NARRATION_IDS.setdefault(resource_id, 0) + 1
+    self.RESOURCE_NARRATION_IDS[resource_id] = narration_id
+    return f'narration_{narration_id}'
 
   def get_nav_parents(self, e: HtmlElement) -> Generator[str]:
     for item in e.xpath(constants.NAV_PARENT_URLS):
@@ -86,7 +89,7 @@ class Scraper:
     for item in items:
       yield from self.scrape_page(item[2])
 
-  def parse_element(self, e: HtmlElement, urls: dict[str, str], icon_color: str | None) -> Generator[tags.Tag]:
+  def parse_element(self, resource_id: str, e: HtmlElement, urls: dict[str, str], icon_color: str | None) -> Generator[tags.Tag]:
     tag = str(e.tag)
     tag = constants.REPLACE_TAG.get(tag, tag)
 
@@ -103,6 +106,7 @@ class Scraper:
     )
 
     items: list[tags.Tag] = list(self.parse_element_items(
+        resource_id,
         e,
         urls,
         util.get_color_for_class(
@@ -119,13 +123,13 @@ class Scraper:
     # Cleanup paragraphs
     if tag == 'p' and len(items) == 1:
       item = items[0]
-      if isinstance(item, tags.TagFormattedText):
+      if isinstance(item, (tags.TagFormattedText, tags.TagBlockquote)):
         # Remove trailing spaces
         if item.items and item.items[-1] == tags.TagText('text', ' '):
           item.items.pop()
 
     if tag in ('p', 'b', 'i', 'span'):
-      if items and len(items) == 1 and (item := items[0]) and isinstance(item, tags.TagFormattedText):
+      if items and len(items) == 1 and (item := items[0]) and isinstance(item, (tags.TagFormattedText, tags.TagBlockquote)):
         # Bring colors to the top
         color = item.color or color
         item.color = None
@@ -185,7 +189,16 @@ class Scraper:
       )
       return
 
-    elif tag in ('p', 'b', 'i', 'span', 'blockquote', 'ol', 'ul', 'li', 'code'):
+    elif tag == 'blockquote':
+      yield tags.TagBlockquote(
+          tag,
+          items,
+          self.narration_id(resource_id),
+          color,
+      )
+      return
+
+    elif tag in ('p', 'b', 'i', 'span', 'ol', 'ul', 'li', 'code'):
       if not items:
         return
 
@@ -225,12 +238,12 @@ class Scraper:
     elif tag not in ('title', 'mark'):
       print(tag)
 
-  def parse_element_items(self, parent: HtmlElement, urls: dict[str, str], icon_color: str | None) -> Generator[tags.Tag]:
+  def parse_element_items(self, resource_id: str, parent: HtmlElement, urls: dict[str, str], icon_color: str | None) -> Generator[tags.Tag]:
     if parent.text and parent.text:
       yield from self.process_text(parent.text, icon_color)
 
     for child in parent:
-      yield from self.parse_element(child, urls, icon_color)
+      yield from self.parse_element(resource_id, child, urls, icon_color)
 
       if child.tail and child.tail:
         yield from self.process_text(child.tail, icon_color)
@@ -284,12 +297,38 @@ class Scraper:
       yield util.Link(
           id=f'#{item.anchor}',
           title=''.join((
-            text
-            for text in self.get_text(item)
+              text
+              for text in self.get_text(item)
           )),
       )
     if isinstance(item, tags.TagWithItems):
       yield from self.find_anchors(item.items)
+
+  def find_narrations(self, resource_id: str, url: str, anchor: str | None, items: list[tags.Tag]) -> Generator[util.Narration]:
+    for item in items:
+      anchor = item.anchor if isinstance(item, tags.TagTitle) else anchor
+      yield from self.find_narration(
+          resource_id,
+          url,
+          anchor,
+          item
+      )
+
+  def find_narration(self, resource_id: str, url: str, anchor: str | None, item: tags.Tag) -> Generator[util.Narration]:
+    if isinstance(item, tags.TagBlockquote):
+      yield util.Narration(
+        resource_id,
+        f'{url}#{anchor}' if anchor else url,
+        item,
+      )
+
+    if isinstance(item, tags.TagWithItems):
+      yield from self.find_narrations(
+          resource_id,
+          url,
+          item.anchor if isinstance(item, tags.TagTitle) else anchor,
+          item.items,
+      )
 
   def get_text(self, item: tags.Tag) -> Generator[str]:
     if isinstance(item, tags.TagText):
@@ -318,28 +357,28 @@ class Scraper:
 
     attributes = {}
 
-    if isinstance(content, tags.TagTitle):
+    if isinstance(content, (tags.TagTitle, tags.TagBlockquote)):
       attributes['id'] = content.anchor
 
-    elif isinstance(content, tags.TagHighlight):
+    if isinstance(content, tags.TagHighlight):
       attributes['highlight'] = content.highlight
 
-    elif isinstance(content, tags.TagIcon):
+    if isinstance(content, tags.TagIcon):
       icon = content.icon
       attributes['icon'] = icon
       if self.icon_type is IconType.TEXT:
         return f'[{icon}]'
 
-    elif isinstance(content, tags.TagLink):
+    if isinstance(content, tags.TagLink):
       href = content.href
       if href.startswith(f'{resource_id}#'):
         href = href.removeprefix(resource_id)
       attributes['href'] = href
 
-    elif isinstance(content, tags.TagImg):
+    if isinstance(content, tags.TagImg):
       attributes['src'] = content.src
 
-    elif isinstance(content, tags.TagFormattedText):
+    if isinstance(content, (tags.TagFormattedText, tags.TagBlockquote)):
       attributes['color'] = content.color
 
     if attributes:
@@ -359,12 +398,27 @@ class Scraper:
 
     return f'<{content.type}{attributes} />'
 
+  def content_to_text(self, items: list[tags.Tag]) -> Generator[str]:
+    for item in items:
+      yield from self.content_item_to_text(item)
+
+  def content_item_to_text(self, item: tags.Tag) -> Generator[str]:
+    if isinstance(item, tags.TagWithItems):
+      if isinstance(item, tags.TagFormattedText) and item.type == 'p':
+        yield '\n'.join(self.content_to_text(item.items))
+      else:
+        yield ''.join(self.content_to_text(item.items))
+
+    if isinstance(item, tags.TagText):
+      yield item.text
+
   def scrape(self):
     rmtree(self.output_dir, ignore_errors=True)
 
     urls = dict[str, str]()
     titles = dict[str, str]()
     lookup = dict[str, list[util.Link]]()
+    narrations = dict[str, list[util.Narration]]()
     for page_url in self.page_urls:
       for url, resource_id, title, _, _ in self.scrape_page(page_url):
         urls[url] = resource_id
@@ -382,6 +436,7 @@ class Scraper:
         file = self.output_dir / 'data' / f'{resource_id}.json'
         content = (
             list(self.parse_element_items(
+                resource_id,
                 data,
                 urls,
                 None,
@@ -390,10 +445,19 @@ class Scraper:
             None
         )
         anchors = (
-          list(self.find_anchors(content))
-          if content else
-          []
+            list(self.find_anchors(content))
+            if content else
+            []
         )
+
+        lookup_group = self.get_lookup_group(resource_id)
+        if lookup_group:
+          narrations.setdefault(lookup_group, []).extend(
+              list(self.find_narrations(resource_id, url, None, content))
+              if content else
+              []
+          )
+
         if self.content_type == ContentType.XHTML:
           content = self.content_to_xhtml(
               resource_id,
@@ -429,24 +493,39 @@ class Scraper:
             util.clean_url(url),
         )
 
-      util.write_resource(
-          self.output_dir / 'data.json',
-          '',
-          'The Living Valley',
-          None,
-          [],
+    for story_id, narrations in narrations.items():
+      util.write_csv(
+          self.output_dir / 'csv' / f'{story_id}.csv',
           [
-              {
-                  'id': urls[page_url],
-                  'title': titles[page_url],
-              }
-              for page_url in self.page_urls
+              util.NarrationItem(
+                  '.'.join(f'{narration.resource_id}/{narration.tag.anchor}'.split('/')),
+                  urljoin(self.base_url, narration.url),
+                  '\n'.join(self.content_to_text(
+                      narration.tag.items,
+                  )),
+              )
+              for narration in narrations
           ],
-          [],
-          self.base_url,
       )
 
-      self.dump_logs()
+    util.write_resource(
+        self.output_dir / 'data.json',
+        '',
+        'The Living Valley',
+        None,
+        [],
+        [
+            {
+                'id': urls[page_url],
+                'title': titles[page_url],
+            }
+            for page_url in self.page_urls
+        ],
+        [],
+        self.base_url,
+    )
+
+    self.dump_logs()
 
   def dump_logs(self):
     rmtree(self.log_dir, ignore_errors=True)

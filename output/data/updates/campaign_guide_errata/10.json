@@ -1,7 +1,7 @@
 {
   "id": "updates/campaign_guide_errata/10",
   "title": "10",
-  "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><blockquote><p>As you near the terminus of the Valley, the Silverfin rushes and churns between massive boulders on its way to the falls. Ahead of you, there is a constant, booming roar. Just beyond, the Silverfin rushes over the lip of the cliff and plummets hundreds of meters to the Verdessa far below.</p></blockquote><p><code>If you haven't gained or completed the SEARCH (KASENDE) mission, do not shuffle Kasende, Expert Hunter into the path deck.</code></p>",
+  "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><blockquote id=\"narration_1\"><p>As you near the terminus of the Valley, the Silverfin rushes and churns between massive boulders on its way to the falls. Ahead of you, there is a constant, booming roar. Just beyond, the Silverfin rushes over the lip of the cliff and plummets hundreds of meters to the Verdessa far below.</p></blockquote><p><code>If you haven't gained or completed the SEARCH (KASENDE) mission, do not shuffle Kasende, Expert Hunter into the path deck.</code></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

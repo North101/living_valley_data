@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/100_the_chimney",
   "title": "100. The Chimney",
-  "content": "<blockquote><p>You find your way through small, quiet passageways until they open into a walkway running to a towering spiral stairway that hangs in the middle of a wide vertical shaft. The previously dark chamber now glows with a soft light from deep at the bottom. Silaro\u2019s team has set up its equipment and bustles around on the floor of the Chimney, analyzing maps and preparing members of the expedition to head into the ruin.</p></blockquote><p>If you have not <span color=\"blue\">FOUND SILARO</span>, or if you are on the <b>POWER UP</b> mission, do not include Silaro Mako, Spelunker when constructing the path deck.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>You find your way through small, quiet passageways until they open into a walkway running to a towering spiral stairway that hangs in the middle of a wide vertical shaft. The previously dark chamber now glows with a soft light from deep at the bottom. Silaro\u2019s team has set up its equipment and bustles around on the floor of the Chimney, analyzing maps and preparing members of the expedition to head into the ruin.</p></blockquote><p>If you have not <span color=\"blue\">FOUND SILARO</span>, or if you are on the <b>POWER UP</b> mission, do not include Silaro Mako, Spelunker when constructing the path deck.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

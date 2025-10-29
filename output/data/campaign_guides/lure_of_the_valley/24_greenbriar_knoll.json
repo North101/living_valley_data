@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/24_greenbriar_knoll",
   "title": "24. Greenbriar Knoll",
-  "content": "<highlight highlight=\"blue\">IF JARIS, WILLFUL YOUTH IS IN PLAY GO TO <a href=\"campaign_guides/lure_of_the_valley/24_greenbriar_knoll/24_1\">24.1</a></highlight><highlight highlight=\"clear\">OTHERWISE, READ:</highlight><br /><blockquote><p>The head-high grass makes it impossible to spot the knoll until the ground slopes upward, and you begin to climb a gentle grade.</p><p>As you finish your ascent, you find yourself on a hilltop. At the summit, you find a dais of time-worn and lichen-crusted stone, with narrow threads of metal weaving through it. You can see the dulled and patinated threads form distinct patterns\u2014the mark of the Estians.</p></blockquote>",
+  "content": "<highlight highlight=\"blue\">IF JARIS, WILLFUL YOUTH IS IN PLAY GO TO <a href=\"campaign_guides/lure_of_the_valley/24_greenbriar_knoll/24_1\">24.1</a></highlight><highlight highlight=\"clear\">OTHERWISE, READ:</highlight><br /><blockquote id=\"narration_1\"><p>The head-high grass makes it impossible to spot the knoll until the ground slopes upward, and you begin to climb a gentle grade.</p><p>As you finish your ascent, you find yourself on a hilltop. At the summit, you find a dais of time-worn and lichen-crusted stone, with narrow threads of metal weaving through it. You can see the dulled and patinated threads form distinct patterns\u2014the mark of the Estians.</p></blockquote>",
   "anchors": [],
   "links": [
     {

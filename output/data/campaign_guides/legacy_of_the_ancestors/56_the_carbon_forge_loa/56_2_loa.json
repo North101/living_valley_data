@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa/56_2_loa",
   "title": "56.2 (LOA)",
-  "content": "<blockquote><p>You hear the muted roar and smell the sharp tang of ozone before you can see the Carbon Forge itself. It has been over a century since Sal Orlin first discovered the Forge in the arcology ruins beneath Spire. Now, it is worked to reassemble simple graphite into carbon wonders. You watch as several artificers pull what look to be pieces of a winch or crane from the blue flames within. They're probably on their way to help Silaro with his expedition down into the very ruins that once held this machine.</p></blockquote>",
+  "content": "<blockquote id=\"narration_1\"><p>You hear the muted roar and smell the sharp tang of ozone before you can see the Carbon Forge itself. It has been over a century since Sal Orlin first discovered the Forge in the arcology ruins beneath Spire. Now, it is worked to reassemble simple graphite into carbon wonders. You watch as several artificers pull what look to be pieces of a winch or crane from the blue flames within. They're probably on their way to help Silaro with his expedition down into the very ruins that once held this machine.</p></blockquote>",
   "anchors": [],
   "links": [],
   "lookup": [],

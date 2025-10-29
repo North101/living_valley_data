@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_1_loa",
   "title": "59.1 (LOA)",
-  "content": "<blockquote><p>As you walk along the trail, a breeze suddenly whips up around you, scattering leaves and dust. You have only a moment to notice that the wind doesn\u2019t seem to touch the trees just a few meters away when Dace gracefully descends on a column of whirling air. </p></blockquote><p color=\"blue\"><i>Clear Dace with <icon icon=\"progress\">&nbsp;</icon> to ask what she\u2019s been up to.</i></p>",
+  "content": "<blockquote id=\"narration_1\"><p>As you walk along the trail, a breeze suddenly whips up around you, scattering leaves and dust. You have only a moment to notice that the wind doesn\u2019t seem to touch the trees just a few meters away when Dace gracefully descends on a column of whirling air. </p></blockquote><p color=\"blue\"><i>Clear Dace with <icon icon=\"progress\">&nbsp;</icon> to ask what she\u2019s been up to.</i></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

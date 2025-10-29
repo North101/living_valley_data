@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/9_marsh_of_rebirth",
   "title": "9. Marsh of Rebirth",
-  "content": "<blockquote><p>The Marsh of Rebirth is the very heart of the swamp\u2014a swirling morass of sluggish currents and thick waters stained with tannins. The heavy, humid stench of rot fills your nostrils, but despite the smell, the oxygen-rich air leaves you feeling invigorated. The Marsh of Rebirth is a place of decay and death but also of newborn life.</p></blockquote>",
+  "content": "<blockquote id=\"narration_1\"><p>The Marsh of Rebirth is the very heart of the swamp\u2014a swirling morass of sluggish currents and thick waters stained with tannins. The heavy, humid stench of rot fills your nostrils, but despite the smell, the oxygen-rich air leaves you feeling invigorated. The Marsh of Rebirth is a place of decay and death but also of newborn life.</p></blockquote>",
   "anchors": [],
   "links": [
     {

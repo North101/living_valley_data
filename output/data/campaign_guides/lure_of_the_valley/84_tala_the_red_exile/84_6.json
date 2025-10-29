@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/84_tala_the_red_exile/84_6",
   "title": "84.6",
-  "content": "<blockquote><p>Tala howls in pain. You turn to her, seeing her ice axe clutched in one hand and her eyes wide with fury. You patiently try to calm her down so that you can look at the injury, but it may take a while.</p></blockquote><p><b>End the day.</b></p>",
+  "content": "<blockquote id=\"narration_1\"><p>Tala howls in pain. You turn to her, seeing her ice axe clutched in one hand and her eyes wide with fury. You patiently try to calm her down so that you can look at the injury, but it may take a while.</p></blockquote><p><b>End the day.</b></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

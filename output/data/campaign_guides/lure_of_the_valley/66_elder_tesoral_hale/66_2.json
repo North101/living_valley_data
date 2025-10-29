@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_2",
   "title": "66.2",
-  "content": "<blockquote><p>You hear Elder Tesoral Hale speaking urgently with one of the Branch villagers as you approach. \u201cOh, goodness me. She was supposed to be here already! Why do you think she\u2019s late?\u201d</p><p>You cough, and he looks up. \u201cOh, ah, hello there. It\u2019s good to see you, I\u2019m sure!\u201d</p></blockquote><p color=\"blue\"><i>Clear Elder Hale with <icon icon=\"progress\">&nbsp;</icon> to ask him if he needs help around Branch.</i></p>",
+  "content": "<blockquote id=\"narration_1\"><p>You hear Elder Tesoral Hale speaking urgently with one of the Branch villagers as you approach. \u201cOh, goodness me. She was supposed to be here already! Why do you think she\u2019s late?\u201d</p><p>You cough, and he looks up. \u201cOh, ah, hello there. It\u2019s good to see you, I\u2019m sure!\u201d</p></blockquote><p color=\"blue\"><i>Clear Elder Hale with <icon icon=\"progress\">&nbsp;</icon> to ask him if he needs help around Branch.</i></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/132_the_ferrymen/132_7",
   "title": "132.7",
-  "content": "<blockquote><p>The voice grows quieter. You try to focus your mind, grabbing hold of the connection more tightly, but it\u2019s as if you\u2019re trying to hold water in your fist. The whispers slip through your mental fingers like mist flowing through trees, and in a moment the voices from these mushrooms have gone silent. You\u2019ve lost your chance to communicate with the mycelial network here, but perhaps there are other such mushrooms in the arcology? Maybe they offer a similar opportunity?</p></blockquote><p>Discard this flora.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>The voice grows quieter. You try to focus your mind, grabbing hold of the connection more tightly, but it\u2019s as if you\u2019re trying to hold water in your fist. The whispers slip through your mental fingers like mist flowing through trees, and in a moment the voices from these mushrooms have gone silent. You\u2019ve lost your chance to communicate with the mycelial network here, but perhaps there are other such mushrooms in the arcology? Maybe they offer a similar opportunity?</p></blockquote><p>Discard this flora.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_7",
   "title": "93.7",
-  "content": "<blockquote><p>You lead Tollin\u2019s group down to the intake inlets for Spire\u2019s hydroelectric generators. There you find a pair of large seed barges and get everyone aboard. As they cast off, Tollin claps you on your shoulder. \u201cThanks for getting us out! I think we'll be all right if you still need to help anyone else.\u201d</p></blockquote><p>Write <span color=\"blue\">TOLLIN\u2019S GROUP SAVED</span> on the campaign tracker, and return Tollin Lang, Sculptor to the collection.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>You lead Tollin\u2019s group down to the intake inlets for Spire\u2019s hydroelectric generators. There you find a pair of large seed barges and get everyone aboard. As they cast off, Tollin claps you on your shoulder. \u201cThanks for getting us out! I think we'll be all right if you still need to help anyone else.\u201d</p></blockquote><p>Write <span color=\"blue\">TOLLIN\u2019S GROUP SAVED</span> on the campaign tracker, and return Tollin Lang, Sculptor to the collection.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

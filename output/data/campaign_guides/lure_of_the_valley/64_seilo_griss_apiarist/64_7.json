@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_7",
   "title": "64.7",
-  "content": "<blockquote><p>Seilo yelps, \u201cAh, help! Please!\u201d When you finally reach him, he\u2019s lying on the ground, unconscious. Your mind races as you scramble to figure out how to treat his injuries.</p></blockquote><p><b>End the day.</b></p>",
+  "content": "<blockquote id=\"narration_1\"><p>Seilo yelps, \u201cAh, help! Please!\u201d When you finally reach him, he\u2019s lying on the ground, unconscious. Your mind races as you scramble to figure out how to treat his injuries.</p></blockquote><p><b>End the day.</b></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

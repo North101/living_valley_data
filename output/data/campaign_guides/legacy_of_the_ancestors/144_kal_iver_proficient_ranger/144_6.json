@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_6",
   "title": "144.6",
-  "content": "<blockquote><p>Kal hisses in pain and collapses. As you rush to help him, he manages to give you a wan smile. \u201cGuess it\u2019s a good thing I kept you around, huh?\u201d </p><p>You look at his injuries, and note that while they\u2019re not life-threatening, they require some immediate treatment. You\u2019d better find a side passage and set up camp while you give him first aid. </p></blockquote><p><b>End the day.</b></p>",
+  "content": "<blockquote id=\"narration_1\"><p>Kal hisses in pain and collapses. As you rush to help him, he manages to give you a wan smile. \u201cGuess it\u2019s a good thing I kept you around, huh?\u201d </p><p>You look at his injuries, and note that while they\u2019re not life-threatening, they require some immediate treatment. You\u2019d better find a side passage and set up camp while you give him first aid. </p></blockquote><p><b>End the day.</b></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

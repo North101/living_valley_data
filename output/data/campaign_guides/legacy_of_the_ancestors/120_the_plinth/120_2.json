@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_2",
   "title": "120.2",
-  "content": "<blockquote><p>The base of the spiral stair opens onto a vast, flat expanse, punctuated by broken sections of flooring that expose deep pits. The darkness keeps you from judging the full size of the chamber, leaving you with only a confused impression of echoing, vaulted spaces. As you survey the broken floor around you, you hear the far-off clattering of disturbed rocks in the murk. Then, the smothering silence returns.</p></blockquote><p>Search the path deck for the next feature and put it into play.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>The base of the spiral stair opens onto a vast, flat expanse, punctuated by broken sections of flooring that expose deep pits. The darkness keeps you from judging the full size of the chamber, leaving you with only a confused impression of echoing, vaulted spaces. As you survey the broken floor around you, you hear the far-off clattering of disturbed rocks in the murk. Then, the smothering silence returns.</p></blockquote><p>Search the path deck for the next feature and put it into play.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

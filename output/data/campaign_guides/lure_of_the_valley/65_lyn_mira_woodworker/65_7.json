@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/65_lyn_mira_woodworker/65_7",
   "title": "65.7",
-  "content": "<blockquote><p>Lyn cries out. Struggling to stand, she groans, and her eyes roll back into her head. You must carry her to safety and tend to her wounds.</p></blockquote><p><b>End the day.</b></p>",
+  "content": "<blockquote id=\"narration_1\"><p>Lyn cries out. Struggling to stand, she groans, and her eyes roll back into her head. You must carry her to safety and tend to her wounds.</p></blockquote><p><b>End the day.</b></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

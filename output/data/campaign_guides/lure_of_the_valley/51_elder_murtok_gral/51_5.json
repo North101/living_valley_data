@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/51_elder_murtok_gral/51_5",
   "title": "51.5",
-  "content": "<blockquote><p>Elder Murtok shakes his head. \u201cIt\u2019s hard to think of any problem greater than Quiet. That massive bearded lynx has been stalking our shores for weeks. She nearly ate someone just the other day! Do you think you could get her to leave us in peace?\u201d</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><span color=\"red\">A) Agree to help.</span> Gain the <b>LURE (QUIET)</b> mission. Reminder: find Quiet in the Valley set, and attach her facedown to the mission card. You may choose this option only if you don\u2019t have another Lure or Confront mission. Discard Elder Gral.</p><p><span color=\"red\">B) Not today.</span> Discard Elder Gral. Each Ranger soothes 2 fatigue.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>Elder Murtok shakes his head. \u201cIt\u2019s hard to think of any problem greater than Quiet. That massive bearded lynx has been stalking our shores for weeks. She nearly ate someone just the other day! Do you think you could get her to leave us in peace?\u201d</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><span color=\"red\">A) Agree to help.</span> Gain the <b>LURE (QUIET)</b> mission. Reminder: find Quiet in the Valley set, and attach her facedown to the mission card. You may choose this option only if you don\u2019t have another Lure or Confront mission. Discard Elder Gral.</p><p><span color=\"red\">B) Not today.</span> Discard Elder Gral. Each Ranger soothes 2 fatigue.</p>",
   "anchors": [
     {
       "id": "#rangers-choose",

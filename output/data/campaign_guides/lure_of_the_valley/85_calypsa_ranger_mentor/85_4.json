@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_4",
   "title": "85.4",
-  "content": "<blockquote><p>Calypsa gasps and drops down on one knee. As you move over to her, she looks up. \u201cI\u2019ll admit it,\" she says. \"I'm hurt.\u201d She winces as you get out some medical supplies and get to work treating her injuries.</p></blockquote><p><b>End the day.</b></p>",
+  "content": "<blockquote id=\"narration_1\"><p>Calypsa gasps and drops down on one knee. As you move over to her, she looks up. \u201cI\u2019ll admit it,\" she says. \"I'm hurt.\u201d She winces as you get out some medical supplies and get to work treating her injuries.</p></blockquote><p><b>End the day.</b></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

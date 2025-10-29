@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/77_elder_cormak_wellers/77_5",
   "title": "77.5",
-  "content": "<blockquote><p>Elder Wellers stumbles and gasps. You move to catch him before he collapses. It will take some time to get him to safety and treat his injuries.</p></blockquote><p><b>End the day.</b></p>",
+  "content": "<blockquote id=\"narration_1\"><p>Elder Wellers stumbles and gasps. You move to catch him before he collapses. It will take some time to get him to safety and treat his injuries.</p></blockquote><p><b>End the day.</b></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

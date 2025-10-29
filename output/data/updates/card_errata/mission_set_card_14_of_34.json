@@ -1,7 +1,7 @@
 {
   "id": "updates/card_errata/mission_set_card_14_of_34",
   "title": "Mission Set Card 14 of 34",
-  "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><p>Add the following condition above the \u201cSearch\u201d test:</p><blockquote><p><code>While at a non-pivotal location this mission gains the following test:</code></p></blockquote><p><img src=\"https://thelivingvalley.earthbornegames.com/assets/images/EBR_Cards_Missions_14of34-44010405efe49ef5f96dcdc79193a433.png#errata_cards\" /></p>",
+  "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><p>Add the following condition above the \u201cSearch\u201d test:</p><blockquote id=\"narration_1\"><p><code>While at a non-pivotal location this mission gains the following test:</code></p></blockquote><p><img src=\"https://thelivingvalley.earthbornegames.com/assets/images/EBR_Cards_Missions_14of34-44010405efe49ef5f96dcdc79193a433.png#errata_cards\" /></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

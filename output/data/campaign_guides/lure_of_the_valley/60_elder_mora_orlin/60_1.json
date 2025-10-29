@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_1",
   "title": "60.1",
-  "content": "<blockquote><p>Elder Orlin looks you up and down, and this time she nods slowly. \u201cI must say I appreciate you dealing with Umbra. Fine work. Old Kordo couldn\u2019t have done better.\u201d</p></blockquote><p color=\"blue\"><i>Clear Elder Orlin with <icon icon=\"progress\">&nbsp;</icon> to ask if she needs assistance with anything else.</i></p>",
+  "content": "<blockquote id=\"narration_1\"><p>Elder Orlin looks you up and down, and this time she nods slowly. \u201cI must say I appreciate you dealing with Umbra. Fine work. Old Kordo couldn\u2019t have done better.\u201d</p></blockquote><p color=\"blue\"><i>Clear Elder Orlin with <icon icon=\"progress\">&nbsp;</icon> to ask if she needs assistance with anything else.</i></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

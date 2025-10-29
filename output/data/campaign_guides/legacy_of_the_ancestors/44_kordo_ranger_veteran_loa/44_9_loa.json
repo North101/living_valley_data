@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/44_kordo_ranger_veteran_loa/44_9_loa",
   "title": "44.9 (LOA)",
-  "content": "<blockquote><p>Kordo stumbles and falls to the ground. He grips his leg, wincing in pain.</p><p>\u201cMy own fault,\u201d he grunts. \u201cI don\u2019t think I\u2019ll be moving anywhere soon. Sorry about this, friends, but I\u2019m going to need your help to get patched up.\u201d</p></blockquote><p><b>End the Day.</b></p>",
+  "content": "<blockquote id=\"narration_1\"><p>Kordo stumbles and falls to the ground. He grips his leg, wincing in pain.</p><p>\u201cMy own fault,\u201d he grunts. \u201cI don\u2019t think I\u2019ll be moving anywhere soon. Sorry about this, friends, but I\u2019m going to need your help to get patched up.\u201d</p></blockquote><p><b>End the Day.</b></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/66_elder_tesoral_hale/66_5",
   "title": "66.5",
-  "content": "<blockquote><p>Elder Hale takes a sharp, pained breath. \u201cAh!\u201d You immediately go to him to administer aid. His wounds look serious. It will take some time to get him to safety.</p></blockquote><p><b>End the day.</b></p>",
+  "content": "<blockquote id=\"narration_1\"><p>Elder Hale takes a sharp, pained breath. \u201cAh!\u201d You immediately go to him to administer aid. His wounds look serious. It will take some time to get him to safety.</p></blockquote><p><b>End the day.</b></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

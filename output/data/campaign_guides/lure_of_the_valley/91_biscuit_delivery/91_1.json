@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/91_biscuit_delivery/91_1",
   "title": "91.1",
-  "content": "<blockquote><p>\u201cGlad you made it through training,\u201d the grizzled man sticks out his hand and shakes yours firmly. \u201cThe name's Kordo in case you forgot. I understand you have a lot of new faces to take in.\u201d</p></blockquote><p color=\"blue\"><i>Clear Kordo with <icon icon=\"progress\">&nbsp;</icon> to speak with him further.</i></p>",
+  "content": "<blockquote id=\"narration_1\"><p>\u201cGlad you made it through training,\u201d the grizzled man sticks out his hand and shakes yours firmly. \u201cThe name's Kordo in case you forgot. I understand you have a lot of new faces to take in.\u201d</p></blockquote><p color=\"blue\"><i>Clear Kordo with <icon icon=\"progress\">&nbsp;</icon> to speak with him further.</i></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

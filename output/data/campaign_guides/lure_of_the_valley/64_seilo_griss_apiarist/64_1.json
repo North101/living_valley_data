@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_1",
   "title": "64.1",
-  "content": "<blockquote><p>You hear a familiar laugh, and Seilo strolls up, a small sapling from the Philosopher\u2019s Garden in hand. \u201cMeeting you that day I swear was providence. The Guide knows a winner when they see one!\u201d He gives you a rough pat on the back. \u201cMy Philosopher\u2019s Honey is the talk of the town, have em\u2019 eating out the palm of my hand. Decided to go ahead and start transplanting early. Still have hordes of honey lovers hounding me day and night!\u201d</p></blockquote><p color=\"blue\"><i>Clear Seilo with <icon icon=\"progress\">&nbsp;</icon> to help him with harvesting his honey.</i></p>",
+  "content": "<blockquote id=\"narration_1\"><p>You hear a familiar laugh, and Seilo strolls up, a small sapling from the Philosopher\u2019s Garden in hand. \u201cMeeting you that day I swear was providence. The Guide knows a winner when they see one!\u201d He gives you a rough pat on the back. \u201cMy Philosopher\u2019s Honey is the talk of the town, have em\u2019 eating out the palm of my hand. Decided to go ahead and start transplanting early. Still have hordes of honey lovers hounding me day and night!\u201d</p></blockquote><p color=\"blue\"><i>Clear Seilo with <icon icon=\"progress\">&nbsp;</icon> to help him with harvesting his honey.</i></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

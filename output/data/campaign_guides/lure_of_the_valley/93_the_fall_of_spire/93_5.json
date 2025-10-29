@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_5",
   "title": "93.5",
-  "content": "<blockquote><p>It takes almost an hour, but you finally get Dace\u2019s group to the safety of the far bank of the Silverfin River. Dace herself carries the last of the people\u2014a young boy\u2014in a bounding flight across the water. Accompanied by a rush of wind, she gracefully lands beside you. \u201cThank you,\u201d she says. \u201cI can take it from here.\u201d</p></blockquote><p>Write <span color=\"blue\">DACE\u2019S GROUP SAVED</span> on the campaign tracker, and return Dace, Ambitious Shaper to the collection.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>It takes almost an hour, but you finally get Dace\u2019s group to the safety of the far bank of the Silverfin River. Dace herself carries the last of the people\u2014a young boy\u2014in a bounding flight across the water. Accompanied by a rush of wind, she gracefully lands beside you. \u201cThank you,\u201d she says. \u201cI can take it from here.\u201d</p></blockquote><p>Write <span color=\"blue\">DACE\u2019S GROUP SAVED</span> on the campaign tracker, and return Dace, Ambitious Shaper to the collection.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

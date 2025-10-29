@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_1",
   "title": "153.1",
-  "content": "<blockquote><p>As you walk through the dark corridors, your feet suddenly slip out from under you and send you sprawling! As you climb up, you realize with disgust that your hands and back are coated in that translucent ooze you found earlier. Sure enough, a trail leads away into the darkness. Perhaps there\u2019s another being like that shapeshifter you found? </p></blockquote><p color=\"blue\"><i>Clear the Trail of Ooze with <icon icon=\"progress\">&nbsp;</icon> to track it again.</i></p>",
+  "content": "<blockquote id=\"narration_1\"><p>As you walk through the dark corridors, your feet suddenly slip out from under you and send you sprawling! As you climb up, you realize with disgust that your hands and back are coated in that translucent ooze you found earlier. Sure enough, a trail leads away into the darkness. Perhaps there\u2019s another being like that shapeshifter you found? </p></blockquote><p color=\"blue\"><i>Clear the Trail of Ooze with <icon icon=\"progress\">&nbsp;</icon> to track it again.</i></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

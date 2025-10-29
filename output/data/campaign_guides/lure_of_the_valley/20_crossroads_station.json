@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/20_crossroads_station",
   "title": "20. Crossroads Station",
-  "content": "<blockquote><p>Crossroads Station sits at the confluence of several trails and paths leading through the Valley. Built upon a well-preserved Estian ruin, the station is the vision of the artificer Bael Orlin, son of the legendary artificer Mora Orlin. He designed the exterior to reflect the symmetry often found in Estian architecture while paying homage to the nautical engineers of the ancient past, whom the Orlins hold in high regard as pioneers in artificing.</p></blockquote>",
+  "content": "<blockquote id=\"narration_1\"><p>Crossroads Station sits at the confluence of several trails and paths leading through the Valley. Built upon a well-preserved Estian ruin, the station is the vision of the artificer Bael Orlin, son of the legendary artificer Mora Orlin. He designed the exterior to reflect the symmetry often found in Estian architecture while paying homage to the nautical engineers of the ancient past, whom the Orlins hold in high regard as pioneers in artificing.</p></blockquote>",
   "anchors": [],
   "links": [],
   "lookup": [],

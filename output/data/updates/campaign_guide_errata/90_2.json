@@ -1,7 +1,7 @@
 {
   "id": "updates/campaign_guide_errata/90_2",
   "title": "90.2",
-  "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><blockquote><p>You stay far enough away not to alert the being and decide to follow it as it leaves the reclaimer and disappears into the underbrush. As you follow, you notice strange plants along the trail. The tiny, twisting vines don\u2019t appear to be native to the Valley, but look similar to plants you heard of in the Verdessa. Perhaps that\u2019s where this being is from? But in any case, perhaps you can follow the trail left by these vines.</p></blockquote><p>Complete the <b>WATCHER IN THE BRUSH</b> mission. Gain the <b>TRAIL OF VINES</b> mission. <code>Return the Mysterious Verdessian to the General set.</code></p>",
+  "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><blockquote id=\"narration_1\"><p>You stay far enough away not to alert the being and decide to follow it as it leaves the reclaimer and disappears into the underbrush. As you follow, you notice strange plants along the trail. The tiny, twisting vines don\u2019t appear to be native to the Valley, but look similar to plants you heard of in the Verdessa. Perhaps that\u2019s where this being is from? But in any case, perhaps you can follow the trail left by these vines.</p></blockquote><p>Complete the <b>WATCHER IN THE BRUSH</b> mission. Gain the <b>TRAIL OF VINES</b> mission. <code>Return the Mysterious Verdessian to the General set.</code></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

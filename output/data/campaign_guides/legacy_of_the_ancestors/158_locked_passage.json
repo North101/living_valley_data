@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/158_locked_passage",
   "title": "158. Locked Passage",
-  "content": "<blockquote><p>After a thorough examination of the doorway, you string a connection from Lunn's door opening device to the socket. At first nothing happens, but then you hear a loud \u201cthunk\u201d as the mechanisms behind the massive door spring to life. Then, with a grinding squeal that sets your teeth on edge, the portal slowly opens, revealing a darkened passageway beyond, leading you deeper into the arcology ruin.</p></blockquote><p>You can travel from this location along routes locked by the <icon icon=\"locked_passage\">&nbsp;</icon> icon. Discard all <icon icon=\"progress\">&nbsp;</icon> from Locked Passage and attach it facedown to the current location as a reminder. When you travel, return Locked Passage to the general set.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>After a thorough examination of the doorway, you string a connection from Lunn's door opening device to the socket. At first nothing happens, but then you hear a loud \u201cthunk\u201d as the mechanisms behind the massive door spring to life. Then, with a grinding squeal that sets your teeth on edge, the portal slowly opens, revealing a darkened passageway beyond, leading you deeper into the arcology ruin.</p></blockquote><p>You can travel from this location along routes locked by the <icon icon=\"locked_passage\">&nbsp;</icon> icon. Discard all <icon icon=\"progress\">&nbsp;</icon> from Locked Passage and attach it facedown to the current location as a reminder. When you travel, return Locked Passage to the general set.</p>",
   "anchors": [],
   "links": [
     {

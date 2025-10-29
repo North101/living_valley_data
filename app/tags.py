@@ -31,7 +31,14 @@ class TagTitle(TagWithItems):
 
 @dataclass
 class TagFormattedText(TagWithItems):
-  type: Literal['p', 'b', 'i', 'span', 'blockquote', 'ol', 'ul', 'li', 'code']
+  type: Literal['p', 'b', 'i', 'span', 'ol', 'ul', 'li', 'code']
+  color: str | None
+
+
+@dataclass
+class TagBlockquote(TagWithItems):
+  type: Literal['blockquote']
+  anchor: str
   color: str | None
 
 

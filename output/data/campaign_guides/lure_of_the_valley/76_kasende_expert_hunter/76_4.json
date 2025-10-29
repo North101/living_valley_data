@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_4",
   "title": "76.4",
-  "content": "<blockquote><p>You yell out to Kasende for support, and she wordlessly complies. She maneuvers around the worms and reclaimers and deftly corrals them away from you.</p></blockquote><p>Exhaust up to 3 beings. Then discard all <icon icon=\"progress\">&nbsp;</icon> from Kasende.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>You yell out to Kasende for support, and she wordlessly complies. She maneuvers around the worms and reclaimers and deftly corrals them away from you.</p></blockquote><p>Exhaust up to 3 beings. Then discard all <icon icon=\"progress\">&nbsp;</icon> from Kasende.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

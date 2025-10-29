@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_2",
   "title": "121.2",
-  "content": "<blockquote><p>The massive, twisting form of the Spiral Stairway rises out of the gloom. In the dark, it is impossible to see where it reaches, but you think you can make out branching paths leading to far edges of the chamber. As you cautiously step onto the sloping steps, you think you see flickers of movement in the distance.</p></blockquote><p>Search the path deck for the next being and put it into play.</p><p color=\"blue\"><i>Clear The Spiral Stairway with <icon icon=\"ranger_token\">&nbsp;</icon> to travel back up to Spire.</i></p>",
+  "content": "<blockquote id=\"narration_1\"><p>The massive, twisting form of the Spiral Stairway rises out of the gloom. In the dark, it is impossible to see where it reaches, but you think you can make out branching paths leading to far edges of the chamber. As you cautiously step onto the sloping steps, you think you see flickers of movement in the distance.</p></blockquote><p>Search the path deck for the next being and put it into play.</p><p color=\"blue\"><i>Clear The Spiral Stairway with <icon icon=\"ranger_token\">&nbsp;</icon> to travel back up to Spire.</i></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/85_calypsa_ranger_mentor_loa/85_1_loa",
   "title": "85.1 (LOA)",
-  "content": "<blockquote><p>As you come up the trail, you see your mentor and trainer in the Rangers, Calypsa, sharpening a carbonforged machete on a whetstone. She looks up and gives you a friendly wave. </p></blockquote><p color=\"blue\"><i>Clear Calypsa with <icon icon=\"progress\">&nbsp;</icon> to ask her if she\u2019s still hunting reclaimers.</i></p>",
+  "content": "<blockquote id=\"narration_1\"><p>As you come up the trail, you see your mentor and trainer in the Rangers, Calypsa, sharpening a carbonforged machete on a whetstone. She looks up and gives you a friendly wave. </p></blockquote><p color=\"blue\"><i>Clear Calypsa with <icon icon=\"progress\">&nbsp;</icon> to ask her if she\u2019s still hunting reclaimers.</i></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

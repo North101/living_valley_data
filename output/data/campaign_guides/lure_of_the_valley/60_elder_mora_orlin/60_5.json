@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/60_elder_mora_orlin/60_5",
   "title": "60.5",
-  "content": "<blockquote><p>Mora staggers but doesn\u2019t fall despite the painful wound. You move toward her, hesitant to suggest she needs help, but the Elder reaches over and grabs your shoulder for support.</p><p>\u201cIt\u2019s bad,\u201d she growls. As she leans on you, you help her to the ground. She looks at the injury and grimaces. \u201cI think I\u2019ll need to let you patch me up before we go anywhere.\u201d</p></blockquote><p><b>End the day.</b></p>",
+  "content": "<blockquote id=\"narration_1\"><p>Mora staggers but doesn\u2019t fall despite the painful wound. You move toward her, hesitant to suggest she needs help, but the Elder reaches over and grabs your shoulder for support.</p><p>\u201cIt\u2019s bad,\u201d she growls. As she leans on you, you help her to the ground. She looks at the injury and grimaces. \u201cI think I\u2019ll need to let you patch me up before we go anywhere.\u201d</p></blockquote><p><b>End the day.</b></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

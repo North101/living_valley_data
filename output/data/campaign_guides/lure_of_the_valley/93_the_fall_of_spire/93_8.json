@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/93_the_fall_of_spire/93_8",
   "title": "93.8",
-  "content": "<blockquote><p>As you approach the threshold, you notice that nearly every reclaimer in Spire is moving in your direction, funneling into the excavated arcology entrance, then disappearing into the darkness below. Is this what truly drew them to Spire? Something buried deep in the arcology ruin? Regardless of their motivations, you decide that if they want to claim the tunnels of the arcology, they can have them. Your priorities lie on the surface.</p></blockquote><p>Discard the Arcology Threshold.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>As you approach the threshold, you notice that nearly every reclaimer in Spire is moving in your direction, funneling into the excavated arcology entrance, then disappearing into the darkness below. Is this what truly drew them to Spire? Something buried deep in the arcology ruin? Regardless of their motivations, you decide that if they want to claim the tunnels of the arcology, they can have them. Your priorities lie on the surface.</p></blockquote><p>Discard the Arcology Threshold.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

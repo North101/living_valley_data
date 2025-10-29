@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_4_loa",
   "title": "60.4 (LOA)",
-  "content": "<blockquote><p>Elder Orlin staggers but doesn\u2019t fall despite the painful wound. You move toward her, hesitant to suggest she needs help, but she reaches over and grabs your shoulder for support. You need to help her to safety before you go on.</p></blockquote><p><b>End the Day.</b></p>",
+  "content": "<blockquote id=\"narration_1\"><p>Elder Orlin staggers but doesn\u2019t fall despite the painful wound. You move toward her, hesitant to suggest she needs help, but she reaches over and grabs your shoulder for support. You need to help her to safety before you go on.</p></blockquote><p><b>End the Day.</b></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

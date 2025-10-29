@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/60_elder_mora_orlin_loa/60_1_loa",
   "title": "60.1 (LOA)",
-  "content": "<blockquote><p>You hear the loud whistling long before you see the muscular form of Elder Orlin walking purposefully up the trail. She pushes an empty slabsled ahead of her, and a heavy walking staff hangs loosely in one of her hands. </p></blockquote><p color=\"blue\"><i>Clear Elder Orlin with <icon icon=\"progress\">&nbsp;</icon> to ask what she\u2019s up to.</i></p>",
+  "content": "<blockquote id=\"narration_1\"><p>You hear the loud whistling long before you see the muscular form of Elder Orlin walking purposefully up the trail. She pushes an empty slabsled ahead of her, and a heavy walking staff hangs loosely in one of her hands. </p></blockquote><p color=\"blue\"><i>Clear Elder Orlin with <icon icon=\"progress\">&nbsp;</icon> to ask what she\u2019s up to.</i></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

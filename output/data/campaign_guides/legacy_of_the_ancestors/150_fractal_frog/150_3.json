@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_3",
   "title": "150.3",
-  "content": "<blockquote><p>Before the frog can leap away, you scoop it up. It starts to gurgle and kick as you place it into the biggest and deepest pocket of your cloak.</p></blockquote><p>Return this Fractal Frog to the collection. Search the path deck and discard; if there are no Fractal Frogs in the path deck, path discard, or in play, go to <a href=\"campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_5\">150.5</a>.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>Before the frog can leap away, you scoop it up. It starts to gurgle and kick as you place it into the biggest and deepest pocket of your cloak.</p></blockquote><p>Return this Fractal Frog to the collection. Search the path deck and discard; if there are no Fractal Frogs in the path deck, path discard, or in play, go to <a href=\"campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_5\">150.5</a>.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

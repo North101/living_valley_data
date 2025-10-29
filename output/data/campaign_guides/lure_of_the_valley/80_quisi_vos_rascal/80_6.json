@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/80_quisi_vos_rascal/80_6",
   "title": "80.6",
-  "content": "<blockquote><p>Quisi yelps. You kneel down next to her, comforting her with soothing words as you inspect the injury. It looks treatable, but doing so will take time.</p></blockquote><p><b>End the day.</b></p>",
+  "content": "<blockquote id=\"narration_1\"><p>Quisi yelps. You kneel down next to her, comforting her with soothing words as you inspect the injury. It looks treatable, but doing so will take time.</p></blockquote><p><b>End the day.</b></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

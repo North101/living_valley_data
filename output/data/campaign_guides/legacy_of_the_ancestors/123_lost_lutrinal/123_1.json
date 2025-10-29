@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/123_lost_lutrinal/123_1",
   "title": "123.1",
-  "content": "<blockquote><p>You hear a familiar, trilling chirp. Sure enough, you turn a corner and see a lutrinal with the same markings as before scampering down a side passageway. At a glance, it appears to be injured.</p></blockquote><p>Add 1 <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span> to the Lost Lutrinal.</p><p color=\"blue\"><i>Clear the Lost Lutrinal with <icon icon=\"progress\">&nbsp;</icon> to gain its trust.</i></p>",
+  "content": "<blockquote id=\"narration_1\"><p>You hear a familiar, trilling chirp. Sure enough, you turn a corner and see a lutrinal with the same markings as before scampering down a side passageway. At a glance, it appears to be injured.</p></blockquote><p>Add 1 <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span> to the Lost Lutrinal.</p><p color=\"blue\"><i>Clear the Lost Lutrinal with <icon icon=\"progress\">&nbsp;</icon> to gain its trust.</i></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

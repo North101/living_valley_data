@@ -1,10 +1,14 @@
+import csv
 import json
 import pathlib
-from typing import Any, TypedDict
+from dataclasses import asdict, dataclass, fields
+from typing import Any, NamedTuple, TypedDict
 from urllib.parse import urljoin, urlparse, urlunparse
 
 import requests
 from lxml import html
+
+from . import tags
 
 HTML_PARSER = html.HTMLParser(remove_blank_text=True, remove_comments=True)
 
@@ -104,3 +108,33 @@ def write_json(path: pathlib.Path, obj: Any):
   path.parent.mkdir(exist_ok=True, parents=True)
   with path.open('w') as f:
     json.dump(obj, f, indent=2)
+
+
+class Narration(NamedTuple):
+  resource_id: str
+  url: str
+  tag: tags.TagBlockquote
+
+
+@dataclass
+class NarrationItem:
+  narration_id: str
+  url: str
+  content: str
+
+
+def write_csv(path: pathlib.Path, items: list[NarrationItem]):
+  if not items:
+    return
+
+  path.parent.mkdir(exist_ok=True, parents=True)
+  with path.open('w') as f:
+    writer = csv.DictWriter(f, [
+        field.name
+        for field in fields(NarrationItem)
+    ])  
+    writer.writeheader()
+    writer.writerows([
+        asdict(item)
+        for item in items
+    ])
