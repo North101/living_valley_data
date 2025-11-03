@@ -1,0 +1,54 @@
+{
+  "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels",
+  "title": "204. Etra, Master of Revels",
+  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU ARE ON SUPPLY RUN OR FLOWER COLLECTION, GO TO <a href=\"campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_1\">204.1</a></li><li>IF YOU ARE ON THE FESTIVITIES BEGIN, GO TO <a href=\"campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_2\">204.2</a></li><li>IF YOU <span color=\"blue\">SPREAD THE WORD</span>, GO TO <a href=\"campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_3\">204.3</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_4\">204.4</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF YOU ARE ON SUPPLY RUN OR FLOWER COLLECTION, GO TO <a href=\"campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_5\">204.5</a></li><li>IF YOU ARE ON THE FESTIVITIES BEGIN, GO TO <a href=\"campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_6\">204.6</a></li><li>IF YOU <span color=\"blue\">SPREAD THE WORD</span>, GO TO <a href=\"campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_7\">204.7</a></li><li>IF HELPING HAND IS ATTACHED, GO TO <a href=\"campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_8\">204.8</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_10\">204.10</a></li></ul></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_11\">204.11</a></highlight>",
+  "anchors": [],
+  "links": [
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_1",
+      "title": "204.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_2",
+      "title": "204.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_3",
+      "title": "204.3"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_4",
+      "title": "204.4"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_5",
+      "title": "204.5"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_6",
+      "title": "204.6"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_7",
+      "title": "204.7"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_8",
+      "title": "204.8"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_9",
+      "title": "204.9"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_10",
+      "title": "204.10"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_11",
+      "title": "204.11"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/etra_master_of_revels"
+}

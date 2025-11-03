@@ -1,0 +1,19 @@
+{
+  "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_12",
+  "title": "213.12",
+  "content": "<p>If <a>FRIENDS RECONCILED</a>, go to <a href=\"#21312a\">213.12a</a></p><blockquote id=\"narration_1\"><p>You try to convince Bo to join the crowd, but he shakes his head. \"That's okay. I'm having fun just watching. Honest.\" He lets out a wistful sigh. \"Besides\u2026the person I'd want to be with isn't here, anyway\u2026\" Despite his attitude, you get the feeling Bo is enjoying the festival in his own way. You spend some quiet time with him before rejoining the others.</p></blockquote><p>Discard all <icon icon=\"progress\">&nbsp;</icon> from Bo and add 1 mirth token to him. Each Ranger soothes 1 fatigue. Ready <b>FUN AND GAMES</b>.</p><h1 id=\"21312a\">213.12a</h1><blockquote id=\"narration_2\"><p>Together with Bo and Olyv, you sample every one of the confectioner's pastries until all of you are stuffed. \"I can't eat another bite,\" Bo says, patting his belly.</p><p>\"Wanna bet?\" Olyv grabs one more roll and playfully jams it against Bo's lips. The two of them fall into a fit of laughter as he attempts to fight off the pastry attack.</p></blockquote><p>Discard all <icon icon=\"progress\">&nbsp;</icon> from Olyv and Bo and add 1 mirth token to each of them. Each Ranger soothes 2 fatigue. Ready <b>FUN AND GAMES</b>.</p>",
+  "anchors": [
+    {
+      "id": "#21312a",
+      "title": "213.12a"
+    }
+  ],
+  "links": [
+    {
+      "id": "#21312a",
+      "title": "213.12a"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/fun_and_games/213_12"
+}

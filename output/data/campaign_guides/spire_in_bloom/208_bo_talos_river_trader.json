@@ -1,0 +1,46 @@
+{
+  "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader",
+  "title": "208. Bo Talos, River Trader",
+  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF <span color=\"blue\">FRIENDS RECONCILED</span>, GO TO <a href=\"campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_1\">208.1</a></li><li>IF YOU ARE ON LOST LETTER, GO TO <a href=\"campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_2\">208.2</a></li><li>IF YOU COMPLETED LOST LETTER, GO TO <a href=\"campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_3\">208.3</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_4\">208.4</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF <span color=\"blue\">FRIENDS RECONCILED</span>, GO TO <a href=\"campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_5\">208.5</a></li><li>IF YOU ARE ON LOST LETTER, GO TO <a href=\"campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_6\">208.6</a></li><li>IF YOU COMPLETED LOST LETTER AND OLYV IS IN PLAY, GO TO <a href=\"campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_7\">208.7</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_8\">208.8</a></li></ul></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_9\">208.9</a></highlight>",
+  "anchors": [],
+  "links": [
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_1",
+      "title": "208.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_2",
+      "title": "208.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_3",
+      "title": "208.3"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_4",
+      "title": "208.4"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_5",
+      "title": "208.5"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_6",
+      "title": "208.6"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_7",
+      "title": "208.7"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_8",
+      "title": "208.8"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_9",
+      "title": "208.9"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/bo_talos_river_trader"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_206",
+  "title": "1.206",
+  "content": "<blockquote id=\"narration_1\"><p>As you turn to leave, you notice Tiella Jakarra, who is usually stationed at the Biological Outpost, watching the proceedings with a troubled expression. You follow her gaze, and eventually spot several iridescent blue bees flitting about the tables where the festival supplies are set up.</p><p>Now that you think about it, you've been seeing quite a few cloudhive bees around, far more than usual. You ask Tiella if she's concerned about the presence of so many bees, and she nods absently.</p><p>\"It's rare for cloudhives to be out this far from the shade of the old forests, but this out-of-season bloom has them on the move.\" Tiella looks on thoughtfully. \"The cloudhive's behavior is predictable, but the circumstances of the bloom are undeniably strange.\"</p><p>After a moment, she continues. \"Let's get to the bottom of it, shall we? I have a strong suspicion that the truth lies within the blooms themselves.\" She reaches into her pack and produces a small device\u2014like a glass vial, with a stem and a brush-like tip extending from its\u00a0center.</p><p>\"This is a pollen brush,\" she says. \"If you can collect some pollen for me, I can study it. Just dip this brush into an open flower and the pollen will be sucked into the vial. I'll be here in Brookside, cataloguing the bees' flight patterns and observing their behavior. What do you think?\"</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p color=\"red\">A) Sounds interesting.</p><p>Gain the <b>POLLEN COLLECTION</b> mission.</p><blockquote id=\"narration_2\"><p>\"The cloudhive itself must be nearby, so be on the lookout for swarms,\" she says. \"Good luck!\"</p></blockquote><p color=\"red\">B) You're on your own, Tiella. </p><p color=\"blue\"><i>Return to Brookside once the festival begins to check on her progress.</i></p>",
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/missions/1_206"
+}

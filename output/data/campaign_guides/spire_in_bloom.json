@@ -1,0 +1,495 @@
+{
+  "id": "campaign_guides/spire_in_bloom",
+  "title": "Spire in Bloom",
+  "content": null,
+  "anchors": [],
+  "links": [
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib",
+      "title": "1. Missions (SIB)"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/201_silverfin_docks",
+      "title": "201. Silverfin Docks"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/202_spire_crossing",
+      "title": "202. Spire Crossing"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/203_brookside",
+      "title": "203. Brookside"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels",
+      "title": "204. Etra, Master of Revels"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/205_festival_grounds",
+      "title": "205. Festival Grounds"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/206_raemon_caravaneer",
+      "title": "206. Raemon, Caravaneer"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/207_broken_sculpture",
+      "title": "207. Broken Sculpture"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader",
+      "title": "208. Bo Talos, River Trader"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant",
+      "title": "209. Olyv, Ranger Aspirant"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/210_deadfall",
+      "title": "210. Deadfall"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/211_parental_bond",
+      "title": "211. Parental Bond"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/212_backalley_shortcut",
+      "title": "212. Backalley Shortcut"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games",
+      "title": "213. Fun and Games"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/214_people_of_spire",
+      "title": "214. People of Spire"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/215_buzzkill",
+      "title": "215. Buzzkill"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/216_world_events_sib",
+      "title": "216. World Events (SIB)"
+    }
+  ],
+  "lookup": [
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib",
+      "title": "1. Missions (SIB)"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_201",
+      "title": "1.201"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_202",
+      "title": "1.202"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_203",
+      "title": "1.203"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_204",
+      "title": "1.204"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_205",
+      "title": "1.205"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_206",
+      "title": "1.206"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_207",
+      "title": "1.207"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_208",
+      "title": "1.208"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_209",
+      "title": "1.209"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_210",
+      "title": "1.210"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_211",
+      "title": "1.211"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_212",
+      "title": "1.212"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_213",
+      "title": "1.213"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_214",
+      "title": "1.214"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_215",
+      "title": "1.215"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_216",
+      "title": "1.216"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_217",
+      "title": "1.217"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_218",
+      "title": "1.218"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_219",
+      "title": "1.219"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_220",
+      "title": "1.220"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_221",
+      "title": "1.221"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_222",
+      "title": "1.222"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_223",
+      "title": "1.223"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_224",
+      "title": "1.224"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/201_silverfin_docks",
+      "title": "201. Silverfin Docks"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/202_spire_crossing",
+      "title": "202. Spire Crossing"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/203_brookside",
+      "title": "203. Brookside"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/203_brookside/203_1",
+      "title": "203.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/203_brookside/203_2",
+      "title": "203.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels",
+      "title": "204. Etra, Master of Revels"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_1",
+      "title": "204.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_2",
+      "title": "204.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_3",
+      "title": "204.3"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_4",
+      "title": "204.4"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_5",
+      "title": "204.5"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_6",
+      "title": "204.6"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_7",
+      "title": "204.7"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_8",
+      "title": "204.8"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_9",
+      "title": "204.9"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_10",
+      "title": "204.10"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_11",
+      "title": "204.11"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/205_festival_grounds",
+      "title": "205. Festival Grounds"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/205_festival_grounds/205_1",
+      "title": "205.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/205_festival_grounds/205_2",
+      "title": "205.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/206_raemon_caravaneer",
+      "title": "206. Raemon, Caravaneer"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/206_raemon_caravaneer/206_1",
+      "title": "206.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/206_raemon_caravaneer/206_2",
+      "title": "206.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/206_raemon_caravaneer/206_3",
+      "title": "206.3"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/206_raemon_caravaneer/206_4",
+      "title": "206.4"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/206_raemon_caravaneer/206_5",
+      "title": "206.5"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/206_raemon_caravaneer/206_6",
+      "title": "206.6"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/206_raemon_caravaneer/206_7",
+      "title": "206.7"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/206_raemon_caravaneer/206_8",
+      "title": "206.8"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/207_broken_sculpture",
+      "title": "207. Broken Sculpture"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/207_broken_sculpture/207_1",
+      "title": "207.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/207_broken_sculpture/207_2",
+      "title": "207.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/207_broken_sculpture/207_3",
+      "title": "207.3"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader",
+      "title": "208. Bo Talos, River Trader"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_1",
+      "title": "208.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_2",
+      "title": "208.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_3",
+      "title": "208.3"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_4",
+      "title": "208.4"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_5",
+      "title": "208.5"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_6",
+      "title": "208.6"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_7",
+      "title": "208.7"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_8",
+      "title": "208.8"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_9",
+      "title": "208.9"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant",
+      "title": "209. Olyv, Ranger Aspirant"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_1",
+      "title": "209.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_2",
+      "title": "209.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_3",
+      "title": "209.3"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_4",
+      "title": "209.4"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_5",
+      "title": "209.5"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_6",
+      "title": "209.6"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/210_deadfall",
+      "title": "210. Deadfall"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/211_parental_bond",
+      "title": "211. Parental Bond"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/212_backalley_shortcut",
+      "title": "212. Backalley Shortcut"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/212_backalley_shortcut/212_1",
+      "title": "212.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/212_backalley_shortcut/212_2",
+      "title": "212.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games",
+      "title": "213. Fun and Games"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_1",
+      "title": "213.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_2",
+      "title": "213.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_3",
+      "title": "213.3"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_4",
+      "title": "213.4"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_5",
+      "title": "213.5"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_6",
+      "title": "213.6"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_7",
+      "title": "213.7"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_8",
+      "title": "213.8"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_9",
+      "title": "213.9"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_10",
+      "title": "213.10"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_11",
+      "title": "213.11"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_12",
+      "title": "213.12"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_13",
+      "title": "213.13"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_14",
+      "title": "213.14"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/214_people_of_spire",
+      "title": "214. People of Spire"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/215_buzzkill",
+      "title": "215. Buzzkill"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/215_buzzkill/215_1",
+      "title": "215.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/215_buzzkill/215_2",
+      "title": "215.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/215_buzzkill/215_3",
+      "title": "215.3"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/216_world_events_sib",
+      "title": "216. World Events (SIB)"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/216_world_events_sib/216_1",
+      "title": "216.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/216_world_events_sib/216_2",
+      "title": "216.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/216_world_events_sib/216_3",
+      "title": "216.3"
+    }
+  ],
+  "url": "/docs/category/spire-in-bloom"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "campaign_guides/spire_in_bloom/203_brookside",
+  "title": "203. Brookside",
+  "content": "<highlight highlight=\"blue\">IF YOU ARE ON SPIRE UNDER ATTACK!, GO TO <a href=\"campaign_guides/spire_in_bloom/1_missions_sib/1_224\">1.224</a></highlight><highlight highlight=\"clear\">IF <span color=\"blue\">BROOKSIDE INFESTED</span>, GO TO <a href=\"campaign_guides/spire_in_bloom/203_brookside/203_1\">203.1</a></highlight><highlight highlight=\"blue\">IF YOU ARE ON THE FESTIVITIES BEGIN, GO TO <a href=\"campaign_guides/spire_in_bloom/203_brookside/203_2\">203.2</a></highlight><highlight highlight=\"clear\">OTHERWISE, READ:</highlight><blockquote id=\"narration_1\"><p>On the outskirts of Spire, the riverbank is home to dozens of homesteads and lush gardens that, over the years, have accumulated into a small village. A cobblestone thoroughfare leads into the bustling neighborhood, punctuated by small footbridges crossing over the Silverfin's many tributaries. Along the path are several artisan workshops and cozy homes, as well as the occasional stilt-horse-drawn wagon loaded with goods for trade.</p></blockquote>",
+  "anchors": [],
+  "links": [
+    {
+      "id": "campaign_guides/spire_in_bloom/203_brookside/203_1",
+      "title": "203.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/203_brookside/203_2",
+      "title": "203.2"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/brookside"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_5",
+  "title": "213.5",
+  "content": "<p>If <a>FRIENDS RECONCILED</a>, go to <a href=\"#2135a\">213.5a</a></p><blockquote id=\"narration_1\"><p>Bo Talos stands near a food stall, watching the proceedings with a scowl, though you suspect he may simply be putting on airs. Perhaps someone should encourage him to have some fun.</p></blockquote><p color=\"blue\"><i>Clear Bo with <icon icon=\"progress\">&nbsp;</icon> to convince him to have fun.</i></p><h1 id=\"2135a\">213.5a</h1><blockquote id=\"narration_2\"><p>You spot Bo Talos and Olyv Sol standing together, enjoying some sweet honey rolls from a nearby trader's stall. \"Mmm! This is so good!\" Olyv says. \"Come on Bo, you have to try one!\" Bo sighs, but smiles affectionately. \"All right, all right. If you insist!\"</p></blockquote><p>Search the collection for Olyv, Ranger Aspirant and put her into play in the same area as Bo. <i>(Do not read her entry. She'll either be in the Lone Tree Station set or the Valley set.)</i> If <a>OLYV EARNED HER CLOAK</a>, add 4 XP to her.</p><p color=\"blue\"><i>Clear Bo or Olyv with <icon icon=\"progress\">&nbsp;</icon> to enjoy some treats with the two of them.</i></p>",
+  "anchors": [
+    {
+      "id": "#2135a",
+      "title": "213.5a"
+    }
+  ],
+  "links": [
+    {
+      "id": "#2135a",
+      "title": "213.5a"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/fun_and_games/213_5"
+}

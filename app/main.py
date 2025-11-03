@@ -413,8 +413,6 @@ class Scraper:
       yield item.text
 
   def scrape(self):
-    rmtree(self.output_dir, ignore_errors=True)
-
     urls = dict[str, str]()
     titles = dict[str, str]()
     lookup = dict[str, list[util.Link]]()
@@ -431,6 +429,7 @@ class Scraper:
               title=title,
           ))
 
+    rmtree(self.output_dir, ignore_errors=True)
     for page_url in self.page_urls:
       for url, resource_id, title, items, data in self.scrape_page(page_url):
         file = self.output_dir / 'data' / f'{resource_id}.json'

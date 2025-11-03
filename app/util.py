@@ -44,6 +44,8 @@ def get_content(session: requests.Session, base_url: str, url: str):
   if file.exists():
     return file.read_text('utf8')
 
+  content_url = urljoin(base_url, url)
+  print(f'fetching {content_url}...')
   content = session.get(urljoin(base_url, url), timeout=30).text
   file.parent.mkdir(exist_ok=True, parents=True)
   file.write_text(content, 'utf8')

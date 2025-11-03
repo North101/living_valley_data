@@ -1,0 +1,19 @@
+{
+  "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_5",
+  "title": "209.5",
+  "content": "<blockquote id=\"narration_1\"><p>\"Training is\u2026well\u2026it's been difficult,\" she says. \"I've learned about as much as I can about being a Ranger. I've spent a lot of time in the library reading books and studying maps, but I haven't had the courage to go back out into the field since the accident.\" She lets out a long sigh. \"Maybe Bo was right after all. I'm just not cut out to be a Ranger.\"</p><p>You tell Olyv that you're sorry to hear that she's having trouble, but that she shouldn't give up. It's surely only a matter of time before she's ready to get back out there.</p><p>\"Maybe,\" she says thoughtfully, and at this a light seems to kindle behind her eyes. \"Say, would you be willing to help me? You're right. I can't just sit around at Lone Tree Station for the rest of my life, but I'd feel a lot more confident if a full-fledged Ranger was by my side. What do you say?\"</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p color=\"red\">A) Absolutely. Let's get out there!</p><p>Discard all <icon icon=\"progress\">&nbsp;</icon> from Olyv and attach the <b>HELPING HAND</b> mission to her. </p><p color=\"blue\"><i>Add as much XP to Olyv as you think she needs, then clear her with <icon icon=\"progress\">&nbsp;</icon> to see if she's ready to overcome her fear and finally don the cloak.</i></p><p color=\"red\">B) Sorry, Olyv. You need to figure this out on your own.</p><p>Discard Olyv. Each Ranger soothes 2 fatigue.</p>",
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/olyv_ranger_aspirant/209_5"
+}

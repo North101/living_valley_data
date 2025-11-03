@@ -1,0 +1,34 @@
+{
+  "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant",
+  "title": "209. Olyv, Ranger Aspirant",
+  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF <span color=\"blue\">OLYV EARNED HER CLOAK</span>, GO TO <a href=\"campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_1\">209.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_2\">209.2</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF <span color=\"blue\">OLYV EARNED HER CLOAK</span>, GO TO <a href=\"campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_3\">209.3</a></li><li>IF HELPING HAND IS ATTACHED, GO TO <a href=\"campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_4\">209.4</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_5\">209.5</a></li></ul></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_6\">209.6</a></highlight>",
+  "anchors": [],
+  "links": [
+    {
+      "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_1",
+      "title": "209.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_2",
+      "title": "209.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_3",
+      "title": "209.3"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_4",
+      "title": "209.4"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_5",
+      "title": "209.5"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/209_olyv_ranger_aspirant/209_6",
+      "title": "209.6"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/olyv_ranger_aspirant"
+}

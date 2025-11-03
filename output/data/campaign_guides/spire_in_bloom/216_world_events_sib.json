@@ -1,0 +1,22 @@
+{
+  "id": "campaign_guides/spire_in_bloom/216_world_events_sib",
+  "title": "216. World Events (SIB)",
+  "content": null,
+  "anchors": [],
+  "links": [
+    {
+      "id": "campaign_guides/spire_in_bloom/216_world_events_sib/216_1",
+      "title": "216.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/216_world_events_sib/216_2",
+      "title": "216.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/216_world_events_sib/216_3",
+      "title": "216.3"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/world_events"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_222",
+  "title": "1.222",
+  "content": "<blockquote id=\"narration_1\"><p>You weren't sure what to expect when you arrived in Brookside, but it reminds you of a harvester anthill after a storm\u2014every inch is alive and moving with a singular purpose. Preparations for the Blossom Festival are in full swing, and the thoroughfares are packed with people setting up tents and market stalls. In the center of the crowd is Etra Lash, shouting commands to a group of people attempting to stake down a rather large tentpole.</p><p>\"No, not there, there!\" he says, pointing to an empty plot some distance away. His eyes snap toward you as you step closer, and he flashes a broad smile. \"Welcome, welcome! You're a bit early if you're here for the Blossom Festival,\" he says.</p></blockquote><p>Complete the <b>CAUSE FOR CELEBRATION</b> mission. Each Ranger soothes 2 fatigue.</p><p>Search the path deck and discard pile for Festival Grounds and put it into play. Do not read its entry.</p><blockquote id=\"narration_2\"><p>\"I know your duties as a Ranger must take you all over the Valley, but I hope you're able to return and enjoy the festivities once we're underway,\" Etra continues. \"It's shaping up to be quite the gathering!\" Feeling inspired by the industriousness of the townsfolk, you ask if there's anything that you can do to help with the preparations. </p><p>\"That would be tremendous,\" he says. \"I was actually getting pretty worried about wrapping all this up in time! We still need someone to gather flowers for the table arrangements, and to make matters worse, Raemon still hasn't arrived with the supplies or fresh fish for the feast from White Sky! Any help you could offer would be greatly appreciated.\" Without waiting for a reply, Etra turns back to the volunteers setting up the main tent. \"That's it!\" he cheers. \"All together now\u2026!\"</p><p>You ponder the choice. Collecting flowers is likely something you can do while you're traveling all across the Valley, whereas helping Raemon deliver supplies will require you to travel to White Sky and back. </p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p color=\"red\">A) Check in on Raemon.</p><p>Gain the <b>SUPPLY RUN</b> mission.</p><p color=\"red\">B) Gather flowers for the table arrangements.</p><p>Gain the <b>FLOWER COLLECTION</b> mission.</p>",
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/missions/1_222"
+}

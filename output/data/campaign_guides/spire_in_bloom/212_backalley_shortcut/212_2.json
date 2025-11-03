@@ -1,0 +1,9 @@
+{
+  "id": "campaign_guides/spire_in_bloom/212_backalley_shortcut/212_2",
+  "title": "212.2",
+  "content": "<blockquote id=\"narration_1\"><p>You slip into the alley, leaving the sounds of the bustling thoroughfare behind.</p></blockquote><p>You may immediately proceed to the travel phase of the round <i>(even if there are ready cards with the Obstacle keyword in play)</i> and either:</p><ul><li>Travel via Thoroughfare, regardless of the location's <icon icon=\"progress\">&nbsp;</icon> threshold.</li><li>If the location's <icon icon=\"progress\">&nbsp;</icon> threshold is met, travel as if you were at any of the following locations: Spire, Spire Crossing, Brookside, or Silverfin Docks. If you choose to travel in this way, discard the current challenge card, and do not resolve the remainder of this test.</li></ul><p>If you choose not to travel, discard Backalley Shortcut and resolve the remainder of the test as normal.</p>",
+  "anchors": [],
+  "links": [],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/backalley_shortcut/212_2"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "campaign_guides/spire_in_bloom/206_raemon_caravaneer/206_6",
+  "title": "206.6",
+  "content": "<blockquote id=\"narration_1\"><p>You pause for a moment to see how Raemon is doing. He lags behind slightly, exhaustion catching up with him. \"Where are we headed, anyway?\" he asks, curious.</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p color=\"red\">A) Continue helping Raemon.</p><p>Discard all <icon icon=\"progress\">&nbsp;</icon> from Raemon.</p><p color=\"red\">B) Part ways.</p><p>Discard Raemon and return <b>HELPING HAND</b> to the collection. Each Ranger soothes 2 fatigue.</p>",
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/raemon_caravaneer/206_6"
+}

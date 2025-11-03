@@ -1,0 +1,19 @@
+{
+  "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_216",
+  "title": "1.216",
+  "content": "<blockquote id=\"narration_1\"><p>You break the seal and open Bo's letter to Olyv. As you do, a carbonforged pendant in the shape of a tortoise fastened to a thin chain falls into your hand.</p><p><i>Dear Olyv,</i></p><p><i>I know it's been a while, and a letter from me is probably the last thing you expected or even wanted to receive, but I have to say something. I have to make amends in whatever way I can.</i></p><p><i>I was so angry and hurt when you decided to leave. It felt like you were abandoning me, but I know now that you were just following your heart, like the Elders teach us to. It wasn't right of me to get so mad, or to say the things that I said\u2026that wasn't right, either.</i></p><p><i>The truth is, I've been a coward. I could have written you before. I could have even traveled to Lone Tree. I chose not to. I chose to stay here on my boat, wallowing in my misery. But I want you to know that I've finally come to my senses, and I have the pendant you gave me when we were kids to prove\u00a0it.</i></p><p><i>As you can see, I found it. That night when we fought\u2014when I off and threw it into the Silverfin\u2014I wasn't myself, but then I saw the look on your face. I'll never forget it. You looked so devastated\u2014like there was nothing worse that I could have done\u2014and then you were gone. I felt like my heart had been ripped out. I thought about jumping in after it, but I knew that it had already been washed away by the current. So I just stood there and watched you go.</i></p><p><i>But then a couple days ago, what do I spot propped up in an artisan's stall like he made it himself? Your pendant. I couldn't believe it. I asked him where he found it, and he said it was at the bottom of a bundle of river stones he aquired from a merchant in Brookside. I had to trade half my stock of seasoned sitka jerky to get it back, but it was more than worth it.</i></p><p><i>I am so sorry, Olyv. I hope you can forgive me. I'll understand if you never want to speak to me again, but if there's any part of you that does, I hope you'll listen to that part, and come to see me while you're out on patrol. I'm at the docks most days, if I'm not out on the river. Or, if you send word, I'll happily make the journey to Lone Tree Station.</i></p><p><i>Your friend always, Bo</i></p></blockquote><p>Record <span color=\"blue\"><b>BROKE THE SEAL</b></span> on the campaign tracker if it has not been recorded.</p><h1 id=\"1216a\">1.216a</h1><blockquote id=\"narration_2\"><p>As you pick yourself up off the ground, you spot Bo's letter in the dirt, its seal broken. Thankfully, the letter itself is still in decent shape. You carefully wipe away the dirt before placing it back into your pack.</p></blockquote><p>Record <span color=\"blue\"><b>BROKE THE SEAL</b></span> on the campaign tracker if it has not been recorded.</p>",
+  "anchors": [
+    {
+      "id": "#1216a",
+      "title": "1.216a"
+    }
+  ],
+  "links": [
+    {
+      "id": "#1216a",
+      "title": "1.216a"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/missions/1_216"
+}

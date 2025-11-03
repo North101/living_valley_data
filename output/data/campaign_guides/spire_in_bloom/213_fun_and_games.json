@@ -1,0 +1,66 @@
+{
+  "id": "campaign_guides/spire_in_bloom/213_fun_and_games",
+  "title": "213. Fun and Games",
+  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>ELDER MORA ORLIN, GO TO <a href=\"campaign_guides/spire_in_bloom/213_fun_and_games/213_1\">213.1</a></li><li>DACE, GO TO <a href=\"campaign_guides/spire_in_bloom/213_fun_and_games/213_2\">213.2</a></li><li>TOLLIN LANG, GO TO <a href=\"campaign_guides/spire_in_bloom/213_fun_and_games/213_3\">213.3</a></li><li>ETRA LASH, GO TO <a href=\"campaign_guides/spire_in_bloom/213_fun_and_games/213_4\">213.4</a></li><li>BO TALOS, GO TO <a href=\"campaign_guides/spire_in_bloom/213_fun_and_games/213_5\">213.5</a></li><li>RAEMON, GO TO <a href=\"campaign_guides/spire_in_bloom/213_fun_and_games/213_6\">213.6</a></li><li>ANY OTHER HUMAN, GO TO <a href=\"campaign_guides/spire_in_bloom/213_fun_and_games/213_7\">213.7</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>ELDER MORA ORLIN, GO TO <a href=\"campaign_guides/spire_in_bloom/213_fun_and_games/213_8\">213.8</a></li><li>DACE, GO TO <a href=\"campaign_guides/spire_in_bloom/213_fun_and_games/213_9\">213.9</a></li><li>TOLLIN LANG, GO TO <a href=\"campaign_guides/spire_in_bloom/213_fun_and_games/213_10\">213.10</a></li><li>ETRA LASH, GO TO <a href=\"campaign_guides/spire_in_bloom/213_fun_and_games/213_11\">213.11</a></li><li>BO TALOS, GO TO <a href=\"campaign_guides/spire_in_bloom/213_fun_and_games/213_12\">213.12</a></li><li>RAEMON, GO TO <a href=\"campaign_guides/spire_in_bloom/213_fun_and_games/213_13\">213.13</a></li><li>ANY OTHER HUMAN, GO TO <a href=\"campaign_guides/spire_in_bloom/213_fun_and_games/213_14\">213.14</a></li></ul></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO THE NORMAL ENTRY FOR THAT CHARACTER</highlight>",
+  "anchors": [],
+  "links": [
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_1",
+      "title": "213.1"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_2",
+      "title": "213.2"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_3",
+      "title": "213.3"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_4",
+      "title": "213.4"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_5",
+      "title": "213.5"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_6",
+      "title": "213.6"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_7",
+      "title": "213.7"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_8",
+      "title": "213.8"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_9",
+      "title": "213.9"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_10",
+      "title": "213.10"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_11",
+      "title": "213.11"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_12",
+      "title": "213.12"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_13",
+      "title": "213.13"
+    },
+    {
+      "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_14",
+      "title": "213.14"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/fun_and_games"
+}

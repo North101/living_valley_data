@@ -1,0 +1,19 @@
+{
+  "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_209",
+  "title": "1.209",
+  "content": "<blockquote id=\"narration_1\"><p>You are greeted first by the tantalizing aroma of fresh bakery, then seasoned fish and marinated meats cooking on sol coils, followed by a mouth-watering melange of spices and seasonings. You become hungry in an instant, as if you hadn't eaten in days.</p><p>The sound of conversation, laughter, and music fills the air. Children squeal with joy and waves of hearty cheers rise and fall.</p><p><b>If <span color=\"blue\">FESTIVAL SUPPLIES GATHERED</span>:</b> The festival grounds have been completely transformed since last you were here. What stands before you is a gathering on a scale of which you have rarely witnessed. It seems as though every last one of Spire's thousands of inhabitants have gathered upon Brookside's festival grounds. Many of them wear decorative floral necklaces, bracelets and anklets, bringing a splash of vivid color to their outfits.</p></blockquote><p><b>\u00bb Continue reading:</b></p><blockquote id=\"narration_2\"><p>The festivities (and the food) beckon as you gauge the position of the sun. You can only spend so much time away from your duties, so you'd better be prepared to make the most of it.</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p color=\"red\">A) The shadows have grown long. </p><p>You may choose this option only if 216.3 is not recorded above the next day on the day track. Record 1.210 above the next day on the day track. <b>End the day. You are considered to have camped.</b></p><p color=\"red\">B) There's plenty of time in the day yet to enjoy the festivities. </p><blockquote id=\"narration_3\"><p>With a merry heart, you continue onward, and are greeted warmly by everyone you meet. Spirits are high, and you quickly learn of an enormous feast planned for later this evening. Until then there's plenty of time to celebrate with your friends and acquaintences, to enjoy the festival's many activities, and to sample its many delicacies, both savory and sweet.</p></blockquote><p>Proceed immediately to the refresh phase of the round. If you were in the middle of a test, discard the current challenge card and do not resolve the remainder of that test. Remove each <icon icon=\"ranger_token\">&nbsp;</icon> from Festival Grounds. Flip <b>THE FESTIVITIES BEGIN</b> mission over to its <b>FUN AND GAMES</b> side, but don't update your campaign tracker. Search the Spire, Spire Crossing, and Silverfin Docks sets for the following humans and shuffle them into the path deck, along with the path discard: Dace, Elder Mora Orlin, Tollin Lang, Bo Talos, and Raemon.</p><p color=\"blue\"><i>Add mirth to your friends by clearing them with <icon icon=\"progress\">&nbsp;</icon> before the feast begins.</i></p>",
+  "anchors": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "links": [
+    {
+      "id": "#rangers-choose",
+      "title": "RANGERS CHOOSE"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/missions/1_209"
+}

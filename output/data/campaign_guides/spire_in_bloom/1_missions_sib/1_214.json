@@ -1,0 +1,27 @@
+{
+  "id": "campaign_guides/spire_in_bloom/1_missions_sib/1_214",
+  "title": "1.214",
+  "content": "<blockquote id=\"narration_1\"><p>Olyv's easygoing smile disappears when you withdraw Bo's letter from your pack and hand it to her.</p><p>\"What's this?\" she says, examining it closely. Then her eyes go wide. \"This is from Bo!\"</p></blockquote><p><b>If there is no seal on Letter from Bo, go to <a href=\"#1214a\">1.214a</a>. Otherwise, go to <a href=\"#1214b\">1.214b</a>.</b></p><h1 id=\"1214a\">1.214a</h1><blockquote id=\"narration_2\"><p>You watch as Olyv turns the envelope over and discovers that the seal is broken. You hold your breath. \"I wonder what happened,\" she says absently. You shrug your shoulders in response, but she doesn't seem to notice. Her eyes are fixed entirely upon the envelope. </p></blockquote><p><b>Go to <a href=\"#1214b\">1.214b</a>.</b></p><h1 id=\"1214b\">1.214b</h1><blockquote id=\"narration_3\"><p>Timidly, as if she expects the letter inside to bite her fingers, Olyv opens the envelope, unfolds the letter, and begins to read.</p><p>You watch as tears well in her eyes. Then, she tips the envelope, and a small carbonforged pendant, made in the shape of a tortoise, falls into the palm of her hand.</p><p>Olyv stares in disbelief at the pendant for some time before gripping it tight in a fist. </p><p>\"Spawn of a mulcher,\" she says to herself. After a moment, she shakes her head as if to chase away a thought.</p><p>\"I don't know what to say,\" she says, her voice faltering. You tell her that whatever she has to say, you're not the one she needs to say it to. </p><p>\"You're right, of course,\" she says. Olyv closes her eyes, holding the pendant tight. \"I'll head to Spire as soon as I can,\" she resolves. \"It's been far too long. I\u2026need to talk to Bo.\"</p></blockquote><p>If there is a seal on Letter from Bo, each Ranger soothes 2 fatigue. Complete the <b>LOST LETTER</b> mission and return <b>LETTER FROM BO</b> to the collection. Discard all <icon icon=\"progress\">&nbsp;</icon> from Olyv.</p><p color=\"blue\"><i>To see the mission through, return to Bo Talos in Silverfin Docks and tell him the good news.</i></p>",
+  "anchors": [
+    {
+      "id": "#1214a",
+      "title": "1.214a"
+    },
+    {
+      "id": "#1214b",
+      "title": "1.214b"
+    }
+  ],
+  "links": [
+    {
+      "id": "#1214a",
+      "title": "1.214a"
+    },
+    {
+      "id": "#1214b",
+      "title": "1.214b"
+    }
+  ],
+  "lookup": [],
+  "url": "/docs/campaign_guides/spire_in_bloom/missions/1_214"
+}

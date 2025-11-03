@@ -1,7 +1,7 @@
 {
   "id": "rules_glossary/t/terms",
   "title": "Terms",
-  "content": "<p>These are many game-specific terms that can appear in rules text. These are distinct from icons and from <a href=\"rules_glossary/k/keywords\">keywords</a> that appear at the beginning of cards as stand-ins for rules text. The complete list of terms is:</p><ul><li><a href=\"rules_glossary/a/active\">Active</a> </li><li><a href=\"rules_glossary/a/attach\">Attach</a> </li><li><a href=\"rules_glossary/d/discard\">Discard</a></li><li><a href=\"rules_glossary/d/dodge\">Dodge</a></li><li><a href=\"rules_glossary/e/exhaust\">Exhaust</a></li><li><a href=\"rules_glossary/i/injury\">Injury</a></li><li><a href=\"rules_glossary/i/in_play\">In Play</a></li><li><a href=\"rules_glossary/m/move\">Move</a></li><li><a href=\"rules_glossary/s/scout\">Scout</a></li><li><a href=\"rules_glossary/s/search\">Search</a></li></ul>",
+  "content": "<p>There are many game-specific terms that can appear in rules text. These are distinct from icons and from <a href=\"rules_glossary/k/keywords\">keywords</a> that appear at the beginning of cards as stand-ins for rules text. The complete list of terms is:</p><ul><li><a href=\"rules_glossary/a/active\">Active</a> </li><li><a href=\"rules_glossary/a/attach\">Attach</a> </li><li><a href=\"rules_glossary/d/discard\">Discard</a></li><li><a href=\"rules_glossary/d/dodge\">Dodge</a></li><li><a href=\"rules_glossary/e/exhaust\">Exhaust</a></li><li><a href=\"rules_glossary/i/injury\">Injury</a></li><li><a href=\"rules_glossary/i/in_play\">In Play</a></li><li><a href=\"rules_glossary/m/move\">Move</a></li><li><a href=\"rules_glossary/s/scout\">Scout</a></li><li><a href=\"rules_glossary/s/search\">Search</a></li></ul>",
   "anchors": [],
   "links": [],
   "lookup": [],
