@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/67_dancers_round/67_1",
   "title": "67.1",
-  "content": "<blockquote id=\"narration_1\"><p>Eventually, the exhausted musicians end their playing, begging for refreshments for sore hands and hoarse voices. The dancers begin to leave the cleared space in the center of the festival, returning to the stalls and booths set up for the occasion. Soon those will be taken down as well, and the good folk of Meadow will return to their regular lives.</p></blockquote><p>Write <span color=\"blue\">CELEBRATED THE HARVEST FESTIVAL</span> on the campaign tracker.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>Eventually, the exhausted musicians end their playing, begging for refreshments for sore hands and hoarse voices. The dancers begin to leave the cleared space in the center of the festival, returning to the stalls and booths set up for the occasion. Soon those will be taken down as well, and the good folk of Meadow will return to their regular lives.</p></blockquote><p>Write <event>CELEBRATED THE HARVEST FESTIVAL</event> on the campaign tracker.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

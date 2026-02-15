@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/72_the_roiling",
   "title": "72. The Roiling",
-  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/lure_of_the_valley/72_the_roiling/72_1\">72.1</a></highlight><highlight highlight=\"clear\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/lure_of_the_valley/72_the_roiling/72_2\">72.2</a></highlight>",
+  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/lure_of_the_valley/72_the_roiling/72_1\"><entry>72.1</entry></a></highlight><highlight highlight=\"clear\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/lure_of_the_valley/72_the_roiling/72_2\"><entry>72.2</entry></a></highlight>",
   "anchors": [],
   "links": [
     {

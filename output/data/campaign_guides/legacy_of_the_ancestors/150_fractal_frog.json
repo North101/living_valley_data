@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/150_fractal_frog",
   "title": "150. Fractal Frog",
-  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU <span color=\"blue\">MADE WHOLE THE FROG</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_1\">150.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_2\">150.2</a></li></ul></highlight><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_3\">150.3</a></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_4\">150.4</a></highlight>",
+  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU <event>MADE WHOLE THE FROG</event>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_1\"><entry>150.1</entry></a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_2\"><entry>150.2</entry></a></li></ul></highlight><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_3\"><entry>150.3</entry></a></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/150_fractal_frog/150_4\"><entry>150.4</entry></a></highlight>",
   "anchors": [],
   "links": [
     {

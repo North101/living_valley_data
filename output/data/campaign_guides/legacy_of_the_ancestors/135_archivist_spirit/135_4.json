@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/135_archivist_spirit/135_4",
   "title": "135.4",
-  "content": "<blockquote id=\"narration_1\"><p>As you observe the spirit's movements and gestures, you begin to understand. The spirit is something of a historian, but more like a talespinner than an academic like Silaro. Or maybe, you think to yourself, he's a little of both.</p><p>When the spirit touches one of the petrified trees, he seems able to show you stories of the ancient past. By changing from one form to another, the spirit sets the stage, introduces the players, and then tells his tale. While an imperfect storytelling method, you find yourself understanding more than you do not. It seems clear to you now that the spirit is doing this for your benefit. It seems truly energized to once again have an audience. You wonder if you bring the spirit to the Cage, perhaps he will tell you a story that reveals something vital about its construction. </p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) Lead the spirit to the Cage.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from the Archivist Spirit and attach the mission <b>HELPING HAND</b> to it. <i color=\"blue\">Travel to the Cage and clear the Archivist Spirit with <icon icon=\"progress\">&nbsp;</icon> while the Heart is in play to learn more about it.</i></p><p><b color=\"red\">B) Let the spirit go on its way.</b> Discard the Archivist Spirit. Each Ranger soothes 2 fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>As you observe the spirit's movements and gestures, you begin to understand. The spirit is something of a historian, but more like a talespinner than an academic like Silaro. Or maybe, you think to yourself, he's a little of both.</p><p>When the spirit touches one of the petrified trees, he seems able to show you stories of the ancient past. By changing from one form to another, the spirit sets the stage, introduces the players, and then tells his tale. While an imperfect storytelling method, you find yourself understanding more than you do not. It seems clear to you now that the spirit is doing this for your benefit. It seems truly energized to once again have an audience. You wonder if you bring the spirit to the Cage, perhaps he will tell you a story that reveals something vital about its construction. </p></blockquote><p><b color=\"red\">A) Lead the spirit to the Cage.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from the Archivist Spirit and attach the mission <mission>HELPING HAND</mission> to it. <i color=\"blue\">Travel to the Cage and clear the Archivist Spirit with <icon icon=\"progress\">&nbsp;</icon> while the Heart is in play to learn more about it.</i></p><p><b color=\"red\">B) Let the spirit go on its way.</b> Discard the Archivist Spirit. Each Ranger soothes 2 fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/archivist_spirit/135_4"
 }

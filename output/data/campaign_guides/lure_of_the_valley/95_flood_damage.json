@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/lure_of_the_valley/95_flood_damage",
   "title": "95. Flood Damage",
-  "content": "<branch id=\"read-the-entry-corresponding-to-your-current-location\">READ THE ENTRY CORRESPONDING TO YOUR CURRENT LOCATION:</branch><blockquote id=\"narration_1\"><p><b>White Sky:</b> After the hard work of reattaching torn sails on White Sky's platforms and cleaning the paths along the shoreline, the lake is beginning to look like its old self again.</p><p><b>Kobo\u2019s Market:</b> After hours of bailing water and reassembling stalls, the market row is clearing up. It will take a while for everything to dry out, but trade has returned to Kobo's market.</p><p><b>Golden Shore:</b> You spend hours moving trees and reinforcing the banks of tributary streams. As you finish up, you look back over your handiwork and can see the telltale gleam of the shore's sands showing through once again.</p></blockquote><p><b>\u00bb Continue reading:</b></p><p>Discard Flood Damage. Cross off the <span color=\"blue\">FLOODED</span> entry on your campaign tracker corresponding to your current location. Each Ranger soothes 4 fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#read-the-entry-corresponding-to-your-current-location",
-      "title": "READ THE ENTRY CORRESPONDING TO YOUR CURRENT LOCATION:"
-    }
-  ],
-  "links": [
-    {
-      "id": "#read-the-entry-corresponding-to-your-current-location",
-      "title": "READ THE ENTRY CORRESPONDING TO YOUR CURRENT LOCATION:"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p><b>White Sky:</b> After the hard work of reattaching torn sails on White Sky's platforms and cleaning the paths along the shoreline, the lake is beginning to look like its old self again.</p><p><b>Kobo's Market:</b> After hours of bailing water and reassembling stalls, the market row is clearing up. It will take a while for everything to dry out, but trade has returned to Kobo's market.</p><p><b>Golden Shore:</b> You spend hours moving trees and reinforcing the banks of tributary streams. As you finish up, you look back over your handiwork and can see the telltale gleam of the shore's sands showing through once again.</p></blockquote><p><b>\u00bb Continue reading:</b></p><p>Discard Flood Damage. Cross off the <event>FLOODED</event> entry on your campaign tracker corresponding to your current location. Each Ranger soothes 4 fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/flood_damage"
 }

@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa",
   "title": "57. A Hearty Brew (LOA)",
-  "content": "<highlight highlight=\"blue\">IF <span color=\"blue\">SPIRE FALLEN</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa/57_1_loa\">57.1</a></highlight><highlight highlight=\"clear\">OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa/57_2_loa\">57.2</a></highlight>",
+  "content": "<highlight highlight=\"blue\">IF <event>SPIRE FALLEN</event>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa/57_1_loa\"><entry>57.1</entry></a></highlight><highlight highlight=\"clear\">OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/57_a_hearty_brew_loa/57_2_loa\"><entry>57.2</entry></a></highlight>",
   "anchors": [],
   "links": [
     {

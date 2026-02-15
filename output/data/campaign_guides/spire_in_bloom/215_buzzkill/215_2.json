@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/spire_in_bloom/215_buzzkill/215_2",
   "title": "215.2",
-  "content": "<blockquote id=\"narration_1\"><p>You hustle them away from the festival until you're certain they'll be safe from the cloudhive swarms. You tell them to stay put before running back into the fray.</p></blockquote><p>Discard this human. Move any mirth on them to <b>BUZZKILL</b>.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>You hustle them away from the festival until you're certain they'll be safe from the cloudhive swarms. You tell them to stay put before running back into the fray.</p></blockquote><p>Discard this human. Move any mirth on them to <mission>BUZZKILL</mission>.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

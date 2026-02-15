@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/lure_of_the_valley/44_kordo_ranger_veteran/44_4",
   "title": "44.4",
-  "content": "<blockquote id=\"narration_1\"><p>Kordo stops and looks sternly at you. \u201cI can tell something is on your mind. Can you keep helping me? Or should I head back to Lone Tree, and we try this another time?\u201d</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><span color=\"red\">A) Continue helping Kordo.</span> Discard all <icon icon=\"progress\">&nbsp;</icon>, and keep HELPING HAND attached to Kordo, Ranger Veteran.</p><p><span color=\"red\">B) Send him back to Lone Tree.</span> Discard Kordo, Ranger Veteran and return HELPING HAND to your collection. Each Ranger soothes 2 fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>Kordo stops and looks sternly at you. \"I can tell something is on your mind. Can you keep helping me? Or should I head back to Lone Tree, and we try this another time?\"</p></blockquote><p><span color=\"red\">A) Continue helping Kordo.</span> Discard all <icon icon=\"progress\">&nbsp;</icon>, and keep HELPING HAND attached to Kordo, Ranger Veteran.</p><p><span color=\"red\">B) Send him back to Lone Tree.</span> Discard Kordo, Ranger Veteran and return HELPING HAND to your collection. Each Ranger soothes 2 fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/kordo_ranger_veteran/44_4"
 }

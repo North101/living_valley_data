@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom",
   "title": "130. Progenitor Mushroom",
-  "content": "<p><b><highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_1\">130.1</a></highlight></b> <b><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_2\">130.2</a></highlight></b> <b><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_3\">130.3</a></highlight></b></p>",
+  "content": "<p><b><highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_1\"><entry>130.1</entry></a></highlight></b> <b><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_2\"><entry>130.2</entry></a></highlight></b> <b><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/130_progenitor_mushroom/130_3\"><entry>130.3</entry></a></highlight></b></p>",
   "anchors": [],
   "links": [
     {

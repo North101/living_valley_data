@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa",
   "title": "86. The Fundamentalist (LOA)",
-  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_1_loa\">86.1</a></highlight><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_2_loa\">86.2</a></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_3_loa\">86.3</a></highlight>",
+  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_1_loa\"><entry>86.1</entry></a></highlight><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_2_loa\"><entry>86.2</entry></a></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/86_the_fundamentalist_loa/86_3_loa\"><entry>86.3</entry></a></highlight>",
   "anchors": [],
   "links": [
     {

@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase",
   "title": "121. The Spiral Staircase",
-  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF THE <span color=\"blue\">CHIMNEY IS SETTLED</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_1\">121.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_2\">121.2</a></li></ul></highlight><p><b><highlight highlight=\"clear\">CLEAR <icon icon=\"ranger_token\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_3\">121.3</a></highlight></b></p>",
+  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF THE <event>CHIMNEY IS SETTLED</event>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_1\"><entry>121.1</entry></a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_2\"><entry>121.2</entry></a></li></ul></highlight><p><b><highlight highlight=\"clear\">CLEAR <icon icon=\"ranger_token\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/121_the_spiral_staircase/121_3\"><entry>121.3</entry></a></highlight></b></p>",
   "anchors": [],
   "links": [
     {

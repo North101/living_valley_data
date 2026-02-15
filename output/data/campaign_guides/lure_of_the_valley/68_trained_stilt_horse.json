@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/68_trained_stilt_horse",
   "title": "68. Trained Stilt-Horse",
-  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU\u2019VE BEEN <span color=\"blue\"> </span>ACCEPTED AS A RIDER<span color=\"blue\"> </span>, GO TO <a href=\"campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_1\">68.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_2\">68.2</a></li></ul></highlight><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_3\">68.3</a></highlight>",
+  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU'VE BEEN <span color=\"blue\"> </span>ACCEPTED AS A RIDER<span color=\"blue\"> </span>, GO TO <a href=\"campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_1\"><entry>68.1</entry></a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_2\"><entry>68.2</entry></a></li></ul></highlight><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_3\"><entry>68.3</entry></a></highlight>",
   "anchors": [],
   "links": [
     {

@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/lure_of_the_valley/85_calypsa_ranger_mentor/85_2",
   "title": "85.2",
-  "content": "<blockquote id=\"narration_1\"><p>You come panting back into the field, and Calypsa looks at you expectantly. \u201cSo, how did you do?\u201d</p></blockquote><branch id=\"count-the-total-fatigue-between-all-rangers-and-read-the-corresponding-entry\">COUNT THE TOTAL FATIGUE BETWEEN ALL RANGERS, AND READ THE CORRESPONDING ENTRY:</branch><p color=\"red\">0 Fatigue.</p><blockquote id=\"narration_2\"><p>Calypsa shakes her head. \u201cDid you even bother to try?\u201d</p></blockquote><p>Discard Calypsa and return <b>HELPING HAND</b> to the collection.</p><p color=\"red\">1 - 4<icon icon=\"per_ranger\">&nbsp;</icon> Fatigue.</p><blockquote id=\"narration_3\"><p>Calypsa smiles at you. \u201cA good effort. But I\u2019m afraid Kal pushed himself further than you did. He\u2019ll win this competition for today.\u201d</p></blockquote><p>Discard Calypsa and return <b>HELPING HAND</b> to the collection.</p><p color=\"red\">More than 4<icon icon=\"per_ranger\">&nbsp;</icon> Fatigue.</p><blockquote id=\"narration_4\"><p>Calypsa raises her eyebrows. \u201cOh my. Very well done! You win the competition.\u201d She claps your shoulder and slips a small badge into your hands, then looks serious. \u201cNow, just remember to not push yourself harder than you need to. As with so many things, we should try and find balance in our actions.\u201d</p></blockquote><p>Gain the Ranger Badge reward card. Discard Calypsa and return <b>HELPING HAND</b> to the collection.</p>",
-  "anchors": [
-    {
-      "id": "#count-the-total-fatigue-between-all-rangers-and-read-the-corresponding-entry",
-      "title": "COUNT THE TOTAL FATIGUE BETWEEN ALL RANGERS, AND READ THE CORRESPONDING ENTRY:"
-    }
-  ],
-  "links": [
-    {
-      "id": "#count-the-total-fatigue-between-all-rangers-and-read-the-corresponding-entry",
-      "title": "COUNT THE TOTAL FATIGUE BETWEEN ALL RANGERS, AND READ THE CORRESPONDING ENTRY:"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>You come panting back into the field, and Calypsa looks at you expectantly. \"So, how did you do?\"</p></blockquote><p color=\"red\">0 Fatigue.</p><blockquote id=\"narration_2\"><p>Calypsa shakes her head. \"Did you even bother to try?\"</p></blockquote><p>Discard Calypsa and return <mission>HELPING HAND</mission> to the collection.</p><p color=\"red\">1 - 4<icon icon=\"per_ranger\">&nbsp;</icon> Fatigue.</p><blockquote id=\"narration_3\"><p>Calypsa smiles at you. \"A good effort. But I'm afraid Kal pushed himself further than you did. He'll win this competition for today.\"</p></blockquote><p>Discard Calypsa and return <mission>HELPING HAND</mission> to the collection.</p><p color=\"red\">More than 4<icon icon=\"per_ranger\">&nbsp;</icon> Fatigue.</p><blockquote id=\"narration_4\"><p>Calypsa raises her eyebrows. \"Oh my. Very well done! You win the competition.\" She claps your shoulder and slips a small badge into your hands, then looks serious. \"Now, just remember to not push yourself harder than you need to. As with so many things, we should try and find balance in our actions.\"</p></blockquote><p>Gain the <reward>Ranger Badge</reward> reward card. Discard Calypsa and return <mission>HELPING HAND</mission> to the collection.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/calypsa_ranger_mentor/85_2"
 }

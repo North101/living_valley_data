@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/spire_in_bloom/215_buzzkill",
   "title": "215. Buzzkill",
-  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/spire_in_bloom/215_buzzkill/215_1\">215.1</a></highlight><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/spire_in_bloom/215_buzzkill/215_2\">215.2</a></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/spire_in_bloom/215_buzzkill/215_3\">215.3</a></highlight>",
+  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/spire_in_bloom/215_buzzkill/215_1\"><entry>215.1</entry></a></highlight><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/spire_in_bloom/215_buzzkill/215_2\"><entry>215.2</entry></a></highlight><highlight highlight=\"blue\">CLEAR <span color=\"red\"><icon icon=\"harm\">&nbsp;</icon></span>: GO TO <a href=\"campaign_guides/spire_in_bloom/215_buzzkill/215_3\"><entry>215.3</entry></a></highlight>",
   "anchors": [],
   "links": [
     {

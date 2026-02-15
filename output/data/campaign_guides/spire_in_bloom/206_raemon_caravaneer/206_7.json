@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/spire_in_bloom/206_raemon_caravaneer/206_7",
   "title": "206.7",
-  "content": "<blockquote id=\"narration_1\"><p>\"Who, me? I'm doing fine,\" Raemon says, unconsciously rubbing his eyes. The dark circles under his eyes, his grimy clothes, and his frequent yawning tell a different story. He's likely been running caravans back and forth for days at a time without pausing to rest. Maybe you should encourage Raemon to take a break. In fact, you know just the place.</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p color=\"red\">A) Take Raemon somewhere he can relax for a bit.</p><p>Discard all <icon icon=\"progress\">&nbsp;</icon>, and attach the HELPING HAND mission to Raemon.</p><blockquote id=\"narration_2\"><p>You tell Raemon to come with you. \"Why, do you need help with something?\" he offers. You decide not to tell him where you're headed just yet\u2014he would only\u00a0protest.</p></blockquote><p color=\"blue\"><i>Bring Raemon to A Hearty Brew in Spire, then clear him again with <icon icon=\"progress\">&nbsp;</icon>.</i></p><p color=\"red\">B) Wish Raemon the best.</p><p>Discard Raemon. Each Ranger soothes 2 fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>\"Who, me? I'm doing fine,\" Raemon says, unconsciously rubbing his eyes. The dark circles under his eyes, his grimy clothes, and his frequent yawning tell a different story. He's likely been running caravans back and forth for days at a time without pausing to rest. Maybe you should encourage Raemon to take a break. In fact, you know just the place.</p></blockquote><p color=\"red\">A) Take Raemon somewhere he can relax for a bit.</p><p>Discard all <icon icon=\"progress\">&nbsp;</icon>, and attach the HELPING HAND mission to Raemon.</p><blockquote id=\"narration_2\"><p>You tell Raemon to come with you. \"Why, do you need help with something?\" he offers. You decide not to tell him where you're headed just yet\u2014he would only\u00a0protest.</p></blockquote><p color=\"blue\"><i>Bring Raemon to A Hearty Brew in Spire, then clear him again with <icon icon=\"progress\">&nbsp;</icon>.</i></p><p color=\"red\">B) Wish Raemon the best.</p><p>Discard Raemon. Each Ranger soothes 2 fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/spire_in_bloom/raemon_caravaneer/206_7"
 }

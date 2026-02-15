@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/131_gardener_spirit/131_3",
   "title": "131.3",
-  "content": "<blockquote id=\"narration_1\"><p>As you spend more time with the spirit of the gardener, you find yourself wondering more and more about the nature of existence. How is this spirit visible to you? Is it something about the arcology that makes it possible? When you die, is there a possibility that you too will be tethered to the physcial plane? It's almost too much to contemplate.</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) Continue following the spirit.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from the Gardener Spirit. <i color=\"blue\">Travel to the Arboretum of Memory and clear the Gardener Spirit with <icon icon=\"progress\">&nbsp;</icon> while New Growth is in play.</i></p><p><b color=\"red\">B) Let the spirit go on her way.</b> Discard the Gardener Spirit. Each Ranger soothes 2 fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>As you spend more time with the spirit of the gardener, you find yourself wondering more and more about the nature of existence. How is this spirit visible to you? Is it something about the arcology that makes it possible? When you die, is there a possibility that you too will be tethered to the physcial plane? It's almost too much to contemplate.</p></blockquote><p><b color=\"red\">A) Continue following the spirit.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from the Gardener Spirit. <i color=\"blue\">Travel to the Arboretum of Memory and clear the Gardener Spirit with <icon icon=\"progress\">&nbsp;</icon> while New Growth is in play.</i></p><p><b color=\"red\">B) Let the spirit go on her way.</b> Discard the Gardener Spirit. Each Ranger soothes 2 fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/gardener_spirit/131_3"
 }

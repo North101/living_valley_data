@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/spire_in_bloom/212_backalley_shortcut",
   "title": "212. Backalley Shortcut",
-  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/spire_in_bloom/212_backalley_shortcut/212_1\">212.1</a></highlight><highlight highlight=\"clear\"> CLEAR <icon icon=\"ranger_token\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/spire_in_bloom/212_backalley_shortcut/212_2\">212.2</a></highlight>",
+  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/spire_in_bloom/212_backalley_shortcut/212_1\"><entry>212.1</entry></a></highlight><highlight highlight=\"clear\"> CLEAR <icon icon=\"ranger_token\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/spire_in_bloom/212_backalley_shortcut/212_2\"><entry>212.2</entry></a></highlight>",
   "anchors": [],
   "links": [
     {

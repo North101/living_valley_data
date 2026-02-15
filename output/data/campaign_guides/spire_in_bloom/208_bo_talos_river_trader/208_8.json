@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/spire_in_bloom/208_bo_talos_river_trader/208_8",
   "title": "208.8",
-  "content": "<blockquote id=\"narration_1\"><p>You ask the man what's bothering him, which earns you a hearty chuckle. \"Rangers really will help with just about anything, won't they?\" he jokes. \"Fine, take a seat.\"</p><p>He introduces himself as Bo Talos, a trader who travels up and down the Silverfin from White Sky to Tumbledown, mostly trading equipment and supplies between the various villages and homesteads along his route. \"It was supposed to be me and my friend Olyv doing this together, but last year she just\u2026abandoned all our plans and up and left for Lone Tree Station. She wants to be a Ranger like you.</p><p>\"We haven't talked since that day. It\u2026wasn't pretty. I said some harsh things I'm not proud of.\" He runs his hand through his hair and sighs. \"I tried to apologize. I sent her a letter, but the courier came back to let me know that he'd lost it along the way. Said he was attacked by veloxes and his parcels all fell out of his satchel as he ran.\"</p><p>You ask why he doesn't try to send another letter, and he shakes his head. \"You don't understand. It has to be that letter,\" he says stubbornly. \"It's\u2026special.\" Perhaps if you find Bo's letter, you can deliver it for him.</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p color=\"red\">A) Agree to find Bo's missing letter.</p><blockquote id=\"narration_2\"><p>You tell Bo that you'll look for his letter and deliver it yourself. Bo raises an eyebrow. \"You'd do that? Well\u2026I'd be in your debt.\"</p></blockquote><p>Gain the <b>LOST LETTER</b> mission. Discard Bo.</p><p color=\"blue\"><i>Find Bo's letter, then deliver it to Olyv Sol. Olyv will either be at Lone Tree Station, or if she's already earned her cloak, she'll be traveling all over the Valley like you.</i></p><p color=\"red\">B) Sorry, on second thought, there's no time.</p><p>Discard Bo. Each Ranger soothes 2\u00a0fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>You ask the man what's bothering him, which earns you a hearty chuckle. \"Rangers really will help with just about anything, won't they?\" he jokes. \"Fine, take a seat.\"</p><p>He introduces himself as Bo Talos, a trader who travels up and down the Silverfin from White Sky to Tumbledown, mostly trading equipment and supplies between the various villages and homesteads along his route. \"It was supposed to be me and my friend Olyv doing this together, but last year she just\u2026abandoned all our plans and up and left for Lone Tree Station. She wants to be a Ranger like you.</p><p>\"We haven't talked since that day. It\u2026wasn't pretty. I said some harsh things I'm not proud of.\" He runs his hand through his hair and sighs. \"I tried to apologize. I sent her a letter, but the courier came back to let me know that he'd lost it along the way. Said he was attacked by veloxes and his parcels all fell out of his satchel as he ran.\"</p><p>You ask why he doesn't try to send another letter, and he shakes his head. \"You don't understand. It has to be that letter,\" he says stubbornly. \"It's\u2026special.\" Perhaps if you find Bo's letter, you can deliver it for him.</p></blockquote><p color=\"red\">A) Agree to find Bo's missing letter.</p><blockquote id=\"narration_2\"><p>You tell Bo that you'll look for his letter and deliver it yourself. Bo raises an eyebrow. \"You'd do that? Well\u2026I'd be in your debt.\"</p></blockquote><p>Gain the <mission>LOST LETTER</mission> mission. Discard Bo.</p><p color=\"blue\"><i>Find Bo's letter, then deliver it to Olyv Sol. Olyv will either be at Lone Tree Station, or if she's already earned her cloak, she'll be traveling all over the Valley like you.</i></p><p color=\"red\">B) Sorry, on second thought, there's no time.</p><p>Discard Bo. Each Ranger soothes 2\u00a0fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/spire_in_bloom/bo_talos_river_trader/208_8"
 }

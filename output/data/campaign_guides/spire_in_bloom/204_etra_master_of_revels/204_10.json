@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_10",
   "title": "204.10",
-  "content": "<blockquote id=\"narration_1\"><p>You ask Etra what his argument with Elder Orlin was about, and he sighs. \"You see, I would like to use the Carbon Forge to craft a few decorations for the event that's coming up, but Elder Orlin, in her wisdom, believes it to be frivolous. 'The Carbon Forge is for necessities only,' she says. But fun IS a necessity! It's my life's work, after all!\" Etra says with conviction. \"I pled my case, but it sounds like she'll only agree to let me use the Forge if I can convince a bunch of others that it's worth it, so we might convince her in turn. What do you say, my friend? Care to help me build the case for the necessity of fun?\"</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p color=\"red\">A) Of course. Let's go spread the word!</p><blockquote id=\"narration_2\"><p>\"I knew I could count on you!\" Etra shakes your hand vigorously. \"Come find me after you've gathered a few people. I'll go do the same.\"</p></blockquote><p>Discard all <icon icon=\"progress\">&nbsp;</icon> and attach the <b>HELPING HAND</b> mission to Etra.</p><p color=\"blue\"><i>Clear other humans, then clear Etra with <icon icon=\"progress\">&nbsp;</icon> to proceed.</i></p><p color=\"red\">B) I'm afraid I agree with Elder Orlin.</p><p>Discard Etra. Each Ranger soothes 2\u00a0fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>You ask Etra what his argument with Elder Orlin was about, and he sighs. \"You see, I would like to use the Carbon Forge to craft a few decorations for the event that's coming up, but Elder Orlin, in her wisdom, believes it to be frivolous. 'The Carbon Forge is for necessities only,' she says. But fun IS a necessity! It's my life's work, after all!\" Etra says with conviction. \"I pled my case, but it sounds like she'll only agree to let me use the Forge if I can convince a bunch of others that it's worth it, so we might convince her in turn. What do you say, my friend? Care to help me build the case for the necessity of fun?\"</p></blockquote><p color=\"red\">A) Of course. Let's go spread the word!</p><blockquote id=\"narration_2\"><p>\"I knew I could count on you!\" Etra shakes your hand vigorously. \"Come find me after you've gathered a few people. I'll go do the same.\"</p></blockquote><p>Discard all <icon icon=\"progress\">&nbsp;</icon> and attach the <mission>HELPING HAND</mission> mission to Etra.</p><p color=\"blue\"><i>Clear other humans, then clear Etra with <icon icon=\"progress\">&nbsp;</icon> to proceed.</i></p><p color=\"red\">B) I'm afraid I agree with Elder Orlin.</p><p>Discard Etra. Each Ranger soothes 2\u00a0fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/spire_in_bloom/etra_master_of_revels/204_10"
 }

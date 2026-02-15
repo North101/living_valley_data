@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage",
   "title": "149. Pitch Black Passage",
-  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU'VE <span color=\"blue\">BRAVED THE DARK</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_1\">149.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_2\">149.2</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF EACH RANGER\u2019S <icon icon=\"ranger_token\">&nbsp;</icon> IS ON THIS CARD, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_3\">149.3</a></li><li>OTHERWISE, DISCARD PITCH BLACK PASSAGE.</li></ul></highlight>",
+  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU'VE <event>BRAVED THE DARK</event>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_1\"><entry>149.1</entry></a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_2\"><entry>149.2</entry></a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF EACH RANGER'S <icon icon=\"ranger_token\">&nbsp;</icon> IS ON THIS CARD, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/149_pitch_black_passage/149_3\"><entry>149.3</entry></a></li><li>OTHERWISE, DISCARD PITCH BLACK PASSAGE.</li></ul></highlight>",
   "anchors": [],
   "links": [
     {

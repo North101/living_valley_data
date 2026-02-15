@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/126_quisi_vos_rapscallion/126_7",
   "title": "126.7",
-  "content": "<blockquote id=\"narration_1\"><p>Quisi holds up a scroll of light. On its surface you see a delicate filigree of pale blue. \u201cThis is a mapping scroll, see? I just trace my route with this fancy stick, and it remembers it!\u201d</p><p>Quisi tucks it back into her shoulder bag. \u201cWhen I meet up with my Dad, we'll combine my scroll with his and it'll make a super scroll!</p><p>\u201cBut first, we need to explore as much of this place as possible. Otherwise, the map will be incomplete.</p><p>\"Do you want to come with? I know Slugmund wants you to come! Let's see if we can find my dad. It'll be fun!\"</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) Let's go find your dad.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from Quisiand attach the <b>HELPING HAND</b> mission to her. <i color=\"blue\">Help her track down her father, Harlan Vos.</i></p><p><b color=\"red\">B) You can find him.</b> Discard Quisi. Each Ranger soothes 2 fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>Quisi holds up a scroll of light. On its surface you see a delicate filigree of pale blue. \"This is a mapping scroll, see? I just trace my route with this fancy stick, and it remembers it!\"</p><p>Quisi tucks it back into her shoulder bag. \"When I meet up with my Dad, we'll combine my scroll with his and it'll make a super scroll!</p><p>\"But first, we need to explore as much of this place as possible. Otherwise, the map will be incomplete.</p><p>\"Do you want to come with? I know Slugmund wants you to come! Let's see if we can find my dad. It'll be fun!\"</p></blockquote><p><b color=\"red\">A) Let's go find your dad.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from Quisiand attach the <mission>HELPING HAND</mission> mission to her. <i color=\"blue\">Help her track down her father, Harlan Vos.</i></p><p><b color=\"red\">B) You can find him.</b> Discard Quisi. Each Ranger soothes 2 fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/quisi_vos_rapscallion/126_7"
 }

@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/59_dace_ambitious_shaper_loa/59_2_loa",
   "title": "59.2 (LOA)",
-  "content": "<blockquote id=\"narration_1\"><p>Dace skips ahead along the trail, a puff of air lifting her briefly off the ground. \u201cWe\u2019re still headed for the Plummet, right?\u201d she asks over her shoulder. \u201cOura may already be there; you know how quickly she can hike!\u201d  </p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) Continue accompanying Dace to the Plummet.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from Dace.</p><p><b color=\"red\">B) Some other time.</b> Discard Dace. Each Ranger soothes 2 fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>Dace skips ahead along the trail, a puff of air lifting her briefly off the ground. \"We're still headed for the Plummet, right?\" she asks over her shoulder. \"Oura may already be there; you know how quickly she can hike!\"  </p></blockquote><p><b color=\"red\">A) Continue accompanying Dace to the Plummet.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from Dace.</p><p><b color=\"red\">B) Some other time.</b> Discard Dace. Each Ranger soothes 2 fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/dace_ambitious_shaper/59_2"
 }

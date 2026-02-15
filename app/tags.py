@@ -1,66 +1,99 @@
+from abc import ABC
 from dataclasses import dataclass
 from typing import Any, Literal
 
 
-@dataclass
-class Tag():
-  type: Any
+EmptyType = Literal['hr', 'br']
+TextType = Literal['text']
+TitleType = Literal['h1', 'h2', 'choice', 'branch', 'imgfooter']
+FormattedTextType = Literal['p', 'b', 'i', 'span', 'ol', 'ul', 'li', 'code']
+BlockquoteType = Literal['blockquote']
+IconType = Literal['icon']
+HighlightType = Literal['highlight']
+LinkType = Literal['a', 'button']
+ImgType = Literal['img']
+MissionType = Literal['mission']
+EventType = Literal['event']
+RewardType = Literal['reward']
+EntryType = Literal['entry']
 
 
 @dataclass
-class TagWithItems(Tag):
-  items: list[Tag]
+class Tag[T: str]:
+  type: T
+
+
+class TagWithItems[T: str](Tag[T], ABC):
+  items: list[Tag[Any]]
 
 
 @dataclass
-class EmptyTag(Tag):
-  type: Literal['hr', 'br']
+class EmptyTag(Tag[EmptyType]):
+  pass
 
 
 @dataclass
-class TagText(Tag):
-  type: Literal['text']
+class TagText(Tag[TextType]):
   text: str
 
 
 @dataclass
-class TagTitle(TagWithItems):
-  type: Literal['h1', 'h2', 'choice', 'branch', 'imgfooter']
-  anchor: str | None
+class TagTitle(TagWithItems[TitleType]):
+  id: str | None
+  items: list[Tag[Any]]
 
 
 @dataclass
-class TagFormattedText(TagWithItems):
-  type: Literal['p', 'b', 'i', 'span', 'ol', 'ul', 'li', 'code']
+class TagFormattedText(TagWithItems[FormattedTextType]):
   color: str | None
+  items: list[Tag[Any]]
 
 
 @dataclass
-class TagBlockquote(TagWithItems):
-  type: Literal['blockquote']
-  anchor: str
+class TagBlockquote(TagWithItems[BlockquoteType]):
+  id: str
   color: str | None
+  items: list[Tag[Any]]
 
 
 @dataclass
-class TagIcon(TagWithItems):
-  type: Literal['icon']
+class TagIcon(TagWithItems[IconType]):
   icon: str
+  items: list[Tag[Any]]
 
 
 @dataclass
-class TagHighlight(TagWithItems):
-  type: Literal['highlight']
+class TagHighlight(TagWithItems[HighlightType]):
   highlight: str
+  items: list[Tag[Any]]
 
 
 @dataclass
-class TagLink(TagWithItems):
-  type: Literal['a', 'button']
+class TagLink(TagWithItems[LinkType]):
   href: str
+  items: list[Tag[Any]]
 
 
 @dataclass
-class TagImg(Tag):
-  type: Literal['img']
+class TagImg(Tag[ImgType]):
   src: str
+
+
+@dataclass
+class TagMission(TagWithItems[MissionType]):
+  items: list[Tag[TextType]]
+
+
+@dataclass
+class TagEvent(TagWithItems[EventType]):
+  items: list[Tag[TextType]]
+
+
+@dataclass
+class TagEntry(TagWithItems[EntryType]):
+  items: list[Tag[TextType]]
+
+
+@dataclass
+class TagReward(TagWithItems[RewardType]):
+  items: list[Tag[TextType]]

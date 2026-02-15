@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/lure_of_the_valley/76_kasende_expert_hunter/76_6",
   "title": "76.6",
-  "content": "<blockquote id=\"narration_1\"><p>You turn to see Kasende regarding you with a level stare. \u201cWe have work to do. Do you still want to hunt hydraworms in Michael's Bog with me? Or should I head out on my own?\"</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><span color=\"red\">A) Agree to keep helping.</span> Discard all <icon icon=\"progress\">&nbsp;</icon> from Kasende.</p><p><span color=\"red\">B) Part ways.</span> Discard Kasende and return <b>HELPING HAND</b> to your collection. Each Ranger soothes 2 fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>You turn to see Kasende regarding you with a level stare. \"We have work to do. Do you still want to hunt hydraworms in Michael's Bog with me? Or should I head out on my own?\"</p></blockquote><p><span color=\"red\">A) Agree to keep helping.</span> Discard all <icon icon=\"progress\">&nbsp;</icon> from Kasende.</p><p><span color=\"red\">B) Part ways.</span> Discard Kasende and return <mission>HELPING HAND</mission> to your collection. Each Ranger soothes 2 fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/kasende_expert_hunter/76_6"
 }

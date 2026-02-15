@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/lure_of_the_valley/4_northern_outpost/4_1",
   "title": "4.1",
-  "content": "<branch id=\"read-one\">READ ONE:</branch><p color=\"red\">If you\u2019ve <span color=\"blue\">FIXED UP NORTHERN OUTPOST,</span> read:</p><blockquote id=\"narration_1\"><p>After a few hours of tidying, scrubbing, and general fixing, the outpost is back in some semblance of working order \u2026 for now. You breathe a sigh of relief at a job well done.</p></blockquote><p>Each Ranger soothes 3 fatigue.</p><p color=\"red\">Otherwise read:</p><blockquote id=\"narration_2\"><p>It takes hours of hacking back overgrowth and scrubbing the floor to get the outpost back in working order. You breathe a sigh of relief at a job well done. Future visitors to this outpost will have a much easier time reaching the structure now.</p></blockquote><p>Each Ranger soothes 3 fatigue. Discard the Deep Woods if it\u2019s in play. Record <span color=\"blue\">FIXED UP NORTHERN OUTPOST,</span> on the campaign tracker.</p>",
-  "anchors": [
-    {
-      "id": "#read-one",
-      "title": "READ ONE:"
-    }
-  ],
-  "links": [
-    {
-      "id": "#read-one",
-      "title": "READ ONE:"
-    }
-  ],
+  "content": "<p color=\"red\">If you've <event>FIXED UP NORTHERN OUTPOST</event>, read:</p><blockquote id=\"narration_1\"><p>After a few hours of tidying, scrubbing, and general fixing, the outpost is back in some semblance of working order \u2026 for now. You breathe a sigh of relief at a job well done.</p></blockquote><p>Each Ranger soothes 3 fatigue.</p><p color=\"red\">Otherwise read:</p><blockquote id=\"narration_2\"><p>It takes hours of hacking back overgrowth and scrubbing the floor to get the outpost back in working order. You breathe a sigh of relief at a job well done. Future visitors to this outpost will have a much easier time reaching the structure now.</p></blockquote><p>Each Ranger soothes 3 fatigue. Discard the Deep Woods if it's in play. Record <event>FIXED UP NORTHERN OUTPOST</event>, on the campaign tracker.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/northern_outpost/4_1"
 }

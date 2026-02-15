@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_5",
   "title": "204.5",
-  "content": "<p>If you are on <b>FLOWER COLLECTION</b> and it has three checkmarks, go to <a href=\"campaign_guides/spire_in_bloom/1_missions_sib/1_201\">1.201</a>. Otherwise, continue reading:</p><blockquote id=\"narration_1\"><p>\"Not finished yet? Well, that's okay. There's still plenty to do,\" Etra explains. \"If you want to help in some other way, you're more than welcome. What do you say?\"</p></blockquote><p>You may replace <b>SUPPLY RUN</b> with <b>FLOWER COLLECTION</b>, or <b>FLOWER COLLECTION</b> with <b>SUPPLY RUN</b> (on your campaign tracker and in the surroundings). Whether or not you do this, discard Etra and each Ranger soothes 2 fatigue.</p>",
+  "content": "<p>If you are on <mission>FLOWER COLLECTION</mission> and it has three checkmarks, go to <a href=\"campaign_guides/spire_in_bloom/1_missions_sib/1_201\"><entry>1.201</entry></a>. Otherwise, continue reading:</p><blockquote id=\"narration_1\"><p>\"Not finished yet? Well, that's okay. There's still plenty to do,\" Etra explains. \"If you want to help in some other way, you're more than welcome. What do you say?\"</p></blockquote><p>You may replace <mission>SUPPLY RUN</mission> with <mission>FLOWER COLLECTION</mission>, or <mission>FLOWER COLLECTION</mission> with <mission>SUPPLY RUN</mission> (on your campaign tracker and in the surroundings). Whether or not you do this, discard Etra and each Ranger soothes 2 fatigue.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

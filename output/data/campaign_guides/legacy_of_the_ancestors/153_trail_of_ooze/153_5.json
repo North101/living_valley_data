@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/153_trail_of_ooze/153_5",
   "title": "153.5",
-  "content": "<blockquote id=\"narration_1\"><p>Just like the original trail you found, this one looks like it leads out of the laboratory and into the nearby caves. You could follow it, but you\u2019re not sure the ooze poses a dire threat to the arcology\u2019s ecosystem, and you doubt you\u2019re going to find any valuable technology or artifacts in the caves.</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE:</choice><p><b color=\"red\">A) Follow the trail.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from Trail of Ooze. Attach the <b>FOLLOWING A LEAD</b> mission to Trail of Ooze. <i color=\"blue\">Clear the Trail of Ooze with <icon icon=\"progress\">&nbsp;</icon> while at a cave location to discover what made it.</i></p><p><b color=\"red\">B) We don't have time for this.</b> Discard the Trail of Ooze and return <b>FOLLOWING A LEAD</b> to the collection. Each Ranger soothes 2 fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE:"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE:"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>Just like the original trail you found, this one looks like it leads out of the laboratory and into the nearby caves. You could follow it, but you're not sure the ooze poses a dire threat to the arcology's ecosystem, and you doubt you're going to find any valuable technology or artifacts in the caves.</p></blockquote><p><b color=\"red\">A) Follow the trail.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from Trail of Ooze. Attach the <mission>FOLLOWING A LEAD</mission> mission to Trail of Ooze. <i color=\"blue\">Clear the Trail of Ooze with <icon icon=\"progress\">&nbsp;</icon> while at a cave location to discover what made it.</i></p><p><b color=\"red\">B) We don't have time for this.</b> Discard the Trail of Ooze and return <mission>FOLLOWING A LEAD</mission> to the collection. Each Ranger soothes 2 fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/trail_of_ooze/153_5"
 }

@@ -14,7 +14,7 @@ HTML_PARSER = html.HTMLParser(remove_blank_text=True, remove_comments=True)
 
 
 def parse_html(content: str):
-  return html.fromstring(content, parser=HTML_PARSER)  # type: ignore
+  return html.fromstring(content, parser=HTML_PARSER)  # pyright: ignore[reportArgumentType]
 
 
 def clean_url(url: str):
@@ -22,10 +22,12 @@ def clean_url(url: str):
 
 
 def to_id(title: str):
-  return ''.join((
-      c
+  return ''.join(
+    (
+      c  #
       for c in iter_id(title)
-  )).strip('_')
+    )
+  ).strip('_')
 
 
 def iter_id(title: str):
@@ -62,22 +64,27 @@ def rewrite_url(base_url: str, url: str, urls: dict[str, str]):
 
     return url
 
-  return urlunparse((
+  return urlunparse(
+    (
       scheme,
       netloc,
       path,
       params,
       query,
       fragment,
-  ))
+    )
+  )
 
 
 def get_color_for_class(classes: list[str], colors: dict[str, str]):
-  return next((
-      color
+  return next(
+    (
+      color  #
       for css_class, color in colors.items()
       if css_class in classes
-  ), None)
+    ),
+    None,
+  )
 
 
 class Link(TypedDict):
@@ -86,16 +93,18 @@ class Link(TypedDict):
 
 
 def write_resource(
-    path: pathlib.Path,
-    resource_id: str,
-    title: str,
-    content: Any | None,
-    anchors: list[Link],
-    links: list[Link],
-    lookup: list[Link],
-    url: str,
+  path: pathlib.Path,
+  resource_id: str,
+  title: str,
+  content: Any | None,
+  anchors: list[Link],
+  links: list[Link],
+  lookup: list[Link],
+  url: str,
 ):
-  write_json(path, {
+  write_json(
+    path,
+    {
       'id': resource_id,
       'title': title,
       'content': content,
@@ -103,7 +112,8 @@ def write_resource(
       'links': links,
       'lookup': lookup,
       'url': url,
-  })
+    },
+  )
 
 
 def write_json(path: pathlib.Path, obj: Any):
@@ -131,12 +141,17 @@ def write_csv(path: pathlib.Path, items: list[NarrationItem]):
 
   path.parent.mkdir(exist_ok=True, parents=True)
   with path.open('w') as f:
-    writer = csv.DictWriter(f, [
-        field.name
+    writer = csv.DictWriter(
+      f,
+      [
+        field.name  #
         for field in fields(NarrationItem)
-    ])  
+      ],
+    )
     writer.writeheader()
-    writer.writerows([
-        asdict(item)
+    writer.writerows(
+      [
+        asdict(item)  #
         for item in items
-    ])
+      ]
+    )

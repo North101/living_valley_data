@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_14",
   "title": "213.14",
-  "content": "<blockquote id=\"narration_1\"><p>You spend time together wordlessly enjoying the festivities. The music is lively and the food is delicious. Before long, you part ways, smiling and laughing, as you each set your sights on the next diversion.</p></blockquote><p>Discard all <icon icon=\"progress\">&nbsp;</icon> from this human and add 1 mirth token to them. Each Ranger soothes 1 fatigue. Ready <b>FUN AND GAMES</b>.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>You spend time together wordlessly enjoying the festivities. The music is lively and the food is delicious. Before long, you part ways, smiling and laughing, as you each set your sights on the next diversion.</p></blockquote><p>Discard all <icon icon=\"progress\">&nbsp;</icon> from this human and add 1 mirth token to them. Each Ranger soothes 1 fatigue. Ready <mission>FUN AND GAMES</mission>.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

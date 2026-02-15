@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/120_the_plinth",
   "title": "120. The Plinth",
-  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF THE <span color=\"blue\">CHIMNEY IS SETTLED</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_1\">120.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_2\">120.2</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF AT LEAST ONE <icon icon=\"ranger_token\">&nbsp;</icon> IS ON THIS FEATURE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_3\">120.3</a></li><li>OTHERWISE, DISCARD THE PLINTH.</li></ul></highlight>",
+  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF THE <event>CHIMNEY IS SETTLED</event>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_1\"><entry>120.1</entry></a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_2\"><entry>120.2</entry></a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF AT LEAST ONE <icon icon=\"ranger_token\">&nbsp;</icon> IS ON THIS FEATURE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/120_the_plinth/120_3\"><entry>120.3</entry></a></li><li>OTHERWISE, DISCARD THE PLINTH.</li></ul></highlight>",
   "anchors": [],
   "links": [
     {

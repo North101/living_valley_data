@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/144_kal_iver_proficient_ranger/144_5",
   "title": "144.5",
-  "content": "<blockquote id=\"narration_1\"><p>Kal wipes the sweat from his brow and takes a sip from his canteen. \u201cChallenging terrain down here. Wouldn\u2019t you agree?\u201d he says. \u201cSay, I have an idea. Care for a little friendly competition? I planned to reach the Arteries today and set up camp. Why don\u2019t we see who can get there first?\u201d  </p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) You're on!</b> Discard all <icon icon=\"progress\">&nbsp;</icon> and edge from Kal and attach the <b>HELPING HAND</b> mission to him. <i color=\"blue\">Travel to one of the Artery locations before he gains too much of an edge over you.</i></p><p><b color=\"red\">B) Sorry, Kal. We\u2019ve got work to do!</b> Each Ranger soothes 1 fatigue. Discard Kal Iver.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>Kal wipes the sweat from his brow and takes a sip from his canteen. \"Challenging terrain down here. Wouldn't you agree?\" he says. \"Say, I have an idea. Care for a little friendly competition? I planned to reach the Arteries today and set up camp. Why don't we see who can get there first?\"  </p></blockquote><p><b color=\"red\">A) You're on!</b> Discard all <icon icon=\"progress\">&nbsp;</icon> and edge from Kal and attach the <mission>HELPING HAND</mission> mission to him. <i color=\"blue\">Travel to one of the Artery locations before he gains too much of an edge over you.</i></p><p><b color=\"red\">B) Sorry, Kal. We've got work to do!</b> Each Ranger soothes 1 fatigue. Discard Kal Iver.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/kal_iver_proficient_ranger/144_5"
 }

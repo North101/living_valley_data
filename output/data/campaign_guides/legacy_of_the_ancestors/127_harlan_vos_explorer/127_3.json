@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/127_harlan_vos_explorer/127_3",
   "title": "127.3",
-  "content": "<blockquote id=\"narration_1\"><p>Harlan takes a sip from his canteen. \"Can you imagine what this place must have been like 1,500 years ago?\" he asks, somewhat rhetorically. \"Bustling with life, I'm sure! Shall we continue?\"</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><b color=\"red\">A) Let's keep looking.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from Harlan Vos. Each Ranger soothes 1 fatigue. <i color=\"blue\">Help him track down his daughter, Quisi Vos.</i></p><p><b color=\"red\">B) I'm sure Quisi will turn up.</b> Discard Harlan Vos. Each Ranger soothes 2 fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>Harlan takes a sip from his canteen. \"Can you imagine what this place must have been like 1,500 years ago?\" he asks, somewhat rhetorically. \"Bustling with life, I'm sure! Shall we continue?\"</p></blockquote><p><b color=\"red\">A) Let's keep looking.</b> Discard all <icon icon=\"progress\">&nbsp;</icon> from Harlan Vos. Each Ranger soothes 1 fatigue. <i color=\"blue\">Help him track down his daughter, Quisi Vos.</i></p><p><b color=\"red\">B) I'm sure Quisi will turn up.</b> Discard Harlan Vos. Each Ranger soothes 2 fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/harlan_vos_explorer/127_3"
 }

@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_1",
   "title": "124.1",
-  "content": "<blockquote id=\"narration_1\"><p>You ask around for Silaro, and Al Grim gets your attention. \u201cOh! What a coincidence,\u201d he says. \u201cHe\u2019s getting things ready for his trip to the Ziggurats. Here, I\u2019ll take you to him.\u201d He guides you to a cluttered staging ground, where Silaro\u2019s equipment lies scattered about, his pack half-filled with supplies for his journey to the surface.</p></blockquote><p>If you\u2019ve received <b>THE EXPEDITION'S PATH</b>, go to <a href=\"campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_2\">124.2</a>.</p><p>Otherwise, go to <a href=\"campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_3\">124.3</a>.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>You ask around for Silaro, and Al Grim gets your attention. \"Oh! What a coincidence,\" he says. \"He's getting things ready for his trip to the Ziggurats. Here, I'll take you to him.\" He guides you to a cluttered staging ground, where Silaro's equipment lies scattered about, his pack half-filled with supplies for his journey to the surface.</p></blockquote><p>If you've received <mission>THE EXPEDITION'S PATH</mission>, go to <a href=\"campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_2\"><entry>124.2</entry></a>.</p><p>Otherwise, go to <a href=\"campaign_guides/legacy_of_the_ancestors/124_silaro_mako_spelunker/124_3\"><entry>124.3</entry></a>.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

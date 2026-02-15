@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/lure_of_the_valley/47_hy_pimpot_chef/47_3",
   "title": "47.3",
-  "content": "<blockquote id=\"narration_1\"><p>\u201cWell \u2026 \u201d Hy says in a way that makes it very clear that he was waiting for you to ask. \u201cI\u2019m tired of making my soup with the same pepper-pods and northern potatoes that grow around these parts. I just remember how good it can be when someone gets some of the herbs and tubers from elsewhere in the Valley.\u201d He stares at you intently. \u201cI could use someone. Someone young, hardy, and already hiking around the Valley to help me venture out \u2026 \u201d</p><p>Hy would like to accompany you and have you help complete his stew using flora cards gathered while not at Lone Tree.</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><span color=\"red\">A) Agree to help gather ingredients.</span> Discard all <icon icon=\"progress\">&nbsp;</icon> from Hy, and attach the <b>HELPING HAND</b> mission to him.</p><p><span color=\"red\">B) Not today.</span> Discard Hy. Each Ranger soothes 1 fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>\"Well \u2026 \" Hy says in a way that makes it very clear that he was waiting for you to ask. \"I'm tired of making my soup with the same pepper-pods and northern potatoes that grow around these parts. I just remember how good it can be when someone gets some of the herbs and tubers from elsewhere in the Valley.\" He stares at you intently. \"I could use someone. Someone young, hardy, and already hiking around the Valley to help me venture out \u2026 \"</p><p>Hy would like to accompany you and have you help complete his stew using flora cards gathered while not at Lone Tree.</p></blockquote><p><span color=\"red\">A) Agree to help gather ingredients.</span> Discard all <icon icon=\"progress\">&nbsp;</icon> from Hy, and attach the <mission>HELPING HAND</mission> mission to him.</p><p><span color=\"red\">B) Not today.</span> Discard Hy. Each Ranger soothes 1 fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/hy_pimpot_chef/47_3"
 }

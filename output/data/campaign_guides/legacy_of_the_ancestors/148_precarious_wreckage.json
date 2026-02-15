@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage",
   "title": "148. Precarious Wreckage",
-  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU'VE <span color=\"blue\">MAPPED THE WRECKAGE</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_1\">148.1</a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_2\">148.2</a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF EACH RANGER\u2019S <icon icon=\"ranger_token\">&nbsp;</icon> IS ON THIS CARD, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_3\">148.3</a></li><li>OTHERWISE, DISCARD PRECARIOUS WRECKAGE.</li></ul></highlight>",
+  "content": "<highlight highlight=\"blue\"><p>ENTERS PLAY:</p><ul><li>IF YOU'VE <event>MAPPED THE WRECKAGE</event>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_1\"><entry>148.1</entry></a></li><li>OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_2\"><entry>148.2</entry></a></li></ul></highlight><highlight highlight=\"clear\"><p>CLEAR <icon icon=\"progress\">&nbsp;</icon>:</p><ul><li>IF EACH RANGER'S <icon icon=\"ranger_token\">&nbsp;</icon> IS ON THIS CARD, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/148_precarious_wreckage/148_3\"><entry>148.3</entry></a></li><li>OTHERWISE, DISCARD PRECARIOUS WRECKAGE.</li></ul></highlight>",
   "anchors": [],
   "links": [
     {

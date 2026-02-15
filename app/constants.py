@@ -6,23 +6,23 @@ NEXT_NAV_PARENT = '(./parent::div/parent::ul/parent::li/div/a[1] | ./parent::ul/
 NAV_ITEM_URLS = '//div[@class="sidebar_njMd"]/nav[@class="menu thin-scrollbar menu_SIkG"]//div[@class="menu__list-item-collapsible menu__list-item-collapsible--active"]/parent::li/ul//a'
 PAGE_TITLE = '(//header/h1//text() | //article/div/h1//text())'
 
-CSS_TEXT_COLORS = {
+CSS_TEXT_COLORS: dict[str, str] = {
     'blue_text': 'blue',
     'red_text': 'red',
     'gold_text': 'gold',
     'green_text': 'green',
 }
-CSS_ICON_COLORS = {
+CSS_ICON_COLORS: dict[str, str] = {
     'ranger_icons_red': 'red',
 }
-CSS_HIGHLIGHT_COLORS = {
+CSS_HIGHLIGHT_COLORS: dict[str, str] = {
     'blue_highlight': 'blue',
     'clear_highlight': 'clear',
 }
 CLASS_ANCHOR = 'anchor'
 
 
-REPLACE_TAG = {
+REPLACE_TAG: dict[str, str] = {
   'h1': 'title',
   'h2': 'h1',
   'h3': 'h2',
@@ -35,7 +35,7 @@ REPLACE_TAG = {
 }
 
 
-RANGER_ICON_NAMES = {
+RANGER_ICON_NAMES: dict[str, str] = {
     "\ue010": "reason",
     "\ue011": "conflict",
     "\ue012": "connection",

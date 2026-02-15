@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_1",
   "title": "204.1",
-  "content": "<p>If you are on <b>FLOWER COLLECTION</b> and it has three checkmarks, go to <a href=\"campaign_guides/spire_in_bloom/1_missions_sib/1_201\">1.201</a>. Otherwise, continue reading:</p><blockquote id=\"narration_1\"><p>Amongst the hustle and bustle of the festival arrangements, you spot Etra Lash leading several others down the trail away from Brookside. It looks like he hasn't yet completed the festival preparations. \"Hello again!\" he calls out to you as he approaches. \"How's your task coming along?\"</p></blockquote><p color=\"blue\"><i>Clear Etra with <icon icon=\"progress\">&nbsp;</icon> to speak with him about your current task.</i></p>",
+  "content": "<p>If you are on <mission>FLOWER COLLECTION</mission> and it has three checkmarks, go to <a href=\"campaign_guides/spire_in_bloom/1_missions_sib/1_201\"><entry>1.201</entry></a>. Otherwise, continue reading:</p><blockquote id=\"narration_1\"><p>Amongst the hustle and bustle of the festival arrangements, you spot Etra Lash leading several others down the trail away from Brookside. It looks like he hasn't yet completed the festival preparations. \"Hello again!\" he calls out to you as he approaches. \"How's your task coming along?\"</p></blockquote><p color=\"blue\"><i>Clear Etra with <icon icon=\"progress\">&nbsp;</icon> to speak with him about your current task.</i></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

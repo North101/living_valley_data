@@ -1,7 +1,7 @@
 {
   "id": "rules_glossary/u/use",
   "title": "Use",
-  "content": "<p>When the card instructs you to \u201cuse\u201d a token, you must <a href=\"rules_glossary/d/discard\">discard</a> one of those tokens to use the following ability. If you no longer have tokens to discard, you cannot resolve effects that require you to use a token.</p><ul><li>When you resolve an effect that uses multiple tokens (such as a \"Use X\" effect), effects that trigger on \"using a token\" resolve once for each token used.</li></ul><p><i>Note: Abilities that use tokens can only be used at specific <a href=\"rules_glossary/t/timing\">timings</a></i></p>",
+  "content": "<p>When the card instructs you to \"use\" a token, you must <a href=\"rules_glossary/d/discard\">discard</a> one of those tokens to use the following ability. If you no longer have tokens to discard, you cannot resolve effects that require you to use a token.</p><ul><li>When you resolve an effect that uses multiple tokens (such as a \"Use X\" effect), effects that trigger on \"using a token\" resolve once for each token used.</li></ul><p><i>Note: Abilities that use tokens can only be used at specific <a href=\"rules_glossary/t/timing\">timings</a></i></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

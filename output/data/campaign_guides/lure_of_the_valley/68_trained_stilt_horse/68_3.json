@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/68_trained_stilt_horse/68_3",
   "title": "68.3",
-  "content": "<blockquote id=\"narration_1\"><p>Finally, one of the stilt-horses kneels down low enough that you are able to climb onto its back. You balance there cautiously, your sore bum reminding you of the last two times you tried this. But this time, the stilt-horse seems perfectly content with you as its rider.</p><p>You remember what the locals told you. The horses will let you ride them, but only for the day. This herd always returns to Meadow when night falls.</p></blockquote><p>Choose one Ranger to ride the stilt-horse. That Ranger attaches it to their role. Remove all <icon icon=\"progress\">&nbsp;</icon> from this card. Write down <span color=\"blue\">ACCEPTED AS A RIDER</span>.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>Finally, one of the stilt-horses kneels down low enough that you are able to climb onto its back. You balance there cautiously, your sore bum reminding you of the last two times you tried this. But this time, the stilt-horse seems perfectly content with you as its rider.</p><p>You remember what the locals told you. The horses will let you ride them, but only for the day. This herd always returns to Meadow when night falls.</p></blockquote><p>Choose one Ranger to ride the stilt-horse. That Ranger attaches it to their role. Remove all <icon icon=\"progress\">&nbsp;</icon> from this card. Write down <event>ACCEPTED AS A RIDER</event>.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

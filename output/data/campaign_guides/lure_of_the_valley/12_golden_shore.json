@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/12_golden_shore",
   "title": "12. Golden Shore",
-  "content": "<highlight highlight=\"blue\">IF AR TEL IS IN PLAY GO TO <a href=\"campaign_guides/lure_of_the_valley/12_golden_shore/12_1\">12.1</a></highlight><highlight highlight=\"clear\">IF <span color=\"blue\">GOLDEN SHORE IS FLOODED</span> GO TO <a href=\"campaign_guides/lure_of_the_valley/12_golden_shore/12_2\">12.2</a></highlight><highlight highlight=\"blue\">OTHERWISE, READ:</highlight><br /><blockquote id=\"narration_1\"><p>Wherever sunlight kisses the shoreline, you can see how the Golden Shore earned its name: countless flecks of gold glitter beneath the water, sparkling through the light reflected off the surface. A wind comes in off the water, causing the grass to rustle with a soft hiss.</p></blockquote>",
+  "content": "<highlight highlight=\"blue\">IF AR TEL IS IN PLAY GO TO <a href=\"campaign_guides/lure_of_the_valley/12_golden_shore/12_1\"><entry>12.1</entry></a></highlight><highlight highlight=\"clear\">IF <event>GOLDEN SHORE IS FLOODED</event> GO TO <a href=\"campaign_guides/lure_of_the_valley/12_golden_shore/12_2\"><entry>12.2</entry></a></highlight><highlight highlight=\"blue\">OTHERWISE, READ:</highlight><br /><blockquote id=\"narration_1\"><p>Wherever sunlight kisses the shoreline, you can see how the Golden Shore earned its name: countless flecks of gold glitter beneath the water, sparkling through the light reflected off the surface. A wind comes in off the water, causing the grass to rustle with a soft hiss.</p></blockquote>",
   "anchors": [],
   "links": [
     {

@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/lure_of_the_valley/64_seilo_griss_apiarist/64_6",
   "title": "64.6",
-  "content": "<blockquote id=\"narration_1\"><p>\u201cWhat did I say? Delicious, isn\u2019t it?\u201d Seilo slides the empty tray into the last box, pauses for a moment, then leans in. \u201cNow if you think this was good, let me tell you somethin\u2019\u2026 There\u2019s a tree grows just north of here. Unlike anything I ever seen before. Found it a few months back. Whole train of little buzzers lead me to it. Was hiding in a little nook in the Philosopher\u2019s Garden.\"</p><p>His voice drops to a whisper. \u201cThe flowers were almost chameleon-like, shiftin\u2019 colors with the rise and fall of the sun. I can\u2019t help but wonder what kind of honey those little buzzers are cooking up out there. If you wanna make history with me, I\u2019ll let you tag along \u2026 \u201d</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><span color=\"red\">A) Agree to help.</span> Discard all <icon icon=\"progress\">&nbsp;</icon>, and attach the <b>HELPING HAND</b> mission to Seilo.</p><p><span color=\"red\">B) Not today.</span> Discard Seilo. Each Ranger soothes 2 fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>\"What did I say? Delicious, isn't it?\" Seilo slides the empty tray into the last box, pauses for a moment, then leans in. \"Now if you think this was good, let me tell you somethin'\u2026 There's a tree grows just north of here. Unlike anything I ever seen before. Found it a few months back. Whole train of little buzzers lead me to it. Was hiding in a little nook in the Philosopher's Garden.\"</p><p>His voice drops to a whisper. \"The flowers were almost chameleon-like, shiftin' colors with the rise and fall of the sun. I can't help but wonder what kind of honey those little buzzers are cooking up out there. If you wanna make history with me, I'll let you tag along \u2026 \"</p></blockquote><p><span color=\"red\">A) Agree to help.</span> Discard all <icon icon=\"progress\">&nbsp;</icon>, and attach the <mission>HELPING HAND</mission> mission to Seilo.</p><p><span color=\"red\">B) Not today.</span> Discard Seilo. Each Ranger soothes 2 fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/lure_of_the_valley/seilo_griss_apiarist/64_6"
 }

@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/spire_in_bloom/213_fun_and_games/213_11",
   "title": "213.11",
-  "content": "<blockquote id=\"narration_1\"><p>You sit and converse with Etra for a while, letting your worries melt away. \"Beautiful, isn't it?\" he says, motioning to the gleeful crowd. Together you watch with smiles on your faces as the people of Spire dance, feast, and play. </p></blockquote><p>Discard all <icon icon=\"progress\">&nbsp;</icon> from Etra and add 1 mirth token to him. Each Ranger soothes 1 fatigue. Ready <b>FUN AND GAMES</b>.</p>",
+  "content": "<blockquote id=\"narration_1\"><p>You sit and converse with Etra for a while, letting your worries melt away. \"Beautiful, isn't it?\" he says, motioning to the gleeful crowd. Together you watch with smiles on your faces as the people of Spire dance, feast, and play. </p></blockquote><p>Discard all <icon icon=\"progress\">&nbsp;</icon> from Etra and add 1 mirth token to him. Each Ranger soothes 1 fatigue. Ready <mission>FUN AND GAMES</mission>.</p>",
   "anchors": [],
   "links": [],
   "lookup": [],

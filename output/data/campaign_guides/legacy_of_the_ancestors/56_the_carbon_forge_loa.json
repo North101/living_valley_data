@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa",
   "title": "56. The Carbon Forge (LOA)",
-  "content": "<highlight highlight=\"blue\">IF <span color=\"blue\">SPIRE FALLEN</span>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa/56_1_loa\">56.1</a></highlight><highlight highlight=\"clear\">OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa/56_2_loa\">56.2</a></highlight>",
+  "content": "<highlight highlight=\"blue\">IF <event>SPIRE FALLEN</event>, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa/56_1_loa\"><entry>56.1</entry></a></highlight><highlight highlight=\"clear\">OTHERWISE, GO TO <a href=\"campaign_guides/legacy_of_the_ancestors/56_the_carbon_forge_loa/56_2_loa\"><entry>56.2</entry></a></highlight>",
   "anchors": [],
   "links": [
     {

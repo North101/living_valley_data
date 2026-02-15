@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/legacy_of_the_ancestors/45_spirit_speaker_nal_loa/45_3_loa",
   "title": "45.3 (LOA)",
-  "content": "<blockquote id=\"narration_1\"><p>Nal catches up to you. \u201cWe\u2019re making good time,\u201d she says as she wipes sweat from her brow. \u201cIf we still plan on reaching Greenbriar Knoll today, however, we\u2019ll have to move more quickly still.\u201d </p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p><span color=\"red\">A) Accompany Nal to Greenbriar Knoll.</span> Discard all <icon icon=\"progress\">&nbsp;</icon> from Spirit Speaker Nal.</p><p><span color=\"red\">B) Farewell for now.</span> Discard Spirit Speaker Nal. Each Ranger soothes 2 fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>Nal catches up to you. \"We're making good time,\" she says as she wipes sweat from her brow. \"If we still plan on reaching Greenbriar Knoll today, however, we'll have to move more quickly still.\" </p></blockquote><p><span color=\"red\">A) Accompany Nal to Greenbriar Knoll.</span> Discard all <icon icon=\"progress\">&nbsp;</icon> from Spirit Speaker Nal.</p><p><span color=\"red\">B) Farewell for now.</span> Discard Spirit Speaker Nal. Each Ranger soothes 2 fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/legacy_of_the_ancestors/spirit_speaker_nal/45_3"
 }

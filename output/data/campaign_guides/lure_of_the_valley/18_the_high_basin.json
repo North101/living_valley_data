@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/lure_of_the_valley/18_the_high_basin",
   "title": "18. The High Basin",
-  "content": "<highlight highlight=\"blue\">IF LYN MIRA, WOODWORKER IS IN PLAY GO TO <a href=\"campaign_guides/lure_of_the_valley/18_the_high_basin/18_1\">18.1</a></highlight><highlight highlight=\"clear\">OTHERWISE, READ:</highlight><br /><blockquote id=\"narration_1\"><p>High above the forest below, the basin gleams in the sunlight. Smaller than White Sky Lake, the water in this mountain tarn is much deeper\u2014 the clear, cold water darkening to deep blue in the center. The elders say that nobody has ever reached those depths, and looking at it for yourself, you can well believe it. You wonder if there are submerged caves in the depths, and if any of the High Basin\u2019s water drains into even deeper subterranean passages.</p></blockquote>",
+  "content": "<highlight highlight=\"blue\">IF LYN MIRA, WOODWORKER IS IN PLAY GO TO <a href=\"campaign_guides/lure_of_the_valley/18_the_high_basin/18_1\"><entry>18.1</entry></a></highlight><highlight highlight=\"clear\">OTHERWISE, READ:</highlight><br /><blockquote id=\"narration_1\"><p>High above the forest below, the basin gleams in the sunlight. Smaller than White Sky Lake, the water in this mountain tarn is much deeper\u2014 the clear, cold water darkening to deep blue in the center. The elders say that nobody has ever reached those depths, and looking at it for yourself, you can well believe it. You wonder if there are submerged caves in the depths, and if any of the High Basin's water drains into even deeper subterranean passages.</p></blockquote>",
   "anchors": [],
   "links": [
     {

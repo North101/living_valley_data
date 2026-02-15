@@ -1,7 +1,7 @@
 {
   "id": "updates/campaign_guide_errata/90_3",
   "title": "90.3",
-  "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><blockquote id=\"narration_1\"><p>You hear a splintering crack like a thick branch breaking and see the Verdessian collapse. It quakes as though touched by a gentle breeze then wilts like an uprooted thistle left in the sun. You think it may be dead.</p></blockquote><p>Write <span color=\"blue\">VERDESSIAN KILLED?</span> on the campaign tracker.</p><p>If you are on the <b>WATCHER IN THE BRUSH</b> or <b>DEEPER MOTIVES</b> mission, complete that mission. <code>Return the Mysterious Verdessian to the General set.</code></p>",
+  "content": "<p><i>This change affects the first printing. Revised text is <code>highlighted</code>.</i></p><blockquote id=\"narration_1\"><p>You hear a splintering crack like a thick branch breaking and see the Verdessian collapse. It quakes as though touched by a gentle breeze then wilts like an uprooted thistle left in the sun. You think it may be dead.</p></blockquote><p>Write <event>VERDESSIAN KILLED?</event> on the campaign tracker.</p><p>If you are on the <mission>WATCHER IN THE BRUSH</mission> or <mission>DEEPER MOTIVES</mission> mission, complete that mission. <code>Return the Mysterious Verdessian to the General set.</code></p>",
   "anchors": [],
   "links": [],
   "lookup": [],

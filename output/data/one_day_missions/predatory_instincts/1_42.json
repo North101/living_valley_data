@@ -1,19 +1,9 @@
 {
   "id": "one_day_missions/predatory_instincts/1_42",
   "title": "1.42",
-  "content": "<blockquote id=\"narration_1\"><p>You hide in a small stand of trees, waiting for the mulcher to appear. Your bait sits, untouched. You\u2019re beginning to think that you headed in the wrong direction when, suddenly, one of the trees next to you moves.</p><p>The biomeld is enormous. What you thought was a tree is just one of its towering legs. With an alien grace, it strides towards the bait.</p></blockquote><p>Flip the <b>LURE (CAUSTIC MULCHER)</b> card over to its Confront side. Put the <b>CAUSTIC MULCHER</b> into play.</p><choice id=\"rangers-choose\">RANGERS CHOOSE:</choice><p color=\"red\">A. Release the bait before the mulcher gets to them:</p><p>Shuffle together all of the set aside predators and prey, then the Lead Ranger draws 1 at random and puts it into play.</p><p color=\"red\">B. Let the mulcher grab the bait:</p><p>Shuffle together all of the set aside predators and prey, then draw 2 at random to attach to the mulcher.</p><p><b>\u00bb Continue Reading:</b></p><p>Shuffle the remainder of those predators and prey into the path deck.</p><blockquote id=\"narration_2\"><p>Now you have a choice: how to deal with this being. You can attempt to kill the mulcher, removing the threat to your neighbors once and for all, or you can try to come to some sort of understanding with it. Perhaps you can find a way to prevent the caustic mulcher -- and others of its kind -- from unwittingly harming the people of the Valley.</p></blockquote>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE:"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE:"
-    }
-  ],
+  "content": "<blockquote id=\"narration_1\"><p>You hide in a small stand of trees, waiting for the mulcher to appear. Your bait sits, untouched. You're beginning to think that you headed in the wrong direction when, suddenly, one of the trees next to you moves.</p><p>The biomeld is enormous. What you thought was a tree is just one of its towering legs. With an alien grace, it strides towards the bait.</p></blockquote><p>Flip the <mission>LURE (CAUSTIC MULCHER)</mission> card over to its Confront side. Put the <mission>CAUSTIC MULCHER</mission> into play.</p><p color=\"red\">A. Release the bait before the mulcher gets to them:</p><p>Shuffle together all of the set aside predators and prey, then the Lead Ranger draws 1 at random and puts it into play.</p><p color=\"red\">B. Let the mulcher grab the bait:</p><p>Shuffle together all of the set aside predators and prey, then draw 2 at random to attach to the mulcher.</p><p><b>\u00bb Continue Reading:</b></p><p>Shuffle the remainder of those predators and prey into the path deck.</p><blockquote id=\"narration_2\"><p>Now you have a choice: how to deal with this being. You can attempt to kill the mulcher, removing the threat to your neighbors once and for all, or you can try to come to some sort of understanding with it. Perhaps you can find a way to prevent the caustic mulcher -- and others of its kind -- from unwittingly harming the people of the Valley.</p></blockquote>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/one_day_missions/predatory_instincts/1_42"
 }

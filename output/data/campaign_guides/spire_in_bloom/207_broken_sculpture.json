@@ -1,7 +1,7 @@
 {
   "id": "campaign_guides/spire_in_bloom/207_broken_sculpture",
   "title": "207. Broken Sculpture",
-  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/spire_in_bloom/207_broken_sculpture/207_1\">207.1</a></highlight><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/spire_in_bloom/207_broken_sculpture/207_2\">207.2</a></highlight>",
+  "content": "<highlight highlight=\"blue\">ENTERS PLAY: GO TO <a href=\"campaign_guides/spire_in_bloom/207_broken_sculpture/207_1\"><entry>207.1</entry></a></highlight><highlight highlight=\"clear\">CLEAR <icon icon=\"progress\">&nbsp;</icon>: GO TO <a href=\"campaign_guides/spire_in_bloom/207_broken_sculpture/207_2\"><entry>207.2</entry></a></highlight>",
   "anchors": [],
   "links": [
     {

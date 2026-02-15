@@ -1,19 +1,9 @@
 {
   "id": "campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_8",
   "title": "204.8",
-  "content": "<p>If there are four or more humans in the path discard, go to <a href=\"campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_9\">204.9</a>. Otherwise, continue reading.</p><blockquote id=\"narration_1\"><p>Etra looks over the handful of villagers you've assembled and counts heads. \"Hmm\u2026could you maybe gather a few more people? Elder Orlin will surely need a greater consensus than this.\"</p></blockquote><choice id=\"rangers-choose\">RANGERS CHOOSE</choice><p color=\"red\">A) Continue helping Etra.</p><p>Discard all <icon icon=\"progress\">&nbsp;</icon> from Etra.</p><p color=\"red\">B) Part ways.</p><p>Discard Etra and return <b>HELPING HAND</b> to the collection. Each Ranger soothes 2 fatigue.</p>",
-  "anchors": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
-  "links": [
-    {
-      "id": "#rangers-choose",
-      "title": "RANGERS CHOOSE"
-    }
-  ],
+  "content": "<p>If there are four or more humans in the path discard, go to <a href=\"campaign_guides/spire_in_bloom/204_etra_master_of_revels/204_9\"><entry>204.9</entry></a>. Otherwise, continue reading.</p><blockquote id=\"narration_1\"><p>Etra looks over the handful of villagers you've assembled and counts heads. \"Hmm\u2026could you maybe gather a few more people? Elder Orlin will surely need a greater consensus than this.\"</p></blockquote><p color=\"red\">A) Continue helping Etra.</p><p>Discard all <icon icon=\"progress\">&nbsp;</icon> from Etra.</p><p color=\"red\">B) Part ways.</p><p>Discard Etra and return <mission>HELPING HAND</mission> to the collection. Each Ranger soothes 2 fatigue.</p>",
+  "anchors": [],
+  "links": [],
   "lookup": [],
   "url": "/docs/campaign_guides/spire_in_bloom/etra_master_of_revels/204_8"
 }
